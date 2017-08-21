@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="naomhaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>naomhaich</orth>
+    </form>
+    <trans>sanctify</trans>
+    <note>Listed in TYGD.</note>
+  </gnìomhair>

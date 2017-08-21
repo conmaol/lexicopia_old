@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Ostaireach-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Ostaireach</orth>
+    </form>
+    <trans>Austrian</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Austrian - Ostairich poss cAustrians - Ostairich pl</note>
+  </ainmear_fireann>

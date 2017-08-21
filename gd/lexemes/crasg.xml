@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="crasg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>crasg</orth>
+    </form>
+    <trans>intercept</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>intercept - craisg poss cintercepts - crasgan pl</note>
+  </ainmear_boireann>

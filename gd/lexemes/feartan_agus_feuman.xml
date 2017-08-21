@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="feartan_agus_feuman" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>feartan agus feuman</orth>
+    </form>
+    <trans>properties and uses</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

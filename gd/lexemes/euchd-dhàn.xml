@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="euchd-dhàn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="euchd"/>
+    <part ref="dàn"/>
+    <form>
+      <orth>euchd-dhàn</orth>
+    </form>
+    <trans sources="cmark">epic</trans>
+  </ainmear_fireann>

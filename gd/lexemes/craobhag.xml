@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="craobhag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="craobh"/>
+    <part ref="_ag-suffix"/>
+    <form>
+      <orth>craobhag</orth>
+    </form>
+    <form>
+      <orth>craobhaig</orth>
+    </form>
+    <form>
+      <orth>craobhaige</orth>
+    </form>
+    <form>
+      <orth>craobhagan</orth>
+      <trans>bushes</trans>
+    </form>
+    <form>
+      <orth>chraobhag</orth>
+    </form>
+    <form>
+      <orth>chraobhaig</orth>
+    </form>
+    <form>
+      <orth>chraobhaige</orth>
+    </form>
+    <form>
+      <orth>chraobhagan</orth>
+    </form>
+    <trans>bush</trans>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ceàird_agus_deilbh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceàird agus deilbh</orth>
+    </form>
+    <trans>craft and design</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

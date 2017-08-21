@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bun</orth>
+    </form>
+    <trans>base</trans>
+    <trans>bottom</trans>
+    <trans>stump</trans>
+    <trans>root</trans>
+    <trans>mouth</trans>
+  </ainmear_fireann>

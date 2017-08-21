@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="airgead_cèin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>airgead cèin</orth>
+    </form>
+    <trans>foreign currency</trans>
+    <trans>foreign money</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

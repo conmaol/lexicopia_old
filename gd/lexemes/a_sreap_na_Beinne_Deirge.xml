@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_sreap_na_Beinne_Deirge" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a' sreap na Beinne Deirge</orth>
+    </form>
+    <trans>climbing Beinn Dearg</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

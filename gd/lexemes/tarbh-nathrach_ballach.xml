@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tarbh-nathrach_ballach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tarbh-nathrach ballach</orth>
+    </form>
+    <trans>migrant hawker dragonfly</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: tairbh-nathrach bhallach</note>
+    <note>Latin: Aeshna mixta</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/tarbh nathrach ballach.mp3</note>
+  </ainmear_fireann>

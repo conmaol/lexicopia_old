@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="rathad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>rathad</orth>
+    </form>
+    <trans>road</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>road - rathaid poss croad - rothaid poss croads - rathaidean plroads - ròidean pl</note>
+  </ainmear_fireann>

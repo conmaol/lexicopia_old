@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="stalc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>stalc</orth>
+    </form>
+    <trans>starch</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>starch - stailc scstarches - stalcan iom</note>
+  </ainmear_fireann>

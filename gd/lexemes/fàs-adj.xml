@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="fàs-adj" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fàs</orth>
+    </form>
+    <trans>barren</trans>
+    <trans>empty</trans>
+    <trans>hollow</trans>
+    <trans>vacant</trans>
+    <trans>vacuous</trans>
+    <trans>void</trans>
+    <trans>waste</trans>
+  </buadhair>

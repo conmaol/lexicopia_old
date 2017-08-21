@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="fàs_na_gealaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fàs na gealaich</orth>
+    </form>
+    <trans>wax</trans>
+    <trans>wax of the moon</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </ainmear_fireann>

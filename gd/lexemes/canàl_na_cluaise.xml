@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="canàl_na_cluaise" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>canàl na cluaise</orth>
+    </form>
+    <trans>ear canal</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

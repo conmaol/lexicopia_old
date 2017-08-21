@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="turtar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>turtar</orth>
+    </form>
+    <trans>turtle</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>turtle - turtair scturtles - turtair iomturtles - turtairean iom</note>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: turtaran</note>
+    <note>Latin: Chelonioidea (Superfamily) spp.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/turtur.mp3</note>
+  </ainmear_boireann>

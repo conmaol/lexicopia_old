@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Ceannard_Fiosrachadh_Oileanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Ceannard Fiosrachadh Oileanach</orth>
+    </form>
+    <trans>Head of Student Information</trans>
+    <note>Listed in An Seotal: Personal and Social Education.</note>
+  </lexeme>

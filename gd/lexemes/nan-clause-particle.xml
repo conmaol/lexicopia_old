@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="nan-clause-particle" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nan</orth>
+    </form>
+    <note>Also 'nam' before a labial consonant. Complement must be a conditional dependent verb form.</note>
+  </lexeme>

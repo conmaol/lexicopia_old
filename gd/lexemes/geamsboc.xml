@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="geamsboc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>geamsboc</orth>
+    </form>
+    <trans>gemsbok</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>gemsbok - geamsbuic scgemsboks - geamsbocan iom</note>
+  </ainmear_fireann>

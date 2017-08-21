@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="mì-chinnt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mì-chinnt</orth>
+    </form>
+    <trans>uncertainty</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>uncertainty - mì-chinnt poss cuncertainties - mì-chinntean pl</note>
+  </ainmear_boireann>

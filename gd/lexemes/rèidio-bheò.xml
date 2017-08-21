@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="rèidio-bheò" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>rèidio-bheò</orth>
+    </form>
+    <trans>radioactive</trans>
+    <note>Listed in TYGD, as 'rèidio-beò'.</note>
+    <note>Listed in CM.</note>
+  </lexeme>

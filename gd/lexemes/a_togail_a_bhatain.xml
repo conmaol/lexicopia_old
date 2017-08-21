@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_togail_a_bhatain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a' togail a' bhatain</orth>
+    </form>
+    <trans>raising the baton</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

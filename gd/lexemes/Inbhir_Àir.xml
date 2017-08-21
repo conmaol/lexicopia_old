@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Inbhir_Àir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Inbhir Àir</orth>
+    </form>
+    <trans>Ayr</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

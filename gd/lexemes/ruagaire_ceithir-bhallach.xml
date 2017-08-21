@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ruagaire_ceithir-bhallach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ruagaire ceithir-bhallach</orth>
+    </form>
+    <trans>four-spotted chaser dragonfly</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: ruagairean ceithir-bhallach</note>
+    <note>Latin: Libellula quadrimaculata</note>
+    <note>Info: Gaelic name means 'chaser with four spots'.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/ruagaire ceithir-bhallach.mp3</note>
+  </ainmear_fireann>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="sreath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sreath</orth>
+    </form>
+    <trans>series</trans>
+    <trans>range</trans>
+    <note>Listed in An Seotal: Science, as 'series'.</note>
+    <note>series - sreatha scseries - sreathan iom</note>
+    <note>Listed in An Seotal: Geography, as 'range'.</note>
+    <note>range - sreatha poss cranges - sreathan pl</note>
+    <note>Listed in An Seotal: Maths, as 'layer', 'row'.</note>
+    <note>layer - sreatha poss clayers - sreathan pl</note>
+    <note>row - sreatha poss crows - sreathan pl</note>
+  </ainmear_fireann>

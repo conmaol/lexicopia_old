@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="amnion" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>amnion</orth>
+    </form>
+    <trans>amnion</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>amnion - amnion sc amnions - amnionan iom</note>
+  </ainmear_fireann>

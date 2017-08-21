@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="taitneas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="_as-suffix"/>
+    <form>
+      <orth>taitneas</orth>
+    </form>
+    <trans>pleasure</trans>
+    <trans>delight</trans>
+    <trans>satisfaction</trans>
+  </ainmear_fireann>

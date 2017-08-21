@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="mearachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mearachd</orth>
+    </form>
+    <trans>mistake</trans>
+    <trans>error</trans>
+    <trans>inaccuracy</trans>
+    <trans>lapse</trans>
+    <trans>slip</trans>
+    <note>Listed in An Seotal: Computing, as 'error'.</note>
+    <note>error - mearachd poss cerrors - mearachdan pl</note>
+  </ainmear_boireann>

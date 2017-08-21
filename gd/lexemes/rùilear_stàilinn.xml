@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="rùilear_stàilinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>rùilear stàilinn</orth>
+    </form>
+    <trans>steel rule</trans>
+    <note>Listed in An Seotal: Science, Technology.</note>
+  </lexeme>

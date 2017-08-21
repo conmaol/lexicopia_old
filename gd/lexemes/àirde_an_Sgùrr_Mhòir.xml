@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="àirde_an_Sgùrr_Mhòir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àirde an Sgùrr Mhòir</orth>
+    </form>
+    <trans>height of Sgurr Mor</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

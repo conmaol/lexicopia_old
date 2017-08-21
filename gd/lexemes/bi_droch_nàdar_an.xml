@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bi_droch_nàdar_an" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bi droch nàdar an</orth>
+    </form>
+    <trans>have a bad temper</trans>
+    <trans>be bad tempered</trans>
+    <trans index="only">bad tempered</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

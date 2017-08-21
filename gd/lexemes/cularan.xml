@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cularan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cularan</orth>
+    </form>
+    <trans>cucumber</trans>
+    <note>Listed in An Seotal: Home economics.</note>
+    <note>cucumber - cularain poss ccucumbers - cularain pl</note>
+  </ainmear_fireann>

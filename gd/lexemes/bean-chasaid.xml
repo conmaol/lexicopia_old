@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bean-chasaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bean-chasaid</orth>
+    </form>
+    <trans>prosecutor (female)</trans>
+    <trans>procurator (female)</trans>
+    <trans>protestor (female)</trans>
+  </lexeme>

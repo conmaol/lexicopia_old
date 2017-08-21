@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="A_Chruthaigheachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>A' Chruthaigheachd</orth>
+    </form>
+    <trans>the Creation</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+    <note>Creation - A' Chruthaigheachd sc</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="connadh_niuclasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>connadh niuclasach</orth>
+    </form>
+    <trans>nuclear fuel</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

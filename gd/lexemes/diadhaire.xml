@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="diadhaire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>diadhaire</orth>
+    </form>
+    <trans>theologian</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+    <note>theologian - diadhaire sctheologians - diadhairean iom</note>
+  </ainmear_fireann>

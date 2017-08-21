@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="ung" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ung</orth>
+    </form>
+    <trans>anoint</trans>
+    <note>Listed in CM.</note>
+  </gnìomhair>

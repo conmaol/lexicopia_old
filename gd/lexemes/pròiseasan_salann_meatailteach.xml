@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="pròiseasan_salann_meatailteach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pròiseasan salann meatailteach</orth>
+    </form>
+    <trans>metallic salt processes</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

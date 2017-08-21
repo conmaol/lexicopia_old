@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gliocas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gliocas</orth>
+    </form>
+    <trans>wisdom</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>wisdom - gliocais poss c</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ceàrn_co-phàirteach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceàrn co-phàirteach</orth>
+    </form>
+    <trans>complementary angle</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

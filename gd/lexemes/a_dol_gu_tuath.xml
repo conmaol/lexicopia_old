@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_dol_gu_tuath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a' dol gu tuath</orth>
+    </form>
+    <trans>going in a northerly direction</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="comas_cruthadair-ciùil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>comas cruthadair-ciùil</orth>
+    </form>
+    <trans>composer's ability</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

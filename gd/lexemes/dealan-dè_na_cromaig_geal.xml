@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dealan-dè_na_cromaig_geal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dealan-dè na cromaig geal</orth>
+    </form>
+    <trans>comma butterfly</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: dealanan-dè na cromaig gheala</note>
+    <note>Latin: Polygonia c-album</note>
+    <note>Info: Means butterfly with the white comma. Plural of dealan-dè can be dealanan-dè or dealain-dè. </note>
+  </ainmear_fireann>

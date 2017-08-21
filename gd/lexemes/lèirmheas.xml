@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="lèirmheas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lèirmheas</orth>
+    </form>
+    <trans>critique</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>critique - lèirmheis poss ccritiques - lèirmheasan pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="gealaich_Phluto" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gealaich Phluto</orth>
+    </form>
+    <trans>moons of Pluto</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

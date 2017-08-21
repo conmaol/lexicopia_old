@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seangan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seangan</orth>
+    </form>
+    <trans>ant</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>ant - seangain scants - seanganan iomants - seangain iom</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: seanganan</note>
+    <note>Latin: Formicidae (Family) spp.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/seangan.mp3</note>
+  </ainmear_fireann>

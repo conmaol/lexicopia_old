@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Neach-leasachaidh_Seirbheis_Teicneòlais_Gàidhlig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Neach-leasachaidh Seirbheis Teicneòlais Gàidhlig</orth>
+    </form>
+    <trans>Gaelic Technology Service Developer</trans>
+    <note>Listed in An Seotal: Language.</note>
+  </lexeme>

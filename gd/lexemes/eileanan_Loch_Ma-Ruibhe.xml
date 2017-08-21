@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="eileanan_Loch_Ma-Ruibhe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eileanan Loch Ma-Ruibhe</orth>
+    </form>
+    <trans>Loch Maree islands</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

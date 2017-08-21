@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="stòr-dàta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>stòr-dàta</orth>
+    </form>
+    <trans>database</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>database - stòr-dàta poss cdatabases - stòran-dàta pl</note>
+  </ainmear_fireann>

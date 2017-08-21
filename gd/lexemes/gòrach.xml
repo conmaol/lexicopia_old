@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="gòrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gòrach</orth>
+    </form>
+    <trans>foolish</trans>
+    <trans>silly</trans>
+    <trans>daft</trans>
+    <trans>stupid</trans>
+    <trans>absurd</trans>
+    <trans>clownish</trans>
+    <trans>imprudent</trans>
+    <trans>ludicrous</trans>
+    <trans>ridiculous</trans>
+    <trans>witless</trans>
+    <note>Listed in TYGD.</note>
+    <note>Listed in CM.</note>
+    <note>Dwelly: gòrach -aiche, a. Silly, foolish. 2 Insane, mad. 3 Inconsiderate, thoughtless, unwise. Nuair a bha mi òg is gòrach, when I was young and foolish; na innis do rùn do charaid gòrach,
+      tell not your mind to a foolish friend.</note>
+  </lexeme>

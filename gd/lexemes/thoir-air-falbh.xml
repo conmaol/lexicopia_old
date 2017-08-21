@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="thoir-air-falbh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>thoir-air-falbh</orth>
+    </form>
+    <trans>subtract</trans>
+    <trans>minus</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </gnìomhair>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="tropaigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tropaigeach</orth>
+    </form>
+    <trans>tropical</trans>
+    <trans>tropic</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </buadhair>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="neach-togail-dhealbhan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>neach-togail-dhealbhan</orth>
+    </form>
+    <trans>photographer</trans>
+    <note>Listed in An Seotal: Art.</note>
+    <note>photographer - neach-togail-dhealbhan poss cphotographers - luchd-togail-dhealbhan pl</note>
+  </ainmear_fireann>

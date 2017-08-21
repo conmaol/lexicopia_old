@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_chomhairle_uaigneach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a’ Chomhairle Uaigneach</orth>
+    </form>
+    <trans index="only">Privy Council</trans>
+    <trans index="no">the Privy Council</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

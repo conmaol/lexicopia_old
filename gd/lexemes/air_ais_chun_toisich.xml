@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="air_ais_chun_toisich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>air ais chun toisich</orth>
+    </form>
+    <trans>back to start</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

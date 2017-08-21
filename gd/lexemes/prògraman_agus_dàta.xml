@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="prògraman_agus_dàta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>prògraman agus dàta</orth>
+    </form>
+    <trans>programmes and data</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

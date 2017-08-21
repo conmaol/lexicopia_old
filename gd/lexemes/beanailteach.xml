@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="beanailteach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>beanailteach</orth>
+    </form>
+    <trans>tactile</trans>
+    <trans>tangible</trans>
+    <note>Listed in AFB.</note>
+  </buadhair>

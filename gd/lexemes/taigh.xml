@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="taigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>taigh</orth>
+    </form>
+    <form>
+      <orth>taighe</orth>
+    </form>
+    <form>
+      <orth>taighean</orth>
+    </form>
+    <trans>house</trans>
+    <note>Listed in An Seotal: General.</note>
+  </ainmear_fireann>

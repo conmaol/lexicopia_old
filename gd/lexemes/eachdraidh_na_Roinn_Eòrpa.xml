@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="eachdraidh_na_Roinn_Eòrpa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eachdraidh na Roinn Eòrpa</orth>
+    </form>
+    <trans>the history of Europe</trans>
+    <note>Listed in An Seotal: History.</note>
+  </lexeme>

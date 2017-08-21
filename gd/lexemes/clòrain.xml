@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="clòrain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clòrain</orth>
+    </form>
+    <trans>chlorine</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>Listed in Am Faclair Beag</note>
+    <note>Atomic symbol: Cl. Atomic number: 17</note>
+  </ainmear_fireann>

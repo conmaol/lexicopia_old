@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Na_Filipìonan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Na Filipìonan</orth>
+    </form>
+    <trans>The Philippines</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Philippines - nam Filipìonan poss c</note>
+  </lexeme>

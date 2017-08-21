@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="caladh_Loch_an_Inbhir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>caladh Loch an Inbhir</orth>
+    </form>
+    <trans>Lochinver harbour</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

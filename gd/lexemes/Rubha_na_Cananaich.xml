@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Rubha_na_Cananaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Rubha na Cananaich</orth>
+    </form>
+    <trans>Chanonry Point</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

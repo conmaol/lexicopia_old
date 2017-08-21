@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Taobh_Sear_na_Roinn_Eòrpa_An_Ruis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Taobh Sear na Roinn Eòrpa; An Ruis</orth>
+    </form>
+    <trans>Eastern Europe; Russia</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

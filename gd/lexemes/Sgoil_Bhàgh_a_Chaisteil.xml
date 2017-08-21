@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Sgoil_Bhàgh_a_Chaisteil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Sgoil Bhàgh a' Chaisteil</orth>
+    </form>
+    <trans>Castlebay School</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

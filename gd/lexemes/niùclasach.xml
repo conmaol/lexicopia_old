@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="niùclasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>niùclasach</orth>
+    </form>
+    <trans>nuclear</trans>
+    <trans>nucleic</trans>
+    <note>Listed in An Seotal: Science, without the accent, as 'nuclear'.</note>
+    <note>Listed in CM as 'nucleic'.</note>
+    <note>Listed in TYGD as 'nuclear'.</note>
+  </buadhair>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Poblachd_San_Marino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Poblachd San Marino</orth>
+    </form>
+    <trans>Republic of San Marino</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

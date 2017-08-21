@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="diileas_do" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dìleas do</orth>
+    </form>
+    <trans>loyal to</trans>
+    <trans>faithful to</trans>
+  </lexeme>

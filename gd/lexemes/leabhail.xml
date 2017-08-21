@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="leabhail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leabhail</orth>
+    </form>
+    <form>
+      <orth>leabhailean</orth>
+    </form>
+    <trans>spirit level</trans>
+    <note>Listed in Colin Mark's (2004) Gaelic-English dictionary.</note>
+  </ainmear_boireann>

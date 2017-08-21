@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="beus-ethic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>beus</orth>
+    </form>
+    <trans>ethic</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>ethic - beusa poss cethics - beusan pl</note>
+  </ainmear_boireann>

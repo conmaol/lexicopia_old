@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="amadanaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>amadanaich</orth>
+    </form>
+    <trans>besot</trans>
+    <note>Dwelly: amadanaich va Besot.</note>
+  </lexeme>

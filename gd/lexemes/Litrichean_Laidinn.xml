@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Litrichean_Laidinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Litrichean Laidinn</orth>
+    </form>
+    <trans>Latin letters</trans>
+    <note>Listed in An Seotal: Language.</note>
+  </lexeme>

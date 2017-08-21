@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="muinntir_Eilginn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>muinntir Eilginn</orth>
+    </form>
+    <trans>people of Elgin</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

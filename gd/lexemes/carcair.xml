@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="carcair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>carcair</orth>
+    </form>
+    <trans>jail</trans>
+    <trans>gaol</trans>
+  </ainmear_fireann>

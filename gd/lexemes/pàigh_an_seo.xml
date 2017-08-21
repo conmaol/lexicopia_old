@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="pàigh_an_seo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pàigh an seo</orth>
+    </form>
+    <trans>please pay here</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="teicneòlaiche_rannsachaidh_ann_an_speactraimeachd_tomaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>teicneòlaiche rannsachaidh ann an speactraimeachd tomaid</orth>
+    </form>
+    <trans>research technician in mass spectrometry</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

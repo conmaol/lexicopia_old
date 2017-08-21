@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ruusgadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>rùsgadh</orth>
+    </form>
+    <trans>stripping</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="loidhne_aotrom" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>loidhne aotrom</orth>
+    </form>
+    <trans>feint line</trans>
+    <note>Listed in An Seotal: Technology.</note>
+  </lexeme>

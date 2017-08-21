@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="caairdeas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>càirdeas</orth>
+    </form>
+    <trans>friendship</trans>
+    <trans>friendliness</trans>
+    <trans>kindred</trans>
+    <trans>rapport</trans>
+    <trans>alliance</trans>
+    <trans>relationship</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

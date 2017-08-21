@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a-staigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a-staigh</orth>
+    </form>
+    <trans>(at) inside</trans>
+    <trans>inside</trans>
+    <trans>indoor</trans>
+    <trans>internal</trans>
+  </lexeme>

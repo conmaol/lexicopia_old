@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="àirde" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àirde</orth>
+    </form>
+    <form>
+      <orth>àirdean</orth>
+    </form>
+    <trans>height</trans>
+    <trans>altitude</trans>
+    <trans>climax</trans>
+    <trans>degree</trans>
+    <trans>elevation</trans>
+    <trans>eminence</trans>
+    <trans>highness</trans>
+    <trans>loftiness</trans>
+    <trans>meridian</trans>
+    <trans>pitch</trans>
+    <trans>stature</trans>
+    <trans>tallness</trans>
+    <trans>high place</trans>
+    <trans>point</trans>
+    <trans>headland</trans>
+    <trans>radiant</trans>
+    <note>Listed in An Seotal: Science, with meaning 'radiant'.</note>
+    <note>Listed in An Seotal: Maths, as 'height'.</note>
+  </ainmear_boireann>

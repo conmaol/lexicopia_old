@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="baile_Dhùn_Phris" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>baile Dhùn Phris</orth>
+    </form>
+    <trans>town of Dumfries</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="ceimigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceimigeach</orth>
+    </form>
+    <trans>chemical</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>Listed in TYGD.</note>
+    <note>Listed in CM.</note>
+  </buadhair>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Rùnaire_na_Dùthcha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Rùnaire na Dùthcha</orth>
+    </form>
+    <trans>Home Secretary</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

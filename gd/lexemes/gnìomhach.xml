@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="gnìomhach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="gnìomh"/>
+    <part ref="_ach-suffix"/>
+    <form>
+      <orth>gnìomhach</orth>
+    </form>
+    <trans>active</trans>
+    <trans>applied</trans>
+    <trans>industrious</trans>
+    <trans>functional</trans>
+    <trans>executive</trans>
+    <note>Listed in An Seotal: General, as 'active', 'applied'.</note>
+    <note>Listed in An Seotal: Computing, as 'active'.</note>
+  </buadhair>

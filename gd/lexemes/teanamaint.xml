@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="teanamaint" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>teanamaint</orth>
+    </form>
+    <trans>tenement</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>tenement - teanamaint poss ctenements - teanamaintean pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="snagan_daraich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>snagan daraich</orth>
+    </form>
+    <trans>greater spotted woodpecker</trans>
+    <trans>Dendrocopus major</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: snaganan-daraich</note>
+    <note>Info: The Gaelic means 'little creeping one of oak'.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/snagair-daraich.mp3</note>
+  </ainmear_fireann>

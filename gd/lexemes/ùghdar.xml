@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ùghdar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ùghdar</orth>
+    </form>
+    <form>
+      <orth>ùghdair</orth>
+    </form>
+    <form>
+      <orth>ùghdaran</orth>
+    </form>
+    <trans>author</trans>
+    <trans>composer</trans>
+    <note>Listed in An Seotal: General, as 'author'.</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

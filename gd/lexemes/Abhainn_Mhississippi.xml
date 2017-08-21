@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Abhainn_Mhississippi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Abhainn Mhississippi</orth>
+    </form>
+    <trans>Mississippi River</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

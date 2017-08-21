@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="gnìomhan_tar-sgoile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gnìomhan tar-sgoile</orth>
+    </form>
+    <trans>whole-schòl activities</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

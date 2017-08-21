@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bàs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bàs</orth>
+    </form>
+    <trans>death</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>death - bàis poss cdeaths - bàsan pl</note>
+  </ainmear_fireann>

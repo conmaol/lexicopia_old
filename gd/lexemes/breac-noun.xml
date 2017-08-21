@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="breac-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>breac</orth>
+    </form>
+    <trans>trout</trans>
+    <note>Brown trout: Salmo trutta. Official SNH term.</note>
+  </ainmear_fireann>

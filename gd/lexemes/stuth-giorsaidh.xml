@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="stuth-giorsaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>stuth-giorsaidh</orth>
+    </form>
+    <trans>irritant</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>irritant - stuth-giorsaidh scirritants - stuthan-giorsaidh iom</note>
+  </ainmear_fireann>

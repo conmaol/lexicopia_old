@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dealbh-chruth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dealbh-chruth</orth>
+    </form>
+    <trans>layout</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>layout - dealbh-chrutha poss clayouts - dealbh-chruthan pl</note>
+  </ainmear_fireann>

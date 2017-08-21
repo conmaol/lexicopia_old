@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ceann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceann</orth>
+    </form>
+    <form>
+      <orth>cinn</orth>
+    </form>
+    <trans>head</trans>
+    <trans>lid</trans>
+    <trans>pate</trans>
+    <trans>pole</trans>
+    <trans>top</trans>
+    <trans>boss</trans>
+    <trans>principal</trans>
+    <trans>close</trans>
+    <trans>closure</trans>
+    <trans>end</trans>
+    <trans>finish</trans>
+    <trans>sole</trans>
+    <trans>term</trans>
+    <trans>terminus</trans>
+    <trans>heading</trans>
+    <note>Listed in An Seotal: Computing, as 'heading'.</note>
+  </ainmear_fireann>

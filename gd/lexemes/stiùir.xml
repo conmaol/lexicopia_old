@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="stiùir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>stiùir</orth>
+    </form>
+    <trans>helm</trans>
+    <trans>rudder</trans>
+    <trans>guide</trans>
+    <note>Listed in An Seotal: General as 'guide'.</note>
+    <note>guide - stiùir poss c guide - stiùiridhean pl</note>
+  </ainmear_boireann>

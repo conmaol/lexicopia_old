@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="muir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>muir</orth>
+    </form>
+    <form>
+      <orth>mara</orth>
+    </form>
+    <form>
+      <orth>marannan</orth>
+    </form>
+    <trans>sea</trans>
+    <note>Listed in An Seotal: General.</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="rach_a-null" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>rach a-null</orth>
+    </form>
+    <trans>go over there</trans>
+    <trans>go there</trans>
+  </lexeme>

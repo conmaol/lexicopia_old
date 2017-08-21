@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="alt-maideig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>alt-maideig</orth>
+    </form>
+    <trans>pivot joint</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="òraidean_Fraingis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>òraidean Fraingis</orth>
+    </form>
+    <trans>French speeches</trans>
+    <note>Listed in An Seotal: Language.</note>
+  </lexeme>

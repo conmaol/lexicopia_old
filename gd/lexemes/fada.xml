@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="fada" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fada</orth>
+    </form>
+    <trans>long</trans>
+    <trans>tall</trans>
+    <trans>lanky</trans>
+    <trans>far</trans>
+    <note>Listed in An Seotal: Maths, as 'long'.</note>
+  </buadhair>

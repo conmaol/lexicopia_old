@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Meadhan_Linn_na_Cloiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Meadhan Linn na Cloiche</orth>
+    </form>
+    <trans>Mesolithic</trans>
+    <note>Listed in An Seotal: History.</note>
+    <note/>
+  </ainmear_fireann>

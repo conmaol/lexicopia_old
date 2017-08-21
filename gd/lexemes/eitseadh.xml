@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="eitseadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eitseadh</orth>
+    </form>
+    <trans>etching</trans>
+    <note>Listed in An Seotal: Art.</note>
+    <note>etching - eitsidh poss cetchings - eitsidhean pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="amaideag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="_ag-suffix"/>
+    <form>
+      <orth>amaideag</orth>
+    </form>
+    <trans>foolish woman</trans>
+    <note>Dwelly: amaideag -eig, -an, sf Foolish woman.</note>
+  </ainmear_boireann>

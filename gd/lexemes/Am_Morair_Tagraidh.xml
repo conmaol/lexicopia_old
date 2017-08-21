@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Am_Morair_Tagraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Am Morair Tagraidh</orth>
+    </form>
+    <trans>the Lord Advocate</trans>
+    <note>The ministerial head of the Crown Office and Procurator Fiscal Service.</note>
+  </lexeme>

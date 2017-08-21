@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="eadailtis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Eadailtis</orth>
+    </form>
+    <trans>Italian</trans>
+    <note>Listed in An Seotal: Language.</note>
+    <note>Italian - Eadailtis poss c</note>
+  </ainmear_boireann>

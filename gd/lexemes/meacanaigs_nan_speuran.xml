@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="meacanaigs_nan_speuran" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>meacanaigs nan speuran</orth>
+    </form>
+    <trans>celestial mechanics</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

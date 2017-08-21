@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="buadhair_àireamhach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>buadhair àireamhach</orth>
+    </form>
+    <trans>numerical adjective</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

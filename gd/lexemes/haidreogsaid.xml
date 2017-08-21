@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="haidreogsaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>haidreogsaid</orth>
+    </form>
+    <trans>hydroxide</trans>
+  </ainmear_boireann>

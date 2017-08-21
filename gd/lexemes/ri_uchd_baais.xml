@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ri_uchd_baais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ri uchd bàis</orth>
+    </form>
+    <trans index="no">on the point of death</trans>
+    <trans index="no">at death’s door</trans>
+    <trans index="only">point of death</trans>
+    <trans index="only">death’s door</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

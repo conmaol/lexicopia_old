@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tarbh-nathrach_òrfhàinneach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tarbh-nathrach òrfhàinneach</orth>
+    </form>
+    <trans>golden-ringed dragonfly</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: tairbh-nathrach òrthàinneach</note>
+    <note>Latin: Cordulegaster boltonii</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/tarbh natharach orfhainneach.mp3</note>
+  </ainmear_fireann>

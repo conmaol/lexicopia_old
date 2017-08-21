@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dàm_Loch_Mhonair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dàm Loch Mhonair</orth>
+    </form>
+    <trans>Loch Monar dam</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

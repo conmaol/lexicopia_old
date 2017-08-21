@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<iar-leasachan id="_ag-suffix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>-ag</orth>
+    </form>
+    <form>
+      <orth>-eag</orth>
+    </form>
+    <form>
+      <orth>-aig</orth>
+    </form>
+    <form>
+      <orth>-eig</orth>
+    </form>
+    <form>
+      <orth>-aige</orth>
+    </form>
+    <form>
+      <orth>-eige</orth>
+    </form>
+    <form>
+      <orth>-agan</orth>
+    </form>
+    <form>
+      <orth>-eagan</orth>
+    </form>
+    <trans>small</trans>
+    <trans>little</trans>
+  </iar-leasachan>

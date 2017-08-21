@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="tìr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tìr</orth>
+    </form>
+    <form>
+      <orth>tìre</orth>
+    </form>
+    <form>
+      <orth>tìrean</orth>
+    </form>
+    <trans>land</trans>
+    <trans>territory</trans>
+    <note>Listed in An Seotal: Geography, as 'territory'.</note>
+  </ainmear_boireann>

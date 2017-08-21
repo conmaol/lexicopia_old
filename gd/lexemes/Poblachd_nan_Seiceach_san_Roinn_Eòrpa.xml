@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Poblachd_nan_Seiceach_san_Roinn_Eòrpa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Poblachd nan Seiceach san Roinn Eòrpa</orth>
+    </form>
+    <trans>Czech Republic in Europe</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

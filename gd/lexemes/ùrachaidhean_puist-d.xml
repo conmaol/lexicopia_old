@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ùrachaidhean_puist-d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ùrachaidhean puist-d</orth>
+    </form>
+    <trans>e-mail updates</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

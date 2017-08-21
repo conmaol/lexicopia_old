@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Loch_Bhraoin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Loch Bhraoin</orth>
+    </form>
+    <trans>Loch Broom</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_fireann>

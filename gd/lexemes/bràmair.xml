@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bràmair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bràmair</orth>
+    </form>
+    <trans>boyfriend</trans>
+    <trans>girlfriend</trans>
+    <note>Listed in An Seotal: Personal and Social Education.</note>
+    <note>boyfriend - bràmar poss cboyfriends - bràmairean pl</note>
+    <note>girlfriend - bràmar poss cgirlfriends - bràmairean pl</note>
+  </ainmear_fireann>

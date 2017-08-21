@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ciorram" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ciorram</orth>
+    </form>
+    <trans>disability</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>disability - ciorraim poss cdisabilities - ciorram pl</note>
+  </ainmear_fireann>

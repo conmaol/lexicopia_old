@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="na_Làboraich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>na Làboraich</orth>
+    </form>
+    <trans>Labour</trans>
+    <trans>the Labour party</trans>
+    <note>Listed in Colin Mark's (2004) Gaelic-English dictionary.</note>
+  </lexeme>

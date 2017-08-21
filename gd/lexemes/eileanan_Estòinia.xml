@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="eileanan_Estòinia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eileanan Estòinia</orth>
+    </form>
+    <trans>islands of Estonia</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

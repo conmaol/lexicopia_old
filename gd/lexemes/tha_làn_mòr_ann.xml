@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="tha_làn_mòr_ann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tha làn mòr ann</orth>
+    </form>
+    <trans>the tide is high</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

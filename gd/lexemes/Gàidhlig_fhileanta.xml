@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Gàidhlig_fhileanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Gàidhlig fhileanta</orth>
+    </form>
+    <trans>fluent Gaelic</trans>
+    <note>Listed in An Seotal: Language.</note>
+  </lexeme>

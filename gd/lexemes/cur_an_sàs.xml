@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cur_an_sàs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cur an sàs</orth>
+    </form>
+    <trans>installation</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>installation - cuir an sàs poss cinstallations - cur an sàs(an) pl</note>
+  </ainmear_fireann>

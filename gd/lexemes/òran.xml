@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="òran" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>òran</orth>
+    </form>
+    <form>
+      <orth>òrain</orth>
+    </form>
+    <trans>song</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </ainmear_fireann>

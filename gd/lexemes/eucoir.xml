@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="eucoir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eucoir</orth>
+    </form>
+    <trans sources="cmark">crime</trans>
+    <trans sources="cmark">injustice</trans>
+    <trans sources="cmark">wrong</trans>
+  </ainmear_boireann>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="eeiginneach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>èiginneach</orth>
+    </form>
+    <trans>desperate</trans>
+    <trans>essential</trans>
+    <trans>violent</trans>
+    <trans>oppressive</trans>
+    <trans>difficult</trans>
+    <trans>necessary</trans>
+    <trans>indispensable</trans>
+    <trans>needy</trans>
+    <trans>poor</trans>
+    <note>Listed in TYGD.</note>
+    <note>Listed in CM.</note>
+  </buadhair>

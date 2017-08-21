@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="pan-phìob" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pan-phìob</orth>
+    </form>
+    <trans>panpipe</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>panpipe - pan-phìoba poss cpanpipes - pan-phìoban pl</note>
+  </ainmear_boireann>

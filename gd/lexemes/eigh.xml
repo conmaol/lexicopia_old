@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="eigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eigh</orth>
+    </form>
+    <trans>ice</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: eighean</note>
+  </ainmear_boireann>

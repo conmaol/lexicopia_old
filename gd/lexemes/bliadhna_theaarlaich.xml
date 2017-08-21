@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="bliadhna_theaarlaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bliadhna Theàrlaich</orth>
+    </form>
+    <trans index="no">the Jacobite uprising</trans>
+    <trans index="only">Jacobite uprising</trans>
+    <trans index="no">the year of Bonnie Prince Charlie</trans>
+    <trans>1745</trans>
+  </ainmear_boireann>

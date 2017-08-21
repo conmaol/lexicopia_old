@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="amaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>amaid</orth>
+    </form>
+    <trans>folly</trans>
+    <trans>silliness</trans>
+    <trans>foolish woman</trans>
+    <note>Dwelly: amaid sf Folly, silliness. 2 Foolish woman.</note>
+    <note>EDIL: ammait n ī, f. (a) woman with supernatural powers, witch, hag; spectre. (b) foolish woman.</note>
+  </ainmear_boireann>

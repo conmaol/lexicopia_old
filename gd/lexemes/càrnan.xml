@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="càrnan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>càrnan</orth>
+    </form>
+    <trans>cockroach</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>cockroach - càrnain sccockroaches - càrnain iom</note>
+  </ainmear_fireann>

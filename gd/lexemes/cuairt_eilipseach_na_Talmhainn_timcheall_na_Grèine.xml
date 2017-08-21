@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuairt_eilipseach_na_Talmhainn_timcheall_na_Grèine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuairt eilipseach na Talmhainn timcheall na Grèine</orth>
+    </form>
+    <trans>Earth's elliptical orbit around the sun</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

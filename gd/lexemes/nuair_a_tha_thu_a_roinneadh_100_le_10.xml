@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="nuair_a_tha_thu_a_roinneadh_100_le_10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nuair a tha thu a' roinn(eadh) 100 le 10</orth>
+    </form>
+    <trans>when you are dividing 100 by 10</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="stòr_susbaint" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>stòr susbaint</orth>
+    </form>
+    <trans>content library</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="airgead" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>airgead</orth>
+    </form>
+    <form>
+      <orth>airgid</orth>
+    </form>
+    <form>
+      <orth>airgeadan</orth>
+    </form>
+    <trans>silver</trans>
+    <trans>money</trans>
+    <trans>currency</trans>
+    <trans>cash</trans>
+    <trans>lucre</trans>
+    <note>Listed in An Seotal: Science, meaning 'silver'.</note>
+    <note>Listed in An Seotal: Maths, meaning 'currency'.</note>
+    <note>Listed in An Seotal: Maths, as 'money'.</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="portagail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Portagail</orth>
+    </form>
+    <trans>Portugal</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Portugal - Phortagail poss c</note>
+  </ainmear_boireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="am-meidheadair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>am-meidheadair</orth>
+    </form>
+    <trans>ammeter</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>ammeter - am-meidheadair scammeters - am-meidheadairean iom</note>
+  </ainmear_fireann>

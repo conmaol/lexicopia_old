@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dealbhan_air_an_tarraing_a_rèir_cuspair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dealbhan air an tarraing a rèir cuspair</orth>
+    </form>
+    <trans>drawings by subject</trans>
+    <note>Listed in An Seotal: Art.</note>
+  </lexeme>

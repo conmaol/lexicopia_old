@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cùrsa-dreuchd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cùrsa-dreuchd</orth>
+    </form>
+    <trans>carèr</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>carèr - cùrsa-dreuchd poss ccarèrs - cùrsaichean-dreuchd pl</note>
+  </ainmear_boireann>

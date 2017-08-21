@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="anemone_drìlseanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>anemone drìlseanach</orth>
+    </form>
+    <trans>fireworks anemone</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: anemonaidhean drìlseanach</note>
+    <note>Latin: Pachycerianthus multiplicatus</note>
+  </ainmear_fireann>

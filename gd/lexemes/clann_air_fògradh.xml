@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="clann_air_fògradh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clann air fògradh</orth>
+    </form>
+    <trans>evacuè children</trans>
+    <trans>evacuès</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

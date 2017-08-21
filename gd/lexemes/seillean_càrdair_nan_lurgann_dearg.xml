@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seillean_càrdair_nan_lurgann_dearg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seillean càrdair nan lurgann dearg</orth>
+    </form>
+    <trans>red-shanked carder bee</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: seilleanan càrdair nan lurgann dearg </note>
+    <note>Latin: Bombus ruderarius</note>
+  </ainmear_fireann>

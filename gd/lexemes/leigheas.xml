@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="leigheas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leigheas</orth>
+    </form>
+    <trans>medicine</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>medicine - leigheis scmedicines - leigheasan iom</note>
+  </ainmear_fireann>

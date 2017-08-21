@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="an_t-seann_Aonadh_Sobhieteach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>an t-seann Aonadh Sobhieteach</orth>
+    </form>
+    <trans>the former Soviet Union</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

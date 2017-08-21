@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="lus-iteach_thuathach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lus-iteach thuathach</orth>
+    </form>
+    <trans>northern feather star</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Synonyms: lus-iteach thuathach m</note>
+    <note>Latin: Leptometra celtica</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tasglann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tasglann</orth>
+    </form>
+    <trans>archive</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>archive - tasglainn poss carchives - tasglannan pl</note>
+  </ainmear_fireann>

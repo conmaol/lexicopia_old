@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="gorra_chritheach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gorra chritheach</orth>
+    </form>
+    <trans>grey heron</trans>
+    <trans>Ardea cinerea</trans>
+    <note>Listed in Stòr-dàta as 'heron'.</note>
+    <note>Some variant spellings found in DASG Fieldwork Archive: garra ghritheach, gorra-ghritheach.</note>
+  </ainmear_boireann>

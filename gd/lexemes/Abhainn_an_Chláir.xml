@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Abhainn_an_Chláir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Abhainn an Chláir</orth>
+    </form>
+    <trans>Clare</trans>
+    <trans>River Clare</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="rach_seachad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>rach seachad</orth>
+    </form>
+    <trans>pass</trans>
+    <trans>elapse</trans>
+    <trans>go past</trans>
+  </lexeme>

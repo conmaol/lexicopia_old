@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sgilean_fiosrachaidh_agus_litearrachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sgilean fiosrachaidh agus litearrachd</orth>
+    </form>
+    <trans>information skills and literacy</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

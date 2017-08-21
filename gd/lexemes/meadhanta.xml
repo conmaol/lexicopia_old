@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="meadhanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>meadhanta</orth>
+    </form>
+    <trans>mediant</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>mediant - meadhanta poss cmediants - meadhantan pl</note>
+  </ainmear_boireann>

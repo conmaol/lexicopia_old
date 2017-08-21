@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="uachdarachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uachdarachd</orth>
+    </form>
+    <trans>superiority</trans>
+    <trans>sovereignty</trans>
+    <note>Listed in CM.</note>
+    <note>Also: uachdrachd.</note>
+  </ainmear_boireann>

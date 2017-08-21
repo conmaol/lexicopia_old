@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sgèile_guth-meadhain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sgèile guth-meadhain</orth>
+    </form>
+    <trans>middle register scale</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

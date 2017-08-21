@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="eaconamaidh_chosta_rica" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eaconamaidh Chosta Rica</orth>
+    </form>
+    <trans>economy of Costa Rica</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

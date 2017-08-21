@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="leabharlannan_airson_chuspairean_sònraichte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leabharlannan airson chuspairean sònraichte</orth>
+    </form>
+    <trans>libraries for specific subjects</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

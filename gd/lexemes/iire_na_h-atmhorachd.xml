@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="iire_na_h-atmhorachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ìre na h-atmhorachd</orth>
+    </form>
+    <trans index="only">inflation rate</trans>
+    <trans index="no">the inflation rate</trans>
+    <trans index="only">rate of inflation </trans>
+    <trans index="no">the rate of inflation</trans>
+  </ainmear_boireann>

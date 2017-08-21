@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="coeliac" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>coeliac</orth>
+    </form>
+    <trans>coeliac</trans>
+    <note>Listed in An Seotal: Home economics.</note>
+    <note>coeliac - coeliac poss ccoeliacs - coeliacan pl</note>
+  </ainmear_fireann>

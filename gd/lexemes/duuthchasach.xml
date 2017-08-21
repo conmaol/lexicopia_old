@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="duuthchasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dùthchasach</orth>
+    </form>
+    <trans>native</trans>
+    <note>Listed in An Seotal: Language.</note>
+  </buadhair>

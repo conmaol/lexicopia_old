@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="boord_iasgaich_an_spee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Bòrd Iasgaich an Spè</orth>
+    </form>
+    <trans>Spey Fishery Board</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  </ainmear_fireann>

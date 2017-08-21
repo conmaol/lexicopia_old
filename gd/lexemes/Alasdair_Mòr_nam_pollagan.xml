@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Alasdair_Mòr_nam_pollagan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Alasdair Mòr nam pollagan</orth>
+    </form>
+    <trans>daddy-long-legs</trans>
+    <trans>cranefly</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Latin: Tipulidae spp.</note>
+  </ainmear_fireann>

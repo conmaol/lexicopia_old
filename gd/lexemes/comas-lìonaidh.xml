@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="comas-lìonaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>comas-lìonaidh</orth>
+    </form>
+    <trans>capacity</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>capacity - comas-lìonaidh poss ccapacities - comasan-lìonaidh pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="sulfar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sulfar</orth>
+    </form>
+    <trans>sulphur</trans>
+    <trans>sulfur</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>Listed in Am Faclair Beag.</note>
+    <note>sulphur - sulfair sc</note>
+  </ainmear_fireann>

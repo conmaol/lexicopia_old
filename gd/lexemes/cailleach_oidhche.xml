@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cailleach_oidhche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cailleach oidhche</orth>
+    </form>
+    <trans>owl</trans>
+    <trans>Strigiformes spp.</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair, listed as 'tawny owl'.</note>
+    <note>Info: The name translates as 'the old woman of the night'.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cailleach oidhche.mp3</note>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

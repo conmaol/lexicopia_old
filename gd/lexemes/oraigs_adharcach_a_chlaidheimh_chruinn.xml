@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="oraigs_adharcach_a_chlaidheimh_chruinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>oraigs adharcach a' chlaidheimh chruinn</orth>
+    </form>
+    <trans>scimitar-horned oryx</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="geug" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>geug</orth>
+    </form>
+    <trans>branch</trans>
+    <trans>bough</trans>
+    <note> Feminine noun. Pronounced with long e, rather than broken ia. </note>
+  </ainmear_boireann>

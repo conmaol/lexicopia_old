@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="ungte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ungte</orth>
+    </form>
+    <trans>anointed</trans>
+    <trans>besmeared</trans>
+    <trans>bedaubed</trans>
+    <note>Dwelly: ungta</note>
+  </buadhair>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="òrdugh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>òrdugh</orth>
+    </form>
+    <trans>order</trans>
+    <trans>sequence</trans>
+    <trans>command</trans>
+    <note>Listed in An Seotal: Religious and Moral, as 'order'.</note>
+    <note>order - òrduigh scorders - òrduighean iomorders - òrdughan iom</note>
+    <note>Listed in An Seotal: Maths, as 'order', 'sequence'.</note>
+    <note>order - òrduigh poss corders - òrduighean plorders - òrdughan pl</note>
+    <note>sequence - òrduigh poss csequences - òrdughan pl</note>
+    <note>Listed in An Seotal: Computing, as 'command'.</note>
+    <note>command - òrduigh poss ccommands - òrdughean pl</note>
+  </ainmear_fireann>

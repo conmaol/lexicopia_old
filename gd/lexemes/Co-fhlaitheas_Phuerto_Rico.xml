@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Co-fhlaitheas_Phuerto_Rico" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Co-fhlaitheas Phuerto Rico</orth>
+    </form>
+    <trans>Commonwealth of Puerto Rico</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

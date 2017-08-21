@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="uidheam" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uidheam</orth>
+    </form>
+    <trans>apparatus</trans>
+    <trans>equipment</trans>
+    <trans>machine</trans>
+    <trans>plant</trans>
+    <trans>engine</trans>
+    <trans>gadget</trans>
+    <trans>gear</trans>
+    <trans>harness</trans>
+    <trans>instrument</trans>
+    <trans>mechanism</trans>
+    <trans>resources</trans>
+    <trans>set</trans>
+    <trans>tackle</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

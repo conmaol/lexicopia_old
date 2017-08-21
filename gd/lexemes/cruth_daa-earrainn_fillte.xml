@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cruth_daa-earrainn_fillte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cruth dà-earrainn fillte</orth>
+    </form>
+    <trans>compound binary form</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

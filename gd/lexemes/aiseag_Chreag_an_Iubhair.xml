@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="aiseag_Chreag_an_Iubhair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>aiseag Chreag an Iubhair</orth>
+    </form>
+    <trans>Craignure ferry</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="a-nis_a_cluich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a-nis a' cluich</orth>
+    </form>
+    <trans>now playing</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </gnìomhair>

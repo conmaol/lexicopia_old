@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ginean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ginean</orth>
+    </form>
+    <trans>foetus</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>foetus - ginein scfoetuses - gineanan iom</note>
+  </ainmear_fireann>

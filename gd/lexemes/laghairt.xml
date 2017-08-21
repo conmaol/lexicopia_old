@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="laghairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>laghairt</orth>
+    </form>
+    <form>
+      <orth>laghairtean</orth>
+    </form>
+    <trans>lizard</trans>
+    <note>Listed in Colin Mark's (2004) Gaelic-English dictionary as having either gender.</note>
+    <note>Listed in Boyd Robertson &amp; Ian MacDonald's (2004) 'Teach Yourself' dictionary as having either gender.</note>
+    <note>Listed in An Seotal: Science, with meaning 'lizard'.</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Latin: Lacertilia</note>
+  </ainmear_boireann>

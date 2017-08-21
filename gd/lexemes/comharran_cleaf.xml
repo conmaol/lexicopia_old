@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="comharran_cleaf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>comharran cleaf</orth>
+    </form>
+    <trans>clef symbols</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

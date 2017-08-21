@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="cluich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cluich</orth>
+    </form>
+    <trans>play</trans>
+    <trans>perform</trans>
+    <note>Listed in An Seotal: Computing, as 'play'.</note>
+    <note>Listed in An Seotal: Music, as 'perform'.</note>
+  </gnìomhair>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="calman_coille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>calman coille</orth>
+    </form>
+    <trans>wood pigeon</trans>
+    <trans index="no">pigeon</trans>
+    <trans>Columba palumbus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/calman coille.mp3</note>
+  </ainmear_fireann>

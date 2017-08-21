@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="leòmann_donn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leòmann donn</orth>
+    </form>
+    <trans>meadow brown moth</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: leòmainn donn</note>
+    <note>Latin: Maniola jurtina</note>
+  </ainmear_fireann>

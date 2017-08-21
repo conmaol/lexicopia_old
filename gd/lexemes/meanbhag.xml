@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="meanbhag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>meanbhag</orth>
+    </form>
+    <trans>microbe</trans>
+    <trans>microorganism</trans>
+    <note>Listed in TYGD as 'microbe'.</note>
+    <note>Listed in Paterson's 'The Gaels havea word for it!'.</note>
+  </lexeme>

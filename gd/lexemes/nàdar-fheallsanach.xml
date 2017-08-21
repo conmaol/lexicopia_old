@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="nàdar-fheallsanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nàdar-fheallsanach</orth>
+    </form>
+    <trans>physicist</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

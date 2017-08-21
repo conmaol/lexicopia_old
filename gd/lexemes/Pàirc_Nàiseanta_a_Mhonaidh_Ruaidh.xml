@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Pàirc_Nàiseanta_a_Mhonaidh_Ruaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Pàirc Nàiseanta a' Mhonaidh Ruaidh</orth>
+    </form>
+    <trans>Cairngorms National Park</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

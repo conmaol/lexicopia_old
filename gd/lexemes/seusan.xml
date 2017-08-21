@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seusan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seusan</orth>
+    </form>
+    <trans>season</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>season - seusain scseasons - seusanan iom</note>
+  </ainmear_fireann>

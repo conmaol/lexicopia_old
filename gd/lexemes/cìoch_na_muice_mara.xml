@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cìoch_na_muice_mara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cìoch na muice mara</orth>
+    </form>
+    <trans>sea anemone</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: cìochan na muice mara</note>
+    <note>Latin: Actiniaria spp.</note>
+  </ainmear_boireann>

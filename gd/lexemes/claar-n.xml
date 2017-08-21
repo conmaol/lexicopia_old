@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="claar-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clàr</orth>
+    </form>
+    <trans>chart</trans>
+    <trans>table</trans>
+    <trans>tablet</trans>
+    <trans>register</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>chart - clàir poss c charts - clàran plchart - clàir pl</note>
+    <note>table - clàir poss c tables - clàran pltables - clàir pl</note>
+    <note>Listed in An Seotal: Computing, as 'register'.</note>
+  </ainmear_fireann>

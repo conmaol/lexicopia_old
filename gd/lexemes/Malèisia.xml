@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Malèisia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Malèisia</orth>
+    </form>
+    <trans>Malaysia</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Malaysia - Mhalèisia poss c</note>
+  </ainmear_fireann>

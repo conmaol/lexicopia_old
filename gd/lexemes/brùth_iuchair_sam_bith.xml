@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="brùth_iuchair_sam_bith" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>brùth iuchair sam bith</orth>
+    </form>
+    <trans>press any key</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

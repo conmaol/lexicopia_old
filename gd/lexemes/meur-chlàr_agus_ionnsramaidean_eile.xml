@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="meur-chlàr_agus_ionnsramaidean_eile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>meur-chlàr agus ionnsramaidean eile</orth>
+    </form>
+    <trans>keyboard and other instruments</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

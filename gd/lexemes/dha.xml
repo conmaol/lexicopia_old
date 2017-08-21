@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dha</orth>
+    </form>
+    <trans>to him</trans>
+    <trans>to it</trans>
+    <trans>for him</trans>
+    <trans>for it</trans>
+  </lexeme>

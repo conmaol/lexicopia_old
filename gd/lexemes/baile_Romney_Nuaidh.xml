@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="baile_Romney_Nuaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>baile Romney Nuaidh</orth>
+    </form>
+    <trans>the town of New Romney</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

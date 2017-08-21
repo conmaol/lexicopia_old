@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="stràic" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>stràic</orth>
+    </form>
+    <trans>slur</trans>
+    <trans>strike</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>slur - stràic poss cslurs - stràicean pl</note>
+    <note>strike - stràic poss cstrikes - stràicean pl</note>
+  </ainmear_fireann>

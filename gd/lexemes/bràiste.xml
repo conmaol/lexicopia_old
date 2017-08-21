@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="bràiste" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bràiste</orth>
+    </form>
+    <trans>brooch</trans>
+    <note>Listed in An Seotal: History, as 'brooch'.</note>
+  </ainmear_boireann>

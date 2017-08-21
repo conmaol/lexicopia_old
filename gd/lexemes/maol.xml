@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="maol" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>maol</orth>
+    </form>
+    <trans>blunt</trans>
+    <trans>bald</trans>
+    <trans>hornless</trans>
+    <trans>stupid</trans>
+    <trans>dense</trans>
+    <note>Listed in An Seotal: General, as 'dense'.</note>
+  </buadhair>

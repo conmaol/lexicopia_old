@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="putan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>putan</orth>
+    </form>
+    <trans>button</trans>
+    <trans>key</trans>
+    <note>Listed in An Seotal: Maths, as 'key'.</note>
+    <note>key - putain poss ckeys - putanan plkeys - putain pl</note>
+    <note>Listed in An Seotal: Computing, as 'button'.</note>
+    <note>button - putain poss cbuttons - putanan pl</note>
+  </ainmear_fireann>

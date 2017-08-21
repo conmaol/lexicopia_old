@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="beothalaich_an_stuth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>beothalaich an stuth</orth>
+    </form>
+    <trans>activate the material</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

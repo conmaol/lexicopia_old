@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="buidheann_roghainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>buidheann roghainn</orth>
+    </form>
+    <trans>option group</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

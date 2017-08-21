@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="uair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uair</orth>
+    </form>
+    <trans>hour</trans>
+    <trans>time</trans>
+    <trans>weather</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>hour - uarach poss chours - uairean pl</note>
+    <note>time - uarach poss ctimes - uairean pl</note>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

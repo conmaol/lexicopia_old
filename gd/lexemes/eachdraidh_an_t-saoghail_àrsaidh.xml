@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="eachdraidh_an_t-saoghail_àrsaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eachdraidh an t-saoghail àrsaidh</orth>
+    </form>
+    <trans>history of the ancient world</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

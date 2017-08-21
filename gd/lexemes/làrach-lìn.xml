@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="làrach-lìn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>làrach-lìn</orth>
+    </form>
+    <trans>website</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>website - làraich-lìn poss cwebsites - làraich-lìn pl</note>
+  </ainmear_boireann>

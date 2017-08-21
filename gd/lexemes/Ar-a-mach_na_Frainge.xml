@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Ar-a-mach_na_Frainge" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Ar-a-mach na Frainge</orth>
+    </form>
+    <trans>The French Revolution</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

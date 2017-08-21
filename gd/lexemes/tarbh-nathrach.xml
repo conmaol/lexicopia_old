@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tarbh-nathrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tarbh-nathrach</orth>
+    </form>
+    <trans>dragonfly</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>dragonfly - tairbh-nathrach sc dragonflies - tairbh-nathrach iom</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: tairbh-nathrach</note>
+    <note>Latin: Odonata (Order) spp.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/tarbh nathrach.mp3</note>
+  </ainmear_fireann>

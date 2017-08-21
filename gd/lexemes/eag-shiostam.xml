@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="eag-shiostam" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eag-shiostam</orth>
+    </form>
+    <trans>ecosystem</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>ecosystem - eag-shiostaim poss cecosystems - eag-shiostaman pl</note>
+  </ainmear_fireann>

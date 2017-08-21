@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="gigue_le_Handel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gigue le Handel</orth>
+    </form>
+    <trans>gigue by Handel</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

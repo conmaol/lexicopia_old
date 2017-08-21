@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="madadh-cuain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>madadh-cuain</orth>
+    </form>
+    <trans>killer whale</trans>
+    <trans>orca</trans>
+    <note>Listed in An Seotal: Science, as 'kiler whale'.</note>
+    <note>killer whale - madaidh-cuain sckiller whales - madaidhean-cuain iom</note>
+    <note>From Scottish Natural Heritage's Faclan Nàdair, as 'orca (killer whale)'.</note>
+    <note>Latin: Orcinus orca</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/madadh-cuain.mp3</note>
+  </ainmear_fireann>

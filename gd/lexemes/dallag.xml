@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="dallag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dallag </orth>
+    </form>
+    <trans>common shrew</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: dallagan-feòir</note>
+    <note>Latin: Sorex araneus</note>
+    <note>Info: lit. little blind one</note>
+  </ainmear_boireann>

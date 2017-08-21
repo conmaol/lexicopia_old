@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="is_mathaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>is mathaid</orth>
+    </form>
+    <trans>maybe</trans>
+    <trans>perhaps</trans>
+    <note>CM: "a dialectal and distorted form of ma dh’fhaoidhte".</note>
+  </lexeme>

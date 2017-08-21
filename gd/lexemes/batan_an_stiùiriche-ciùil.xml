@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="batan_an_stiùiriche-ciùil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>batan an stiùiriche-ciùil</orth>
+    </form>
+    <trans>the conductor's baton</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

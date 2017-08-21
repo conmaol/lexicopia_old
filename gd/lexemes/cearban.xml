@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cearban" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cearban</orth>
+    </form>
+    <trans>shark</trans>
+    <trans>basking shark</trans>
+    <note>Listed in An Seotal: Science, as 'shark'.</note>
+    <note>shark - cearbain scsharks - cearbain iom</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair, as 'basking shark'.</note>
+    <note>Plural: cearbain</note>
+    <note>Latin: Cetorhinus maximus</note>
+  </ainmear_fireann>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_reeir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a rèir</orth>
+    </form>
+    <trans>according to</trans>
+    <trans>in pursuance of</trans>
+    <trans>in compliance with</trans>
+    <trans>relative</trans>
+    <note>Listed in Faclair na Pàrlamaid, as 'in pursuance of', 'in compliance with', 'relative'.</note>
+    <note>Listed in Faclair Rianachd Phoblaich.</note>
+  </lexeme>

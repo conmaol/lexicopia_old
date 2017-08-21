@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cuisle-mhòr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuisle-mhòr</orth>
+    </form>
+    <trans>aorta</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>aorta - cuisle-mhòir scaorta - cuisle-mòire scaortas - cuislean-mòra iom</note>
+  </ainmear_boireann>

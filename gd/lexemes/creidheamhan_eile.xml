@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="creidheamhan_eile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>creidheamhan eile</orth>
+    </form>
+    <trans>religions not provided for elsewhere</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+  </lexeme>

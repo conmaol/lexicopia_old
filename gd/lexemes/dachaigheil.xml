@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="dachaigheil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dachaigheil</orth>
+    </form>
+    <trans>domestic</trans>
+    <note>Listed in An Seotal: Home economics.</note>
+    <note/>
+  </buadhair>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="fiabhras" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fiabhras</orth>
+    </form>
+    <trans>fever</trans>
+    <note>Listed in An Seotal: Personal and Social Education.</note>
+    <note>fever - fiabhrais poss cfevers - fiabhrasan pl</note>
+  </ainmear_fireann>

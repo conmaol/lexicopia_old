@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="reul-iùil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>reul-iùil</orth>
+    </form>
+    <trans>pole star</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>pole star - reul-iùil scpole stars - reultan-iùil iom</note>
+  </ainmear_boireann>

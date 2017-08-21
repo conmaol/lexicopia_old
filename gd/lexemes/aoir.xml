@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="aoir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>aoir</orth>
+    </form>
+    <trans>satire</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>satire - aoir(e) poss csatires - aoirean pl</note>
+  </ainmear_boireann>

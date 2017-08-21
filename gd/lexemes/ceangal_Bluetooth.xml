@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ceangal_Bluetooth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceangal Bluetooth</orth>
+    </form>
+    <trans>Bluetooth connection</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

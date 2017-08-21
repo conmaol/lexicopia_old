@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="thar-thona_harmonaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>thar-thona harmonaig</orth>
+    </form>
+    <trans>harmonic overtone</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

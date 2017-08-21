@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Bàgh_St_Magnus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Bàgh St Magnus</orth>
+    </form>
+    <trans>St Magnus Bay</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_fireann>

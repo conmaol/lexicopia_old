@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="teasniuclasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>teasniuclasach</orth>
+    </form>
+    <trans>thermonuclear</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </buadhair>

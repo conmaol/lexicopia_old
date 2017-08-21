@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="tog_uuidh_ann_an" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tog ùidh ann an</orth>
+    </form>
+    <trans>create interest in</trans>
+    <trans>raise interest in</trans>
+    <trans>promote</trans>
+  </lexeme>

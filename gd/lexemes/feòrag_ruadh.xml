@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="feòrag_ruadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>feòrag ruadh</orth>
+    </form>
+    <trans>red squirrel</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

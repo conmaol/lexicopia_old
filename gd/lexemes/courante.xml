@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="courante" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>courante</orth>
+    </form>
+    <trans>courante</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>courante - courante poss ccourantes - couranteathan pl</note>
+  </ainmear_fireann>

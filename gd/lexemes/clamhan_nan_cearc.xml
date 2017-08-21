@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="clamhan_nan_cearc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clamhan nan cearc</orth>
+    </form>
+    <trans>hen harrier</trans>
+    <trans>Circus cyaneus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/clamhan nan cearc.mp3</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="sliseagan_fhlùraichean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="sliseag"/>
+    <part ref="flùr"/>
+    <form>
+      <orth>sliseagan fhlùraichean</orth>
+    </form>
+    <trans>flower cuttings</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fillte>

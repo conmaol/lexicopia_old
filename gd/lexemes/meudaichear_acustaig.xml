@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="meudaichear_acustaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>meudaichear acustaig</orth>
+    </form>
+    <trans>acoustic amplifier</trans>
+    <note>Listed in An Seotal: Science, Music.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="neo-ath-nuadhachail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>neo-ath-nuadhachail</orth>
+    </form>
+    <trans>non-renewable</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </buadhair>

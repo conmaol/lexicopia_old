@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cairteal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cairteal</orth>
+    </form>
+    <trans>quarter</trans>
+    <trans>quartile</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>quarter - cairteil poss cquarters - cairtealan pl</note>
+    <note>quartile - cairteil poss cquartiles - cairtealan pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seillean-mòr_earball-bàn_a_Chinn_a_Tuath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seillean-mòr earball-bàn a' Chinn a Tuath</orth>
+    </form>
+    <trans>northern white-tailed bumblebee</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: seilleanan-mòra earball-bàn a' Chinn a Tuath</note>
+    <note>Latin: Bombus magnus</note>
+  </ainmear_fireann>

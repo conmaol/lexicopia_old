@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="comhairle_roinneil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>comhairle roinneil</orth>
+    </form>
+    <trans>regional council</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

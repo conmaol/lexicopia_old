@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="riar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>riar</orth>
+    </form>
+    <trans>desire</trans>
+    <trans>pleasure</trans>
+    <trans>portion</trans>
+    <trans>allotment</trans>
+  </ainmear_boireann>

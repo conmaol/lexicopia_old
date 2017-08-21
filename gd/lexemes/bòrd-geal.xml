@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bòrd-geal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bòrd-geal</orth>
+    </form>
+    <trans>whiteboard</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>whiteboard - bùird-gheal poss cwhiteboard - bùird-gheala pl</note>
+  </ainmear_fireann>

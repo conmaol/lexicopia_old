@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="làidir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>làidir</orth>
+    </form>
+    <trans>strong</trans>
+    <trans>cogent</trans>
+    <trans>emphatic</trans>
+    <trans>potent</trans>
+    <trans>pressing</trans>
+    <trans>proof</trans>
+    <trans>robust</trans>
+    <trans>stalwart</trans>
+    <trans>strong</trans>
+    <trans>substantial</trans>
+    <trans>spiritous</trans>
+  </buadhair>

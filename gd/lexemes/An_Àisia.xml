@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="An_Àisia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Àisia</orth>
+    </form>
+    <trans>Asia</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Asia - na h-Àisia poss c</note>
+  </ainmear_boireann>

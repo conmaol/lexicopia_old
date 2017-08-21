@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="oifis-puist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>oifis-puist</orth>
+    </form>
+    <trans>post office</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

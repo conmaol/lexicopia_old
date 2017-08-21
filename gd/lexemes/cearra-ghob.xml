@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cearra-ghob" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cearra-ghob</orth>
+    </form>
+    <trans>black-tailed godwit</trans>
+    <trans>Limosa limosa</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cearr ghobh.mp3</note>
+    <note>Form 'ceàrra-ghob' (plural 'ceàrra-ghuib') listed by SNH as 'pied avocet', and 'cèarra-ghob' by CM as avocet.</note>
+  </ainmear_fireann>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="flùr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>flùr</orth>
+    </form>
+    <form>
+      <orth>flùraichean</orth>
+    </form>
+    <trans>flower</trans>
+    <trans>flour</trans>
+    <note>Listed in An Seotal: Science, with meaning 'flower'.</note>
+  </ainmear_fireann>

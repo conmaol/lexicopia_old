@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="gainne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gainne</orth>
+    </form>
+    <trans>scarcity</trans>
+    <trans>shortage</trans>
+    <trans>want</trans>
+    <trans>dearth</trans>
+    <trans>meagreness</trans>
+    <trans>paucity</trans>
+    <note>Listed in TYGD.</note>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

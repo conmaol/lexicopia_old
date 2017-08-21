@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="gu_poblach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gu poblach</orth>
+    </form>
+    <trans>in public</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

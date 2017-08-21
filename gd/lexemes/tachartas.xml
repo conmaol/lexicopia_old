@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tachartas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tachartas</orth>
+    </form>
+    <trans>event</trans>
+    <trans>phenomenon</trans>
+    <note>Listed in An Seotal: Science, as 'phenomenon'.</note>
+    <note>Listed in An Seotal: General, as 'event'.</note>
+    <note>event - tachartais poss cevents - tachartasan pl</note>
+    <note>phenomenon - tachartais scphenomena - tachartasan iom</note>
+  </ainmear_fireann>

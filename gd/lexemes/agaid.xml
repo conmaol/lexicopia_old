@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="agaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>agaid</orth>
+    </form>
+    <trans>giddy female</trans>
+    <note>Dwelly: agaid (AG) sf Giddy female.</note>
+  </ainmear_boireann>

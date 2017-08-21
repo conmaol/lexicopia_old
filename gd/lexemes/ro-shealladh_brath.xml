@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ro-shealladh_brath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ro-shealladh brath</orth>
+    </form>
+    <trans>post preview</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

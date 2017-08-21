@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sùigheadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sùigheadh</orth>
+    </form>
+    <trans>absorbing</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

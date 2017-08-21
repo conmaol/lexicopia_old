@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Loch_Eadar_Dhà_Chaolas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Loch Eadar Dhà Chaolas</orth>
+    </form>
+    <trans>Eddrachillis Bay</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_fireann>

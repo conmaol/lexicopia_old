@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="An_Cuan_Innseanach_a_Deas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Cuan Innseanach a Deas</orth>
+    </form>
+    <trans>South Indian Ocean</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

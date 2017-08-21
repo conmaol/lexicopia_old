@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="sluagh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sluagh</orth>
+    </form>
+    <form>
+      <orth>sluaigh</orth>
+    </form>
+    <form>
+      <orth>slòigh</orth>
+    </form>
+    <trans>crowd</trans>
+    <trans>community</trans>
+    <trans>folk</trans>
+    <trans>host</trans>
+    <trans>people</trans>
+    <trans>population</trans>
+    <trans>public</trans>
+    <note>Listed in An Seotal: Geography, as 'population'.</note>
+  </ainmear_fireann>

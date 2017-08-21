@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuileag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="_ag-suffix"/>
+    <form>
+      <orth>cuileag</orth>
+    </form>
+    <form>
+      <orth>cuileagan</orth>
+    </form>
+    <trans>fly</trans>
+    <note>Class: Insecta, Superorder: Panorpida, (unranked): Antliophora, Order: Diptera.</note>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Latin: Dipetera (Order) spp.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cuileag.mp3</note>
+  </lexeme>

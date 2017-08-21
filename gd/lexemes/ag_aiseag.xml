@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="ag_aiseag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ag aiseag</orth>
+    </form>
+    <trans>transferring</trans>
+    <note>Listed in An Seotal: General.</note>
+  </gnìomhair>

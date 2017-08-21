@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="àireamh_agus_uiread" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àireamh agus uiread</orth>
+    </form>
+    <trans>number and quantity</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

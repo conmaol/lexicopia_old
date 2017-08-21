@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="saidealan_Shathairne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>saidealan Shathairne</orth>
+    </form>
+    <trans>Saturn's satellites</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

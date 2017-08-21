@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="geamhradh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>geamhradh</orth>
+    </form>
+    <form>
+      <orth>geamhraidh</orth>
+    </form>
+    <form>
+      <orth>geamhraidhean</orth>
+    </form>
+    <trans>winter</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/Geamhradh.mp3</note>
+  </ainmear_fireann>

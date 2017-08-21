@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="pioramaid_le_bonn_triantanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pioramaid le bonn triantanach</orth>
+    </form>
+    <trans>triangle based pyramid</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

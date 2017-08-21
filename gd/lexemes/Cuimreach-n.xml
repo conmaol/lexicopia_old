@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Cuimreach-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Cuimreach</orth>
+    </form>
+    <trans>Welsh</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Welsh - Cuimrich poss cWelsh - Cuimrich pl</note>
+  </ainmear_fireann>

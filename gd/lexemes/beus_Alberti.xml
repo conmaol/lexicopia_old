@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="beus_Alberti" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>beus Alberti</orth>
+    </form>
+    <trans>Alberti bass</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

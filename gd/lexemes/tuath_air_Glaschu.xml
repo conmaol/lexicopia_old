@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="tuath_air_Glaschu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tuath air Glaschu</orth>
+    </form>
+    <trans>north of Glasgow</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="eeiginn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>èiginn</orth>
+    </form>
+    <trans>necessity</trans>
+    <trans>emergency</trans>
+    <trans>straits</trans>
+    <trans>difficulty</trans>
+    <trans>distress</trans>
+    <trans>hardship</trans>
+    <trans>pressure</trans>
+    <trans>throe</trans>
+    <trans>want</trans>
+    <note>Listed in TYGD.</note>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

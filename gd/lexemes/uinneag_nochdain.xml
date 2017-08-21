@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="uinneag_nochdain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uinneag nochdain</orth>
+    </form>
+    <trans>pop-up window</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

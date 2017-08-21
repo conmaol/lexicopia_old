@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="eun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eun</orth>
+    </form>
+    <form>
+      <orth>eòin</orth>
+    </form>
+    <trans>bird</trans>
+    <trans>Aves spp.</trans>
+    <note>Listed in An Seotal: Science, with meaning 'bird'.</note>
+  </ainmear_fireann>

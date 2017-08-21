@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="uchd-mhacaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uchd-mhacaich</orth>
+    </form>
+    <trans>adopt</trans>
+    <note>Listed in CM.</note>
+  </gnìomhair>

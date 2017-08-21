@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="adharc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>adharc</orth>
+    </form>
+    <trans>horn</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>horn - adhairc(e) poss chorns - adharcan plhorns - adhaircean pl</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="gu_trastanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gu trastanach</orth>
+    </form>
+    <trans>diagonally</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

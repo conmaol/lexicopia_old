@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="clàr-cluiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clàr-cluiche</orth>
+    </form>
+    <trans>playlist</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>playlist - clàir-cluiche poss cplaylists - clàran-cluiche pl</note>
+  </ainmear_fireann>

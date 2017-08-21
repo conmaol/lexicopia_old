@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="eaconamas_obrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eaconamas obrach</orth>
+    </form>
+    <trans>labour economics</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

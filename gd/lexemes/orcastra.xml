@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="orcastra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>orcastra</orth>
+    </form>
+    <trans>orchestra</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>orchestra - orcastra poss corchestras - orcastrathan pl</note>
+  </ainmear_boireann>

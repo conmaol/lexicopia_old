@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="cruthaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cruthaich</orth>
+    </form>
+    <trans>compose</trans>
+    <note>Listed in An Seotal: Music, as 'compose'.</note>
+    <note>Listed in An Seotal: Computing, as 'compose'.</note>
+  </gnìomhair>

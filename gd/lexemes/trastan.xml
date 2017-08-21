@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="trastan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>trastan</orth>
+    </form>
+    <trans>diagonal</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>diagonal - trastain poss cdiagonals - trastanan pl</note>
+  </ainmear_fireann>

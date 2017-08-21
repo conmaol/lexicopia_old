@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="crodh-laoigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>crodh-laoigh</orth>
+    </form>
+    <trans>milk cattle</trans>
+    <trans>cows</trans>
+  </ainmear_fireann>

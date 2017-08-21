@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="searbhachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>searbhachd</orth>
+    </form>
+    <trans>acidity</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>acidity - searbhachd scacidities - searbhachdan iom</note>
+  </lexeme>

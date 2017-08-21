@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="biast-dhubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>biast-dhubh</orth>
+    </form>
+    <trans>otter</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: biastan-dubha</note>
+    <note>Latin: Lutra lutra</note>
+    <note>Info: Biast-dhubh translates literally as 'black beast'.</note>
+  </lexeme>

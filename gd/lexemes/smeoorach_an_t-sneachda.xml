@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="smeoorach_an_t-sneachda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>smeòrach an t-sneachda</orth>
+    </form>
+    <trans>redwing</trans>
+    <trans>Turdus iliacus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Info: The Gaelic means 'thrush of the snow'.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/smeorach an t-sneachda.mp3</note>
+  </ainmear_boireann>

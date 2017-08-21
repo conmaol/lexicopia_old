@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="beàrn-air-ais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>beàrn-air-ais</orth>
+    </form>
+    <trans>backspace</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>backspace - beàirn-air-ais poss cbackspaces - beàrnan-air-ais pl</note>
+  </ainmear_fireann>

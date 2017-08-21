@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="daingneachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>daingneachadh</orth>
+    </form>
+    <trans>consolidation</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>consolidation - daingneachaidh poss c</note>
+  </ainmear_fireann>

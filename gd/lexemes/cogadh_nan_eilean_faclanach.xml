@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cogadh_nan_eilean_faclanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cogadh nan Eilean Faclanach</orth>
+    </form>
+    <trans>the Falklands war</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

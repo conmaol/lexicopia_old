@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="litreachas_reatoraig_agus_breithneachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>litreachas, reatoraig agus breithneachadh</orth>
+    </form>
+    <trans>literature, rhetoric and criticism</trans>
+    <note>Listed in An Seotal: Language.</note>
+  </lexeme>

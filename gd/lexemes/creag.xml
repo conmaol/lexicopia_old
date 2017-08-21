@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="creag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>creag</orth>
+    </form>
+    <form>
+      <orth>creagan</orth>
+    </form>
+    <trans>rock</trans>
+    <trans>crag</trans>
+    <trans>cliff</trans>
+    <trans>precipice</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair, as 'rock'.</note>
+  </ainmear_boireann>

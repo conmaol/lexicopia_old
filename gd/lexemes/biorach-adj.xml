@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="biorach-adj" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>biorach</orth>
+    </form>
+    <trans>prickly</trans>
+    <trans>pointed</trans>
+    <trans>sharp</trans>
+    <trans>piercing</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>Listed in CM.</note>
+  </buadhair>

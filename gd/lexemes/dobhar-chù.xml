@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dobhar-chù" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dobhar-chù</orth>
+    </form>
+    <trans>beaver</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: dobhar-choin</note>
+    <note>Latin: Castor fiber</note>
+    <note>Info: Dobhar-chù means 'water dog'.</note>
+  </ainmear_fireann>

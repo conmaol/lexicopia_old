@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="beus-thrombòn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>beus-thrombòn</orth>
+    </form>
+    <trans>bass trombone</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>bass trombone - beus-thrombòn poss cbass trombones - beus-thrombònan pl</note>
+  </lexeme>

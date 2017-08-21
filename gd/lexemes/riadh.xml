@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="riadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>riadh</orth>
+    </form>
+    <trans>interest</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>interest - rèidh poss c</note>
+  </ainmear_fireann>

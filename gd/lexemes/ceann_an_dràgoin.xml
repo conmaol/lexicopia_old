@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ceann_an_dràgoin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceann an dràgoin</orth>
+    </form>
+    <trans>the head of the dragon</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

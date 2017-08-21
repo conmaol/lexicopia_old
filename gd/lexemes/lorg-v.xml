@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="lorg-v" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lorg</orth>
+    </form>
+    <trans>find</trans>
+    <trans>locate</trans>
+    <trans>search</trans>
+    <note>Listed in An Seotal: Computing, as 'find', 'locate', 'search'.</note>
+  </gnìomhair>

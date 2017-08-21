@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="ruuisg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>rùisg</orth>
+    </form>
+    <trans>strip</trans>
+    <trans>peel</trans>
+    <trans>skin</trans>
+    <trans>undress</trans>
+    <trans>unmask</trans>
+    <trans>unsheathe</trans>
+    <trans>fleece</trans>
+    <trans>expose</trans>
+    <trans>divest</trans>
+    <trans>denude</trans>
+    <trans>clip</trans>
+    <trans>chafe</trans>
+    <trans>bereave</trans>
+    <trans>bark</trans>
+    <trans>remove turf to reach underlying peat</trans>
+    <note>Listed in CM.</note>
+  </gnìomhair>

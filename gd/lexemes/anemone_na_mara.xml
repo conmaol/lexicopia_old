@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="anemone_na_mara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>anemone na mara</orth>
+    </form>
+    <trans>sea anemone</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Synonyms: cìoch na muice mara f, cìochag-thràghad f, anemone na mara m</note>
+    <note>Plurals: cìochan na maighdinn-mara, cìochagan-traghad, cìochan na muice mara, anemondaidhean na mara</note>
+    <note>Latin: Actiniaria spp.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cioch na maighdinn mara.mp3</note>
+  </ainmear_fireann>

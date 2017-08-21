@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="ceangail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceangail</orth>
+    </form>
+    <trans>link</trans>
+    <trans>attach</trans>
+    <trans>connect</trans>
+    <note>Listed in An Seotal: Maths, as 'link'.</note>
+    <note>Listed in An Seotal: Computing, as 'attach', 'connect'.</note>
+  </gnìomhair>

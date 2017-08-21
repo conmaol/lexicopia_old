@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="argentinianach-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Argentinianach</orth>
+    </form>
+    <trans>Argentinian</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Argentinian - Argentinianaich poss cArgentinians - Argentinianaich pl</note>
+  </ainmear_fireann>

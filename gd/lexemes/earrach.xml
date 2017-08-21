@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="earrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>earrach</orth>
+    </form>
+    <trans>spring</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>spring - earraich poss csprings - earraich pl</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: earraichean </note>
+    <note>Info: One would normally use 'as t-earrach' (in the spring) when refering to springtime.</note>
+  </ainmear_fireann>

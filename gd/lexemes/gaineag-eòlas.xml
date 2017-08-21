@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gaineag-eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gaineag-eòlas</orth>
+    </form>
+    <trans>gynecology</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>gynecology - gaineag-eòlais sc</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_latha_s_a_dhoidhche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a latha 's a dh'oidhche</orth>
+    </form>
+    <trans>day and night</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

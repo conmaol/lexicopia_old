@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cur-seachad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cur-seachad</orth>
+    </form>
+    <trans>leisure</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>leisure - cur-seachad poss cleisure - cur-seachadan pl</note>
+  </ainmear_fireann>

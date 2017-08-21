@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_chum_agus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a chum agus</orth>
+    </form>
+    <trans>in order that</trans>
+    <trans>so that</trans>
+  </lexeme>

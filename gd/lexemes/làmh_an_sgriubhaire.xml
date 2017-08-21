@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="làmh_an_sgriubhaire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>làmh an sgriubhaire</orth>
+    </form>
+    <trans>handle of the screwdriver</trans>
+    <note>Listed in An Seotal: Technology.</note>
+  </lexeme>

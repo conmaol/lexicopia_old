@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Eilean_Wight" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Eilean Wight</orth>
+    </form>
+    <trans>Isle of Wight</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Isle of Wight - Eilean Wight poss c</note>
+  </ainmear_fireann>

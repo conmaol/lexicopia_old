@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="uisge-thuar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uisge-thuar</orth>
+    </form>
+    <trans>aquatint</trans>
+    <note>Listed in An Seotal: Art.</note>
+    <note>aquatint - uisge-thuair poss caquatints - uisge-thuaran pl</note>
+  </ainmear_fireann>

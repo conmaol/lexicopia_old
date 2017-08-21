@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dùnadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dùnadh</orth>
+    </form>
+    <trans>cadence</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>cadence - dùnaidh poss ccadences - dùnaidhean pl</note>
+  </ainmear_fireann>

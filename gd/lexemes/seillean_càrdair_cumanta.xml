@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seillean_càrdair_cumanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seillean càrdair cumanta</orth>
+    </form>
+    <trans>common carder bee</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: seilleanan càrdair cumanta</note>
+    <note>Latin: Bombus pascuorum</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="eadar-obrachail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eadar-obrachail</orth>
+    </form>
+    <trans>interactive</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </buadhair>

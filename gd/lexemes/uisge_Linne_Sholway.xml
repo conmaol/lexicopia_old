@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="uisge_Linne_Sholway" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uisge Linne Sholway</orth>
+    </form>
+    <trans>water of Solway Firth</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

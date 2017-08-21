@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="neach-comhairle_dhreuchdan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>neach-comhairle dhreuchdan</orth>
+    </form>
+    <trans>carèr adviser</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

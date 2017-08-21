@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="iar-neach-clàraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>iar-neach-clàraidh</orth>
+    </form>
+    <trans>assistant registrar</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

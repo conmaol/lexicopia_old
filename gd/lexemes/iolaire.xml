@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="iolaire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>iolaire</orth>
+    </form>
+    <trans>eagle</trans>
+    <trans>Accipitridae partim.</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>eagle - iolaire sc eagles - iolairean iom</note>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

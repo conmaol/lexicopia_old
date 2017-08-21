@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="lèirsinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lèirsinn</orth>
+    </form>
+    <trans>perception</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>perception - lèirsinn(e) poss c</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="oirthir_Linne_Mhoireibh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>oirthir Linne Mhoireibh</orth>
+    </form>
+    <trans>Moray Firth coastline</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

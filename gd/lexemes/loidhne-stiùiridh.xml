@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="loidhne-stiùiridh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>loidhne-stiùiridh</orth>
+    </form>
+    <trans>guideline</trans>
+    <note>Listed in An Seotal: Technology.</note>
+    <note>guideline - loidhne-stiùiridh poss cguidelines - loidhnichean-stiùiridh pl</note>
+  </ainmear_boireann>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ceist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceist</orth>
+    </form>
+    <trans>question</trans>
+    <trans>query</trans>
+    <trans>problem</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>query - ceiste poss cqueries - ceistean pl</note>
+    <note>question - ceistean poss cquestions - ceistean pl</note>
+    <note>Listed in An Seotal: Maths, as 'problem'.</note>
+    <note>problem - ceiste poss cproblems - ceistean pl</note>
+  </ainmear_boireann>

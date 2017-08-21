@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="càraid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>càraid</orth>
+    </form>
+    <trans>duo</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>duo - càraid(e) poss cduos - càraidean pl</note>
+  </ainmear_boireann>

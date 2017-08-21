@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bheartaigs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bheartaigs</orth>
+    </form>
+    <trans>vertex</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>vertex - bheartaigs poss cvertices - bheartaigsean pl</note>
+  </ainmear_fireann>

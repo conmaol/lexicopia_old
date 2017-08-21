@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="muinntir_Bhulgàiria" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>muinntir Bhulgàiria</orth>
+    </form>
+    <trans>people of Bulgaria</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

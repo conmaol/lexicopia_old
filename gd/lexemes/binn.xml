@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="binn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>binn</orth>
+    </form>
+    <trans>sweet</trans>
+    <trans>melodious</trans>
+    <trans>tuneful</trans>
+    <trans>dulcet</trans>
+    <trans>musical</trans>
+  </buadhair>

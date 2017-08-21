@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ochdamh-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ochdamh</orth>
+    </form>
+    <trans>eighth</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>eighth - ochdaimh poss ceighths - ochdamhan pl</note>
+  </ainmear_fireann>

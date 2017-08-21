@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="leathrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="leathar"/>
+    <part ref="_ach-suffix"/>
+    <form>
+      <orth>leathrach</orth>
+    </form>
+    <trans>leather's</trans>
+    <trans>leather</trans>
+    <trans>leathern</trans>
+    <trans>of leather</trans>
+    <note>Listed in Colin Mark's (2004) Gaelic-English dictionary.</note>
+    <note>seacaid leathrach = leather jacket</note>
+  </buadhair>

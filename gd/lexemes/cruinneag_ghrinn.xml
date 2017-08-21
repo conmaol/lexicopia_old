@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cruinneag_ghrinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cruinneag ghrinn</orth>
+    </form>
+    <trans>blue-tailed damselfly</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: cruinneagan grinn</note>
+    <note>Latin: Ischnura elegans</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cruinneag ghrinn.mp3</note>
+  </ainmear_boireann>

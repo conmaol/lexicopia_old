@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="Algerianach-a" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Algerianach</orth>
+    </form>
+    <trans>Algerian</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </buadhair>

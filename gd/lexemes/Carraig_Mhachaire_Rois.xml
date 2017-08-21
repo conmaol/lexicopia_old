@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Carraig_Mhachaire_Rois" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Carraig Mhachaire Rois</orth>
+    </form>
+    <trans>Carrickmacross</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

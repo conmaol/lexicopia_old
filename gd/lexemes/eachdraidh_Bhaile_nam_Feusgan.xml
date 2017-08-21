@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="eachdraidh_Bhaile_nam_Feusgan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eachdraidh Bhaile nam Feusgan</orth>
+    </form>
+    <trans>history of Musselburgh</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

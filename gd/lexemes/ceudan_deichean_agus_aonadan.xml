@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ceudan_deichean_agus_aonadan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceudan, deichean agus aonadan</orth>
+    </form>
+    <trans>hundreds, tens and units</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

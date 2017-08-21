@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="coirce" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>coirce</orth>
+    </form>
+    <trans sources="cmark">oats</trans>
+    <trans sources="cmark">corn</trans>
+    <trans>Avena sativa</trans>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="meudaich_eadar-ùine_sa_cheòl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>meudaich eadar-ùine sa cheòl</orth>
+    </form>
+    <trans>augment interval in the music</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

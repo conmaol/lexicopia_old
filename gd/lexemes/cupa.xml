@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cupa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cupa</orth>
+    </form>
+    <trans>trophy</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>trophy - cupa poss ctrophies - cupannan pl</note>
+  </ainmear_fireann>

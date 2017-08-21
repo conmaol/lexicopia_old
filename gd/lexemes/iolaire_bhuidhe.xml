@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="iolaire_bhuidhe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>iolaire bhuidhe</orth>
+    </form>
+    <trans>golden eagle</trans>
+    <trans>Aquila chrysaetos</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Info: There are 276 Gaelic place-names in Scotland which name the iolaire 'eagle'. Over two-thirds are thought to represent the golden eagle and the remainder the white-tailed sea
+      eagle.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/iolaire-bhuidhe.mp3</note>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

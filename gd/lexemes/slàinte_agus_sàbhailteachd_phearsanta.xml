@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="slàinte_agus_sàbhailteachd_phearsanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>slàinte agus sàbhailteachd phearsanta</orth>
+    </form>
+    <trans>personal health and safety</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="amadanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>amadanta</orth>
+    </form>
+    <trans>foolish</trans>
+    <note>EDIL: ammatánta adj foolish.</note>
+    <note>Dwelly: amadanta ** a Foolish.</note>
+  </lexeme>

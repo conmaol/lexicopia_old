@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bailtean_na_Grèige" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bailtean na Grèige</orth>
+    </form>
+    <trans>the towns of Greece</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Abhainn_an_Lagáin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Abhainn an Lagáin</orth>
+    </form>
+    <trans>Laggan</trans>
+    <trans>River Laggan</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

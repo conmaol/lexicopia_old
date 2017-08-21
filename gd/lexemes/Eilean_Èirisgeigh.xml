@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Eilean_Èirisgeigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Eilean Èirisgeigh</orth>
+    </form>
+    <trans>Isle of Eriskay</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="teasraig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>teasraig</orth>
+    </form>
+    <trans>save</trans>
+    <trans>rescue</trans>
+    <trans>deliver</trans>
+    <trans>preserve</trans>
+    <trans>protect</trans>
+    <note>Listed in TYGD.</note>
+    <note>Listed in CM.</note>
+  </gnìomhair>

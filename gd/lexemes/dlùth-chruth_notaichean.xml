@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dlùth-chruth_notaichean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dlùth-chruth notaichean</orth>
+    </form>
+    <trans>close position of notes</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

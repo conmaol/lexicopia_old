@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="aisig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>aisig</orth>
+    </form>
+    <trans>transfer</trans>
+    <trans>ferry</trans>
+    <note>Listed in An Seotal: Geography, as 'ferry'.</note>
+    <note>Listed in An Seotal: General, as 'transfer'.</note>
+  </gnìomhair>

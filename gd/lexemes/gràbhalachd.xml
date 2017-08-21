@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="gràbhalachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gràbhalachd</orth>
+    </form>
+    <trans>engraving</trans>
+    <note>Listed in An Seotal: Art.</note>
+    <note>engraving - gràbhalachd poss cengravings - gràbhalachdan pl</note>
+  </ainmear_boireann>

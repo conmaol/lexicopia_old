@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bann-cìse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bann-cìse</orth>
+    </form>
+    <trans>tax band</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

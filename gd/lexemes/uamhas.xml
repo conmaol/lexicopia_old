@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="uamhas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uamhas</orth>
+    </form>
+    <trans>dismay</trans>
+    <trans>consternation</trans>
+    <trans>horror</trans>
+    <trans>enormity</trans>
+    <trans>great quantity</trans>
+    <trans>great deal</trans>
+    <trans>awful lot</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

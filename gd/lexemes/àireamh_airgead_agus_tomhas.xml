@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="àireamh_airgead_agus_tomhas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àireamh, airgead agus tomhas</orth>
+    </form>
+    <trans>number, money and measure</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

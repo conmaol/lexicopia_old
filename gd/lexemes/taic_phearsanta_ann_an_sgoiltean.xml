@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="taic_phearsanta_ann_an_sgoiltean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>taic phearsanta ann an sgoiltean</orth>
+    </form>
+    <trans>personal support in schòls</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

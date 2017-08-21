@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="clàr-ama_thachartasan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clàr-ama thachartasan</orth>
+    </form>
+    <trans>timetable of events</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

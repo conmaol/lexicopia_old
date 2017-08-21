@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dearcag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="dearc"/>
+    <part ref="_ag-suffix"/>
+    <form>
+      <orth>dearcag</orth>
+    </form>
+    <trans>berry</trans>
+    <trans>currant</trans>
+    <trans>grape</trans>
+    <note> MM:121 - 'dearc, dearcag (n.f.) [a berry, a grape], (O.Ir. derc, O.Celt. derko-s)'. </note>
+  </lexeme>

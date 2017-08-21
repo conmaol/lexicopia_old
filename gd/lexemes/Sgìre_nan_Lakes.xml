@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Sgìre_nan_Lakes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Sgìre nan Lakes</orth>
+    </form>
+    <trans>Lake District</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Lake District - Sgìre nan Lakes poss c</note>
+  </ainmear_fireann>

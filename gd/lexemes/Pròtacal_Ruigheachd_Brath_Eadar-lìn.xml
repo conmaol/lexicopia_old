@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Pròtacal_Ruigheachd_Brath_Eadar-lìn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Pròtacal Ruigheachd Brath Eadar-lìn (IMAP)</orth>
+    </form>
+    <trans>Internet Message Access Protocol (IMAP)</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

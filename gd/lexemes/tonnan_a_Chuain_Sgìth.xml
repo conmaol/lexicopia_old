@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="tonnan_a_Chuain_Sgìth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tonnan a' Chuain Sgìth</orth>
+    </form>
+    <trans>waves of the Little Minch</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

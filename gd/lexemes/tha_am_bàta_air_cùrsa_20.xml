@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="tha_am_bàta_air_cùrsa_20" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tha am bàta air cùrsa 20°</orth>
+    </form>
+    <trans>the boat is on a bearing of 20°</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

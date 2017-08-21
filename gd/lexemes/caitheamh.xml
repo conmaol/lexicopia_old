@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="caitheamh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>caitheamh</orth>
+    </form>
+    <trans>consumption</trans>
+    <trans>degradation</trans>
+    <note>Listed in An Seotal: Geography, as 'degradation'.</note>
+    <note>degradation - caitheimh poss c</note>
+    <note>Listed in An Seotal: General, as 'consumption'.</note>
+    <note>consumption - caitheimh poss c</note>
+  </ainmear_fireann>

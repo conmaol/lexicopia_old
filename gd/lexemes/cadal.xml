@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cadal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cadal</orth>
+    </form>
+    <trans>sleeping</trans>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="muileann_Bhrùra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>muileann Bhrùra</orth>
+    </form>
+    <trans>Brora mill</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cumhachdan_de_dheich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cumhachdan de dheich</orth>
+    </form>
+    <trans>powers of ten</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

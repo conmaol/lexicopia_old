@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="suas_an_staidhre" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>suas an staidhre</orth>
+    </form>
+    <trans>(to) upstairs</trans>
+    <trans>upstairs</trans>
+  </lexeme>

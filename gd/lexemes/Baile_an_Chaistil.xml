@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Baile_an_Chaistil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Baile an Chaistil</orth>
+    </form>
+    <trans>Ballycastle</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

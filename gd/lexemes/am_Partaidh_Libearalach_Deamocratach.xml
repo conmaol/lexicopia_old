@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="am_Partaidh_Libearalach_Deamocratach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>am Partaidh Libearalach Deamocratach</orth>
+    </form>
+    <trans>Liberal Democratic Party</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

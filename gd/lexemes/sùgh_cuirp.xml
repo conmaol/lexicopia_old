@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sùgh_cuirp" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sùgh cuirp</orth>
+    </form>
+    <trans>lymph</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

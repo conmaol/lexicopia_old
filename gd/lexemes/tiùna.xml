@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="tiùna" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tiùna</orth>
+    </form>
+    <trans>tuna</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>tuna - tiùna sctunas - tiùnathan iom</note>
+  </ainmear_boireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="An_Artaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Artaig</orth>
+    </form>
+    <trans>Arctic</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Arctic - na h-Artaig poss c</note>
+  </ainmear_boireann>

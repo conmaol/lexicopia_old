@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sgaoil_air" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sgaoil air</orth>
+    </form>
+    <trans>suffuse</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

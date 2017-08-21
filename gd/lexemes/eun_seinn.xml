@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="eun_seinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eun seinn</orth>
+    </form>
+    <trans>songbird</trans>
+    <trans>Passeri spp.</trans>
+  </ainmear_fireann>

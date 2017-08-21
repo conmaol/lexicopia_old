@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="faag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fàg</orth>
+    </form>
+    <trans>exit</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </gnìomhair>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="teann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>teann</orth>
+    </form>
+    <trans>rigid</trans>
+    <trans>solid</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </buadhair>

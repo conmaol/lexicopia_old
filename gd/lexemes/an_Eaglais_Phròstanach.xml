@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="an_Eaglais_Phròstanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>an Eaglais Phròstanach</orth>
+    </form>
+    <trans>the Protestant Church</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+  </lexeme>

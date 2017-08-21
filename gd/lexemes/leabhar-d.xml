@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="leabhar-d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leabhar-d</orth>
+    </form>
+    <trans>e-book</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>e-book - leabhair-d poss ce-books - leabhraichean-d pl</note>
+  </ainmear_fireann>

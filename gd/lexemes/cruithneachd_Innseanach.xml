@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cruithneachd_Innseanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cruithneachd Innseanach</orth>
+    </form>
+    <trans>corn on the cob</trans>
+    <trans sources="cmark">maize</trans>
+  </lexeme>

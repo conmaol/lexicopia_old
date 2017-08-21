@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="uidh_air_n-uidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uidh air n-uidh</orth>
+    </form>
+    <trans>step by step</trans>
+    <trans>little by little</trans>
+    <trans>by degrees</trans>
+  </lexeme>

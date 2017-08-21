@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="factar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>factar</orth>
+    </form>
+    <trans>factor</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>factor - factair poss cfactors - factaran pl</note>
+  </ainmear_fireann>

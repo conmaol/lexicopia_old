@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="amadan_lèigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="amadan"/>
+    <form>
+      <orth>amadan lèigh</orth>
+    </form>
+    <trans>butterfly</trans>
+    <note>Dwelly: amadan-léigh see dearbadan-dé.</note>
+  </ainmear_fireann>

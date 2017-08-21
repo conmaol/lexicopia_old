@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="atlasan_mapaichean_càirtean-iùil_agus_planaichean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>atlasan, mapaichean, càirtean-iùil agus planaichean</orth>
+    </form>
+    <trans>atlases, maps, charts and plans</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

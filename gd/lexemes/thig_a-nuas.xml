@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="thig_a-nuas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>thig a-nuas</orth>
+    </form>
+    <trans>come down (here)</trans>
+  </lexeme>

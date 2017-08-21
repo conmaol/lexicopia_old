@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="raidhfil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>raidhfil</orth>
+    </form>
+    <trans>rifle</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>rifle - raidhfil poss crifles - raidhfilean pl</note>
+  </ainmear_fireann>

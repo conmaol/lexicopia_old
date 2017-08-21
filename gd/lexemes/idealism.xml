@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="idealism" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>idealism</orth>
+    </form>
+    <trans>idealism</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>idealism - idealism poss c</note>
+  </ainmear_fireann>

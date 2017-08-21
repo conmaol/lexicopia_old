@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="càileachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>càileachd</orth>
+    </form>
+    <trans>quality</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>quality - càileachd poss c</note>
+  </ainmear_boireann>

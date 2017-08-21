@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cruinneachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cruinneachadh</orth>
+    </form>
+    <trans>collection</trans>
+    <trans>rounding</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>collection - cruinneachaidh poss ccollections - cruinneachaidhean pl</note>
+    <note>Listed in An Seotal: Maths, as 'rounding'.</note>
+    <note>rounding - cruinneachaidh poss croundings - cruinneachaidhean pl</note>
+  </ainmear_fireann>

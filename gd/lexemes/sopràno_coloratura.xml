@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sopràno_coloratura" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sopràno coloratura</orth>
+    </form>
+    <trans>coloratura soprano</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

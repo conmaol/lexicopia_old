@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="craobh_iubhair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="craobh"/>
+    <form>
+      <orth>craobh iubhair</orth>
+    </form>
+    <trans>yew tree</trans>
+  </ainmear_boireann>

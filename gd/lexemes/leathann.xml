@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="leathann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leathann</orth>
+    </form>
+    <trans>wide</trans>
+    <trans>broad</trans>
+    <note>Listed in An Seotal: Maths, as 'broad', 'wide'.</note>
+  </buadhair>

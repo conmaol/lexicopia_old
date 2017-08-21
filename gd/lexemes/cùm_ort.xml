@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cùm_ort" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cùm ort</orth>
+    </form>
+    <trans>next</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="teip_steigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>teip steigeach</orth>
+    </form>
+    <trans>sticky tape</trans>
+    <trans>adhesive tape</trans>
+    <note>Listed in An Seotal: General, as 'sticky tape'.</note>
+    <note>sticky tape - teip steigich poss c sticky tapes - teipichean steigeach pl</note>
+    <note>Listed in An Seotal: Science, as 'adhesive tape'.</note>
+  </ainmear_boireann>

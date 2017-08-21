@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="gairm-verb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gairm</orth>
+    </form>
+    <trans>call</trans>
+    <trans>announce</trans>
+    <trans>declare</trans>
+    <trans>summon</trans>
+    <trans>cry</trans>
+    <trans>cite</trans>
+    <trans>convene</trans>
+    <trans>crow</trans>
+  </gnìomhair>

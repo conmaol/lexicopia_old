@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Baile_an_Irbhinigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Baile an Irbhinigh</orth>
+    </form>
+    <trans>Irvinestown</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

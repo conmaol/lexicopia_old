@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="botal-teth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>botal-teth</orth>
+    </form>
+    <trans>hot water bottle</trans>
+    <note>Listed in An Seotal: Home economics.</note>
+  </lexeme>

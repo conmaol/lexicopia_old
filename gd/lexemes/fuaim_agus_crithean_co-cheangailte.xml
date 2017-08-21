@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="fuaim_agus_crithean_co-cheangailte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fuaim agus crithean co-cheangailte</orth>
+    </form>
+    <trans>sound and related vibrations</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

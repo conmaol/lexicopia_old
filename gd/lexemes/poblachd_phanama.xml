@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="poblachd_phanama" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Poblachd Phanama</orth>
+    </form>
+    <trans>Republic of Panama</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

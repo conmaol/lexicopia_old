@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuir-ris_trì_agus_ceithir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuir-ris trì agus ceithir</orth>
+    </form>
+    <trans>add three and four</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

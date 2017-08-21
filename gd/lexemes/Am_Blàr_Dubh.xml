@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Am_Blàr_Dubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Am Blàr Dubh</orth>
+    </form>
+    <trans>Muir of Ord</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

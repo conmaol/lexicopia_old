@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="tòisich_snàithlean_ùr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tòisich snàithlean ùr</orth>
+    </form>
+    <trans>start new thread</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="lorg_agus_glan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lorg agus glan</orth>
+    </form>
+    <trans>debug</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </gnìomhair>

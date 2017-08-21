@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Ard_Mhacha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Ard Mhacha</orth>
+    </form>
+    <trans>Armagh</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

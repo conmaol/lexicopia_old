@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="trapesium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>trapesium</orth>
+    </form>
+    <trans>trapezium</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>trapezium - trapesium poss ctrapezia - trapesiuman pl</note>
+  </ainmear_fireann>

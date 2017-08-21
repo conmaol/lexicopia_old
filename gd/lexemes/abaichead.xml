@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="abaichead" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>abaichead</orth>
+    </form>
+    <trans>maturity</trans>
+    <note>Listed in Faclair na Pàrlamaid, as 'maturity',</note>
+  </ainmear_fireann>

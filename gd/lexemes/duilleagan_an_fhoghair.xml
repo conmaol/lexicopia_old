@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="duilleagan_an_fhoghair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>duilleagan an fhoghair</orth>
+    </form>
+    <trans>autumn leaves</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

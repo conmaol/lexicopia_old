@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cuthag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="_ag-suffix"/>
+    <form>
+      <orth>cuthag</orth>
+    </form>
+    <trans>cuckoo</trans>
+    <note> Feminine noun. Listed in Acair Books (1986) 'Eòin an Àite'. Listed in TYGD; and in CM. Listed in DASG fieldwork archive [Tiree Barrapol H MacLean eoin]. </note>
+  </ainmear_boireann>

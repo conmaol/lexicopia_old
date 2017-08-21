@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="pàiste_aig_cridhe_chùisean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pàiste aig cridhe chùisean</orth>
+    </form>
+    <trans>child at the centre</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

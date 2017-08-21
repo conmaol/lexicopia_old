@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="gobhar-fiadhaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gobhar-f(h)iadhaich</orth>
+    </form>
+    <trans>wild goat</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: goibhrean-fiadhaich</note>
+    <note>Latin: Capra hircus</note>
+    <note>Info: Can be either masculine or feminine.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/gobhar fhiadhaich.mp3</note>
+  </lexeme>

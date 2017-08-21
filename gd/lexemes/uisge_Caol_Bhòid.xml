@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="uisge_Caol_Bhòid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uisge Caol Bhòid</orth>
+    </form>
+    <trans>the water of the Sound of Bute</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_fireann>

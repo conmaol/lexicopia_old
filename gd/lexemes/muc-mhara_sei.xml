@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="muc-mhara_sei" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>muc-mhara Sei</orth>
+    </form>
+    <trans>Sei whale</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: mucan-mara Sei</note>
+    <note>Latin: (Balaenoptera borealis)</note>
+  </ainmear_boireann>

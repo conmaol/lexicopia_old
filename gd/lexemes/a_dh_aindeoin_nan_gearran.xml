@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_dh_aindeoin_nan_gearran" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a dh'aindeoin nan gearran</orth>
+    </form>
+    <trans>notwithstanding the objections</trans>
+    <note>Listed in Faclair na Pàrlamaid.</note>
+  </lexeme>

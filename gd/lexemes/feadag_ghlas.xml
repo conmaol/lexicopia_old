@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="feadag_ghlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>feadag ghlas</orth>
+    </form>
+    <trans>grey plover</trans>
+    <trans>black-bellied polver</trans>
+    <trans>Pluvialis squatarola</trans>
+    <note>Listed in AFB.</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cead-siubhail_a_Chuimrich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cead-siubhail a' Chuimrich</orth>
+    </form>
+    <trans>the Welshman's passport</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

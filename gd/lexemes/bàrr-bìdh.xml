@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bàrr-bìdh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bàrr-bìdh</orth>
+    </form>
+    <trans>food crop</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

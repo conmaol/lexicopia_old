@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="famhalan_arcach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>famhalan arcach</orth>
+    </form>
+    <trans>common vole</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: famhalain arcach</note>
+    <note>Latin: Microtus arvalis</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/famhalan arcach.mp3</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="crìochan_Andòra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>crìochan Andòra</orth>
+    </form>
+    <trans>Andorra's borders</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

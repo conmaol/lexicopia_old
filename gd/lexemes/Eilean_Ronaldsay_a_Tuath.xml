@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Eilean_Ronaldsay_a_Tuath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Eilean Ronaldsay a Tuath</orth>
+    </form>
+    <trans>Island of North Ronaldsay</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

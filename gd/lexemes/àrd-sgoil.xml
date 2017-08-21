@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="àrd-sgoil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àrd-sgoil</orth>
+    </form>
+    <trans>secondary</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>secondary - àrd-sgoile poss csecondaries - àrd-sgoiltean pl</note>
+  </ainmear_boireann>

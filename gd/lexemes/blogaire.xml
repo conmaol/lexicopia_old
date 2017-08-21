@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="blogaire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>blogaire</orth>
+    </form>
+    <trans>blogger</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>blogger - blogaire poss cbloggers - blogairean pl</note>
+  </ainmear_fireann>

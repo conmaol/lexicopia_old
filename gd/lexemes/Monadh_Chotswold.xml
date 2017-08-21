@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Monadh_Chotswold" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Monadh Chotswold</orth>
+    </form>
+    <trans>Cotswold Hills</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Cotswold Hills - Monadh Chotswold poss c</note>
+  </ainmear_fireann>

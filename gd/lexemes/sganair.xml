@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="sganair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sganair</orth>
+    </form>
+    <trans>scanner</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>scanner - sganair poss cscanners - sganairean pl</note>
+  </ainmear_fireann>

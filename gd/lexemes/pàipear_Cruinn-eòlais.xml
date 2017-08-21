@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="pàipear_Cruinn-eòlais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pàipear Cruinn-eòlais</orth>
+    </form>
+    <trans>Geography paper</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

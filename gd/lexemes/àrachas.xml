@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="àrachas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àrachas</orth>
+    </form>
+    <trans>insurance</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>insurance - àrachais poss c</note>
+  </ainmear_fireann>

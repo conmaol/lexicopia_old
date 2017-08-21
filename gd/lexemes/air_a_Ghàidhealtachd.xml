@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="air_a_Ghàidhealtachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>air a’ Ghàidhealtachd</orth>
+    </form>
+    <trans>in the Highlands</trans>
+  </lexeme>

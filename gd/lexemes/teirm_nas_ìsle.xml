@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="teirm_nas_ìsle" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>teirm nas ìsle</orth>
+    </form>
+    <trans>lower term</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

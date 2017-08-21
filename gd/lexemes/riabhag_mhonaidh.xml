@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="riabhag_mhonaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>riabhag mhonaidh</orth>
+    </form>
+    <trans>twite</trans>
+    <trans>Carduelis flavirostris</trans>
+    <trans>mountain linnet</trans>
+    <trans index="only">linnet</trans>
+    <trans>meadow pipit</trans>
+    <trans>Anthus pratensis</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Listed in CM as 'mountain linnet'.</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bathar_co-cheangailte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bathar co-cheangailte</orth>
+    </form>
+    <trans>related products</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

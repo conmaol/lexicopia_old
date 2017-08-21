@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="an_saoghal_àrsaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>an saoghal àrsaidh</orth>
+    </form>
+    <trans>ancient world</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

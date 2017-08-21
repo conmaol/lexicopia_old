@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="riaghladh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>riaghladh</orth>
+    </form>
+    <trans>ruling</trans>
+    <trans>regulating</trans>
+    <trans>administration</trans>
+    <trans>governance</trans>
+    <trans>government</trans>
+    <trans>management</trans>
+    <trans>sway</trans>
+    <trans>modulation</trans>
+    <trans>control</trans>
+    <note>Listed in An Seotal: General, as governance.</note>
+    <note>governance - riaghlaidh poss c</note>
+    <note>Listed in An Seotal: Science, as 'modulation'.</note>
+    <note>modulation - riaghlaidh scmodulations - riaghalaidhean iom</note>
+    <note>Listed in An Seotal: Computing, as 'control'.</note>
+    <note>control - riaghlaidh poss ccontrols - riaghlaidhean pl</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

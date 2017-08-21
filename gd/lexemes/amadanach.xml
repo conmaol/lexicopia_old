@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="amadanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>amadanach</orth>
+    </form>
+    <trans>foolish</trans>
+    <note>EDIL: ammatánach adj o, ā foolish.</note>
+    <note>Dwelly: amadanach -aiche, a Foolish, like a fool. Aodann amadanach, a foolish expression of countenance. </note>
+  </lexeme>

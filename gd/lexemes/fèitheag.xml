@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="fèitheag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fèitheag</orth>
+    </form>
+    <trans>capillary</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>capillary - fèitheig(e) sccapillaries - fèitheagan iom</note>
+  </ainmear_boireann>

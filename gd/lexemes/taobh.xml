@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="taobh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>taobh</orth>
+    </form>
+    <form>
+      <orth>taoibh</orth>
+    </form>
+    <form>
+      <orth>taobhan</orth>
+    </form>
+    <trans>side</trans>
+    <trans>flank</trans>
+    <trans>partiality</trans>
+    <trans>way</trans>
+    <trans>liking</trans>
+    <trans>angle</trans>
+    <trans>facet</trans>
+    <trans>aspect</trans>
+    <trans>point of view</trans>
+    <trans>coast</trans>
+    <note>Listed in An Seotal: Maths, as 'side'.</note>
+  </ainmear_fireann>

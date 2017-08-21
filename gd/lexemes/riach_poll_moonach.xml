@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="riach_poll_moonach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>riach poll mònach</orth>
+    </form>
+    <trans>line a peat bank</trans>
+    <trans>mark a peat bank</trans>
+    <note>Listed in AFB: ‘make the first cut the length of the peat bank, establishing the width which will be cut’.</note>
+  </lexeme>

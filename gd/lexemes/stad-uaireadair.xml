@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="stad-uaireadair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>stad-uaireadair</orth>
+    </form>
+    <trans>stop-watch</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>stop-watch - stad-uaireadair poss cstop-watches - stad-uaireadairean pl</note>
+  </ainmear_fireann>

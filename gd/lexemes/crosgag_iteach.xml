@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="crosgag_iteach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>crosgag iteach</orth>
+    </form>
+    <trans>northern feather star</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: crosgagan iteach</note>
+    <note>Latin: Leptometra celtica</note>
+  </ainmear_boireann>

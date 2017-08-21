@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="nochd_puing_A_anns_an_axis-y" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nochd puing A anns an axis-y</orth>
+    </form>
+    <trans>reflect point A in the y-axis</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bratach_Bhosnia-Herzegovina" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bratach Bhosnia-Herzegovina</orth>
+    </form>
+    <trans>Bosnia-Herzegovina's flag</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

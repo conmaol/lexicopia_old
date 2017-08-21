@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="iguana_uaine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>iguana uaine</orth>
+    </form>
+    <trans>green iguana</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="plana" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>plana</orth>
+    </form>
+    <trans>plan</trans>
+    <note>Listed in An Seotal: Technology.</note>
+    <note>plan - plana  poss cplans - planaichean pl</note>
+  </ainmear_fireann>

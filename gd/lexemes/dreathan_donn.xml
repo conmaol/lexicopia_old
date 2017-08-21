@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dreathan_donn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dreathan donn</orth>
+    </form>
+    <trans>wren</trans>
+    <trans>Troglodytes troglodytes</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/dreathann donn.mp3</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

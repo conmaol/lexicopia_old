@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Ar-a-mach_nan_Seumasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Ar-a-mach nan Seumasach</orth>
+    </form>
+    <trans>The Jacobite Rebellion</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

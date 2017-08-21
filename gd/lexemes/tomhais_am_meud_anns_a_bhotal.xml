@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="tomhais_am_meud_anns_a_bhotal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tomhais am meud anns a' bhotal</orth>
+    </form>
+    <trans>measure the amount in the bottle</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

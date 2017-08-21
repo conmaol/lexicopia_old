@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="feusgan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>feusgan</orth>
+    </form>
+    <trans>mussel</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: feusgain</note>
+    <note>Order: Mytiloida, Family: Mytilidae (marine); Order: Unionoida, Family: Margaritiferidae, Genus: Margaritifera, Species: Margaritifera margaritifera (freshwater).</note>
+  </ainmear_fireann>

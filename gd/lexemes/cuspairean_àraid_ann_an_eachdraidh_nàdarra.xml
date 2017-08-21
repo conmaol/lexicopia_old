@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuspairean_àraid_ann_an_eachdraidh_nàdarra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuspairean àraid ann an eachdraidh nàdarra</orth>
+    </form>
+    <trans>specific topics in natural history</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

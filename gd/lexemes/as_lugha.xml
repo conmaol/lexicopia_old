@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="as_lugha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>as lugha</orth>
+    </form>
+    <trans>smallest</trans>
+    <trans>minimum</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </buadhair>

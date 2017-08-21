@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="fois" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fois</orth>
+    </form>
+    <trans>rest</trans>
+    <trans>leisure</trans>
+  </ainmear_boireann>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="diuult" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>diùlt</orth>
+    </form>
+    <trans>refuse</trans>
+    <trans>reject</trans>
+    <trans>decline</trans>
+    <trans>turn down</trans>
+    <trans>deny</trans>
+    <trans>disallow</trans>
+    <trans>overrule</trans>
+    <trans>renounce</trans>
+  </gnìomhair>

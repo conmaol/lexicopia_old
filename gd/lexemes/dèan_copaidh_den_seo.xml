@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dèan_copaidh_den_seo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dèan copaidh den seo</orth>
+    </form>
+    <trans>copy this</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

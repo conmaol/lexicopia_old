@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_chum" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a chum</orth>
+    </form>
+    <trans>towards</trans>
+    <trans>for</trans>
+    <trans>unto</trans>
+    <trans>in order to</trans>
+  </lexeme>

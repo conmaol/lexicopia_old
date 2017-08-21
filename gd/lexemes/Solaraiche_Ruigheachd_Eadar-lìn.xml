@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Solaraiche_Ruigheachd_Eadar-lìn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Solaraiche Ruigheachd Eadar-lìn (IAP)</orth>
+    </form>
+    <trans>Internet Access Provider (IAP)</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

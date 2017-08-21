@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="uaireigin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uaireigin</orth>
+    </form>
+    <trans>once</trans>
+    <trans>sometime</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

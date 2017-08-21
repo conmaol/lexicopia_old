@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_tarraing_dhealbhan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a' tarraing dhealbhan</orth>
+    </form>
+    <trans>drawing pictures</trans>
+    <trans>drawing</trans>
+    <note>Listed in An Seotal: Art.</note>
+  </lexeme>

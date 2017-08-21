@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Thailand" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Thailand</orth>
+    </form>
+    <trans>Thailand</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Thailand - Thailand poss c</note>
+  </ainmear_fireann>

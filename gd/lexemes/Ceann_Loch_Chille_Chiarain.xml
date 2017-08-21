@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Ceann_Loch_Chille_Chiarain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Ceann Loch Chille Chiarain</orth>
+    </form>
+    <trans>Campbeltown</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

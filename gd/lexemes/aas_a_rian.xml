@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="aas_a_rian" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>às a rian</orth>
+    </form>
+    <trans>out of his mind</trans>
+    <trans>crazy</trans>
+    <note>Listed in TYGD.</note>
+  </lexeme>

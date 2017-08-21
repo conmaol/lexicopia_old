@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="boghadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>boghadh</orth>
+    </form>
+    <trans>bowing</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>bowing - boghaidh poss cbowings - boghaidhean pl</note>
+  </ainmear_fireann>

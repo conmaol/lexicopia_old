@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="nas_motha_na" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nas motha na</orth>
+    </form>
+    <trans>greater than</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

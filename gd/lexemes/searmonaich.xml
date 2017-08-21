@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="searmonaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>searmonaich</orth>
+    </form>
+    <trans>preach</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+  </gnìomhair>

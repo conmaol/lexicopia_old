@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="argentina" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Argentina</orth>
+    </form>
+    <trans>Argentina</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Argentina - Argentina poss c</note>
+  </ainmear_boireann>

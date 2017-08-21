@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="faclairean_Laideann_chlasaigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>faclairean Laideann chlasaigeach</orth>
+    </form>
+    <trans>classical Latin dictionaries</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="tha_fàs_na_gealaich_gu_bhith_seachad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tha fàs na gealaich gu bhith seachad</orth>
+    </form>
+    <trans>the wax of the moon is almost finished</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

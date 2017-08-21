@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="mullach_àirde_ann_am_meatairean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mullach (àirde ann am meatairean)</orth>
+    </form>
+    <trans>summit (height in metres)</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

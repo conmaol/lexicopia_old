@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_bharrachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a bharrachd</orth>
+    </form>
+    <trans>further</trans>
+    <trans>additional</trans>
+    <trans>extra</trans>
+    <trans>surplus</trans>
+    <trans>over</trans>
+    <note>Listed in Faclair na Pàrlamaid, as 'further'.</note>
+    <note>Listed in CM.</note>
+  </lexeme>

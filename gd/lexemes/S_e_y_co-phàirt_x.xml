@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="S_e_y_co-phàirt_x" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>’S e y co-phàirt x</orth>
+    </form>
+    <trans>the complement of x is y</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

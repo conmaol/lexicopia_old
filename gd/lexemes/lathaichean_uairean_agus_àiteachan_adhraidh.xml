@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="lathaichean_uairean_agus_àiteachan_adhraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lathaichean, uairean agus àiteachan adhraidh</orth>
+    </form>
+    <trans>days, times and places of observance</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+  </lexeme>

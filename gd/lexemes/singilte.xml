@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="singilte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>singilte</orth>
+    </form>
+    <trans>single</trans>
+    <trans>singular</trans>
+    <note>Listed in An Seotal: Maths, as 'single'.</note>
+    <note>Listed in An Seotal: Language, as 'singular'.</note>
+  </buadhair>

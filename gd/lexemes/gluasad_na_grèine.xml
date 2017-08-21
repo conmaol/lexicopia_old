@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="gluasad_na_grèine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gluasad na grèine</orth>
+    </form>
+    <trans>motion of the sun</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

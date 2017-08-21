@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cha_tig_na_h-argamaidean_a_reeir_a_cheeile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cha tig na h-argamaidean a rèir a chèile</orth>
+    </form>
+    <trans>the arguments are mutually exclusive</trans>
+    <note>Listed in Faclair na Pàrlamaid.</note>
+    <note>Listed in Faclair Rianachd Phoblaich.</note>
+  </lexeme>

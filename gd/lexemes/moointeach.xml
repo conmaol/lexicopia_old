@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="moointeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mòinteach</orth>
+    </form>
+    <trans>moor</trans>
+    <trans>heath</trans>
+    <trans>moorland</trans>
+    <trans>moss</trans>
+    <trans>peatmoss</trans>
+    <note>Listed in An Seotal: Geography, as 'moor'.</note>
+    <note>moor - mòintich poss c moors - mòintichean pl</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair, as 'moor', 'heath'.</note>
+    <note>Plurals: mòintichean</note>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

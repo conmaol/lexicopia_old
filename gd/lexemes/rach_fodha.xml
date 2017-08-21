@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="rach_fodha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>rach fodha</orth>
+    </form>
+    <trans>sink</trans>
+    <trans>founder</trans>
+    <trans>go down</trans>
+    <trans>perish</trans>
+    <trans>set</trans>
+  </lexeme>

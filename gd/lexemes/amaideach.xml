@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="amaideach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>amaideach</orth>
+    </form>
+    <trans>foolish</trans>
+    <trans>absurd</trans>
+    <trans>inept</trans>
+    <trans>ludicrous</trans>
+    <trans>nonsensical</trans>
+    <trans>ridiculous</trans>
+    <trans>fond</trans>
+    <note>Listed in CM.</note>
+    <note>Dwelly: amaideach -eiche, a Foolish. Aodann amaideach, a foolish expression of countenance; gu h-amaideach, foolishly.</note>
+  </lexeme>

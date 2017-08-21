@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="feurach_baile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>feurach baile</orth>
+    </form>
+    <trans>common grazing</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: feurachan baile</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/feurach baile.mp3</note>
+  </ainmear_fireann>

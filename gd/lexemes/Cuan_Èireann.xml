@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Cuan_Èireann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Cuan Èireann</orth>
+    </form>
+    <trans>Irish Sea</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Irish Sea - Cuan Èireann poss c</note>
+  </ainmear_fireann>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="aard-mhorair_cuuirt_an_t-seisein" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Àrd-mhorair Cùirt an t-Seisein</orth>
+    </form>
+    <trans>the Lord President of the Court of Session</trans>
+    <note>Most senior judge in Scotland. Presiding judge of the Court of Session.</note>
+    <note>Held by Colin Sutherland, Lord Carloway since December 2015.</note>
+    <note>Listed in Faclair na Pàrlamaid.</note>
+  </lexeme>

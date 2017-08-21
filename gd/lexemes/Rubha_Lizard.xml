@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Rubha_Lizard" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Rubha Lizard</orth>
+    </form>
+    <trans>Lizard Point</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Lizard Point - Rubha Lizard poss c</note>
+  </ainmear_fireann>

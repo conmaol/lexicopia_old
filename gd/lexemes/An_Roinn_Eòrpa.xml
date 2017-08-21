@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="an_Roinn_Eòrpa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>an Roinn Eòrpa</orth>
+    </form>
+    <trans>Europe</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

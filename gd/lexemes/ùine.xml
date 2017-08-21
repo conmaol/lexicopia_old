@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ùine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ùine</orth>
+    </form>
+    <form>
+      <orth>ùineachan</orth>
+    </form>
+    <trans>time</trans>
+    <trans>duration</trans>
+    <trans>period</trans>
+    <trans>age</trans>
+    <note>Listed in An Seotal: Maths, as 'duration'.</note>
+  </ainmear_boireann>

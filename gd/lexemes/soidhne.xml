@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="soidhne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>soidhne</orth>
+    </form>
+    <trans>sign</trans>
+    <trans>symbol</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>sign - soidhne poss csigns - soidhnichean pl</note>
+    <note>symbol - soidhne poss csymbols - soidhnichean pl</note>
+  </ainmear_boireann>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="druid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>druid</orth>
+    </form>
+    <trans>starling</trans>
+    <trans>Sturnus vulgaris</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: druidean</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/druid.mp3</note>
+  </ainmear_boireann>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="losgadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>losgadh</orth>
+    </form>
+    <trans>burning</trans>
+    <trans>shòting</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>shòting - losgaidh poss cshòtings - losgaidhean pl</note>
+  </ainmear_fireann>

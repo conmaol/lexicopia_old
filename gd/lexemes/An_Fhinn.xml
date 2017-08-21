@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="An_Fhinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Fhinn</orth>
+    </form>
+    <trans>Finn</trans>
+    <trans>River Finn</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

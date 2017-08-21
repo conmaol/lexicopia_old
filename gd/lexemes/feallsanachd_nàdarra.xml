@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="feallsanachd_nàdarra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>feallsanachd nàdarra</orth>
+    </form>
+    <trans>natural philosophy</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

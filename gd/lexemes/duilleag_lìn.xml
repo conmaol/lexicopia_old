@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="duilleag_lìn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>duilleag lìn</orth>
+    </form>
+    <trans>web page</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

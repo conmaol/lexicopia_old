@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="freumh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>freumh</orth>
+    </form>
+    <form>
+      <orth>freumha</orth>
+    </form>
+    <form>
+      <orth>freumhan</orth>
+    </form>
+    <form>
+      <orth>freumhaichean</orth>
+    </form>
+    <trans>root</trans>
+    <trans>derivation</trans>
+    <trans>source</trans>
+    <note>Listed in An Seotal: General, as 'source'.</note>
+    <note>Listed in An Seotal: Maths, as 'root'.</note>
+  </ainmear_fireann>

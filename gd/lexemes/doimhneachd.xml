@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="doimhneachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>doimhneachd</orth>
+    </form>
+    <trans>depth</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>depth - doimhneachd poss cdepths - doimhneachdan pl</note>
+  </ainmear_boireann>

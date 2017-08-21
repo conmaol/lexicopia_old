@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Sgòth_Oort" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Sgòth Oort</orth>
+    </form>
+    <trans>Oort Cloud</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>Oort Cloud - Sgòth Oort sc</note>
+  </ainmear_boireann>

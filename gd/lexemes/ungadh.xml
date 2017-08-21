@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ungadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ungadh</orth>
+    </form>
+    <trans>anointing</trans>
+    <trans>ointment</trans>
+    <trans>salve</trans>
+    <trans>unction</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

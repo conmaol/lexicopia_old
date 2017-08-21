@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="taisbean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>taisbean</orth>
+    </form>
+    <trans>display</trans>
+    <trans>showcase</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </gnìomhair>

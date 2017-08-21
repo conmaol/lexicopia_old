@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Droichead_na_Bandan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Droichead na Bandan</orth>
+    </form>
+    <trans>Bandon</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

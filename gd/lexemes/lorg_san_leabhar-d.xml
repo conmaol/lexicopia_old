@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="lorg_san_leabhar-d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lorg san leabhar-d</orth>
+    </form>
+    <trans>search e-book</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_dèanamh_dealbh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a' dèanamh dealbh</orth>
+    </form>
+    <trans>making a picture</trans>
+    <note>Listed in An Seotal: Art.</note>
+  </lexeme>

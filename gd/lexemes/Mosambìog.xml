@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Mosambìog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Mosambìog</orth>
+    </form>
+    <trans>Mozambique</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Mozambique - Mosambìog poss c</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="loidhne_ADSL" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>loidhne ADSL</orth>
+    </form>
+    <trans>Asymmetric Digital Subscriber Line</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </ainmear_boireann>

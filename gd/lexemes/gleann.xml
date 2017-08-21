@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gleann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gleann</orth>
+    </form>
+    <form>
+      <orth>glinne</orth>
+    </form>
+    <form>
+      <orth>glinn</orth>
+    </form>
+    <form>
+      <orth>gleanntan</orth>
+    </form>
+    <trans>valley</trans>
+    <trans>glen</trans>
+    <trans>dale</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_fireann>

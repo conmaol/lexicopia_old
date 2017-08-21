@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Colaiste_Choatbridge" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Colaiste Choatbridge</orth>
+    </form>
+    <trans>Coatbridge College</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

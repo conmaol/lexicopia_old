@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ooraid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>òraid</orth>
+    </form>
+    <trans>speech</trans>
+    <trans>address</trans>
+    <note>Listed in An Seotal: Language.</note>
+    <note>speech - òraide poss cspeeches - òraidean pl</note>
+    <note>speech - òraide poss cspeeches - òraidean pl</note>
+  </ainmear_boireann>

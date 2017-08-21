@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Baile_Dhubhthaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Baile Dhubhthaich</orth>
+    </form>
+    <trans>Tain</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

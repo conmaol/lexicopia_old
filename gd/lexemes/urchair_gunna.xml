@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="urchair_gunna" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>urchair gunna</orth>
+    </form>
+    <trans>gunshot</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

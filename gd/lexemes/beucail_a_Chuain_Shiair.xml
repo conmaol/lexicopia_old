@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="beucail_a_Chuain_Shiair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>beucail a' Chuain Shiair</orth>
+    </form>
+    <trans>the roar of the Atlantic</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

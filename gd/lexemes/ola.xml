@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ola" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ola </orth>
+    </form>
+    <trans>oil</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>oil - ola poss coils - olaichean pl</note>
+  </ainmear_fireann>

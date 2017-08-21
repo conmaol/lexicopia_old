@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tnùth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tnùth</orth>
+    </form>
+    <form>
+      <orth>tnù</orth>
+    </form>
+    <trans>malice</trans>
+    <trans>envy</trans>
+  </ainmear_fireann>

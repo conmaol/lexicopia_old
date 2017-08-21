@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="deoch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>deoch</orth>
+    </form>
+    <form>
+      <orth>dighe</orth>
+    </form>
+    <form>
+      <orth>dibhe</orth>
+    </form>
+    <form>
+      <orth>deochan</orth>
+    </form>
+    <form>
+      <orth>deochannan</orth>
+    </form>
+    <trans>drink</trans>
+    <trans>beverage</trans>
+    <note>Listed in An Seotal: Home economics.</note>
+  </ainmear_boireann>

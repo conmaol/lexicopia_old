@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dèan_coimeas_eadar_an_dà_fhaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dèan coimeas eadar an dà fhaid</orth>
+    </form>
+    <trans>compare the two lengths</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

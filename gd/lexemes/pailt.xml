@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="pailt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pailt</orth>
+    </form>
+    <trans>plentiful</trans>
+    <trans>abundant</trans>
+    <trans>copious</trans>
+    <trans>flush</trans>
+    <trans>numerous</trans>
+    <trans>profuse</trans>
+    <trans>rife</trans>
+    <trans>sufficient</trans>
+    <trans>unstinted</trans>
+    <note>Listed in TYGD.</note>
+    <note>Listed in CM.</note>
+  </buadhair>

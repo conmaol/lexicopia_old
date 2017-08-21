@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="pàipear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pàipear</orth>
+    </form>
+    <trans>paper</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>paper - pàipeir poss cpapers - pàipearan pl</note>
+  </ainmear_fireann>

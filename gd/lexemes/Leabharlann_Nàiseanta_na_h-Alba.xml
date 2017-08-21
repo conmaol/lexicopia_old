@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Leabharlann_Nàiseanta_na_h-Alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Leabharlann Nàiseanta na h-Alba</orth>
+    </form>
+    <trans index="only">National Library of Scotland</trans>
+    <trans index="no">the National Library of Scotland</trans>
+    <trans>NLS</trans>
+    <note>Offical organisational name.</note>
+  </lexeme>

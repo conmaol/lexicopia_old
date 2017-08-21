@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="ag_iomlaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ag iomlaid</orth>
+    </form>
+    <trans>exchanging</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </gnìomhair>

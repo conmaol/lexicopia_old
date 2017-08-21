@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="riaghail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>riaghail</orth>
+    </form>
+    <trans>rule</trans>
+    <trans>regulate</trans>
+    <trans>control</trans>
+    <trans>govern</trans>
+    <trans>administer</trans>
+    <trans>moderate</trans>
+    <note>Listed in CM.</note>
+  </gnìomhair>

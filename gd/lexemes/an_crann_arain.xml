@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="an_crann_arain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>an Crann Arain</orth>
+    </form>
+    <trans>the Plough</trans>
+    <trans>the Big Dipper</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>the Plough - a' Chrainn Arain sc</note>
+  </lexeme>

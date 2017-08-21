@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="banntrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>banntrach</orth>
+    </form>
+    <trans>widow</trans>
+    <trans>widower</trans>
+    <note>Even when denoting a man, this noun is grammatically feminine, according to Borgstrøm 1937: 158.</note>
+  </ainmear_boireann>

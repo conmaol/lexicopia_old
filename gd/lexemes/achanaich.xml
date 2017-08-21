@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="achanaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>achanaich</orth>
+    </form>
+    <trans>invocation</trans>
+    <trans>entreaty</trans>
+    <trans>supplication</trans>
+    <note>Listed in CM.</note>
+    <note>Also: achanaidh.</note>
+  </ainmear_boireann>

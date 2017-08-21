@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="luub-verb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lùb</orth>
+    </form>
+    <trans>bend</trans>
+    <trans>curve</trans>
+    <trans>bow</trans>
+    <trans>inflect</trans>
+    <trans>stoop</trans>
+    <trans>wind</trans>
+    <trans>meander</trans>
+    <trans>swerve</trans>
+    <note>Listed in CM.</note>
+  </gnìomhair>

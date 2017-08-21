@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cuimhne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuimhne</orth>
+    </form>
+    <trans>memory</trans>
+    <trans>recollection</trans>
+    <trans>remembrance</trans>
+    <note> Derived from Old Irish 'cuman' = co + men (mind). </note>
+  </ainmear_boireann>

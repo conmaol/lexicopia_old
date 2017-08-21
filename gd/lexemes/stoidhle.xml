@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="stoidhle" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>stoidhle</orth>
+    </form>
+    <trans>style</trans>
+    <note>Listed in An Seotal: Science, Music, Computing.</note>
+    <note>style (of plant) - stoidhle scstyles (of plant) - stoidhlean iom</note>
+    <note>style - stoidhle poss c styles - stoidhlichean pl</note>
+  </ainmear_boireann>

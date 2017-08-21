@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="an_t-eilean_fada" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An t-Eilean Fada</orth>
+    </form>
+    <trans index="only">Outer Hebrides</trans>
+    <trans index="no">the Outer Hebrides</trans>
+  </lexeme>

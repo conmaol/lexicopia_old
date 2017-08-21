@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sodium_carbonat" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sodium carbonat</orth>
+    </form>
+    <trans>sodium carbonate</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

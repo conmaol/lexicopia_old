@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="còrdaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>còrdaid</orth>
+    </form>
+    <trans>chordate</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>chordate - còrdaid scchordates - còrdaidean iom</note>
+  </ainmear_boireann>

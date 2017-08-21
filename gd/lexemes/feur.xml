@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="feur" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>feur</orth>
+    </form>
+    <trans>grass</trans>
+    <trans>hay</trans>
+    <note>Listed in An Seotal: Science, with meaning 'grass'.</note>
+    <note>From Scottish Natural Heritage's Faclan Nàdair, as 'grass', 'hay'.</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="roghainn_bhon_chlàr-cluiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>roghainn bhon chlàr-cluiche</orth>
+    </form>
+    <trans>choice from the playlist</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

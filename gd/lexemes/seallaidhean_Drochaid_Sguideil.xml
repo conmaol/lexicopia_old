@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="seallaidhean_Drochaid_Sguideil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seallaidhean Drochaid Sguideil</orth>
+    </form>
+    <trans>Conon Bridge scenery</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

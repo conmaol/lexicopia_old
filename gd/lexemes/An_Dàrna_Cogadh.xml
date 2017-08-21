@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="An_Dàrna_Cogadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Dàrna Cogadh</orth>
+    </form>
+    <trans>The Second World War</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

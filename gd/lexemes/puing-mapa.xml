@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="puing-mapa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>puing-mapa</orth>
+    </form>
+    <trans>waypoint</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>waypoint - puing-mapa poss cwaypoints - puingean-mapa pl</note>
+  </ainmear_boireann>

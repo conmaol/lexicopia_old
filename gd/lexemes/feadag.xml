@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="feadag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>feadag</orth>
+    </form>
+    <trans>tin whistle</trans>
+    <trans>penny whistle</trans>
+    <trans index="only">whistle</trans>
+    <trans>plover</trans>
+    <trans>Charadriidae spp.</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>Listed in CM, as 'whistle' or 'plover'.</note>
+  </ainmear_boireann>

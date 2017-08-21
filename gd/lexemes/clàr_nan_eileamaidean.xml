@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="clàr_nan_eileamaidean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clàr nan eileamaidean</orth>
+    </form>
+    <trans index="no">the periodic table of the elements</trans>
+    <trans index="only">periodic</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

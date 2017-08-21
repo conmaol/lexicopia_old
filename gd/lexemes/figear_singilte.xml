@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="figear_singilte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>figear singilte</orth>
+    </form>
+    <trans>single figure</trans>
+    <trans>single digit</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="comhachag_adharcach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>comhachag adharcach</orth>
+    </form>
+    <trans>long-eared owl</trans>
+    <trans>great horned owl</trans>
+    <trans>Asio otus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair, as 'long eared owl'.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/comhachag adharcach.mp3</note>
+    <note>Listed in An Seotal: Science, as 'great horned owl'.</note>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

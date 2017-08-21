@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="pàrlamaid_na_h-eòrpa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Pàrlamaid na h-Eòrpa</orth>
+    </form>
+    <trans index="no">the European Parliament</trans>
+    <trans index="only">European Parliament</trans>
+    <note>Listed in An Seotal: Modern Studies</note>
+  </ainmear_boireann>

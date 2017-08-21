@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bathar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bathar</orth>
+    </form>
+    <form>
+      <orth>bathair</orth>
+    </form>
+    <trans>merchandise</trans>
+    <trans>goods</trans>
+    <trans>products</trans>
+    <trans>wares</trans>
+    <trans>commodities</trans>
+    <trans>product</trans>
+    <note>Listed in An Seotal: General, as 'product'.</note>
+  </ainmear_fireann>

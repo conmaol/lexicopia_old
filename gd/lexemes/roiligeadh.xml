@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="roiligeadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>roiligeadh</orth>
+    </form>
+    <trans>rolling</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>rolling - roiligidh poss crollings - roiligidhean pl</note>
+  </ainmear_fireann>

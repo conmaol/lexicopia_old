@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="An_t-Samhain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An t-Samhain</orth>
+    </form>
+    <trans>November</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Synonyms: Am Mìos Dubh m</note>
+    <note>Info: Am Mìos Dubh is 'the black month'; Samhain is the traditional start of winter.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/An Samhain.mp3</note>
+  </ainmear_boireann>

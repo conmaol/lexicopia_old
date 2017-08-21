@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="comainn_buidhnean_agus_taighean-tasgaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>comainn, buidhnean agus taighean-tasgaidh</orth>
+    </form>
+    <trans>associations, organisations and museums</trans>
+    <note>Listed in An Seotal: History.</note>
+  </lexeme>

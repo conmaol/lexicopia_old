@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="clamhan_gobhlach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clamhan gobhlach</orth>
+    </form>
+    <trans>red kite</trans>
+    <trans>Milvus milvus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: clamhain ghobhlach</note>
+    <note>Info: There is also a Gaelic proverb associated with the kite - 'Cha d' thainig eun glan riamh à nead a' chlamhain' - a clean bird never came from a kite's nest.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/clamhan gobhlach.mp3</note>
+  </ainmear_fireann>

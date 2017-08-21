@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gas</orth>
+    </form>
+    <trans>gas</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>gas - gas scgases - gasan iomgases - gasaichean iom</note>
+  </ainmear_fireann>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="sgreuchag_oidhche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sgreuchag oidhche</orth>
+    </form>
+    <trans>barn owl</trans>
+    <trans>Tyto alba</trans>
+    <trans>nightjar</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair, as 'barn owl'.</note>
+    <note>Info: Sgreuchag-oidhche translates literally as 'night screecher'. </note>
+    <note>Listed in CM, as 'nightjar'.</note>
+  </ainmear_boireann>

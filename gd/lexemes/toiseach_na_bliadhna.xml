@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="toiseach_na_bliadhna" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>toiseach na bliadhna</orth>
+    </form>
+    <trans>beginning of the year</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

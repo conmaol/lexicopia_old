@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="co-fhad_nan_tràth_earraich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>co-fhad nan tràth earraich</orth>
+    </form>
+    <trans>spring equinox</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

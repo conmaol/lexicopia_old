@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="poilitònalachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>poilitònalachd</orth>
+    </form>
+    <trans>polytonality</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>polytonality - poilitònalachd poss cpolytonalities - poilitònalachdan pl</note>
+  </ainmear_boireann>

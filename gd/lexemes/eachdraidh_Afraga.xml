@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="eachdraidh_Afraga" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eachdraidh Afraga</orth>
+    </form>
+    <trans>the history of Africa</trans>
+    <trans>African history</trans>
+    <note>Listed in An Seotal: History.</note>
+  </lexeme>

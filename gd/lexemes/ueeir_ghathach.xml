@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ueeir_ghathach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uèir ghathach</orth>
+    </form>
+    <trans>barbed wire</trans>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

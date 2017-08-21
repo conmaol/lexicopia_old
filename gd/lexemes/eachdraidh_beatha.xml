@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="eachdraidh_beatha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eachdraidh beatha</orth>
+    </form>
+    <trans>biography</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>biography - eachdraidh-beatha poss cbiographies - eachdraidhean-beatha pl</note>
+  </ainmear_boireann>

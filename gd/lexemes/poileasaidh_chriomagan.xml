@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="poileasaidh_chriomagan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>poileasaidh chriomagan</orth>
+    </form>
+    <trans>cookies policy</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

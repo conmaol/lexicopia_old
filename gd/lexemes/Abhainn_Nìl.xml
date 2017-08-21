@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Abhainn_Nìl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Abhainn Nìl</orth>
+    </form>
+    <trans>River Nile</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>River Nile - Abhainn Nìl poss c</note>
+  </ainmear_boireann>

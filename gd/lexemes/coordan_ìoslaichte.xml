@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="coordan_ìoslaichte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>còrdan ìoslaichte</orth>
+    </form>
+    <trans>diminished chords</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

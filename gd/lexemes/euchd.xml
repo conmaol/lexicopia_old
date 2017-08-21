@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="euchd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>euchd</orth>
+    </form>
+    <trans sources="cmark">achievement</trans>
+    <trans sources="cmark">deed</trans>
+    <trans sources="cmark">exploit</trans>
+    <trans sources="cmark">feat</trans>
+    <trans sources="cmark">masterpiece</trans>
+  </ainmear_fireann>

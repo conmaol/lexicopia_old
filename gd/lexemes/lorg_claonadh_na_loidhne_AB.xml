@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="lorg_claonadh_na_loidhne_AB" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lorg claonadh na loidhne AB</orth>
+    </form>
+    <trans>find the slope of the line AB</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

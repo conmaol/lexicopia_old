@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="an_treas_pearsa_iomarra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>an treas pearsa iomarra</orth>
+    </form>
+    <trans>third person plural</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Mauritius" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Mauritius</orth>
+    </form>
+    <trans>Mauritius</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Mauritius - Mhauritius poss c</note>
+  </ainmear_fireann>

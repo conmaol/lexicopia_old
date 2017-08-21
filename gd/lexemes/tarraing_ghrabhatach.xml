@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="tarraing_ghrabhatach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tarraing ghrabhatach</orth>
+    </form>
+    <trans>gravitational pull</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="seangan_duilleag-ghearradair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seangan duilleag-ghearradair</orth>
+    </form>
+    <trans>leaf-cutter ant</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

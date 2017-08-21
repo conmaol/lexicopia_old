@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="nithean_agus_tachartasan_anns_na_speuran" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nithean agus tachartasan anns na speuran</orth>
+    </form>
+    <trans>specific celestial bodies and phenomena</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

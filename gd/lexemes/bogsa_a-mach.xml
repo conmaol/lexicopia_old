@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bogsa_a-mach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bogsa a-mach</orth>
+    </form>
+    <trans>outbox</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>outbox - bogsa a-mach poss coutboxes - bogsaichean a-mach pl</note>
+  </ainmear_fireann>

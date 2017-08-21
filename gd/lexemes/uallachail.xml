@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="uallachail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uallachail</orth>
+    </form>
+    <trans>burdensome</trans>
+    <trans>depressing</trans>
+    <note>Listed in CM.</note>
+  </buadhair>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dioplòmasaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dioplòmasaidh</orth>
+    </form>
+    <trans>diplomacy</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>diplomacy - dioplòmasaidh poss cdiplomacies - dioplòmasaidhean pl</note>
+  </ainmear_fireann>

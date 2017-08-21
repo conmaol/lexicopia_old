@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="planntachas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>planntachas</orth>
+    </form>
+    <trans>plantation</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>plantation - planntachais poss cplantations - planntachasan pl</note>
+  </ainmear_fireann>

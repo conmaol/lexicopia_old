@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sreapadairean_Beinn_Nibheis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sreapadairean Beinn Nibheis</orth>
+    </form>
+    <trans>Ben Nevis climbers</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

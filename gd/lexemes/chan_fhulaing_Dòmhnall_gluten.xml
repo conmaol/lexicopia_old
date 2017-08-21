@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="chan_fhulaing_Dòmhnall_gluten" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>chan fhulaing Dòmhnall gluten</orth>
+    </form>
+    <trans>Donald is gluten intolerant</trans>
+    <note>Listed in An Seotal: Home economics.</note>
+  </lexeme>

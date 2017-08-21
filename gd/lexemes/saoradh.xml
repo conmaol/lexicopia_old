@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="saoradh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>saoradh</orth>
+    </form>
+    <trans>emancipation</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>emancipation - saoraidh poss c</note>
+  </ainmear_fireann>

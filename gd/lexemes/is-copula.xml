@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="is-copula" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>is</orth>
+    </form>
+    <trans>is</trans>
+    <trans>are</trans>
+    <trans>am</trans>
+  </lexeme>

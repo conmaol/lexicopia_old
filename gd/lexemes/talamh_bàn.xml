@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="talamh_bàn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>talamh bàn</orth>
+    </form>
+    <trans>fallow ground</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

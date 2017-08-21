@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="neach-taice_sa_chlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>neach-taice sa chlas</orth>
+    </form>
+    <trans>classròm assistant</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

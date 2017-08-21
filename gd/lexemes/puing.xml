@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="puing" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>puing</orth>
+    </form>
+    <trans>degree</trans>
+    <trans>point</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>degree - puinge poss cdegrees - puingean pl</note>
+    <note>point - puinge poss cpoints - puingean pl</note>
+  </ainmear_boireann>

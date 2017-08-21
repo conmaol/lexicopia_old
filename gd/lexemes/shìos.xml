@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="shìos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>shìos</orth>
+    </form>
+    <trans>(at) below</trans>
+    <trans>down there</trans>
+    <trans>down there</trans>
+    <trans>below</trans>
+    <trans index="only">down</trans>
+  </lexeme>

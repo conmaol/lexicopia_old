@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="treooir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>treòir</orth>
+    </form>
+    <trans>energy</trans>
+    <trans>power</trans>
+    <trans>strength</trans>
+    <trans>vigour</trans>
+    <trans>direction</trans>
+    <trans>guidance</trans>
+    <trans>instruction</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>instruction - treòire poss cinstructions - treòrachadh pl</note>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

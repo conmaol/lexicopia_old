@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cuileag-shnìomhain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuileag-shnìomhain</orth>
+    </form>
+    <trans>glow-worm</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: cuileagan-snìomhain</note>
+    <note>Latin: Lampyris noctiluca</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cuileag-shiomhain.mp3</note>
+  </ainmear_boireann>

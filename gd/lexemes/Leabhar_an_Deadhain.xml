@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Leabhar_an_Deadhain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Leabhar an Deadhain</orth>
+    </form>
+    <trans>the Bòk of the Dean</trans>
+    <note>From Sìm Innes's (2010) PhD thesis abstract.</note>
+  </lexeme>

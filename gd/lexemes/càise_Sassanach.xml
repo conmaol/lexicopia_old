@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="càise_Sassanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>càise Sassanach</orth>
+    </form>
+    <trans>English chèse</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

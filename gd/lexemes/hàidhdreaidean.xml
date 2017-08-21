@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="hàidhdreaidean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>hàidhdreaidean</orth>
+    </form>
+    <trans>hydrogen</trans>
+    <note>Listed in Am Faclair Beag.</note>
+    <note>hydrogen - hàidhdreaidein sc</note>
+  </ainmear_fireann>

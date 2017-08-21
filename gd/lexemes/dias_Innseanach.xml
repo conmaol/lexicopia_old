@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dias_Innseanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dias Innseanach</orth>
+    </form>
+    <trans sources="cmark">corn on the cob</trans>
+    <trans>maize</trans>
+  </lexeme>

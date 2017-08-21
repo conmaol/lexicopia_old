@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="rach_a-steach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>rach a-steach</orth>
+    </form>
+    <trans>go inside</trans>
+    <trans>go in</trans>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="esprit" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>esprit</orth>
+    </form>
+    <trans>esprit</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>esprit - esprit poss c</note>
+  </ainmear_boireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cosamhlachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cosamhlachd</orth>
+    </form>
+    <trans>allegory</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>allegory - cosamhlachd poss callegories - cosamhlachdan pl</note>
+  </ainmear_boireann>

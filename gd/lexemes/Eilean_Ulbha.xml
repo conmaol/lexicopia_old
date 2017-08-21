@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Eilean_Ulbha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Eilean Ulbha</orth>
+    </form>
+    <trans>Island of Ulva</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

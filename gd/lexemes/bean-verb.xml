@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="bean-verb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bean</orth>
+    </form>
+    <trans>touch</trans>
+    <trans>handle</trans>
+    <trans>meddle with</trans>
+    <note>Listed in CM.</note>
+    <note>Listed in TYGD.</note>
+  </gnìomhair>

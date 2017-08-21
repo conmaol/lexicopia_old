@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="sgitheach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sgitheach</orth>
+    </form>
+    <trans>hawthorn</trans>
+    <trans>Crataegus monogyna</trans>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: craobhan-sgithich</note>
+    <note>Info: The old term for hawthorn 'uath' stands for the letter 'h' in the Gaelic alphabet. </note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/droigheann.mp3</note>
+  </ainmear_fireann>

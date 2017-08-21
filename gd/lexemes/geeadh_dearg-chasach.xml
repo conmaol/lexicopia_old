@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="geeadh_dearg-chasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gèadh dearg-chasach</orth>
+    </form>
+    <trans>pink-footed goose</trans>
+    <trans>Anser brachyrhynchus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: geòidh dhearga-chasach [??]</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/geadh dearg-chasach.mp3</note>
+  </ainmear_fireann>

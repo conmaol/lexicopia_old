@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cìs_luach-leasaichte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cìs luach-leasaichte</orth>
+    </form>
+    <trans>value added tax</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="poll" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>poll</orth>
+    </form>
+    <trans>mire</trans>
+    <trans>mud</trans>
+    <trans>pond</trans>
+    <trans>pool</trans>
+    <trans>peatbank</trans>
+    <trans>peatbog</trans>
+    <trans>bog</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cuairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuairt</orth>
+    </form>
+    <trans>cycle</trans>
+    <trans>rotation</trans>
+    <trans>turn</trans>
+    <trans>revolution</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>cycle - cuairte sccycles - cuairtean iom</note>
+    <note>Listed in An Seotal: Maths, as 'rotation', 'turn', 'revolution'.</note>
+    <note>rotation - cuairte poss crotations - cuairtean pl</note>
+    <note>turn - cuairt(e) poss cturns - cuairtean pl</note>
+    <note>revolution - cuairte poss crevolutions - cuairtean pl</note>
+  </ainmear_boireann>

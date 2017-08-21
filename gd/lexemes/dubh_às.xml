@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="dubh_às" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dubh às</orth>
+    </form>
+    <trans>delete</trans>
+    <trans>cancel out</trans>
+    <note>Listed in An Seotal: Maths, as 'cancel out'.</note>
+    <note>Listed in An Seotal: Computing, as 'delete'.</note>
+  </gnìomhair>

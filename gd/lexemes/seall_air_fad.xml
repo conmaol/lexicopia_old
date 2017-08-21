@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="seall_air_fad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seall air fad</orth>
+    </form>
+    <trans>show all</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bruu-gheal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>brù-gheal</orth>
+    </form>
+    <trans>wheatear</trans>
+    <trans>Oenanthe oenanthe</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: brùthan-geala</note>
+    <note>Info: The Gaelic name means 'white belly'.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/bru-geal.mp3</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

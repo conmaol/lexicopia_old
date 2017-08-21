@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="slisneag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="_ag-suffix"/>
+    <form>
+      <orth>slisneag</orth>
+    </form>
+    <trans>chip</trans>
+    <trans>potato chip</trans>
+    <trans>wood-shaving</trans>
+    <trans index="only">shaving</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

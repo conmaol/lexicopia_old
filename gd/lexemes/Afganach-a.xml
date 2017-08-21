@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="Afganach-a" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Afganach</orth>
+    </form>
+    <trans>Afghan</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </buadhair>

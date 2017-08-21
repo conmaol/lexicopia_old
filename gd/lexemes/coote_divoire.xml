@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="coote_divoire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Côte D'Ivoire</orth>
+    </form>
+    <trans>Côte D'Ivoire</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Côte D'Ivoire - Chôte D'Ivoire poss c</note>
+  </ainmear_fireann>

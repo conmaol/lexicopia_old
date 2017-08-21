@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="iogh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>iogh</orth>
+    </form>
+    <trans>yew</trans>
+    <trans>European yew</trans>
+    <trans>Taxus baccata</trans>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Info: Iogh is the letter 'i' in the Gaelic alphabet.</note>
+  </ainmear_fireann>

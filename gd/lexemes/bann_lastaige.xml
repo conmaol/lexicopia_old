@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="bann_lastaige" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="bann"/>
+    <part ref="lastaig"/>
+    <form>
+      <orth>bann lastaig(e)</orth>
+    </form>
+    <trans>elastic band</trans>
+    <trans>rubber band</trans>
+    <note>Listed in Colin Mark's (2004) Gaelic-English dictionary.</note>
+  </ainmear_fillte>

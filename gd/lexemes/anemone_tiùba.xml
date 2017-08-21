@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="anemone_tiùba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>anemone tiùba</orth>
+    </form>
+    <trans>tube anemone</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: anemonaidhean tiùba </note>
+    <note>Info: Tha a dhà dhe na trì anemonaidhean tiùba ann am Breatainn sònraichte do dh'Alba. Two of the three tube anemones found in Britain are special to Scotland. </note>
+  </ainmear_fireann>

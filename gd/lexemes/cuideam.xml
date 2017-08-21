@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cuideam" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuideam</orth>
+    </form>
+    <trans>weight</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>weight - cuideim poss cweights - cuideaman pl</note>
+  </ainmear_fireann>

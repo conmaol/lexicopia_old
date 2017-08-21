@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cathag_nan_casan_dearg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cathag nan casan dearg</orth>
+    </form>
+    <trans>chough</trans>
+    <trans>Pyrrhocorax pyrrhocorax</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  </ainmear_boireann>

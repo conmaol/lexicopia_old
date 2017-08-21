@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="miios_meadhain_an_t-samhraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mìos meadhain an t-samhraidh</orth>
+    </form>
+    <trans>July</trans>
+    <trans>the middle month of summer</trans>
+  </ainmear_fireann>

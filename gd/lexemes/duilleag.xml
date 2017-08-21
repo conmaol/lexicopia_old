@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="duilleag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="_ag-suffix"/>
+    <form>
+      <orth>duilleag</orth>
+    </form>
+    <trans>leaf</trans>
+    <trans>page</trans>
+    <note>Listed in An Seotal: Computing, as 'page'.</note>
+    <note>page - duilleig(e) poss cpages - duilleagan pl</note>
+  </lexeme>

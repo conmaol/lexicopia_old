@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="baracùda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>baracùda</orth>
+    </form>
+    <trans>barracuda</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>barracuda - baracùda scbarracudas - baracùdathan iom</note>
+  </ainmear_fireann>

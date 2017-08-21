@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gille_feadaige" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gille feadaige</orth>
+    </form>
+    <trans>dunlin</trans>
+    <trans>Calidris alpina</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: gillean-feadaig, pollarain, grailleagan</note>
+    <note>Info: The Gaelic name 'gille-feadaig' means the whistling servant.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/gille-feadaig.mp3</note>
+  </ainmear_fireann>

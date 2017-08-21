@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="earrann_adhartachaidh_sonàta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>earrann adhartachaidh sonàta</orth>
+    </form>
+    <trans>delopment section of sonata</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

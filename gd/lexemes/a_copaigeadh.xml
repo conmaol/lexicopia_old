@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="a_copaigeadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a' copaigeadh</orth>
+    </form>
+    <trans>copying</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </gnìomhair>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="S_ann_air_costa_deas_na_Cuimrigh_a_tha_Bàgh_Charmarthen" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Is ann air costa deas na Cuimrigh a tha Bàgh Charmarthen</orth>
+    </form>
+    <trans>Carmarthen Bay is on the south Wales coast</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

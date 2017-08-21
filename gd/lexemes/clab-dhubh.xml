@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="clab-dhubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clab-dhubh</orth>
+    </form>
+    <trans>horse mussel</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: claban-dubhaidh </note>
+    <note>Latin: Modiolus modiolus</note>
+  </ainmear_fireann>

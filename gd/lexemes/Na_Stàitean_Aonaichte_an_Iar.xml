@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Na_Stàitean_Aonaichte_an_iar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Na Stàitean Aonaichte an iar</orth>
+    </form>
+    <trans>western United States</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

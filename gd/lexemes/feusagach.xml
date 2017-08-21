@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="feusagach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="feusag"/>
+    <part ref="_ach-suffix"/>
+    <form>
+      <orth>feusagach</orth>
+    </form>
+    <trans>bearded</trans>
+  </buadhair>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="siamang" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>siamang</orth>
+    </form>
+    <trans>siamang</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>siamang - siamang scsiamangs - siamangan iom</note>
+  </ainmear_fireann>

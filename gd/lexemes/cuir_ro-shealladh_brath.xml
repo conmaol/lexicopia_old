@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuir_ro-shealladh_brath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuir ro-shealladh brath</orth>
+    </form>
+    <trans>add post preview</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

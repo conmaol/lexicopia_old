@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ann_am_meadhan_a_chatha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ann am meadhan a' chatha</orth>
+    </form>
+    <trans>in the midst of battle</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

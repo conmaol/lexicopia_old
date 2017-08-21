@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="lorg_farsaingeachd_an_triantain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lorg farsaingeachd an triantain</orth>
+    </form>
+    <trans>find the area of the triangle</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

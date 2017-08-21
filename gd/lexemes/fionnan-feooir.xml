@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="fionnan-feooir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fionnan-feòir</orth>
+    </form>
+    <trans>grasshopper</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>grasshopper - fionnain-feòir sc grasshoppers - fionnain-feòir iom</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: fionnain-fheòir</note>
+    <note>Latin: Orthoptera (Order) spp.</note>
+  </ainmear_fireann>

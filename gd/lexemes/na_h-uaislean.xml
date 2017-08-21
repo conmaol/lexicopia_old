@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="na_h-uaislean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>na h-uaislean</orth>
+    </form>
+    <trans index="no">the nobility</trans>
+    <trans index="only">nobility</trans>
+    <trans index="no">the gentry</trans>
+    <trans index="only">gentry</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

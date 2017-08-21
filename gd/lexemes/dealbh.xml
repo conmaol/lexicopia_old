@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear id="dealbh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dealbh</orth>
+    </form>
+    <form>
+      <orth>dealbha</orth>
+    </form>
+    <form>
+      <orth>deilbh</orth>
+    </form>
+    <form>
+      <orth>deilbhe</orth>
+    </form>
+    <form>
+      <orth>dealbhan</orth>
+    </form>
+    <trans>picture</trans>
+    <trans>drawing</trans>
+    <trans>illustration</trans>
+    <note>Either masculine or feminine.</note>
+    <note>Listed in An Seotal: Art as 'drawing', 'illustration', 'picture'.</note>
+  </ainmear>

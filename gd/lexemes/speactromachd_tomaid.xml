@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="speactromachd_tomaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>speactromachd tomaid</orth>
+    </form>
+    <trans>mass spectrometry</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="glè_mhath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>glè mhath</orth>
+    </form>
+    <trans>very good</trans>
+    <trans>very well</trans>
+  </lexeme>

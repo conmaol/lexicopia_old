@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="guth_a_bharatòn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>guth a' bharatòn</orth>
+    </form>
+    <trans>the baritone's voice</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

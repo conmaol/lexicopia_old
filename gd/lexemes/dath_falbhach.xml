@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dath_falbhach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dath falbhach</orth>
+    </form>
+    <trans>receding colour</trans>
+    <note>Listed in An Seotal: Art.</note>
+  </lexeme>

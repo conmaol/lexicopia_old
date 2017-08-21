@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="maille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>maille</orth>
+    </form>
+    <trans>delay</trans>
+    <trans>tardiness</trans>
+    <trans>slowness</trans>
+    <trans>procrastination</trans>
+    <note>Listed in TYGD.</note>
+  </ainmear_boireann>

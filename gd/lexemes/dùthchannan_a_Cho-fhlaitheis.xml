@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dùthchannan_a_Cho-fhlaitheis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dùthchannan a' Cho-fhlaitheis</orth>
+    </form>
+    <trans>countries of the Commonwealth</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

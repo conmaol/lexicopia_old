@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="luchd-obrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>luchd-obrach</orth>
+    </form>
+    <trans>staff</trans>
+    <trans>personnel</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>personnel - luchd-obrach poss c</note>
+    <note>staff - luchd-obrach poss c</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="clàr-dhealbhan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clàr-dhealbhan</orth>
+    </form>
+    <trans>pictogram</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>pictogram - clàir-dhealbhan poss cpictograms - clàran-dhealbhan pl</note>
+  </ainmear_fireann>

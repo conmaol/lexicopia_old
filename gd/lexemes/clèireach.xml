@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="clèireach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clèireach</orth>
+    </form>
+    <trans>presbyterian</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+    <note/>
+  </buadhair>

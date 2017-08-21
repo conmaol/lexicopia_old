@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="fòrsaichean_agus_gluasad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fòrsaichean agus gluasad</orth>
+    </form>
+    <trans>forces and motion</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

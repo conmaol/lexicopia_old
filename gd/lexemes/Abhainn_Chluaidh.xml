@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Abhainn_Chluaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Abhainn Chluaidh</orth>
+    </form>
+    <trans>River Clyde</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_boireann>

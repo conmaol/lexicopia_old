@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Mòinteach_Hayward" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Mòinteach Hayward</orth>
+    </form>
+    <trans>Haywards Heath</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Haywards Heath - Mòinteach Hayward poss c</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Rubha_Chorsewall" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Rubha Chorsewall</orth>
+    </form>
+    <trans>Corsewall Point</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_fireann>

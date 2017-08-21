@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tomhas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tomhas</orth>
+    </form>
+    <trans>measure</trans>
+    <trans>measurement</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>measure - tomhais poss cmeasures - tomhasan pl</note>
+    <note>measurement - tomhais poss cmeasurements - tomhasan pl</note>
+  </ainmear_fireann>

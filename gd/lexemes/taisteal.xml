@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="taisteal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>taisteal</orth>
+    </form>
+    <trans>journey</trans>
+    <trans>voyage</trans>
+    <trans>travel</trans>
+    <trans>pilgrimage</trans>
+    <trans>march</trans>
+    <note>Listed in Colin Mark’s dictionary as ‘journey’, ‘travel’.</note>
+    <note>Listed in Dwelly: Journey, voyage, journeying, voyaging, pilgrimage, travel, march. Gu taisteal nan tonn gàireach, to travelling of the foamy waves — Òran nam Fineachan, G 3, 4. </note>
+    <note>Listed in MacBain: taisdeal: a journey, [taisdil] (Cars.), journey (v.imp.) Ir. [taisdiol]: [*to-asdel], [*ad-sod-], root [sod-], as in [astar].</note>
+    <note>eDIL: taistel, taistell (taisdiol, taisdioll): travelling, traversing, visiting.</note>
+  </ainmear_fireann>

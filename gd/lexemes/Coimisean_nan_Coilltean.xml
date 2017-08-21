@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Coimisean_nan_Coilltean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Coimisean nan Coilltean</orth>
+    </form>
+    <trans>the Forestry Commission</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

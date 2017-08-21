@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="connspaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>connspaid</orth>
+    </form>
+    <trans>controversy</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>controversy - connspaid(e) poss ccontroversies - connspaidean pl</note>
+  </ainmear_boireann>

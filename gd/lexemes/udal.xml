@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="udal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>udal</orth>
+    </form>
+    <trans>fluctuation</trans>
+    <trans>oscillation</trans>
+    <trans>wavering</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

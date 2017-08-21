@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bholcàno" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bholcàno</orth>
+    </form>
+    <trans>volcano</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>volcano - bholcàno scvolcanoes - bholcànothan iom</note>
+  </ainmear_fireann>

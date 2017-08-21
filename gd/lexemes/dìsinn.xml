@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dìsinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dìsinn</orth>
+    </form>
+    <trans>dice</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>dice - dìsinn poss cdice - dìsnean pl</note>
+  </ainmear_fireann>

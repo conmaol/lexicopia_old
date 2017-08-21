@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="nàdar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nàdar</orth>
+    </form>
+    <trans>nature</trans>
+    <trans>type</trans>
+    <trans>knowability</trans>
+    <trans>constitution</trans>
+    <trans>humour</trans>
+    <trans>instinct</trans>
+    <trans>property</trans>
+    <trans>temper</trans>
+    <note>Listed in An Seotal: Science, as 'nature'.</note>
+    <note>Listed in An Seotal: Religious and Moral, as 'knowability'.</note>
+    <note>Listed in TYGD.</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

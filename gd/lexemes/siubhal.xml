@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="siubhal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>siubhal</orth>
+    </form>
+    <trans>travel</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>travel - siubhail poss c</note>
+  </ainmear_fireann>

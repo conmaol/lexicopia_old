@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="clàr-ama" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clàr-ama</orth>
+    </form>
+    <trans>timetable</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>timetable - clàir-ama poss ctimetables - clàran-ama pltimetables - clàir-ama pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="truagh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>truagh</orth>
+    </form>
+    <trans>miserable</trans>
+    <trans>wretched</trans>
+    <trans>pitiful</trans>
+    <trans>poor</trans>
+  </buadhair>

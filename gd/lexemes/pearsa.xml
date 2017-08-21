@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="pearsa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pearsa</orth>
+    </form>
+    <trans>person</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>person - pearsa poss cpersons - pearsachan pl</note>
+  </ainmear_fireann>

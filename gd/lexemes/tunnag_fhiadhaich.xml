@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="tunnag_fhiadhaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tunnag fhiadhaich</orth>
+    </form>
+    <trans>mallard</trans>
+    <trans>Anas platyrhynchos</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  </ainmear_boireann>

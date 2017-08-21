@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="molach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>molach</orth>
+    </form>
+    <trans>furry</trans>
+    <trans>hairy</trans>
+    <trans>hirsute</trans>
+    <trans>rough</trans>
+    <trans>shaggy</trans>
+  </buadhair>

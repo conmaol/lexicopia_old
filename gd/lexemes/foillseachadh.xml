@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="foillseachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>foillseachadh</orth>
+    </form>
+    <trans>publishing</trans>
+    <trans>publication</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>publishing - foillseachaidh poss c</note>
+    <note>Listed in An Seotal: Computing, as 'publication'.</note>
+    <note>publication - foillseachaidh poss cpublications - foillseachaidhean pl</note>
+  </ainmear_fireann>

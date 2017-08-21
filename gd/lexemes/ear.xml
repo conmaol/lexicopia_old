@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ear</orth>
+    </form>
+    <trans>east</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>east - ear poss c</note>
+  </ainmear_boireann>

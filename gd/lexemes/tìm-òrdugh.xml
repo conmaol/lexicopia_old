@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tìm-òrdugh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tìm-òrdugh</orth>
+    </form>
+    <trans>chronology</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>chronology - tìm-òrdugh scchronologies - tìm-òrdughan iom</note>
+  </ainmear_fireann>

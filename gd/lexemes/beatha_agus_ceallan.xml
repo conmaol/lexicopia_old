@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="beatha_agus_ceallan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>beatha agus ceallan</orth>
+    </form>
+    <trans>life and cells</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

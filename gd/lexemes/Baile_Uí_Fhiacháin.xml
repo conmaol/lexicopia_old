@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Baile_Uí_Fhiacháin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Baile Uí Fhiacháin</orth>
+    </form>
+    <trans>Newport</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

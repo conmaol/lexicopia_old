@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="eadar-sgaoil_salainn_ann_an_uisge" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eadar-sgaoil salainn ann an uisge</orth>
+    </form>
+    <trans>dissolve salt in water</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

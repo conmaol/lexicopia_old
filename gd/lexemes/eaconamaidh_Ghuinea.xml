@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="eaconamaidh_Ghuinea" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eaconamaidh Ghuinea</orth>
+    </form>
+    <trans>economy of Guinea</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

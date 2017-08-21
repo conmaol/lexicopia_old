@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="An_Talamh_Cruinn-eòlas_reul-eòlach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Talamh (Cruinn-eòlas reul-eòlach)</orth>
+    </form>
+    <trans>Earth (Astronomical geography)</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

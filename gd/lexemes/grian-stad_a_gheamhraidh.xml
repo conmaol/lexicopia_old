@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="grian-stad_a_gheamhraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>grian-stad a' gheamhraidh</orth>
+    </form>
+    <trans>winter solstice</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

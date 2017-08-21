@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dòighean_datha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dòighean datha</orth>
+    </form>
+    <trans>colour techniques</trans>
+    <note>Listed in An Seotal: Art.</note>
+  </lexeme>

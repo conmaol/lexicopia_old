@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tìotanam" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tìotanam</orth>
+    </form>
+    <trans>titanium</trans>
+    <note>Listed in An Seotal: Science, as 'titanium'.</note>
+  </ainmear_fireann>

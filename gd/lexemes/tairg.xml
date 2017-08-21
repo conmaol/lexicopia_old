@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="tairg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tairg</orth>
+    </form>
+    <trans>bid</trans>
+    <trans>proffer</trans>
+    <trans>propose</trans>
+    <trans>tender</trans>
+  </gnìomhair>

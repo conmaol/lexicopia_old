@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="neach-casaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>neach-casaid</orth>
+    </form>
+    <trans>prosecutor</trans>
+    <trans>procurator</trans>
+    <trans>protestor</trans>
+    <note>Listed in TYGD, as 'procurator'.</note>
+    <note>Listed in CM, as 'protestor'.</note>
+  </lexeme>

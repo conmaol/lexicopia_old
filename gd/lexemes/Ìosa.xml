@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Ìosa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Ìosa</orth>
+    </form>
+    <trans>Jesus</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+    <note>Jesus - Ìosa sc</note>
+  </ainmear_fireann>

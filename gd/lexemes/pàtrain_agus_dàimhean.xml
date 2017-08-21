@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="pàtrain_agus_dàimhean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pàtrain agus dàimhean</orth>
+    </form>
+    <trans>patterns and relationships</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

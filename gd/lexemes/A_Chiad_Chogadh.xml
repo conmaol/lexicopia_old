@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="A_Chiad_Chogadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>A' Chiad Chogadh</orth>
+    </form>
+    <trans>The First World War</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

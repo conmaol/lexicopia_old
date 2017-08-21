@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="forca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>forc(a)</orth>
+    </form>
+    <trans>fork</trans>
+    <note>Listed in An Seotal: Home economics.</note>
+    <note>fork - forca poss cforks - forcaichean pl</note>
+  </ainmear_boireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Srath_Iorc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Srath Iorc</orth>
+    </form>
+    <trans>Vale of York</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Vale of York - Srath Iorc poss c</note>
+  </ainmear_fireann>

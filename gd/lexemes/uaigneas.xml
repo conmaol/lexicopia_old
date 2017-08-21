@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="uaigneas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uaigneas</orth>
+    </form>
+    <trans>privacy</trans>
+    <trans>secrecy</trans>
+    <trans>loneliness</trans>
+    <trans>remoteness</trans>
+    <trans>recess</trans>
+    <trans>lonesomeness</trans>
+    <trans>solitude</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

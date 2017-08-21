@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="glan-v" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>glan</orth>
+    </form>
+    <trans>clean</trans>
+    <trans>purge</trans>
+    <trans>purify</trans>
+    <trans>refine</trans>
+    <trans>weed</trans>
+    <trans>clear</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </gnìomhair>

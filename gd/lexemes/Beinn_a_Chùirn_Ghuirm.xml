@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Beinn_a_Chùirn_Ghuirm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Beinn a' Chùirn Ghuirm</orth>
+    </form>
+    <trans>Cairn Gorm Mountain</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="notaichean_a_tha_a_dìreadh_no_a_teàrnadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>notaichean a tha a' dìreadh no a' teàrnadh</orth>
+    </form>
+    <trans>notes which are ascending or descending</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

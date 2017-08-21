@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="polonaise" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>polonaise</orth>
+    </form>
+    <trans>polonaise</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>polonaise - polonaise poss cpolonaises - polonaisean pl</note>
+  </ainmear_fireann>

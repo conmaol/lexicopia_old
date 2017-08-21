@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="einnseanaireachd_shlàinteil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>einnseanaireachd shlàinteil</orth>
+    </form>
+    <trans>sanitary enginèring</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

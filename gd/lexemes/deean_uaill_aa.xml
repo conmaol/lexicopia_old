@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="deean_uaill_aa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dèan uaill à</orth>
+    </form>
+    <trans>pride oneself on</trans>
+    <trans>glory in</trans>
+    <trans>boast of</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

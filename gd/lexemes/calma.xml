@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="calma" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>calma</orth>
+    </form>
+    <trans>brave</trans>
+    <trans>doughty</trans>
+    <trans>robust</trans>
+    <trans>stalwart</trans>
+    <trans>stout</trans>
+    <trans>strapping</trans>
+    <trans>strong</trans>
+    <trans>valiant</trans>
+    <trans>vigorous</trans>
+  </buadhair>

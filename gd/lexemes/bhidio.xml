@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bhidio" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bhidio</orth>
+    </form>
+    <trans>video</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>video - bhidio poss cvideos - bhidiothan pl</note>
+  </ainmear_fireann>

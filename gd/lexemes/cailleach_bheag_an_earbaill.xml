@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cailleach_bheag_an_earbaill" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cailleach bheag an earbaill</orth>
+    </form>
+    <trans>long tailed tit</trans>
+    <trans>Aegithalos caudatus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Info: The name means 'the small old woman with the tail'.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cailleach bheag an earbaill.mp3</note>
+  </ainmear_boireann>

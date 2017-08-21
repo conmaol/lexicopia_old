@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Colombia_agus_Ecuador" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Colombia agus Ecuador</orth>
+    </form>
+    <trans>Colombia and Ecuador</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

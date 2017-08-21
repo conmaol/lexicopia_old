@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="foillseachadh_un_air_còraichean_a_chinne-daonna" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Foillseachadh UN air Còraichean a' Chinne-daonna</orth>
+    </form>
+    <trans index="no">the UN Declaration of Human Rights</trans>
+    <trans index="only">the UN Declaration of Human Rights</trans>
+    <note>Listed in An Seotal: Modern Studies</note>
+  </ainmear_fireann>

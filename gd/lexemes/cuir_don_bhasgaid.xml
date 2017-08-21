@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuir_don_bhasgaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuir don bhasgaid</orth>
+    </form>
+    <trans>add to basket</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

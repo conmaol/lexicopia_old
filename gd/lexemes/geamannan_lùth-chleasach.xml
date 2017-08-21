@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="geamannan_lùth-chleasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>geamannan lùth-chleasach</orth>
+    </form>
+    <trans>athletic games</trans>
+    <note>Listed in An Seotal: Physical Education.</note>
+  </lexeme>

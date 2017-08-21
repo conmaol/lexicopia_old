@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="corporra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>corporra</orth>
+    </form>
+    <trans>physical</trans>
+    <trans>corporate</trans>
+    <note>Listed in An Seotal: Physical Education, as 'physical'.</note>
+    <note>Listed in An Seotal: Business Studies, as 'corporate'.</note>
+  </buadhair>

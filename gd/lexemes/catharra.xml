@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="catharra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>catharra</orth>
+    </form>
+    <trans>civil</trans>
+    <trans>civic</trans>
+    <note>Listed in An Seotal: Modern Studies</note>
+    <note>Listed in TYGD.</note>
+  </buadhair>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="micro-fhàs-bheairtean_fungasan_agus_algae" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>micro-fhàs-bheairtean, fungasan agus algae</orth>
+    </form>
+    <trans>microorganisms, fungi and algae</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

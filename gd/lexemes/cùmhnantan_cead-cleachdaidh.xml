@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cùmhnantan_cead-cleachdaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cùmhnantan cead-cleachdaidh</orth>
+    </form>
+    <trans>license terms</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

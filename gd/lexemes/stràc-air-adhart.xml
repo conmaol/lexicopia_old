@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="stràc-air-adhart" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>stràc-air-adhart</orth>
+    </form>
+    <trans>forward slash</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="An_Feabhal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Feabhal</orth>
+    </form>
+    <trans>Foyle</trans>
+    <trans>River Foyle</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

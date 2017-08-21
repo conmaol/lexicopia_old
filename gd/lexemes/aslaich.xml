@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="aslaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>aslaich</orth>
+    </form>
+    <trans>implore</trans>
+    <trans>petition</trans>
+    <trans>solicit</trans>
+    <trans>supplicate</trans>
+    <trans>request</trans>
+  </gnìomhair>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="nàdarrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nàdarrach</orth>
+    </form>
+    <trans>natural</trans>
+    <trans>inborn</trans>
+    <trans>inbred</trans>
+    <trans>inherent</trans>
+    <trans>instinctive</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>Listed in TYGD.</note>
+    <note>Listed in CM.</note>
+  </buadhair>

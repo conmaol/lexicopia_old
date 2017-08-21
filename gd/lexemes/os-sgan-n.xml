@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="os-sgan-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>os-sgan</orth>
+    </form>
+    <trans>ultrasound scan</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>ultrasound scan - os-sgan scultrasound scans - os-sganaichean iom</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="beag-fhaclair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>beag-fhaclair</orth>
+    </form>
+    <trans>glossary</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>glossary - beag-fhaclair poss cglossaries - beag-fhaclairean pl</note>
+  </ainmear_fireann>

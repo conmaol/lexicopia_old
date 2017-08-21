@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="olc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>olc</orth>
+    </form>
+    <trans>evil</trans>
+    <trans>bad</trans>
+    <trans>infamous</trans>
+    <trans>wicked</trans>
+    <trans>ill</trans>
+  </buadhair>

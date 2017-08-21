@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="finale" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>finale</orth>
+    </form>
+    <trans>finale</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>finale - finale poss cfinales - finaleathan pl</note>
+  </ainmear_boireann>

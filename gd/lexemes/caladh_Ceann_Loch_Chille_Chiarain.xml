@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="caladh_Ceann_Loch_Chille_Chiarain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>caladh Ceann Loch Chille Chiarain</orth>
+    </form>
+    <trans>Campbeltown harbour</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

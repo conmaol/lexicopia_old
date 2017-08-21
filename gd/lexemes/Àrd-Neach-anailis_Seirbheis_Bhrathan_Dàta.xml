@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="àrd-neach-anailis_seirbheis_bhrathan_dàta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àrd-neach-anailis, seirbheis bhrathan dàta</orth>
+    </form>
+    <trans>senior analyst data messaging service</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

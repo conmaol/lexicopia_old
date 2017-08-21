@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="luchag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="luch"/>
+    <part ref="_ag-suffix"/>
+    <form>
+      <orth>luchag</orth>
+    </form>
+    <form>
+      <orth>luchagan</orth>
+    </form>
+    <trans>mouse</trans>
+    <trans>small mouse</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair, as 'small mouse'.</note>
+    <note>Latin: luchag</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/luchag.mp3</note>
+  </lexeme>

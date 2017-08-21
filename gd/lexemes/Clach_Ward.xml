@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Clach_Ward" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Clach Ward</orth>
+    </form>
+    <trans>Ward's Stone</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Ward's Stone - Clach Ward poss c</note>
+  </ainmear_boireann>

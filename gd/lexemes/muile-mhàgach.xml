@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="muile-mhàgach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>muile-mhàgach</orth>
+    </form>
+    <trans>toad</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: muileacha-màgach</note>
+    <note>Latin: Bufo bufo</note>
+  </ainmear_boireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gramaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gramaiche</orth>
+    </form>
+    <trans>pincers</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>pincers - gramaiche scpincers - gramaichean iom</note>
+  </ainmear_fireann>

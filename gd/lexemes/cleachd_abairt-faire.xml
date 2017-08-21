@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cleachd_abairt-faire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cleachd abairt-faire</orth>
+    </form>
+    <trans>use passphrase</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

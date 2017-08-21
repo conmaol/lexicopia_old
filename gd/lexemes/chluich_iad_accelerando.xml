@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="chluich_iad_accelerando" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>chluich iad accelerando</orth>
+    </form>
+    <trans>they played accelerando</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

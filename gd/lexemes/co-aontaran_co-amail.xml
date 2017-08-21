@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="co-aontaran_co-amail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>co-aontaran co-amail</orth>
+    </form>
+    <trans>simultaneous equations</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

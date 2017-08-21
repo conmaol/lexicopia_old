@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="fosgailte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fosgailte</orth>
+    </form>
+    <trans>open</trans>
+    <trans>reflex</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </buadhair>

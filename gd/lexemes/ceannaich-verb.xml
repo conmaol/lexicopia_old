@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="ceannaich-verb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceannaich</orth>
+    </form>
+    <trans>buy</trans>
+    <trans>purchase</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </gnìomhair>

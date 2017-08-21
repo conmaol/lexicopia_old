@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dubnium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dubnium</orth>
+    </form>
+    <trans>dubnium</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>dubnium - dubnium sc</note>
+  </ainmear_fireann>

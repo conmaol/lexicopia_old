@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cruthaich_òran" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cruthaich òran</orth>
+    </form>
+    <trans>compose a song</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

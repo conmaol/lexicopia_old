@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="co-chomharra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>co-chomharra</orth>
+    </form>
+    <trans>coordinate</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>coordinate - co-chomharra poss ccoordinates - co-chomharran pl</note>
+  </ainmear_fireann>

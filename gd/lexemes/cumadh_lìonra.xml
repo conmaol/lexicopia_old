@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cumadh_lìonra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cumadh lìonra</orth>
+    </form>
+    <trans>network configuration</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

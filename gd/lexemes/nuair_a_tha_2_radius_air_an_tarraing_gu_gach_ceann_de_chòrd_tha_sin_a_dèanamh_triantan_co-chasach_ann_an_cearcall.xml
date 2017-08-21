@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="nuair_a_tha_2_radius_air_an_tarraing_gu_gach_ceann_de_chòrd_tha_sin_a_dèanamh_triantan_co-chasach_ann_an_cearcall" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nuair a tha 2 radius air an tarraing gu gach ceann de chòrd, tha sin a' dèanamh triantan co-chasach ann an cearcall</orth>
+    </form>
+    <trans>when 2 radii are drawn to the ends of a chord an isosceles tiangle is formed within a circle</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

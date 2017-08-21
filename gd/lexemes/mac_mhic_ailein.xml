@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="mac_mhic_ailein" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Mac Mhic Ailein</orth>
+    </form>
+    <trans>Chief MacDonald of Clanranald</trans>
+  </lexeme>

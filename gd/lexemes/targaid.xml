@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="targaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>targaid</orth>
+    </form>
+    <trans>target</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>target - targaid(e) poss ctargets - targaidean pl</note>
+  </ainmear_boireann>

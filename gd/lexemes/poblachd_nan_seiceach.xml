@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="poblachd_nan_seiceach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Poblachd nan Seiceach</orth>
+    </form>
+    <trans>Czech Republic</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Czech Republic - Poblachd nan Seiceach poss c</note>
+  </ainmear_boireann>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_mhoorchuid_de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a’ mhòrchuid de</orth>
+    </form>
+    <trans index="no">the majority of</trans>
+    <trans>most of</trans>
+    <trans>most</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

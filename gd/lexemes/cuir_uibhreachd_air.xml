@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuir_uibhreachd_air" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuir uibhreachd air</orth>
+    </form>
+    <trans>find something odd/unusual about</trans>
+    <trans>notice a change in</trans>
+    <trans index="only">odd</trans>
+    <trans index="only">unusual</trans>
+    <trans index="only">change</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

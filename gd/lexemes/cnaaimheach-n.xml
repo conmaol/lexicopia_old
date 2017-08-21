@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cnaaimheach-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cnàimheach</orth>
+    </form>
+    <trans>corvid</trans>
+    <trans>Corvidae spp.</trans>
+    <note>Listed in AFB.</note>
+  </ainmear_fireann>

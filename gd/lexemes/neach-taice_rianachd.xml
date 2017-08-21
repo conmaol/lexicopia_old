@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="neach-taice_rianachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>neach-taice rianachd</orth>
+    </form>
+    <trans>administrative assistant</trans>
+    <trans>administration assistant</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

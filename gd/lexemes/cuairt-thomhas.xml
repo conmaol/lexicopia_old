@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cuairt-thomhas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuairt-thomhas</orth>
+    </form>
+    <trans>perimeter</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>perimeter - cuairt-thomhais poss cperimeters - cuairtean-thomhas pl</note>
+  </ainmear_fireann>

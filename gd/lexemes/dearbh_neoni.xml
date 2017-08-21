@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dearbh_neoni" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dearbh neoni</orth>
+    </form>
+    <trans>absolute zero</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

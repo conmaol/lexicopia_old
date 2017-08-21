@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="uachdar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uachdar</orth>
+    </form>
+    <form>
+      <orth>uachdair</orth>
+    </form>
+    <form>
+      <orth>uachdaran</orth>
+    </form>
+    <trans>top</trans>
+    <trans>roof</trans>
+    <trans>surface</trans>
+    <trans>upper</trans>
+    <trans>upside</trans>
+    <trans>cream</trans>
+    <note>Listed in An Seotal: Maths, as 'surface'.</note>
+    <note>Listed in An Seotal: Technology, as 'surface'.</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

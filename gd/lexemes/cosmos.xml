@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cosmos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cosmos</orth>
+    </form>
+    <trans>cosmos</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>cosmos - cosmos sccosmoses - cosmosan iom</note>
+  </ainmear_fireann>

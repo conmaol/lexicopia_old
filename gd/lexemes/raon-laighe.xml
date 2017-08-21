@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="raon-laighe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>raon-laighe</orth>
+    </form>
+    <trans>runway</trans>
+    <note>From BBC.</note>
+    <note>Listed in TYGD.</note>
+    <note>Listed in CM.</note>
+  </lexeme>

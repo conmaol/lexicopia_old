@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tweet" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tweet</orth>
+    </form>
+    <trans>tweet</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>tweet - tweet poss ctweets - tweets pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ainmear_fireannta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ainmear (fireannta)</orth>
+    </form>
+    <trans>noun</trans>
+    <note>Listed in An Seotal: Language.</note>
+  </lexeme>

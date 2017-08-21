@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ruigsinneachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ruigsinneachd</orth>
+    </form>
+    <trans>accessibility</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>accessibility - ruigsinneachd poss c</note>
+  </ainmear_boireann>

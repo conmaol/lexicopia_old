@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="air_thoiseach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>air thoiseach</orth>
+    </form>
+    <trans>ahead</trans>
+    <trans>in front</trans>
+    <trans>before</trans>
+    <trans>foremost</trans>
+    <trans>first</trans>
+    <trans>fast</trans>
+  </lexeme>

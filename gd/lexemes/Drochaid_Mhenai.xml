@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Drochaid_Mhenai" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Drochaid Mhenai</orth>
+    </form>
+    <trans>Menai Bridge</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Menai Bridge - Drochaid Mhenai poss c</note>
+  </ainmear_boireann>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="leathar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leathar</orth>
+    </form>
+    <form>
+      <orth>leathair</orth>
+    </form>
+    <trans>leather</trans>
+    <note>Listed in Colin Mark's (2004) Gaelic-English dictionary.</note>
+    <note>Listed in Boyd Robertson &amp; Ian MacDonald's (2004) 'Teach Yourself' dictionary.</note>
+    <note>leathar-fèidh = buckskin, a' cartadh leathrach = tanning leather</note>
+    <note>Listed in An Seotal: General.</note>
+    <note>leather - leathair poss c</note>
+  </ainmear_fireann>

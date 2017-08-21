@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="geàrr_a_mhonaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>geàrr a' mhonaidh</orth>
+    </form>
+    <trans>mountain hare</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Synonyms: maigheach bhàn (f)</note>
+    <note>Plurals: geàrran a' mhonaidh, maighichean bàna</note>
+  </ainmear_boireann>

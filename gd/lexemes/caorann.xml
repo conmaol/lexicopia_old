@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="caorann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>caorann</orth>
+    </form>
+    <trans>rowan</trans>
+    <trans>mountain ash</trans>
+    <trans index="only">ash</trans>
+    <trans>Sorbus aucuparia</trans>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/caorann.mp3</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

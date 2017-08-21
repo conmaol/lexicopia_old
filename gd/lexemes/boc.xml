@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="boc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>boc</orth>
+    </form>
+    <trans>buck</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: buic</note>
+    <note>Latin: (Cervidae (Family) spp.)</note>
+    <note>Info: can be goat or male roe-deer</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/boc.mp3</note>
+  </ainmear_fireann>

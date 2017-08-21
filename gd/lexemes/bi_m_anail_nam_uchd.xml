@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bi_m_anail_nam_uchd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bi m’ anail nam uchd</orth>
+    </form>
+    <trans index="no">be breathless</trans>
+    <trans index="no">be out of breath</trans>
+    <trans index="no">be panting</trans>
+    <trans index="only">breathless</trans>
+    <trans index="only">out of breath</trans>
+    <trans index="only">panting</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

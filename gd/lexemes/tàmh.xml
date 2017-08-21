@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="tàmh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tàmh</orth>
+    </form>
+    <trans>rest</trans>
+    <trans>remain</trans>
+    <trans>stay</trans>
+    <trans>repose</trans>
+    <trans>dwell</trans>
+    <trans>inhabit</trans>
+  </gnìomhair>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cunntas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cunntas</orth>
+    </form>
+    <trans>account</trans>
+    <trans>statement</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>account - cunntais poss caccounts - cunntasan pl</note>
+    <note>Listed in An Seotal: Maths, as 'statement'.</note>
+    <note>statement - cunntais poss cstatements - cunntasan pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ceileiriche_fionnan-feooir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceileiriche fionnan-feòir</orth>
+    </form>
+    <trans>grasshopper warbler</trans>
+    <trans>Locustella naevia</trans>
+    <note>Listed in AFB.</note>
+  </ainmear_fireann>

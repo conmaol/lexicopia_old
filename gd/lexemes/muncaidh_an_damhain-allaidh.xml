@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="muncaidh_an_damhain-allaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>muncaidh an damhain-allaidh</orth>
+    </form>
+    <trans>spider monkey</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

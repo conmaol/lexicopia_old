@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="torrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>torrach</orth>
+    </form>
+    <trans>fertile</trans>
+    <trans>fruitful</trans>
+    <trans>pregnant</trans>
+  </buadhair>

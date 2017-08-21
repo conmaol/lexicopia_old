@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="freagair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>freagair</orth>
+    </form>
+    <trans>answer</trans>
+    <trans>reply</trans>
+    <trans>befit</trans>
+    <trans>fit</trans>
+    <trans>match</trans>
+    <trans>suit</trans>
+    <trans>tally</trans>
+    <note>Listed in CM.</note>
+  </gnìomhair>

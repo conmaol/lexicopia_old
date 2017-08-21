@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="s_e_Cnoc_Brown_Clee_an_cnoc_as_àirde_ann_an_Shropshire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Is e Cnoc Brown Clee an cnoc as àirde ann an Shropshire</orth>
+    </form>
+    <trans>Brown Clee Hill is the highest hill in Shropshire</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

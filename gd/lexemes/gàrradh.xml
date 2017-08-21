@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gàrradh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gàrradh</orth>
+    </form>
+    <form>
+      <orth>gàrraidh</orth>
+    </form>
+    <form>
+      <orth>gàrraidhean</orth>
+    </form>
+    <trans>garden</trans>
+    <note>Listed in An Seotal: General.</note>
+  </ainmear_fireann>

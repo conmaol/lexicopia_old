@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bun-loidhne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bun-loidhne</orth>
+    </form>
+    <trans>base line</trans>
+    <note>Listed in An Seotal: Technology.</note>
+  </lexeme>

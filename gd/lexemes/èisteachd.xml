@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="èisteachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>èisteachd</orth>
+    </form>
+    <trans>listening</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>listening - èisteachd poss c</note>
+  </ainmear_boireann>

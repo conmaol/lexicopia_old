@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bailtean_timcheall_air_Bàgh_St_Bride" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bailtean timcheall air Bàgh St Bride</orth>
+    </form>
+    <trans>villages around St Brides Bay</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

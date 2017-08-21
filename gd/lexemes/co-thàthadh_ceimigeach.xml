@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="co-thàthadh_ceimigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>co-thàthadh ceimigeach</orth>
+    </form>
+    <trans>chemical compound</trans>
+    <note>Listed in Am Faclair Beag.</note>
+  </lexeme>

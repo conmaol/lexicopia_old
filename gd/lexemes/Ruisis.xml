@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Ruisis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Ruisis</orth>
+    </form>
+    <trans>Russian</trans>
+    <note>Listed in An Seotal: Language.</note>
+    <note>Russian - Ruisis poss c</note>
+  </ainmear_boireann>

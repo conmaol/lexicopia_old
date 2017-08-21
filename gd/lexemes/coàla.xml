@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="coàla" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>coàla</orth>
+    </form>
+    <trans>koala</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>koala - coàla sckoalas - coàlathan iom</note>
+  </ainmear_fireann>

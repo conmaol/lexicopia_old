@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="iuchair_Delete" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>iuchair Delete</orth>
+    </form>
+    <trans>Delete key</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

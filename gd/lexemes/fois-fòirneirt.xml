@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="fois-fòirneirt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fois-fòirneirt</orth>
+    </form>
+    <trans>ceasefire</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>ceasefire - fois-fòirneirt poss c</note>
+  </ainmear_fireann>

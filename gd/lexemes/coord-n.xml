@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="coord-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>còrd</orth>
+    </form>
+    <trans>chord</trans>
+    <note>Listed in An Seotal: Maths, Music, as 'chord'.</note>
+    <note>chord - còrd(a) poss cchords - còrdan pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="teearmann_naadair_naaiseanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Tèarmann Nàdair Nàiseanta</orth>
+    </form>
+    <trans>National Nature Reserve (NNR)</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: Tèarmainn Nàdair Nàiseanta</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/tearmann nadair naiseanta.mp3</note>
+  </ainmear_fireann>

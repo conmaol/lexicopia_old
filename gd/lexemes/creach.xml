@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="creach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>creach</orth>
+    </form>
+    <trans>prey</trans>
+    <trans>plunder</trans>
+    <trans>booty</trans>
+    <trans>spoils</trans>
+    <trans>loot</trans>
+    <trans>pillage</trans>
+    <trans>quarry</trans>
+    <trans>raid</trans>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

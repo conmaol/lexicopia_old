@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="dealbhag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dealbhag</orth>
+    </form>
+    <trans>icon</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>icon - dealbhaig poss cicons - dealbhagan pl</note>
+  </ainmear_boireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bi_an_uchd_a_chatha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bi an uchd a’ chatha</orth>
+    </form>
+    <trans index="no">be in the thick of the battle</trans>
+    <trans index="only">thick of the battle</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

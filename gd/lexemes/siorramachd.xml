@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="siorramachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>siorramachd</orth>
+    </form>
+    <trans>county</trans>
+    <trans>shire</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

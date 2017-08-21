@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="seasmhach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seasmhach</orth>
+    </form>
+    <trans>stable</trans>
+    <trans>steady</trans>
+    <trans>reliable</trans>
+    <trans>standing</trans>
+    <trans>constant</trans>
+    <trans>consistent</trans>
+    <trans>resolute</trans>
+    <trans>settled</trans>
+    <trans>sustainable</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>Listed in CM.</note>
+  </buadhair>

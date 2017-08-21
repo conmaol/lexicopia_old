@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="daoine_àite_agus_àrainneachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>daoine, àite agus àrainneachd</orth>
+    </form>
+    <trans>people, place and environment</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

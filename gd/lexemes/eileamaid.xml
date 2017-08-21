@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="eileamaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eileamaid</orth>
+    </form>
+    <trans>element</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>element - eileamaide(e) scelements - eileamaidean iom</note>
+  </ainmear_boireann>

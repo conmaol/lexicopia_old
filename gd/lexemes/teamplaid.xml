@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="teamplaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>teamplaid</orth>
+    </form>
+    <trans>template</trans>
+    <note>Listed in An Seotal: Maths, Computing.</note>
+    <note>template - teamplaid(e) poss ctemplates - teamplaidean pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ceann_a_tuath_na_Gàidhealtachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceann a tuath na Gàidhealtachd</orth>
+    </form>
+    <trans>the northern Highlands</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

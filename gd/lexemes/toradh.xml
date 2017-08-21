@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="toradh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>toradh</orth>
+    </form>
+    <trans>outcome</trans>
+    <trans>product</trans>
+    <trans>yield</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>outcome - toraidh poss coutcomes - toraidhean pl</note>
+    <note>Listed in An Seotal: Maths, as 'product', 'yield'.</note>
+    <note>product - toraidh poss cproducts - toraidhean pl</note>
+  </ainmear_fireann>

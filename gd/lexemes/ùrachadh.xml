@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ùrachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ùrachadh</orth>
+    </form>
+    <trans>update</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>update - ùrachaidh poss cupdates - ùrachaidhean pl</note>
+  </ainmear_fireann>

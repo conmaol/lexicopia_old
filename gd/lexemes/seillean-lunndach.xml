@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seillean-lunndach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seillean-lunndach</orth>
+    </form>
+    <trans>drone-bee</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: seilleanan-lunndach</note>
+    <note>Latin: Apis mellifera</note>
+  </ainmear_fireann>

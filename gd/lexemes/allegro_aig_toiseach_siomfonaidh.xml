@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="allegro_aig_toiseach_siomfonaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>allegro aig toiseach siomfonaidh</orth>
+    </form>
+    <trans>allegro at beginning of symphony</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

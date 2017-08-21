@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="miseanan_agus_foghlam_creideimh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>miseanan agus foghlam creideimh</orth>
+    </form>
+    <trans>missions and religious education</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+  </lexeme>

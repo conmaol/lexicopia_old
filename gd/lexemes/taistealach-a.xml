@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="taistealach-a" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>taistealach</orth>
+    </form>
+    <trans>itinerant</trans>
+    <note>Listed in Dwelly: Itinerant, journeying, travelling, of, or belonging to a journey or traveller. 2 Like a traveller. 3 Like a wanderer or vagabond.</note>
+    <note>eDIL: taistel(l)ach: given to travelling, marching.</note>
+  </buadhair>

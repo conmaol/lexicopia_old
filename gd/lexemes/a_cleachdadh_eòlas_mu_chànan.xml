@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_cleachdadh_eòlas_mu_chànan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a' cleachdadh eòlas mu chànan</orth>
+    </form>
+    <trans>using knowledge about language</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="mionaideachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mionaideachd</orth>
+    </form>
+    <trans>accuracy</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>accuracy - mionaideachd poss c</note>
+  </ainmear_boireann>

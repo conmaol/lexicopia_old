@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="clò" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clò</orth>
+    </form>
+    <trans>font</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>font - clò poss cfonts - clòthan pl</note>
+  </ainmear_fireann>

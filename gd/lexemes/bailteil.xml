@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="bailteil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bailteil</orth>
+    </form>
+    <trans>urban</trans>
+    <trans>civic</trans>
+    <note>Listed in An Seotal: General, as 'civic'.</note>
+    <note>Listed in An Seotal: Geography, as 'urban'.</note>
+  </buadhair>

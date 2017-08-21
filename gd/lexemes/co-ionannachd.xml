@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="co-ionannachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>co-ionannachd</orth>
+    </form>
+    <trans>equality</trans>
+    <trans>equivalence</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>equality - co-ionannachd poss cequalities - co-ionannachdan pl</note>
+    <note>Listed in An Seotal: Maths, as 'equivalence'.</note>
+    <note>equivalence - co-ionannachd poss cequivalences - co-ionannachdan pl</note>
+  </ainmear_boireann>

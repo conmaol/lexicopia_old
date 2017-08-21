@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="tilg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tilg</orth>
+    </form>
+    <trans>throw</trans>
+    <trans>fling</trans>
+    <trans>hurl</trans>
+    <trans>cast</trans>
+    <trans>pitch</trans>
+    <trans>project</trans>
+    <trans>retch</trans>
+    <trans>shoot</trans>
+    <trans>shy</trans>
+    <trans>sling</trans>
+    <trans>spew</trans>
+    <trans>throw up</trans>
+    <trans>toss</trans>
+    <trans>vomit</trans>
+  </gnìomhair>

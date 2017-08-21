@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="eòlas_corporra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eòlas corporra</orth>
+    </form>
+    <trans>physical education</trans>
+    <note>Listed in An Seotal: Physical Education.</note>
+  </lexeme>

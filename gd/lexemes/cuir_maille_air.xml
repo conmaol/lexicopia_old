@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuir_maille_air" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuir maille air</orth>
+    </form>
+    <trans>delay</trans>
+    <trans>impede</trans>
+    <note>Listed in TYGD.</note>
+    <note>Listed in CM.</note>
+  </lexeme>

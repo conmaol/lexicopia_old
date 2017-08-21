@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Na_Marianas_a_Tuath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Na Marianas a Tuath</orth>
+    </form>
+    <trans>Northern Marianas</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Northern Marianas - nam Marianas a Tuath poss c</note>
+  </lexeme>

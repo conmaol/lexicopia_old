@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="micro-fhàs-bheairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>micro-fhàs-bheairt</orth>
+    </form>
+    <trans>microorganism</trans>
+    <trans>microbe</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </ainmear_boireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="leughadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leughadh</orth>
+    </form>
+    <trans>reading</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>reading - leughaidh poss creadings - leughaidhean pl</note>
+  </ainmear_fireann>

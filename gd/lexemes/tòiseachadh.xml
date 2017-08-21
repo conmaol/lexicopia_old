@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tòiseachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tòiseachadh</orth>
+    </form>
+    <trans>getting started</trans>
+    <trans>startup</trans>
+    <note>Listed in An Seotal: Computing, as 'getting started', 'startup'.</note>
+    <note>Getting Started - Tòiseachaidh poss c</note>
+    <note>startup - tòiseachaidh poss cstartups - tòiseachaidhean pl</note>
+  </ainmear_fireann>

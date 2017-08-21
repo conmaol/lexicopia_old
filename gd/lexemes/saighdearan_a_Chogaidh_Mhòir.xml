@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="saighdearan_a_Chogaidh_Mhòir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>saighdearan a' Chogaidh Mhòir</orth>
+    </form>
+    <trans>soldiers of the Great War</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

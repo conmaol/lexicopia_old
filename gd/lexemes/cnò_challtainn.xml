@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="cnò_challtainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="cnò"/>
+    <part ref="calltann"/>
+    <form>
+      <orth>cnò challtainn</orth>
+    </form>
+    <trans>hazelnut</trans>
+  </ainmear_fillte>

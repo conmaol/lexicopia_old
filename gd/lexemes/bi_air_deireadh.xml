@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bi_air_deireadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bi air deireadh</orth>
+    </form>
+    <trans>be behind</trans>
+    <trans>be late</trans>
+    <trans>be last</trans>
+    <trans>be slow</trans>
+    <trans index="only">behind</trans>
+    <trans index="only">late</trans>
+    <trans index="only">last</trans>
+    <trans index="only">slow</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

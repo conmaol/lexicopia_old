@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cilemeatair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cilemeatair</orth>
+    </form>
+    <trans>kilometre</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>kilometre - cilemeatair poss ckilometres - cilemeatairean pl</note>
+  </ainmear_fireann>

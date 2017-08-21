@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="còmdhail_air_talamh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>còmdhail air talamh</orth>
+    </form>
+    <trans>ground transportation</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

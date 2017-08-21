@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="mion-dhealbh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mion-dhealbh</orth>
+    </form>
+    <trans>thumbnail image</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>thumbnail image - mion-dheilbh poss cthumbnail images - mion-dheilbh pl</note>
+  </ainmear_fireann>

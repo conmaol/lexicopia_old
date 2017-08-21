@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="eileamaid_talmhaidh_alcaileach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eileamaid talmhaidh alcaileach</orth>
+    </form>
+    <trans>alkaline earth element</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gob" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gob</orth>
+    </form>
+    <trans>bill</trans>
+    <trans>beak</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Synonyms: smut m</note>
+    <note>Plurals: guib / goban, smutan </note>
+  </ainmear_fireann>

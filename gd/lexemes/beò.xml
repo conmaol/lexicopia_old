@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="beò" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>beò</orth>
+    </form>
+    <trans>alive</trans>
+    <trans>live</trans>
+    <trans>living</trans>
+    <trans>lively</trans>
+    <trans>quick</trans>
+    <trans>vital</trans>
+    <trans>vivid</trans>
+  </buadhair>

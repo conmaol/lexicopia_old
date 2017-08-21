@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="nochdan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nochdan</orth>
+    </form>
+    <trans>pop-up</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>pop-up - nochdain poss cpop-ups - nochdain pl</note>
+  </ainmear_fireann>

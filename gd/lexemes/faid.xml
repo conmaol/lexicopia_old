@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="faid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>faid</orth>
+    </form>
+    <trans>length</trans>
+    <trans>duration</trans>
+    <note>Listed in An Seotal: Maths, as 'length'.</note>
+    <note>length - faide poss clengths - faidean pl</note>
+    <note>Listed in An Seotal: Music, as 'length', 'duration'.</note>
+    <note>duration - faid poss cdurations - faidean pl</note>
+  </ainmear_boireann>

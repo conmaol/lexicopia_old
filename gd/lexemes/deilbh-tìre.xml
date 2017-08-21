@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="deilbh-tìre" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>deilbh-tìre</orth>
+    </form>
+    <trans>landscape</trans>
+    <trans>landscaping</trans>
+    <trans>landscape design</trans>
+    <note>Listed in An Seotal: General.</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="nas_sìmplidhe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nas sìmplidh(e)</orth>
+    </form>
+    <trans>simpler</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="frèam" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>frèam</orth>
+    </form>
+    <trans>framework</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>framework - frèama poss cframeworks - frèamaichean plframeworks - frèaman pl</note>
+  </ainmear_fireann>

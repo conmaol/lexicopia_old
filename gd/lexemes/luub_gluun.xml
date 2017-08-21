@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="luub_gluun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lùb glùn</orth>
+    </form>
+    <trans>kneel</trans>
+    <trans>genuflect</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

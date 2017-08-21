@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="na_rockies" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Na Rockies</orth>
+    </form>
+    <trans>Rocky Mountains</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

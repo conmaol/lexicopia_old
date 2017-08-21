@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dealbh_pictearail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dealbh pictearail</orth>
+    </form>
+    <trans>pictorial drawing</trans>
+    <note>Listed in An Seotal: Technology.</note>
+  </lexeme>

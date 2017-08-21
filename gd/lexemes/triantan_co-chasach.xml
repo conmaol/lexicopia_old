@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="triantan_co-chasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>triantan co-chasach</orth>
+    </form>
+    <trans>isosceles triangle</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Geamannan_Inbhir_Garadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Geamannan Inbhir Garadh</orth>
+    </form>
+    <trans>Invergarry Games</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

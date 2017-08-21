@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cruinn-eoolas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cruinn-eòlas</orth>
+    </form>
+    <trans>Geography</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Geography - Cruinn-eòlais poss c</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="claigeann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>claigeann</orth>
+    </form>
+    <trans>skull</trans>
+    <note>Oxford Children's Scottish Gaelic Visual Dictionary, p. 14.</note>
+  </ainmear_fireann>

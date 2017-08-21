@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="searmonaiche_math" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>searmonaiche math</orth>
+    </form>
+    <trans>a gòd preacher</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+  </lexeme>

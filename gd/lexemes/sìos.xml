@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sìos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sìos</orth>
+    </form>
+    <trans>(to) below</trans>
+    <trans>down there</trans>
+    <trans>down</trans>
+    <trans>downwards</trans>
+  </lexeme>

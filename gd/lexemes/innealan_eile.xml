@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="innealan_eile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>innealan eile</orth>
+    </form>
+    <trans>other devices</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

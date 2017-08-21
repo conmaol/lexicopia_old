@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="gleann_anns_a_Mhonadh_Dubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gleann anns a' Mhonadh Dubh</orth>
+    </form>
+    <trans>a valley in the Black Mountains</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

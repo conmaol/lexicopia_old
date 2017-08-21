@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Bìoball" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Bìoball</orth>
+    </form>
+    <trans>Bible</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+    <note>Bible - Bìobaill scBibles - Bìobaill iom</note>
+  </ainmear_fireann>

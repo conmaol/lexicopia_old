@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Romànianais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Romànianais</orth>
+    </form>
+    <trans>Romanian</trans>
+    <note>Listed in An Seotal: Language.</note>
+    <note>Romanian - Romànianais poss c</note>
+  </ainmear_boireann>

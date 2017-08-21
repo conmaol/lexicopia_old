@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="poll_moonach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>poll mònach</orth>
+    </form>
+    <trans>peatbog</trans>
+    <trans>peatbank</trans>
+    <trans>peatmoss</trans>
+    <trans>peat-hag</trans>
+    <note>Listed in CM.</note>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Listed in Dwelly as poll mòna.</note>
+    <note>Plural: puill-mhònach</note>
+  </ainmear_fireann>

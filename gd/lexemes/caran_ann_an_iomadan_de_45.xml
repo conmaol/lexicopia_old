@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="caran_ann_an_iomadan_de_45" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>caran ann an iomadan de 45°</orth>
+    </form>
+    <trans>turns in multiples of 45°</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="micro-thonn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>micro-thonn</orth>
+    </form>
+    <trans>microwave</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>microwave - micro-thuinn scmicrowaves - micro-thuinn iom</note>
+  </ainmear_fireann>

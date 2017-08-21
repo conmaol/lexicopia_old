@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="dearc-luachrach_mhòr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dearc-luachrach mhòr</orth>
+    </form>
+    <trans>great crested newt</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: dearcan-luachrach mòra</note>
+    <note>Latin: Triturus cristatus</note>
+  </ainmear_boireann>

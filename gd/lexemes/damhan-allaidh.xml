@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="damhan-allaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>damhan-allaidh</orth>
+    </form>
+    <trans>spider</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>spider - damhain-allaidh sc spiders - damhain-allaidh iom</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: damhain-allaidh, pocannan-salainn</note>
+    <note>Latin: Arachnida (Class) spp.</note>
+    <note>Info: damhan-allaidh is 'wild little stag'. </note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/damhan allaidh.mp3</note>
+  </ainmear_fireann>

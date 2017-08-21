@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="oifig_agus_obair_aoghaireil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>oifig agus obair aoghaireil</orth>
+    </form>
+    <trans>pastoral office and work</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+  </lexeme>

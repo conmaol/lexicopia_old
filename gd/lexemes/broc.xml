@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="broc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>broc</orth>
+    </form>
+    <trans>badger</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: bruic</note>
+    <note>Latin: Meles meles</note>
+    <note>Info: The Ibrox area derives from àth-bhroc, 'badgers' ford'.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/broc.mp3</note>
+  </ainmear_fireann>

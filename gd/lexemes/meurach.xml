@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="meurach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="meur"/>
+    <part ref="_ach-suffix"/>
+    <form>
+      <orth>meurach</orth>
+    </form>
+    <trans>fingered</trans>
+  </buadhair>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="companaidhean_cùmhnaint" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>companaidhean cùmhnaint</orth>
+    </form>
+    <trans>contract companies</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

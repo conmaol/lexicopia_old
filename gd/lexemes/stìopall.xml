@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="stìopall" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>stìopall</orth>
+    </form>
+    <trans>steeple</trans>
+    <trans>spire</trans>
+  </ainmear_fireann>

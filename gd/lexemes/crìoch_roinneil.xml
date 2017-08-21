@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="crìoch_roinneil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>crìoch roinneil</orth>
+    </form>
+    <trans>regional boundary</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cuibhreann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuibhreann</orth>
+    </form>
+    <trans>share</trans>
+    <trans>allowance</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>allowance - cuibhrinn poss callowances - cuibhreannan pl</note>
+    <note>share - cuibhrinn poss cshares - cuibhrinn plshares - cuibhreannan pl</note>
+  </ainmear_fireann>

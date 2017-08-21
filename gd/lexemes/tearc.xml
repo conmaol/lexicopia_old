@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="tearc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tearc</orth>
+    </form>
+    <trans>rare</trans>
+    <trans>scarce</trans>
+    <trans>few</trans>
+    <trans>scant</trans>
+    <trans>sporadic</trans>
+    <trans>unfrequent</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>Listed in TYGD.</note>
+    <note>Listed in CM.</note>
+  </buadhair>

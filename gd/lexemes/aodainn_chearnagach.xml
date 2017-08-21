@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="aodainn_chearnagach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>aodainn chearnagach</orth>
+    </form>
+    <trans>square faces</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="linne_fhoirthe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Linne Fhoirthe</orth>
+    </form>
+    <trans index="no">the Firth of Forth</trans>
+    <trans index="only">Firth of Forth</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_boireann>

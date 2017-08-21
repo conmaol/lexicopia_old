@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dòigh_cunntaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dòigh cunntaidh</orth>
+    </form>
+    <trans>method of counting</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

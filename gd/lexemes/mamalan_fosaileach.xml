@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="mamalan_fosaileach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mamalan fosaileach</orth>
+    </form>
+    <trans>fossil mammals</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="am_Muir_Ceilteach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>am Muir Ceilteach</orth>
+    </form>
+    <trans>Celtic Sea</trans>
+    <note>Listed in An Seotal: Language.</note>
+  </lexeme>

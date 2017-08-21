@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="turas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>turas</orth>
+    </form>
+    <form>
+      <orth>turais</orth>
+    </form>
+    <form>
+      <orth>tursan</orth>
+    </form>
+    <trans>trip</trans>
+    <trans>excursion</trans>
+    <trans>expedition</trans>
+    <trans>journey</trans>
+    <trans>passage</trans>
+    <trans>tour</trans>
+    <trans>occasion</trans>
+    <trans>time</trans>
+  </ainmear_fireann>

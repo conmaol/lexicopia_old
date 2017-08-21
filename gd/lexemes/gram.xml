@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gram" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gram</orth>
+    </form>
+    <trans>gram</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>gram - gram(a) poss cgrams - gramaichean plgrams - graman pl</note>
+  </ainmear_fireann>

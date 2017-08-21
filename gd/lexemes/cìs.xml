@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cìs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cìs</orth>
+    </form>
+    <trans>tax</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>tax - cìse poss ctaxes - cìsean pl</note>
+  </ainmear_boireann>

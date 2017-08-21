@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cladach_an_Rois_Mhuilich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cladach an Rois Mhuilich</orth>
+    </form>
+    <trans>shore of (the) Ross of Mull</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="tropaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tropaig</orth>
+    </form>
+    <trans>tropic</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>tropic - tropaig poss ctropics - tropaigean pl</note>
+  </ainmear_boireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="òstair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>òstair</orth>
+    </form>
+    <trans>host</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>host - òstair poss chosts - òstairean pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_dol_thairis_air_iomad_de_10" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a' dol thairis air iomad de 10</orth>
+    </form>
+    <trans>bridging a multiple of 10</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

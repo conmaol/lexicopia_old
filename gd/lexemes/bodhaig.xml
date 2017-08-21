@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="bodhaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bodhaig</orth>
+    </form>
+    <trans>body</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>body - bodhaig(e) scbodies - bodhaigean iom</note>
+  </ainmear_boireann>

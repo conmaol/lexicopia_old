@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="brobhs_prìomh_luchd-aithne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>brobhs prìomh luchd-aithne</orth>
+    </form>
+    <trans>browse key contacts</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

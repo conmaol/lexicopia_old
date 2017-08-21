@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Comunn_a_Mhonaidh_Chambrian" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Comunn a' Mhonaidh Chambrian</orth>
+    </form>
+    <trans>Cambrian Mountains Society</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

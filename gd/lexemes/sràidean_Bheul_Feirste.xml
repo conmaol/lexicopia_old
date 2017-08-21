@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sràidean_Bheul_Feirste" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sràidean Bheul Feirste</orth>
+    </form>
+    <trans>streets of Belfast</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

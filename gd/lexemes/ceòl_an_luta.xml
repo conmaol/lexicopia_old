@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ceòl_an_luta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceòl an luta</orth>
+    </form>
+    <trans>music of the lute</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

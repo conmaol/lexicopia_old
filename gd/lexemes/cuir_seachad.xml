@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuir_seachad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuir seachad</orth>
+    </form>
+    <trans>spend</trans>
+    <trans>pass</trans>
+    <note>Listed in CM.</note>
+    <note>The object must denote a period of time; the modifier is obligatory, either place or manner; object and complement can occur in either order..</note>
+  </lexeme>

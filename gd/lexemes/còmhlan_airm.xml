@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="còmhlan_airm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>còmhlan airm</orth>
+    </form>
+    <trans>military band</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

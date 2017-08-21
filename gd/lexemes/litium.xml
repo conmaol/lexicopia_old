@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="litium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>litium</orth>
+    </form>
+    <trans>lithium</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>lithium - litium sc</note>
+  </ainmear_fireann>

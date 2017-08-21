@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Guinea_a_Chrios-mheadhain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Guinea a' Chrios-mheadhain</orth>
+    </form>
+    <trans>Equatorial Guinea</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

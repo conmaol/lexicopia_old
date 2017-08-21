@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="an_cois" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>an cois ...</orth>
+    </form>
+    <trans>beside</trans>
+    <trans>at the side of</trans>
+    <trans>accompanying</trans>
+  </lexeme>

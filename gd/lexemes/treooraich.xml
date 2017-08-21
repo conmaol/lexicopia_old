@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="treooraich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>treòraich</orth>
+    </form>
+    <trans>conduct</trans>
+    <trans>guide</trans>
+    <trans>influence</trans>
+    <trans>lead</trans>
+    <trans>pilot</trans>
+    <trans>steer</trans>
+    <note>Listed in CM.</note>
+  </gnìomhair>

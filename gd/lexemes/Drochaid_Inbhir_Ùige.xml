@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Drochaid_Inbhir_Ùige" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Drochaid Inbhir Ùige</orth>
+    </form>
+    <trans>Bridge of Wick</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

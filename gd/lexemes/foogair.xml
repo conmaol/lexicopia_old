@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="foogair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fògair</orth>
+    </form>
+    <trans>banish</trans>
+    <trans>exile</trans>
+    <trans>dispel</trans>
+    <trans>drive away</trans>
+    <trans>expel</trans>
+    <trans>proscribe</trans>
+    <trans>relegate</trans>
+  </gnìomhair>

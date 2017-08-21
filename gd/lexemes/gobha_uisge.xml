@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gobha_uisge" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gobha uisge</orth>
+    </form>
+    <trans>dipper</trans>
+    <trans>Cinclus cinclus</trans>
+    <trans>coot</trans>
+    <trans>Fulica atra</trans>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair, as both 'dipper' and 'coot'.</note>
+    <note>Plurals: gobhan-uisge</note>
+    <note>Plurals: gobhachan-uisge</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/gobhlachan-uisge.mp3</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

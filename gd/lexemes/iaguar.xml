@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="iaguar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>iaguar</orth>
+    </form>
+    <trans>jaguar</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>jaguar - iaguair scjaguars - iaguaran iom</note>
+  </ainmear_fireann>

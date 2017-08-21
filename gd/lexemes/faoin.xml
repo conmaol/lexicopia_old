@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="faoin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>faoin</orth>
+    </form>
+    <trans>daft</trans>
+    <trans>foolish</trans>
+    <trans>frivolous</trans>
+    <trans>futile</trans>
+    <trans>giddy</trans>
+    <trans>idle</trans>
+    <trans>inane</trans>
+    <trans>jejune</trans>
+    <trans>nugatory</trans>
+    <trans>shallow</trans>
+    <trans>silly</trans>
+    <trans>vacuous</trans>
+    <trans>vain</trans>
+    <trans>pointless</trans>
+  </buadhair>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="leòmann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leòmann</orth>
+    </form>
+    <trans>moth</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>moth - leòmainn sc moths - leòmainn iom</note>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: leòmainn</note>
+    <note>Latin: Lepidoptera (Order) spp.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/leomann.mp3</note>
+  </ainmear_fireann>

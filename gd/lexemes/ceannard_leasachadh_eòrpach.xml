@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ceannard_leasachadh_eòrpach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceannard leasachadh Eòrpach</orth>
+    </form>
+    <trans>head of European development</trans>
+    <note>Listed in An Seotal: Modern Studies</note>
+  </ainmear_fireann>

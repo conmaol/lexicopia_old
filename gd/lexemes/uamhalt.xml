@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="uamhalt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uamhalt</orth>
+    </form>
+    <trans>lonely</trans>
+    <trans>solitary</trans>
+    <trans>eerie</trans>
+    <note>Listed in CM.</note>
+  </buadhair>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="iomlan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>iomlan</orth>
+    </form>
+    <trans>gross</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </buadhair>

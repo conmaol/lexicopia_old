@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuuirt_an_t-seisein" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Cùirt an t-Seisein</orth>
+    </form>
+    <trans>the Court of Session</trans>
+    <note>Supreme civil court in Scotland. Part of the College of Justice. 34 judges.</note>
+  </lexeme>

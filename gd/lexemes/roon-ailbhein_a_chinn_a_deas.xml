@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="roon-ailbhein_a_chinn_a_deas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ròn-ailbhein a' chinn a deas</orth>
+    </form>
+    <trans>southern elephant seal</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: ròin-ailbhein a' chinn a deas</note>
+    <note>Latin: (Mirounga leonina)</note>
+  </ainmear_boireann>

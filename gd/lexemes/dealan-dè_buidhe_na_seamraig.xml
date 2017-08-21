@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dealan-dè_buidhe_na_seamraig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dealan-dè buidhe na seamraig</orth>
+    </form>
+    <trans>clouded yellow butterfly</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: dealanan-dè buidhe na seamraig</note>
+    <note>Latin: Colias croceus</note>
+    <note>Info: The yellow butterfly of the clover. Plural of dealan-dè can be dealanan-dè or dealain-dè.</note>
+  </ainmear_fireann>

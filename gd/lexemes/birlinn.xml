@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="birlinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>birlinn</orth>
+    </form>
+    <trans>galley</trans>
+    <note>Listed in An Seotal: History.</note>
+    <note>galley - birlinn(e) sc galleys - birlinnean iom</note>
+  </ainmear_boireann>

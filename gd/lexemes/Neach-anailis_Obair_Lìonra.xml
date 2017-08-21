@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Neach-anailis_Obair_Lìonra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Neach-anailis Obair Lìonra</orth>
+    </form>
+    <trans>Network Operations Analyst</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

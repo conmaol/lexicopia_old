@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="giorraich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>giorraich</orth>
+    </form>
+    <trans>shorten</trans>
+    <trans>abbreviate</trans>
+    <trans>abridge</trans>
+    <trans>contract</trans>
+  </gnìomhair>

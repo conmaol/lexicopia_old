@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="feum-verb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>feum</orth>
+    </form>
+    <trans>have to</trans>
+    <trans>must</trans>
+    <trans>need to</trans>
+  </lexeme>

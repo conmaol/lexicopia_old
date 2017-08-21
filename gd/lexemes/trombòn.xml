@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="trombòn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>trombòn</orth>
+    </form>
+    <trans>trombone</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>trombone - trombòn poss ctrombones - trombònan pl</note>
+  </ainmear_fireann>

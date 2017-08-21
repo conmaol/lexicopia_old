@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="arbhar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>arbhar</orth>
+    </form>
+    <trans sources="cmark">corn</trans>
+    <trans>cereal</trans>
+    <note>Growing or in sheaf.</note>
+    <note>Denotes any cereal crop, e.g. oats, barley, wheat.</note>
+  </ainmear_fireann>

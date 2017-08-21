@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="mullach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mullach</orth>
+    </form>
+    <form>
+      <orth>mullaich</orth>
+    </form>
+    <form>
+      <orth>mullaichean</orth>
+    </form>
+    <trans>top</trans>
+    <trans>summit</trans>
+    <trans>roof</trans>
+    <note>Listed in An Seotal: Geography, as 'summit'.</note>
+    <note>Listed in An Seotal: Maths, as 'top'.</note>
+    <note>Listed in An Seotal: Technology, as 'roof'.</note>
+  </ainmear_fireann>

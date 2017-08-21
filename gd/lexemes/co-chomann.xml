@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="co-chomann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>co-chomann</orth>
+    </form>
+    <trans>society</trans>
+    <trans>co-operative</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>co-operative - co-chomainn poss cco-operatives - co-chomainn pl</note>
+    <note>society - co-chomainn poss csocieties - co-chomainn pl</note>
+  </ainmear_fireann>

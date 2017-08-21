@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="priosam" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>priosam</orth>
+    </form>
+    <trans>prism</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>prism - priosam poss cprisms - priosaman pl</note>
+  </ainmear_fireann>

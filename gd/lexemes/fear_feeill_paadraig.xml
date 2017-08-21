@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="fear_feeill_paadraig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fear Fèill Pàdraig</orth>
+    </form>
+    <trans>stonechat</trans>
+    <trans>Saxicola rubicola</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair, as 'Fear na Fèill Pàdraig'.</note>
+    <note>Info: Fear na Feill Padruig - means 'the one of St.Partrick's Day' because he appears about then.</note>
+  </ainmear_fireann>

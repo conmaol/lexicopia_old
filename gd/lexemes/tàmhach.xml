@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="tàmhach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tàmhach</orth>
+    </form>
+    <trans>dormant</trans>
+    <trans>inert</trans>
+    <trans>noble</trans>
+  </buadhair>

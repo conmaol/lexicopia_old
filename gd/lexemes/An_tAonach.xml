@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="An_tAonach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An tAonach</orth>
+    </form>
+    <trans>Nenagh</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

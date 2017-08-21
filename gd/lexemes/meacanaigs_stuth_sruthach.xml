@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="meacanaigs_stuth_sruthach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>meacanaigs stuth sruthach</orth>
+    </form>
+    <trans>fluid mechanics</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bruachan_Abhainn_Theòrsa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bruachan Abhainn Theòrsa</orth>
+    </form>
+    <trans>banks of (the) River Thurso</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

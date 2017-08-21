@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cum_fodha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cum fodha</orth>
+    </form>
+    <trans>suppress</trans>
+    <trans>keep down</trans>
+  </lexeme>

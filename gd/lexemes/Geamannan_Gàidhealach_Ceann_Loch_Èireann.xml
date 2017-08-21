@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Geamannan_Gàidhealach_Ceann_Loch_Èireann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Geamannan Gàidhealach Ceann Loch Èireann</orth>
+    </form>
+    <trans>Lochearnhead Highland Games</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="meadhan-oidhche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>meadhan-oidhche</orth>
+    </form>
+    <trans>midnight</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>midnight - meadhain-oidhche poss c</note>
+  </ainmear_fireann>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="cruaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cruaidh</orth>
+    </form>
+    <trans>hard</trans>
+    <trans>austere</trans>
+    <trans>hardy</trans>
+    <trans>rigorous</trans>
+    <trans>ruthless</trans>
+    <trans>severe</trans>
+    <trans>solid</trans>
+    <trans>stale</trans>
+    <trans>stern</trans>
+    <trans>strict</trans>
+    <trans>rigid</trans>
+    <note>Listed in An Seotal: Maths, as 'rigid', 'solid'.</note>
+  </buadhair>

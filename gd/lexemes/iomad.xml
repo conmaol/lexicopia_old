@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="iomad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>iomad</orth>
+    </form>
+    <trans>multiple</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>multiple - iomaid poss cmultiples - iomadan pl</note>
+  </ainmear_fireann>

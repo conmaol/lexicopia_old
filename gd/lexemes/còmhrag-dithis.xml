@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="còmhrag-dithis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>còmhrag-dithis</orth>
+    </form>
+    <trans>duel</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>duel - còmhraig-dithis poss cduels - còmhragan-dithis pl</note>
+  </ainmear_boireann>

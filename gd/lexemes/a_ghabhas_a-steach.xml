@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_ghabhas_a-steach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a ghabhas a-steach</orth>
+    </form>
+    <trans>inclusive</trans>
+    <trans>inclusiveness</trans>
+    <note>Listed in Faclair Rianachd Phoblaich.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ealain_dhidseatach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ealain dhidseatach</orth>
+    </form>
+    <trans>digital art</trans>
+    <note>Listed in An Seotal: Art.</note>
+  </lexeme>

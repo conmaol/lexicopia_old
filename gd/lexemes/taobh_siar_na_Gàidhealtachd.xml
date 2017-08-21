@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="taobh_siar_na_Gàidhealtachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>taobh siar na Gàidhealtachd</orth>
+    </form>
+    <trans>the western Highlands</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cathair_daibìotas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cathair daibìotas</orth>
+    </form>
+    <trans>chair in diabetes (university)</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

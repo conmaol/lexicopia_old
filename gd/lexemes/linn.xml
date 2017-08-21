@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="linn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>linn</orth>
+    </form>
+    <trans>age</trans>
+    <trans>era</trans>
+    <trans>century</trans>
+    <trans>generation</trans>
+    <trans>lineage</trans>
+    <trans>period</trans>
+  </ainmear_fireann>

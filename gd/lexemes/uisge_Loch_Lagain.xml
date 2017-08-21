@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="uisge_Loch_Lagain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uisge Loch Lagain</orth>
+    </form>
+    <trans>water of Loch Laggan</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

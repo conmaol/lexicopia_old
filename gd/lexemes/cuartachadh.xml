@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cuartachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuartachadh</orth>
+    </form>
+    <trans>circulation</trans>
+    <trans>convection</trans>
+    <trans>rotation</trans>
+    <trans>circulating</trans>
+    <trans>rotating</trans>
+    <trans>turning</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>circulation - cuartachaidh sccirculation - cuartachaidhean iom</note>
+    <note>convection - cuartachaidh scconvections - cuartachaidhean iom</note>
+    <note>Listed in An Seotal: Maths, as 'rotation'.</note>
+    <note>rotation - cuartachaidh poss crotations - cuartachaidhean pl</note>
+  </ainmear_fireann>

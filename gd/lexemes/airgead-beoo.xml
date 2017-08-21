@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="airgead-beoo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>airgead-beò</orth>
+    </form>
+    <trans>mercury</trans>
+    <trans>quicksilver</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>Listed in Am Faclair Beag.</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

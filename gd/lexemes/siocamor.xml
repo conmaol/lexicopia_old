@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="siocamor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>siocamor</orth>
+    </form>
+    <trans>sycamore</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>sycamore - siocamoir scsycamores - siocamoran iom</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="tìrean_mun_cuairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tìrean mun cuairt</orth>
+    </form>
+    <trans>adjacent territories</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

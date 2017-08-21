@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="gun_a_bhith_a_tighinn_a_reeir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gun a bhith (a' tighinn) a rèir</orth>
+    </form>
+    <trans>non-compliance</trans>
+    <note>Listed in Faclair na Pàrlamaid.</note>
+  </lexeme>

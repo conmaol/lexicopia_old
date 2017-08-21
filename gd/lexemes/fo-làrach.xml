@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="fo-làrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fo-làrach</orth>
+    </form>
+    <trans>subsite</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>subsite - fo-làraich poss csubsites - fo-làraichean pl</note>
+  </ainmear_boireann>

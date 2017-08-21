@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ailbheòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ailbheòlas</orth>
+    </form>
+    <trans>alveolus</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>alveolus - ailbheòlas scalveoli - ailbheòlasan iom</note>
+  </ainmear_fireann>

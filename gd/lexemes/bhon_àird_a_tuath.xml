@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bhon_àird_a_tuath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bhon àird a tuath</orth>
+    </form>
+    <trans>from a northerly direction</trans>
+    <trans>coming from a northerly direction</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

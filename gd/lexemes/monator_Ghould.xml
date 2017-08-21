@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="monator_Ghould" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>monator Ghould</orth>
+    </form>
+    <trans>Gould's monitor</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="roinniche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>roinniche</orth>
+    </form>
+    <trans>divisor</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>divisor - roinniche poss cdivisors - roinnichean pl</note>
+  </ainmear_fireann>

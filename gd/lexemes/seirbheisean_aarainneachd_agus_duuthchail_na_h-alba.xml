@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="seirbheisean_aarainneachd_agus_duuthchail_na_h-alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Seirbheisean Àrainneachd agus Dùthchail na h-Alba</orth>
+    </form>
+    <trans>Scottish Environmental and Rural Services (SEARS)</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/SEARS.mp3</note>
+  </ainmear_boireann>

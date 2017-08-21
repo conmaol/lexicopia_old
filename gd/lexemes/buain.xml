@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="buain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>buain</orth>
+    </form>
+    <trans>harvest</trans>
+    <trans>reap</trans>
+    <trans>mow</trans>
+    <trans>pluck</trans>
+    <trans>crop</trans>
+    <note>Listed in CM.</note>
+    <note>Verbal noun is the same.</note>
+  </gnìomhair>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dath_nan_casachan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dath nan casachan</orth>
+    </form>
+    <trans>the colour of the leggings</trans>
+    <note>Listed in An Seotal: Home economics.</note>
+  </lexeme>

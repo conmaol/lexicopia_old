@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sèine_toirt-air-falbh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sèine toirt-air-falbh</orth>
+    </form>
+    <trans>subtraction chain</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

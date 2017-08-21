@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="leum_gu_susbaint" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leum gu susbaint</orth>
+    </form>
+    <trans>jump to content</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

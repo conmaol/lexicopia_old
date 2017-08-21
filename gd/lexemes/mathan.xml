@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="mathan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mathan</orth>
+    </form>
+    <trans>bear</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: mathain</note>
+    <note>Latin: Ursidae (Family) spp.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/mathan.mp3</note>
+    <note>Listed in An Seotal: Science.</note>
+    <note>bear - mathain sc bears - mathanan iom</note>
+  </ainmear_fireann>

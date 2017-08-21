@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="feuchainn_is_leasachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>feuchainn is leasachadh</orth>
+    </form>
+    <trans>trial and improvement</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

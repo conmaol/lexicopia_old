@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="geeadh_blaair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gèadh blàir</orth>
+    </form>
+    <trans>white-fronted goose</trans>
+    <trans>Anser albifrons</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair, as 'gèadh-bhlàr'.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/geadh blar.mp3</note>
+    <note>Listed in CM as 'gèadh-bhlàr'.</note>
+  </ainmear_fireann>

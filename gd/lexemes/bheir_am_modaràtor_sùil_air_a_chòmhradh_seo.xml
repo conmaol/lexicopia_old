@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bheir_am_modaràtor_sùil_air_a_chòmhradh_seo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bheir am modaràtor sùil air a' chòmhradh seo</orth>
+    </form>
+    <trans>this discussion is moderated</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

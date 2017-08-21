@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Monadh_Mhendip" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Monadh Mhendip</orth>
+    </form>
+    <trans>Mendip Hills</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Mendip Hills - Monadh Mhendip poss c</note>
+  </ainmear_fireann>

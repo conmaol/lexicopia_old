@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="WC" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>WC</orth>
+    </form>
+    <trans>WC</trans>
+    <note>Listed in An Seotal: Technology.</note>
+    <note>WC - WC poss cWCs - WCan pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Sliabh_Speirín" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Sliabh Speirín</orth>
+    </form>
+    <trans>Sperrin Mountains</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

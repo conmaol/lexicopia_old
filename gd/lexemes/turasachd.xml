@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="turasachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>turasachd</orth>
+    </form>
+    <trans>tourism</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>tourism - turasachd poss c</note>
+  </ainmear_boireann>

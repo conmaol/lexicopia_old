@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="costa_Phort_Chnocaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>costa Phort Chnocaidh</orth>
+    </form>
+    <trans>coast of Portknockie</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

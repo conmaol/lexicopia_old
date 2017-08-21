@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="acfhainn_agus_innealan_taighe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>acfhainn agus innealan taighe</orth>
+    </form>
+    <trans>hardware and household appliances</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seòrsaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seòrsaiche</orth>
+    </form>
+    <trans>denominator</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>denominator - seòrsaiche poss cdenominators - seòrsaichean pl</note>
+  </ainmear_fireann>

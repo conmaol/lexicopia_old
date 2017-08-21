@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="còmhdaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>còmhdaich</orth>
+    </form>
+    <trans>cover</trans>
+    <trans>coat</trans>
+    <trans>cap</trans>
+    <trans>cloak</trans>
+    <trans>clothe</trans>
+    <trans>deck</trans>
+    <trans>envelop</trans>
+    <trans>muffle</trans>
+    <trans>shroud</trans>
+    <trans>veil</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>Listed in CM.</note>
+  </gnìomhair>

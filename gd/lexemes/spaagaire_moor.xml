@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="spaagaire_moor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>spàgaire mòr</orth>
+    </form>
+    <trans>great crested grebe</trans>
+    <trans>Podiceps cristatus</trans>
+    <trans index="only">grebe</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: spàgairean mòra</note>
+  </ainmear_fireann>

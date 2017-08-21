@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="a_phoolainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>A' Phòlainn</orth>
+    </form>
+    <trans>Poland</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Poland - na Pòlainn poss c</note>
+  </ainmear_boireann>

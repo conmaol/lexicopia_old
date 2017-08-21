@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="fearann_Rubha_Bhaile_a_Mhuilinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fearann Rubha Bhaile a' Mhuilinn</orth>
+    </form>
+    <trans>land of Milton Ness</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

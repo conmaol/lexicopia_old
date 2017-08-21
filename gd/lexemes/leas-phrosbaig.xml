@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="leas-phrosbaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leas-phrosbaig</orth>
+    </form>
+    <trans>finderscope</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>finderscope - leas-phrosbaig(e) scfinderscopes - leas-phrosbaigean iom</note>
+  </ainmear_fireann>

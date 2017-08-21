@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="naomh-adj" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>naomh</orth>
+    </form>
+    <trans>holy</trans>
+    <trans>saintly</trans>
+    <trans>sacred</trans>
+    <note>Listed in TYGD.</note>
+  </buadhair>

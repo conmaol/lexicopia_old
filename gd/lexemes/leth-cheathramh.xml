@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="leth-cheathramh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leth-cheathramh</orth>
+    </form>
+    <trans>couplet</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>couplet - leth-cheathraimh poss ccouplets - leth-cheathramhan pl</note>
+  </ainmear_boireann>

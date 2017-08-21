@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="modaràtor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>modaràtor</orth>
+    </form>
+    <trans>moderator</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>moderator - modaràtoir poss cmoderators - modaràtoran pl</note>
+  </ainmear_fireann>

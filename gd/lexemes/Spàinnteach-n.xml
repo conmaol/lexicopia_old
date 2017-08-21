@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Spàinnteach-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Spàinn(t)each</orth>
+    </form>
+    <trans>Spaniard</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Spaniard - Spàinn(t)ich poss cSpaniards - Spàinn(t)ich pl</note>
+  </ainmear_fireann>

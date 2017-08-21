@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="is_mathaid_gun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>is mathaid gun</orth>
+    </form>
+    <trans index="no">it might be that ...</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

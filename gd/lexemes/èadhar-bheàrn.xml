@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="èadhar-bheàrn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>èadhar-bheàrn</orth>
+    </form>
+    <trans>air space (e.g. in mesophyll)</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="breac_feusagach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="breac-noun"/>
+    <part ref="feusagach"/>
+    <form>
+      <orth>breac feusagach</orth>
+    </form>
+    <trans>barbel</trans>
+    <note> Freshwater fish: Common barbel: Barbus barbus. </note>
+  </lexeme>

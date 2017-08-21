@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ionannachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ionannachd</orth>
+    </form>
+    <trans>similarity</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>similarity - ionannachd poss csimilarities - ionannachdan pl</note>
+  </ainmear_boireann>

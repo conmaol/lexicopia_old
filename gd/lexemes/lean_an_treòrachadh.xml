@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="lean_an_treòrachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lean an treòrachadh</orth>
+    </form>
+    <trans>follow the instructions</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

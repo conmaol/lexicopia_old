@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tricead" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tricead</orth>
+    </form>
+    <trans>frequency</trans>
+    <trans>incidence</trans>
+    <note>Listed in An Seotal: General, as 'incidence'.</note>
+    <note>incidence - triceid poss cincidences - triceadan pl</note>
+    <note>Listed in An Seotal: Science, Maths, 'as frequency'.</note>
+    <note>frequency - triceid scfrequencies - triceadan iom</note>
+  </ainmear_fireann>

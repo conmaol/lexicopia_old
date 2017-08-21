@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="smeoorach_ghlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>smeòrach ghlas</orth>
+    </form>
+    <trans>mistle thrush</trans>
+    <trans>Turdus viscivorus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/smeorach ghlas.mp3</note>
+  </ainmear_boireann>

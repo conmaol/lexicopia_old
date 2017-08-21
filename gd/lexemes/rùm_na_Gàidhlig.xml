@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="rùm_na_Gàidhlig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>rùm na Gàidhlig</orth>
+    </form>
+    <trans>Gaelic room</trans>
+    <note>Listed in An Seotal: Language.</note>
+  </lexeme>

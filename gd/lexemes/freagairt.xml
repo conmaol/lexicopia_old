@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="freagairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>freagairt</orth>
+    </form>
+    <trans>answering</trans>
+    <trans>answer</trans>
+    <trans>acknowledgement</trans>
+    <trans>reply</trans>
+    <trans>response</trans>
+    <trans>rejoinder</trans>
+    <trans>retort</trans>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

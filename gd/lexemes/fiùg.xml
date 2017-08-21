@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="fiùg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fiùg</orth>
+    </form>
+    <trans>fugue</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>fugue - fiùg poss cfugues - fiùgan pl</note>
+  </ainmear_fireann>

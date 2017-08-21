@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="sgeidse-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sgeidse</orth>
+    </form>
+    <trans>sketch</trans>
+    <note>Listed in An Seotal: Art.</note>
+    <note>sketch - sgeidse poss csketches - sgeidsichean pl</note>
+  </ainmear_boireann>

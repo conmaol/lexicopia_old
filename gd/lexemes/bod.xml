@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bod" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bod</orth>
+    </form>
+    <trans>penis</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>penis - boid sc penis - buid sc penises - boid iom penises - buid iom</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="An_Caisleán_Nua" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Caisleán Nua</orth>
+    </form>
+    <trans>Newcastle</trans>
+    <trans>Newcastle West</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

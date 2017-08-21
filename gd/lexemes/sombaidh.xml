@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="sombaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Sombaidh</orth>
+    </form>
+    <trans>Zombie</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>Zombie - Sombaidh poss cZombies - Sombaidhean pl</note>
+  </ainmear_fireann>

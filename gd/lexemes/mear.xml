@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="mear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mear</orth>
+    </form>
+    <trans>merry</trans>
+    <trans>playful</trans>
+    <trans>frisky</trans>
+    <trans>jocular</trans>
+    <trans>lively</trans>
+    <trans>sportive</trans>
+    <trans>sprightly</trans>
+  </buadhair>

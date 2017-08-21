@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="allemande" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>allemande</orth>
+    </form>
+    <trans>allemande</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>allemande - allemande poss callemandes - allemandeathan pl</note>
+  </ainmear_boireann>

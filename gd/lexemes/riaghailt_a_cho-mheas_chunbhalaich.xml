@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="riaghailt_a_cho-mheas_chunbhalaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>riaghailt a' cho-mheas chunbhalaich</orth>
+    </form>
+    <trans>the constant ratio rule</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

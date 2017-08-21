@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ceàird_an_sgrìobhaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Ceàird an Sgrìobhaiche</orth>
+    </form>
+    <trans>Writer's Craft</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

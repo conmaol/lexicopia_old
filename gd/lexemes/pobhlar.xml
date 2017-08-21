@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="pobhlar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pobhlar</orth>
+    </form>
+    <trans>poplar</trans>
+    <trans>Populus spp.</trans>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+  </ainmear_fireann>

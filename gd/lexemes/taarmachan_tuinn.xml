@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="taarmachan_tuinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tàrmachan tuinn</orth>
+    </form>
+    <trans>ringed plover</trans>
+    <trans>Charadrius hiaticula</trans>
+    <note>Listed in CM, as 'tàrmachan tuinne'.</note>
+  </ainmear_fireann>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="an_coimisean_eòrpach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>an Coimisean Eòrpach</orth>
+    </form>
+    <trans index="only">European Commission</trans>
+    <trans index="no">the European Commission</trans>
+    <note>Listed in An Seotal: Modern Studies</note>
+    <note>Listed in TYGD.</note>
+  </ainmear_fireann>

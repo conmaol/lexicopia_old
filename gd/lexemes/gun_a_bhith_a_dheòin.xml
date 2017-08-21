@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="gun_a_bhith_a_dheòin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gun a bhith a dheòin</orth>
+    </form>
+    <trans>unintentional</trans>
+    <note>Listed in Faclair na Pàrlamaid, as 'unintentional'.</note>
+  </lexeme>

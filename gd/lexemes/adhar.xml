@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="adhar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>adhar</orth>
+    </form>
+    <form>
+      <orth>adhair</orth>
+    </form>
+    <trans>sky</trans>
+    <trans>air</trans>
+    <note>Listed in An Seotal: General, as 'air', 'sky'.</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="clòimh-liath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clòimh-liath</orth>
+    </form>
+    <trans>mould</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>mould - clòimhe-liath scmoulds - clòimhean-liath iom</note>
+  </ainmear_boireann>

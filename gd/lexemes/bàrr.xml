@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bàrr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bàrr</orth>
+    </form>
+    <trans>top</trans>
+    <trans>surface</trans>
+    <trans>crest</trans>
+    <trans>apex</trans>
+    <trans>crown</trans>
+    <trans>summit</trans>
+    <trans>surface</trans>
+    <trans>tip</trans>
+    <trans>zenith</trans>
+    <trans>cream</trans>
+    <trans>crop</trans>
+    <note>Listed in An Seotal: Science, with meaning 'crop'.</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

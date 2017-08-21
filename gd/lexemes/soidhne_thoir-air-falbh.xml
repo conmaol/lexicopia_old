@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="soidhne_thoir-air-falbh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>soidhne thoir-air-falbh</orth>
+    </form>
+    <trans>minus sign</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

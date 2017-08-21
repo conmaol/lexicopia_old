@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seillean-mòr_a_chrios_bhriste" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seillean-mòr a' chrios bhriste</orth>
+    </form>
+    <trans>broken belted bumblebee</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: seilleanan-mòra a' chrios bhriste</note>
+    <note>Latin: Bombus soroeensis</note>
+  </ainmear_fireann>

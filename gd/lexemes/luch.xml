@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="luch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>luch</orth>
+    </form>
+    <form>
+      <orth>lucha</orth>
+    </form>
+    <form>
+      <orth>luchan</orth>
+    </form>
+    <form>
+      <orth>luchainn</orth>
+    </form>
+    <trans>mouse</trans>
+    <trans>house mouse</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>mouse - lucha poss c mice - luchainn pl mice - luchan pl</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair, as 'house mouse'.</note>
+    <note>Latin: Mus musculus</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/luch.mp3</note>
+  </ainmear_boireann>

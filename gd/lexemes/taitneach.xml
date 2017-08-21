@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="taitneach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="taitneas"/>
+    <part ref="_ach-suffix"/>
+    <form>
+      <orth>taitneach</orth>
+    </form>
+    <trans>pleasant</trans>
+    <trans>agreeable</trans>
+    <trans>pleasing</trans>
+    <trans>nice</trans>
+    <trans>charming</trans>
+    <trans>satisfactory</trans>
+    <trans>sightly</trans>
+  </buadhair>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="liosta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>liosta</orth>
+    </form>
+    <form>
+      <orth>liostaichean</orth>
+    </form>
+    <trans>list</trans>
+    <note>Listed in Colin Mark's (2004) Gaelic-English dictionary.</note>
+    <note>Listed in Boyd Robertson &amp; Ian MacDonald's (2004) 'Teach Yourself' dictionary.</note>
+    <note>liosta fìona = wine list, liosta phrìsean = price list</note>
+  </ainmear_boireann>

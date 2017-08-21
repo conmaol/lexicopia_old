@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="An_Chanáil_Mhór" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Chanáil Mhór</orth>
+    </form>
+    <trans>Grand Canal</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

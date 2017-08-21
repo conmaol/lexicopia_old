@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="àite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àite</orth>
+    </form>
+    <form>
+      <orth>àitean</orth>
+    </form>
+    <form>
+      <orth>àiteachan</orth>
+    </form>
+    <trans>place</trans>
+    <trans>instance</trans>
+    <trans>lieu</trans>
+    <trans>locality</trans>
+    <trans>location</trans>
+    <trans>position</trans>
+    <trans>post</trans>
+    <trans>room</trans>
+    <trans>scope</trans>
+    <trans>situation</trans>
+    <trans>space</trans>
+    <trans>spot</trans>
+    <trans>stead</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>Listed in An Seotal: Computing, as 'location'.</note>
+  </ainmear_fireann>

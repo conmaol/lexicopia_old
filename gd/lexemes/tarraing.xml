@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="tarraing" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tarraing</orth>
+    </form>
+    <trans>draw</trans>
+    <note>Listed in An Seotal: Art.</note>
+  </gnìomhair>

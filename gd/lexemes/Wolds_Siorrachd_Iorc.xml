@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Wolds_Siorrachd_Iorc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Wolds Siorrachd Iorc</orth>
+    </form>
+    <trans index="only">Yorkshire Wolds</trans>
+    <trans index="no">the Yorkshire Wolds</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

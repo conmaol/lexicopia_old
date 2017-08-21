@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="siiolta_bheag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sìolta bheag</orth>
+    </form>
+    <trans>goosander</trans>
+    <trans>Mergus merganser</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  </ainmear_boireann>

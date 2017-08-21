@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="gòrachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gòrachd</orth>
+    </form>
+    <trans>folly</trans>
+    <trans>silliness</trans>
+    <trans>stupidity</trans>
+    <trans>foolishness</trans>
+    <trans>absurdity</trans>
+    <note>Listed in CM.</note>
+    <note>Dwelly: gòrachd sf Foolishness, idiocy.</note>
+  </ainmear_boireann>

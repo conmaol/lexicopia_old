@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="oidhirp" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>oidhirp</orth>
+    </form>
+    <trans>attempt</trans>
+    <trans>endeavour</trans>
+    <trans>initiative</trans>
+    <trans>undertaking</trans>
+  </ainmear_boireann>

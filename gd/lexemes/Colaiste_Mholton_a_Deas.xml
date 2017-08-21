@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Colaiste_Mholton_a_Deas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Colaiste Mholton a Deas</orth>
+    </form>
+    <trans>South Molton College</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

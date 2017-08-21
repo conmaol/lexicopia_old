@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="eileanan_St_Vincent_agus_nan_Grenadines" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eileanan St. Vincent agus nan Grenadines</orth>
+    </form>
+    <trans>islands of St. Vincent and The Grenadines</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

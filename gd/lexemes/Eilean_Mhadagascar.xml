@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Eilean_Mhadagascar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Eilean Mhadagascar</orth>
+    </form>
+    <trans>Island of Madagascar</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Daibhidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Daibhidh</orth>
+    </form>
+    <trans>David</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>David - Dhaibhidh poss c</note>
+  </ainmear_fireann>

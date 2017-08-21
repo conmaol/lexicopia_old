@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="iar-leasachan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>iar-leasachan</orth>
+    </form>
+    <trans>suffix</trans>
+    <note>Listed in An Seotal: Language.</note>
+    <note>suffix - iar-leasachain poss csuffices - iar-leasachain pl</note>
+  </ainmear_fireann>

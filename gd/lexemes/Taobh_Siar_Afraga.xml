@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Taobh_Siar_Afraga" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Taobh Siar Afraga</orth>
+    </form>
+    <trans>West Africa</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

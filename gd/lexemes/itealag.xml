@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="itealag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>itealag</orth>
+    </form>
+    <trans>kite</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>kites - itealaig(e) poss ckites - itealagan pl</note>
+  </ainmear_boireann>

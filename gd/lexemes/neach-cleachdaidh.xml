@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="neach-cleachdaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>neach-cleachdaidh</orth>
+    </form>
+    <trans>user</trans>
+    <trans>customer</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>customer - neach-cleachdaidh poss ccustomers - luchd-cleachdaidh pl</note>
+    <note>Listed in An Seotal: Computing, as 'user'.</note>
+    <note>user - neach-chleachdaidh poss cusers - luchd-cleachdaidh pl</note>
+  </ainmear_fireann>

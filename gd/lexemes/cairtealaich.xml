@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="cairtealaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cairtealaich</orth>
+    </form>
+    <trans>quarter</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </gnìomhair>

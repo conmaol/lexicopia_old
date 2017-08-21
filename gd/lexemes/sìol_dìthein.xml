@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sìol_dìthein" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sìol dìthein</orth>
+    </form>
+    <trans>flower seed</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

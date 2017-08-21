@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cùirtear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cùirtear</orth>
+    </form>
+    <trans>curtain</trans>
+    <note>Listed in An Seotal: Home economics.</note>
+    <note>curtain - cùirteir poss ccurtains - cùirtearan pl</note>
+  </ainmear_fireann>

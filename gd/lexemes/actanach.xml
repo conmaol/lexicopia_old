@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="actanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>actanach</orth>
+    </form>
+    <trans>actinide</trans>
+    <trans>actinoid</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>actinide - actanaich scactinides - actanaich iom</note>
+    <note>actinoid - actanaich scactinoids - actanaich iom</note>
+  </ainmear_fireann>

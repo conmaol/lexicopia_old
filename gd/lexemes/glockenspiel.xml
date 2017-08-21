@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="glockenspiel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>glockenspiel</orth>
+    </form>
+    <trans>glockenspiel</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>glockenspiel - glockenspiel poss cglockenspiels - glockenspielean pl</note>
+  </ainmear_fireann>

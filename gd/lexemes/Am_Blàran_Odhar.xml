@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Am_Blàran_Odhar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Am Blàran Odhar</orth>
+    </form>
+    <trans>Bettyhill</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="amadan_moointich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>amadan mòintich</orth>
+    </form>
+    <trans>dotterel</trans>
+    <trans>Charadrius morinellus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Latin: Charadrius morinellus</note>
+    <note>Info: The name 'amadan-mòintich' means the fool of the moor because it is so easy to hunt and because it hangs its wing in a strange manner to attract people away from its ground-nest</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/amadan-mointich.mp3</note>
+    <note>Listed in CM.</note>
+    <note>Dwelly: amadan-mòintich ¶ sm Dotterel (charadrius morinellus). 2 Wigeon (anas penelope). 3(AF) Snipe (gallinago gallinago). 4(AF) Ringed plover (charadrius hiaticula).</note>
+  </ainmear_fireann>

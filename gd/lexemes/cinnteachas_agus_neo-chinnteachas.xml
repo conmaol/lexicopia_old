@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cinnteachas_agus_neo-chinnteachas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cinnteachas agus neo-chinnteachas</orth>
+    </form>
+    <trans>determinism and indeterminism</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

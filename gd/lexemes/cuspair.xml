@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cuspair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuspair</orth>
+    </form>
+    <form>
+      <orth>cuspairean</orth>
+    </form>
+    <trans>subject</trans>
+    <trans>object</trans>
+    <trans>point</trans>
+    <trans>subject matter</trans>
+    <trans>theme</trans>
+    <trans>topic</trans>
+    <note>Listed in An Seotal: General, as 'subject', 'topic'.</note>
+  </ainmear_boireann>

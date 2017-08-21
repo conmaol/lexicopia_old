@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ro-shealladh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ro-shealladh</orth>
+    </form>
+    <trans>preview</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>preview - ro-sheallaidh poss cpreviews - ro-sheallaidhean pl</note>
+  </ainmear_fireann>

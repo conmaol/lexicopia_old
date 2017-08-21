@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="flùranach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="flùr"/>
+    <form>
+      <orth>flùranach</orth>
+    </form>
+    <trans>floral</trans>
+    <trans>flowery</trans>
+    <note>CM:307.</note>
+  </lexeme>

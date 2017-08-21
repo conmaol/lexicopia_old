@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="spong" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>spong</orth>
+    </form>
+    <trans>sponge</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>sponge - spuing scsponges - spongan iom</note>
+  </ainmear_fireann>

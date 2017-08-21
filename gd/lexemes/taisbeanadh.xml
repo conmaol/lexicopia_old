@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="taisbeanadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>taisbeanadh</orth>
+    </form>
+    <trans>performance</trans>
+    <trans>presentation</trans>
+    <trans>revelation</trans>
+    <note>Listed in An Seotal: General, as 'performance', 'presentation'.</note>
+    <note>performance - taisbeanaidh poss cperformances - taisbeanaidhean pl</note>
+    <note>Listed in An Seotal: Religious and Moral, as 'revelation'.</note>
+    <note>revelation - taisbeanaidh screvelations - taisbeanaidhean iom</note>
+    <note>presentation - taisbeanaidh poss cpresentations - taisbeanaidhean pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="preachan_nan_cearc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>preachan nan cearc</orth>
+    </form>
+    <trans>red kite</trans>
+    <trans>Milvus milvus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Info: There is also a Gaelic proverb associated with the kite - 'Cha d' thainig eun glan riamh � nead a' chlamhain' - a clean bird never came from a kite's nest.</note>
+  </ainmear_fireann>

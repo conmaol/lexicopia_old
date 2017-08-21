@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="leabhar_sheoolaidhean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leabhar sheòlaidhean</orth>
+    </form>
+    <trans>address book</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>address book - Leabhar Sheòlaidhean poss caddress books - Leabhraichean Sheòlaidhean pl</note>
+  </ainmear_fireann>

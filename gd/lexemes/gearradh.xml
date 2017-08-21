@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gearradh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gearradh</orth>
+    </form>
+    <trans>cutting</trans>
+    <trans>cut</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>cut - gearraidh poss ccuts - gearraidhean pl</note>
+  </ainmear_fireann>

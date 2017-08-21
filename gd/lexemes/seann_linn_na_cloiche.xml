@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seann_linn_na_cloiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seann linn na cloiche</orth>
+    </form>
+    <trans index="only">palaeolithic</trans>
+    <trans index="no">the palaeolithic</trans>
+    <note>Listed in An Seotal: History.</note>
+    <note/>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="reat" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>reat</orth>
+    </form>
+    <trans>rate</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>rate - reat poss crates - reatan pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="slàinte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>slàinte</orth>
+    </form>
+    <trans>health</trans>
+    <trans>good health</trans>
+    <note>Listed in An Seotal: Personal and Social Education, as 'health, good health'.</note>
+  </ainmear_boireann>

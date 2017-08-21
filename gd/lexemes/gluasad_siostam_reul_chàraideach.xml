@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="gluasad_siostam_reul_chàraideach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gluasad siostam reul chàraideach</orth>
+    </form>
+    <trans>binary star system movement</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

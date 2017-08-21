@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="obrachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>obrachadh</orth>
+    </form>
+    <trans>operation</trans>
+    <trans>calculation</trans>
+    <trans>working out</trans>
+    <note>Listed in An Seotal: General, as 'operation'.</note>
+    <note>operation - obrachaidh poss coperations - obrachaidhean pl</note>
+    <note>Listed in An Seotal: Maths, as 'calculation', 'operation', 'working out'.</note>
+    <note>calculation - obrachaidh poss c calculations - obrachaidhean pl</note>
+    <note>working out - obrachaidh poss c working out - obrachaidhean pl</note>
+  </ainmear_fireann>

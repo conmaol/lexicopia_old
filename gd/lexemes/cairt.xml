@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cairt</orth>
+    </form>
+    <trans>card</trans>
+    <trans>cart</trans>
+    <note>Listed in An Seotal: Maths, as 'card'.</note>
+    <note>card - cairt poss ccards - cairtean pl</note>
+    <note>Listed in An Seotal: Computing, as 'cart'.</note>
+    <note>cart - cairte poss ccarts - cairtean pl</note>
+  </ainmear_boireann>

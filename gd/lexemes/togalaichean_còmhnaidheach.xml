@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="togalaichean_còmhnaidheach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>togalaichean còmhnaidheach</orth>
+    </form>
+    <trans>residential buildings</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

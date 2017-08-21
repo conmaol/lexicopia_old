@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="treooir-nota" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>treòir-nota</orth>
+    </form>
+    <trans>leading note</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>leading note - treòir-nota poss cleading notes - treòir-notaichean pl</note>
+  </lexeme>

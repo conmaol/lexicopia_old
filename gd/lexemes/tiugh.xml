@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="tiugh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tiugh</orth>
+    </form>
+    <trans>thick</trans>
+    <trans>dense</trans>
+    <note>Listed in An Seotal: Science, as 'dense'.</note>
+    <note>Listed in An Seotal: Maths, as 'thick'.</note>
+  </buadhair>

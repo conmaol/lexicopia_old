@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="cothromach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cothromach</orth>
+    </form>
+    <trans>even</trans>
+    <trans>regular</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </buadhair>

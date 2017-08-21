@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="each-mara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>each-mara</orth>
+    </form>
+    <trans>seahorse</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>seahorse - eich-mhara sc seahorses - eich-mhara iom</note>
+  </ainmear_fireann>

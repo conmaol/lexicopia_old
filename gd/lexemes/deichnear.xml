@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="deichnear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>deichnear</orth>
+    </form>
+    <trans>ten</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>ten - deichnear poss c</note>
+  </ainmear_fireann>

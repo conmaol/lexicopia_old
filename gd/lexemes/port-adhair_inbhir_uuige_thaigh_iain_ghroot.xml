@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="port-adhair_inbhir_uuige_thaigh_iain_ghroot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Port-adhair Inbhir Ùige Thaigh Iain Ghròt</orth>
+    </form>
+    <trans>Wick John O'Groats Airport</trans>
+    <note>From BBC.</note>
+  </lexeme>

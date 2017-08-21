@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="damhain-eòin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>damhain-eòin</orth>
+    </form>
+    <trans>bird spider</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

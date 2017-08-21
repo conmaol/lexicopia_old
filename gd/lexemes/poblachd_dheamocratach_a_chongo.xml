@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="poblachd_dheamocratach_a_chongo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Poblachd Dheamocratach a' Chongo</orth>
+    </form>
+    <trans>Democratic Republic of Congo</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Democratic Republic of Congo - Poblachd Dheamocratach na Congo poss c</note>
+  </ainmear_boireann>

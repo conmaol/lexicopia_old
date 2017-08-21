@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="farspag_bheag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>farspag bheag</orth>
+    </form>
+    <trans>lesser black-backed gull</trans>
+    <trans>Larus fuscus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Latin: (Larus fuscus)</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/farspag-bheag.mp3</note>
+  </ainmear_boireann>

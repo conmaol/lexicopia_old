@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="iomlanachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>iomlanachd</orth>
+    </form>
+    <trans>integrity</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>integrity - iomlanachd poss c</note>
+  </ainmear_boireann>

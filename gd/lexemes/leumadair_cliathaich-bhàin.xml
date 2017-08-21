@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="leumadair_cliathaich-bhàin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leumadair cliathaich-bhàin</orth>
+    </form>
+    <trans>white-sided dolphin</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Synonyms: deilf chliathaich-ghil f</note>
+    <note>Plurals: leumadairean cliathaich-bhàin, deilf chliathaich-ghil</note>
+    <note>Latin: Lagenorhynchus acutus</note>
+  </ainmear_fireann>

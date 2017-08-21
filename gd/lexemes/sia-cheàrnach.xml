@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="sia-cheàrnach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sia-cheàrnach</orth>
+    </form>
+    <trans>hexagon</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>hexagon - sia-cheàrnaich poss chexagons - sia-cheàrnachan pl</note>
+  </ainmear_fireann>

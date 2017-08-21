@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="na_grèine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>na grèine</orth>
+    </form>
+    <trans>solar</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </buadhair>

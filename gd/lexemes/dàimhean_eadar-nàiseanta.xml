@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dàimhean_eadar-nàiseanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dàimhean eadar-nàiseanta</orth>
+    </form>
+    <trans>international relations</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

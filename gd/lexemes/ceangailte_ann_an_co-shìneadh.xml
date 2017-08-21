@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ceangailte_ann_an_co-shìneadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceangailte ann an co-shìneadh</orth>
+    </form>
+    <trans>connected in parallel</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

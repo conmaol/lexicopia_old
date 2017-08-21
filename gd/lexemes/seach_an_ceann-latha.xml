@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="seach_an_ceann-latha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seach an ceann-latha</orth>
+    </form>
+    <trans>past sell-by date</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

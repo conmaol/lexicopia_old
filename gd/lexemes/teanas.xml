@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="teanas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>teanas</orth>
+    </form>
+    <trans>tennis</trans>
+    <note>Listed in An Seotal: Physical Education.</note>
+    <note>tennis - teanas poss c</note>
+  </ainmear_fireann>

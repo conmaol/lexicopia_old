@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Ruanda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Ruanda</orth>
+    </form>
+    <trans>Rwanda</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Rwanda - Ruanda poss c</note>
+  </ainmear_fireann>

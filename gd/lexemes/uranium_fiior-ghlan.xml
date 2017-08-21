@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="uranium_fiior-ghlan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uranium fìor-ghlan</orth>
+    </form>
+    <trans>pure uranium</trans>
+    <note>From BBC.</note>
+  </lexeme>

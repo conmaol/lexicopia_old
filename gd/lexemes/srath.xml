@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="srath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>srath</orth>
+    </form>
+    <trans>valley</trans>
+    <trans>strath</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>valleys - sratha poss cvalleys - srathan pl</note>
+    <note>strath - sratha poss cstraths - srathan pl</note>
+  </ainmear_fireann>

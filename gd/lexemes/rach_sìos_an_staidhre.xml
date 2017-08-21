@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="rach_sìos_an_staidhre" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>rach sìos an staidhre</orth>
+    </form>
+    <trans>go downstairs</trans>
+  </lexeme>

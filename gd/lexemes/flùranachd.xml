@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="flùranachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="flùranachd"/>
+    <form>
+      <orth>flùranachd</orth>
+    </form>
+    <trans>floriculture</trans>
+    <trans>botany</trans>
+    <trans>horticulture</trans>
+    <trans>floweriness</trans>
+    <note>CM. Dwelly: floweriness, botany, horticulture</note>
+  </lexeme>

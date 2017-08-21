@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="plosg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>plosg</orth>
+    </form>
+    <trans>palpitate</trans>
+    <trans>throb</trans>
+    <trans>gasp</trans>
+    <trans>pant</trans>
+  </gnìomhair>

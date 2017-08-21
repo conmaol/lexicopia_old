@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="extravaganza" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>extravaganza</orth>
+    </form>
+    <trans>extravaganza</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>extravaganza - extravaganza poss cextravaganzas - extravaganzathan pl</note>
+  </ainmear_boireann>

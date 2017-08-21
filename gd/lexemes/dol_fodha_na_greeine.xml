@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dol_fodha_na_greeine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dol fodha na grèine</orth>
+    </form>
+    <trans>sunset</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </ainmear_fireann>

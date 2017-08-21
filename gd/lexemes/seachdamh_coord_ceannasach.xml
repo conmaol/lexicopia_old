@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="seachdamh_coord_ceannasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>7mh còrd ceannasach</orth>
+    </form>
+    <trans>dominant 7th chord</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

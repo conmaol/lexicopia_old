@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="corra_ghritheach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>corra ghritheach</orth>
+    </form>
+    <trans>grey heron</trans>
+    <trans>Ardea cinerea</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair, as 'grey heron'.</note>
+    <note>Listed in TYGD as 'heron'.</note>
+    <note>Listed in Dwelly: "Heron, stork, crane — ardea cinerea. [Griathach is from early Irish grith, a scream]." </note>
+    <note>Listed in Stòr-dàta as 'heron', along with the variant 'gorra chritheach'.</note>
+    <note>Some variant spellings found in DASG Fieldwork Archive: corra chritheach, corra ria(bha)ch, corra ghriadhach, corra ghriuch, coire ghriothach, </note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="so-roinnte_slàn_le_3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>so-roinnte slàn le 3</orth>
+    </form>
+    <trans>exactly divisible by 3</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

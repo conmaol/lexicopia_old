@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="plana_bloc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>plana bloc</orth>
+    </form>
+    <trans>block plan</trans>
+    <note>Listed in An Seotal: Technology.</note>
+  </lexeme>

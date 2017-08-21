@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="buaidh_air_an_t-saoghal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>buaidh air an t-saoghal</orth>
+    </form>
+    <trans>impact on the world</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

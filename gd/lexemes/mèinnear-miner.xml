@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="mèinnear-miner" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mèinnear</orth>
+    </form>
+    <trans>miner</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>miner - mèinneir sc miners - mèinnearan iom</note>
+  </ainmear_fireann>

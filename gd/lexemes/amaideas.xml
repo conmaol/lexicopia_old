@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="amaideas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>amaideas</orth>
+    </form>
+    <trans>foolishness</trans>
+    <trans>absurdity</trans>
+    <trans>nonsense</trans>
+    <trans>humbug</trans>
+    <trans>folly</trans>
+    <trans>silliness</trans>
+    <note>Listed in CM.</note>
+    <note>Dwelly: amaideas -eis. See amaideachd.</note>
+  </ainmear_fireann>

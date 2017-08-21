@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="comharradh_fuincseanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>comharradh fuincseanach</orth>
+    </form>
+    <trans>functional notation</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

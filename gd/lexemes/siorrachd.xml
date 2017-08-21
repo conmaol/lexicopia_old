@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="siorrachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>siorrachd</orth>
+    </form>
+    <trans>shire</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>shire - siorrachd poss cshires - siorrachdan pl</note>
+  </ainmear_boireann>

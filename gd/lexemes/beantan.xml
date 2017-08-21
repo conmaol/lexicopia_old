@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="beantan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>beantan</orth>
+    </form>
+    <trans>tangent</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>tangent - beantain poss ctangents - beantanan pl</note>
+  </ainmear_fireann>

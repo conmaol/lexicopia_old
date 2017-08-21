@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="aard-thalamh_etioopia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àrd-thalamh Etiòpia</orth>
+    </form>
+    <trans>the Ethiopian Highlands</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_fireann>

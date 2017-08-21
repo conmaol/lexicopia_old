@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="snagan_allt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>snagan allt</orth>
+    </form>
+    <trans>water rail</trans>
+    <trans>Rallus aquaticus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Info: The Gaelic means 'little creeping one of burns'.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/snagan allt.mp3</note>
+    <note>Why not 'snagan uillt' ?</note>
+  </ainmear_fireann>

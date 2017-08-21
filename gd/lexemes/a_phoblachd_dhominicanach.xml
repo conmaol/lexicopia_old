@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="a_phoblachd_dhominicanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>A' Phoblachd Dhominicanach</orth>
+    </form>
+    <trans>Dominican Republic</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Dominican Republic - na Poblachd Dhominicanaich poss c</note>
+  </ainmear_boireann>

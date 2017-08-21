@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Beinn_Clìbrig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Beinn Clìbrig</orth>
+    </form>
+    <trans>Ben Klibreck</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Ben Klibreck - Beinn Clìbrig poss c</note>
+  </ainmear_boireann>

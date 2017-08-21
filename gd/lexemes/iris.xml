@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="iris" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>iris</orth>
+    </form>
+    <trans>journal</trans>
+    <trans>magazine</trans>
+    <trans>serial</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>journal - iris(e) poss cjournals - irisean pl</note>
+    <note>magazine - iris(e) poss cmagazines - irisean pl</note>
+    <note>serial - iris(e) poss cserials - irisean pl</note>
+  </ainmear_boireann>

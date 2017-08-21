@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="mo_roghaidhean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mo roghaidhean</orth>
+    </form>
+    <trans>my favorites</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="uidheam_dìona" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uidheam dìona</orth>
+    </form>
+    <trans>defence mechanism</trans>
+    <note>Listed in CM, as 'uidheam-dìon'.</note>
+  </ainmear_fireann>

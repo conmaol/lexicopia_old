@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="seabhag_ghorm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seabhag ghorm</orth>
+    </form>
+    <trans>peregrine falcon</trans>
+    <trans>Falco peregrinus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  </ainmear_boireann>

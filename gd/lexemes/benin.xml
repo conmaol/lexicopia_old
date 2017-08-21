@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="benin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Benin</orth>
+    </form>
+    <trans>Benin</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Benin - Bhenin poss c</note>
+  </ainmear_boireann>

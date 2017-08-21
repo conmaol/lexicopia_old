@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_reeir_sin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a rèir sin</orth>
+    </form>
+    <trans>proportionately</trans>
+    <trans>correspondingly</trans>
+    <note>Listed in Faclair na Pàrlamaid, as 'proportionately', 'correspondingly'.</note>
+  </lexeme>

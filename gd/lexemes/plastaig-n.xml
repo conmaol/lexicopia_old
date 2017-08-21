@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="plastaig-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>plastaig</orth>
+    </form>
+    <trans>plastic</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>plastic - plastaig poss cplastics - plastaigean pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seagair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seagair</orth>
+    </form>
+    <trans>kittiwake</trans>
+    <trans>Rissa tridactyla</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Synonyms: faireag f, ciodabhaig f, ruideag f </note>
+    <note>Plurals: seagairean, faireagan, ciodabhaigean, ruideagan</note>
+    <note>Latin: (Rissa tridactyla)</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

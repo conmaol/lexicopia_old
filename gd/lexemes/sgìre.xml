@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="sgìre" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sgìre</orth>
+    </form>
+    <form>
+      <orth>sgìrean</orth>
+    </form>
+    <trans>district</trans>
+    <trans>parish</trans>
+    <trans>region</trans>
+    <note>Listed in An Seotal: Geography, as 'district', 'region'.</note>
+  </ainmear_boireann>

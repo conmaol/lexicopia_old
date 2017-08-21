@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gunna_sgaile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gunna sgaile</orth>
+    </form>
+    <trans>popgun</trans>
+    <note>Listed in CM as ‘gunna-sgaile’.</note>
+  </ainmear_fireann>

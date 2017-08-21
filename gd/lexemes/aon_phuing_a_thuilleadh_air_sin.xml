@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="aon_phuing_a_thuilleadh_air_sin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>aon phuing a thuilleadh air sin</orth>
+    </form>
+    <trans>one further point</trans>
+    <note>Listed in Faclair na Pàrlamaid.</note>
+  </lexeme>

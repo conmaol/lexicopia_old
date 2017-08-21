@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Na_Maldives" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Na Maldives</orth>
+    </form>
+    <trans>Maldives</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Maldives - nam Maldives poss c</note>
+  </lexeme>

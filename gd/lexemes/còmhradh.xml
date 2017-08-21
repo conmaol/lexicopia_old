@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="còmhradh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>còmhradh</orth>
+    </form>
+    <trans>discussion</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>discussion - còmhraidh poss cdiscussions - còmhraidhean pl</note>
+  </ainmear_fireann>

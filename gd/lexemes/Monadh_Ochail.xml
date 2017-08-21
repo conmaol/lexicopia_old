@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Monadh_Ochail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Monadh Ochail</orth>
+    </form>
+    <trans>Ochil Hills</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_fireann>

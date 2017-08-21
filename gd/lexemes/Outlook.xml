@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Outlook" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Outlook</orth>
+    </form>
+    <trans>Outlook</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>Outlook - Outlook poss c</note>
+  </ainmear_fireann>

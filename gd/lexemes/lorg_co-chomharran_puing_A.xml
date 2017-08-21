@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="lorg_co-chomharran_puing_A" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lorg co-chomharran puing A</orth>
+    </form>
+    <trans>find the coordinates of point A</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

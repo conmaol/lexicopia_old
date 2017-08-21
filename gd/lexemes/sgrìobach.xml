@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="sgrìobach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sgrìobach</orth>
+    </form>
+    <trans>abrasive</trans>
+    <trans>striped</trans>
+    <note>Listed in An Seotal: Science, as 'abrasive'.</note>
+    <note>Listed in TYGD as 'striped'.</note>
+    <note>Listed in CM as 'abrasive'.</note>
+  </buadhair>

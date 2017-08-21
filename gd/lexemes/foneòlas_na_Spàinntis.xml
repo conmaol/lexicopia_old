@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="foneòlas_na_Spàinntis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>foneòlas na Spàinntis</orth>
+    </form>
+    <trans>Spanish phonology</trans>
+    <note>Listed in An Seotal: Language.</note>
+  </lexeme>

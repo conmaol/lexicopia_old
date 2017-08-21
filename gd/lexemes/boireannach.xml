@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="boireannach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>boireannach</orth>
+    </form>
+    <trans>woman</trans>
+    <note>This noun is grammatically masculine, even though it denotes a female.</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="àireamhan_leantainneach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àireamhan leantainneach</orth>
+    </form>
+    <trans>consecutive numbers</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

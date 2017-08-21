@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sealg_iasgach_agus_glèidhteachas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sealg, iasgach agus glèidhteachas</orth>
+    </form>
+    <trans>hunting, fishing and conservation</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

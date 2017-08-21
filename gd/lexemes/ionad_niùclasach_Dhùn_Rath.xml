@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ionad_niùclasach_Dhùn_Rath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ionad niùclasach Dhùn Rath</orth>
+    </form>
+    <trans>the Dounreay nuclear site</trans>
+    <note>From BBC.</note>
+  </lexeme>

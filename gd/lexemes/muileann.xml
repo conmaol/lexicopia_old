@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="muileann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>muileann</orth>
+    </form>
+    <trans>mill</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>mill - muilne poss cmill - muilinn poss cmills - muilnean plmills - muileanan pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="neach-tagraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>neach-tagraidh</orth>
+    </form>
+    <trans>advocate</trans>
+    <note>Listed in CM.</note>
+    <note>Listed in Faclair na Pàrlamaid.</note>
+  </lexeme>

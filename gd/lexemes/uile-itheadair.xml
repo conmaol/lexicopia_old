@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="uile-itheadair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>uile-itheadair</orth>
+  </form>
+  <trans>omnivore</trans>
+  <note>Listed in An Seotal: Science.</note>
+  <note>omnivore - uile-itheadair scomnivores - uile-itheadairean iom</note>
+</ainmear_fireann>

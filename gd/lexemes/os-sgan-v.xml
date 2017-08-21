@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="os-sgan-v" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>os-sgan</orth>
+    </form>
+    <trans>ultrasound scan</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </gnìomhair>

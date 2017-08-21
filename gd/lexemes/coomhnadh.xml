@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="coomhnadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>còmhnadh</orth>
+    </form>
+    <trans>help</trans>
+    <trans>assistance</trans>
+    <trans>aid</trans>
+    <trans>succour</trans>
+    <trans>subsidy</trans>
+    <trans>supply</trans>
+    <trans>helping</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

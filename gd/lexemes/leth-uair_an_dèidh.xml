@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="leth-uair_an_dèidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leth-uair an dèidh</orth>
+    </form>
+    <trans>half past</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

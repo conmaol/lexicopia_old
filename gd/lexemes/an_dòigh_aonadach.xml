@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="an_dòigh_aonadach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>an dòigh aonadach</orth>
+    </form>
+    <trans>the unitary method</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

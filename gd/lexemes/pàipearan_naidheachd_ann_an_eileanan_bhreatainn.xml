@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="pàipearan_naidheachd_ann_an_eileanan_bhreatainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pàipearan naidheachd ann an Eileanan Bhreatainn</orth>
+    </form>
+    <trans>newspapers in the British Isles</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

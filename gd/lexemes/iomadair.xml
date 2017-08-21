@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="iomadair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>iomadair</orth>
+    </form>
+    <trans>multiplier</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>multiplier - iomadair poss cmultipliers - iomadairean pl</note>
+  </ainmear_fireann>

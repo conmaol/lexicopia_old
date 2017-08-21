@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="sglàibeadair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sglàibeadair</orth>
+    </form>
+    <trans>plasterer</trans>
+    <note>Listed in An Seotal: Technology.</note>
+    <note>plasterer - sglàibeadair poss cplasterers - sglàibeadairean pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="staitistigs_choitcheann_cheàrnaidhean_eile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>staitistigs choitcheann cheàrnaidhean eile</orth>
+    </form>
+    <trans>general statistics of other areas</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

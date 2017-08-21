@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="manaidsear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>manaidsear </orth>
+    </form>
+    <trans>manager</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>manager - manaidseir poss cmanagers - manaidsearan pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="teòiridh_mean-fhàis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>teòiridh mean-fhàis</orth>
+    </form>
+    <trans>theory of evolution</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

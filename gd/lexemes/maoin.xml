@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="maoin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>maoin</orth>
+    </form>
+    <trans>wealth</trans>
+    <trans>assets</trans>
+    <trans>funds</trans>
+    <trans>fund</trans>
+    <trans>gear</trans>
+    <trans>goods</trans>
+    <trans>pelf</trans>
+  </ainmear_boireann>

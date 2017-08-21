@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="lach_fhiacailleach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lach fhiacailleach</orth>
+    </form>
+    <trans>goosander</trans>
+    <trans>Mergus merganser</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Info: The Gaelic means 'toothed duck' because of the saw-edge bill. </note>
+  </ainmear_boireann>

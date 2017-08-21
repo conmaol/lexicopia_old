@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuartachadh_fala" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuartachadh fala</orth>
+    </form>
+    <trans>circulation of blood</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

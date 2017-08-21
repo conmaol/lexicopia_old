@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="sionnach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sionnach</orth>
+    </form>
+    <trans>fox</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Synonyms: madadh ruadh m, gille-màrtainn m</note>
+    <note>Plurals: sionnaich, madaidh-ruadha, gillean-màrtainn</note>
+    <note>Latin: (Vulpes vulpes)</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/madadh-ruadh.mp3, sionach.mp3</note>
+    <note>Listed in An Seotal: Science.</note>
+    <note>fox - sionnaich scfoxes - sionnaich iom</note>
+  </ainmear_fireann>

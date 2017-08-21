@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="paairc_naaiseanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Pàirc Nàiseanta</orth>
+    </form>
+    <trans>National Park</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: Pàircean Nàiseanta</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/pairc naiseanta.mp3</note>
+  </ainmear_boireann>

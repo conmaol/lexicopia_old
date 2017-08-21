@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="danns_ri_port-cruinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>danns ri port-cruinn</orth>
+    </form>
+    <trans>dance to a jig</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

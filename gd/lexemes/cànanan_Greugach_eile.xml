@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cànanan_Greugach_eile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cànanan Greugach eile</orth>
+    </form>
+    <trans>other Hellenic languages</trans>
+    <note>Listed in An Seotal: Language.</note>
+  </lexeme>

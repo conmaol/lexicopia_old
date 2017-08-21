@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="concertina" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>concertina</orth>
+    </form>
+    <trans>concertina</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>concertina - concertina poss cconcertinas - concertinathan pl</note>
+  </ainmear_fireann>

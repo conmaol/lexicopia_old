@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="dearbhte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dearbh(te)</orth>
+    </form>
+    <trans>positive</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </buadhair>

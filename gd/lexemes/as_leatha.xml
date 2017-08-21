@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="as_leatha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>as leatha</orth>
+    </form>
+    <trans>widest</trans>
+    <trans>broadest</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

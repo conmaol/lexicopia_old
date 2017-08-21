@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="lannsair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lannsair</orth>
+    </form>
+    <form>
+      <orth>lannsairean</orth>
+    </form>
+    <trans>lancer</trans>
+    <trans>surgeon</trans>
+    <note>Listed in Colin Mark's (2004) Gaelic-English dictionary.</note>
+    <note>Listed in Boyd Robertson &amp; Ian MacDonald's (2004) 'Teach Yourself' dictionary.</note>
+  </lexeme>

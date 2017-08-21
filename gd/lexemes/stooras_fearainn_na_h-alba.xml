@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="stooras_fearainn_na_h-alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Stòras Fearainn na h-Alba</orth>
+    </form>
+    <trans>the Scottish Land Fund</trans>
+    <note>From BBC.</note>
+  </lexeme>

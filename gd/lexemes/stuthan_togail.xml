@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="stuthan_togail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>stuthan togail</orth>
+    </form>
+    <trans>building materials</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

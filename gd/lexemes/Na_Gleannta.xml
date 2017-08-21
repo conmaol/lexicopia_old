@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Na_Gleannta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Na Gleannta</orth>
+    </form>
+    <trans>Glenties</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Blàr_Allt_a_Bhonnaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Blàr Allt a’ Bhonnaich</orth>
+    </form>
+    <trans>Battle of Bannockburn</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

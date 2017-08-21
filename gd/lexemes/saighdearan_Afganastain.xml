@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="saighdearan_Afganastain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>saighdearan Afganastain</orth>
+    </form>
+    <trans>Afghanistan's soldiers</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

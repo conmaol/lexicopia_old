@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="contrapuing" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>contrapuing</orth>
+    </form>
+    <trans>counterpoint</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>counterpoint - contrapuing poss ccounterpoints - contrapuingean pl</note>
+  </lexeme>

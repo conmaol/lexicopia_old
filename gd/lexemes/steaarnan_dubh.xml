@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="steaarnan_dubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>steàrnan dubh</orth>
+    </form>
+    <trans>black tern</trans>
+    <trans>Chlidonias niger</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

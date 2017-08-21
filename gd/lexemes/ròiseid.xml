@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ròiseid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ròiseid</orth>
+    </form>
+    <trans>resin</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>resin - ròiseid(e) poss cresin - ròiseidean pl</note>
+  </ainmear_boireann>

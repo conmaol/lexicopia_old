@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cultar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cultar</orth>
+    </form>
+    <trans>culture</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>culture - cultair poss ccultures - cultaran pl</note>
+  </ainmear_fireann>

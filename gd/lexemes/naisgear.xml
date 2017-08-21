@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="naisgear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>naisgear</orth>
+    </form>
+    <trans>conjunction</trans>
+    <note>Listed in An Seotal: Language.</note>
+    <note>conjunction - naisgeir poss c conjunctions - naisgearan pl</note>
+    <note>Listed in TYGD.</note>
+  </ainmear_fireann>

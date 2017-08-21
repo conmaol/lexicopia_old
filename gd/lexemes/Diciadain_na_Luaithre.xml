@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Diciadain_na_Luaithre" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Diciadain na Luaithre</orth>
+    </form>
+    <trans>Ash Wednesday</trans>
+    <note>The first day of Lent.</note>
+  </lexeme>

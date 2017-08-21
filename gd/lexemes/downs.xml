@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="downs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>downs</orth>
+    </form>
+    <trans>downs</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>downs - downs poss c</note>
+  </ainmear_fireann>

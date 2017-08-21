@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="fiadh-chat" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fiadh-chat</orth>
+    </form>
+    <trans>wildcat</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: fiadh-chait</note>
+    <note>Latin: Felis silvestris</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cat fhiadhaich.mp3</note>
+  </ainmear_fireann>

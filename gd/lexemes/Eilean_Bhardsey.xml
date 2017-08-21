@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Eilean_Bhardsey" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Eilean Bhardsey</orth>
+    </form>
+    <trans>Bardsey Island</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Bardsey Island - Eilean Bhardsey poss c</note>
+  </ainmear_fireann>

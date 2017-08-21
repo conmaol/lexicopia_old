@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="steaarnag_chumanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>steàrnag chumanta</orth>
+    </form>
+    <trans>common tern</trans>
+    <trans>Sterna hirundo</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Latin: (Sterna hirundo)</note>
+  </ainmear_boireann>

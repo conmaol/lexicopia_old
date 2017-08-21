@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="duine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>duine</orth>
+    </form>
+    <form>
+      <orth>daoine</orth>
+    </form>
+    <trans>person</trans>
+    <trans>man</trans>
+    <trans>fellow</trans>
+    <trans>husband</trans>
+    <trans>mankind</trans>
+  </ainmear_fireann>

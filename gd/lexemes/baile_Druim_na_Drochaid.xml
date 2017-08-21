@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="baile_Druim_na_Drochaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>baile Druim na Drochaid</orth>
+    </form>
+    <trans>village of Drumnadrochit</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

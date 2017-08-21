@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ann_an_eeiginn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ann an èiginn</orth>
+    </form>
+    <trans>as a last resort</trans>
+    <note>Listed in TYGD.</note>
+  </lexeme>

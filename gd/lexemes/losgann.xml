@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="losgann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>losgann</orth>
+    </form>
+    <trans>frog</trans>
+    <trans>common frog</trans>
+    <note>Listed in An Seotal: Science, as 'frog'.</note>
+    <note>frog - losgainn scfrogs - losgannan iom</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair, as 'common frog'.</note>
+    <note>Plural: losgannan</note>
+    <note>Latin: Rana temporaria</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/losgann.mp3</note>
+  </ainmear_fireann>

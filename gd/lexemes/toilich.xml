@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="toilich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="toil"/>
+    <form>
+      <orth>toilich</orth>
+    </form>
+    <trans>please</trans>
+  </gnìomhair>

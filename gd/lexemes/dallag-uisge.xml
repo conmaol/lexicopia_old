@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="dallag-uisge" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dallag-uisge</orth>
+    </form>
+    <trans>water shrew</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Synonyms: famh-bhual m/f</note>
+    <note>Plurals: dallagan-uisge, famhan-bual</note>
+    <note>Latin: (Neomys fodiens)</note>
+    <note>Info: The Gaelic name means 'the small blind water one'.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/dallag uisge.mp3</note>
+  </ainmear_boireann>

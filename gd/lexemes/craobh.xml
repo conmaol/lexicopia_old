@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="craobh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>craobh</orth>
+    </form>
+    <form>
+      <orth>craoibh</orth>
+    </form>
+    <form>
+      <orth>craoibhe</orth>
+    </form>
+    <form>
+      <orth>craobhan</orth>
+    </form>
+    <form>
+      <orth>chraobh</orth>
+    </form>
+    <form>
+      <orth>chraoibh</orth>
+    </form>
+    <form>
+      <orth>chraoibhe</orth>
+    </form>
+    <form>
+      <orth>chraobhan</orth>
+    </form>
+    <trans>tree</trans>
+    <note>Etymology: Old Gaelic: cráeb, cróeb; Early Modern Gaelic: craobh 'branch', occasionally 'tree'.</note>
+    <note>Listed in An Seotal: Science, meaning 'tree'.</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/craobh.mp3</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ceud-bheus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceud-bheus</orth>
+    </form>
+    <trans>first bass</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

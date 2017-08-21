@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Tubhalu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Tubhalu</orth>
+    </form>
+    <trans>Tuvalu</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Tuvalu - Thubhalu poss c</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="coimeas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>coimeas</orth>
+    </form>
+    <trans>comparison</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>comparison - coimeis poss ccomparisons - coimeasan pl</note>
+  </ainmear_fireann>

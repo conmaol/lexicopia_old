@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="rian_dachaigh_agus_teaghlaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>rian dachaigh agus teaghlaich</orth>
+    </form>
+    <trans>home and family management</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

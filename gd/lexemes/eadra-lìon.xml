@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="eadra-lìon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eadra-lìon</orth>
+    </form>
+    <trans>intranet</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>intranet - eadra-lìn poss cintranets - eadra-lìn pl</note>
+  </ainmear_fireann>

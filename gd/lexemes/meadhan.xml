@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="meadhan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>meadhan</orth>
+    </form>
+    <form>
+      <orth>meadhain</orth>
+    </form>
+    <form>
+      <orth>meadhannan</orth>
+    </form>
+    <trans>middle</trans>
+    <trans>centre</trans>
+    <trans>heart</trans>
+    <trans>waist</trans>
+    <trans>average</trans>
+    <trans>mechanism</trans>
+    <trans>medium</trans>
+    <trans>means</trans>
+    <trans>instrument</trans>
+    <note>Listed in An Seotal: Maths, as 'centre', 'median'.</note>
+  </ainmear_fireann>

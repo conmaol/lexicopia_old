@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="geoolas_beanntan_hoggar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>geòlas Beanntan Hoggar</orth>
+    </form>
+    <trans>geology of the Hoggar Mountains</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

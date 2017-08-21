@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_seinn_àiria_fhada" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a' seinn àiria fhada</orth>
+    </form>
+    <trans>singing a long aria</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

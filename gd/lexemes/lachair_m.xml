@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="lachair_m" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lachair</orth>
+    </form>
+    <trans>great crested grebe</trans>
+    <trans index="only">grebe</trans>
+    <trans>Podiceps cristatus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: lachairean</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/lachair.mp3</note>
+  </ainmear_fireann>

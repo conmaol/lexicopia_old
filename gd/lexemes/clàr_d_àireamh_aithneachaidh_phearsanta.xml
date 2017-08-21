@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="clàr_d_àireamh_aithneachaidh_phearsanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clàr d' àireamh aithneachaidh phearsanta</orth>
+    </form>
+    <trans>note your personal identification number</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

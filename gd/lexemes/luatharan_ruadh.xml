@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="luatharan_ruadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>luatharan ruadh</orth>
+    </form>
+    <trans>wood sandpiper</trans>
+    <trans>Tringa glareola</trans>
+    <note>Listed in CM, as 'luatharan ruadha'.</note>
+  </ainmear_fireann>

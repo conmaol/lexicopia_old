@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cur-ris" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cur-ris</orth>
+    </form>
+    <trans>addition</trans>
+    <trans>add-in</trans>
+    <trans>add-on</trans>
+    <note>Listed in An Seotal: Maths, as 'addition'.</note>
+    <note>addition - cur-ris poss cadditions - cur-risean pl</note>
+    <note>Listed in An Seotal: Computing, as 'add in/on'.</note>
+    <note>add-in - cuir-ris poss cadd-ins - cur-risean pl</note>
+    <note>add-on - cuir-ris poss cadd-ons - cur-risean pl</note>
+  </ainmear_fireann>

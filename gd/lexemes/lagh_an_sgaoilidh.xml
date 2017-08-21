@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Lagh_an_Sgaoilidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Lagh an Sgaoilidh</orth>
+    </form>
+    <trans>Distributive Law</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

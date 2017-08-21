@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="uidheam_cuir-ris" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uidheam cuir-ris</orth>
+    </form>
+    <trans>add-on device</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

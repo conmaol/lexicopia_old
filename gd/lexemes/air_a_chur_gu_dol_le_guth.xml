@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="air_a_chur_gu_dol_le_guth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>air a chur gu dol le guth</orth>
+    </form>
+    <trans>voice activated</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

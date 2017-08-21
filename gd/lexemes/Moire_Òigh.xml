@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Moire_Òigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Moire Òigh</orth>
+    </form>
+    <trans>the Virgin Mary</trans>
+    <note>From Sìm Innes's (2010) PhD thesis title.</note>
+  </ainmear_boireann>

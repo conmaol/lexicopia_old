@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="An_t-Arm_Dùthchail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An t-Arm Dùthchail</orth>
+    </form>
+    <trans>Territorial Army</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

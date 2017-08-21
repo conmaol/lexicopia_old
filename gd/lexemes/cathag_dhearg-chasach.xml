@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cathag_dhearg-chasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cathag dhearg-chasach</orth>
+    </form>
+    <trans>chough</trans>
+    <trans>Pyrrhocorax pyrrhocorax</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Info: The Gaelic name means the red-legged jackdaw. </note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cathag dhearg chasach.mp3</note>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

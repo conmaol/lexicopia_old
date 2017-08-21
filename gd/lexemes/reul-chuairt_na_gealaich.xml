@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="reul-chuairt_na_gealaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>reul-chuairt na gealaich</orth>
+    </form>
+    <trans>lunar orbit</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

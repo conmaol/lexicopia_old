@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="fachach_bàn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fachach bàn</orth>
+    </form>
+    <trans>manx shearwater</trans>
+    <trans>Puffinus puffinus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: fachaich bàn</note>
+  </ainmear_fireann>

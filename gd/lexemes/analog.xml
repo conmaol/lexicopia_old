@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="analog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>analog</orth>
+    </form>
+    <trans>analogue</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>analogue - analog poss canalogues - analogan pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="fonn_seinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fonn seinn</orth>
+    </form>
+    <trans>singing melody</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

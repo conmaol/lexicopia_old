@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tonn-fhad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tonn-fhad</orth>
+    </form>
+    <trans>wavelength</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>wavelength - tonn-fhaid scwavelengths - tonn-fhadan iom</note>
+  </ainmear_fireann>

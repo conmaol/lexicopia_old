@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="riach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>riach</orth>
+    </form>
+    <trans>cut (the surface of)</trans>
+    <trans>graze (the surface of)</trans>
+    <trans>scratch slightly</trans>
+    <note>Listed in Dwelly.</note>
+  </gnìomhair>

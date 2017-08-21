@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="dà-shulfaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dà-shulfaid</orth>
+    </form>
+    <trans>disulphide</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>disulphide - dà-shulfaid sc disulphides - dà-shulfaideannan iom</note>
+  </ainmear_boireann>

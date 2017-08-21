@@ -1,0 +1,83 @@
+/* This CSS file contains general styles for the main lexicopia page */
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 12pt;
+    color: black;
+    width: 100%;
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+div#banner-div {
+    padding: 10px;
+    border-bottom: 1px solid black;
+    width: 100%;
+}
+
+div#container-div {height: 95%;}
+
+div#trg-sidebar {float:left; width: 210px; height: 100%; padding: 10px 0 0 10px;}
+
+div#trg-index {overflow: auto; height: 95%; border-top: 1px solid black; margin-top: 10px; padding-top: 10px;}
+
+div#en-sidebar {float: right; width: 210px; height: 100%; padding:10px 0 0 10px;}
+
+div#en-index {overflow: auto; height: 95%; border-top: 1px solid black; margin-top: 10px; padding-top: 10px;}
+
+div#content-div {overflow: auto; height: 100%; margin: 0 210px 0 210px; padding: 10px 0 0 10px;}
+
+div.indexitem { /* a CSS class for divs containing an index entry, in sidebars - alternate on hover and Javascript on click */
+  color:#35979c; /* everything clickable is blue, across the whole of Lexicopia */
+}
+
+div.indexitem:hover {
+  background-color:#35979c;
+  color: white;
+  cursor: pointer;
+}
+
+a.detail {
+    font-size: 11pt;
+}
+
+a.back:link {
+    font-size: 11pt;
+    background-color: #35979c;
+    color: white;
+}
+
+a.back:visited {
+    background-color: #35979c;
+    color: white;
+}
+
+a.back:hover {
+    background-color: white;
+    color: #35979c;
+    text-decoration: none;
+}
+
+a:link { /* everything clickable is blue; these links are on the main lexicopia page, have underline on hover */
+  color:#35979c;
+  text-decoration: none;
+}
+
+a:visited {
+  color:#35979c;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+div#backbutton {
+    padding-left: 20px;
+    padding-bottom: 50px;
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gòrachan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gòrachan</orth>
+    </form>
+    <trans>foolish boy</trans>
+    <note>Dwelly: gòrachan * -ain, sm Young male, silly fellow.</note>
+  </ainmear_fireann>

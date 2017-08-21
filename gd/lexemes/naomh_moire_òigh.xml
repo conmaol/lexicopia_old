@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="naomh_moire_òigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Naomh Moire Òigh</orth>
+    </form>
+    <note>From Sìm Innes's (2010) PhD thesis abstract.</note>
+  </ainmear_fireann>

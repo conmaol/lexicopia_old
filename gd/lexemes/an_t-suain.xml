@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="an_t-suain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An t-Suain</orth>
+    </form>
+    <trans>Sweden</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Sweden - na Suain poss c</note>
+  </ainmear_boireann>

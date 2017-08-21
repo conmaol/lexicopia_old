@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="crumhorn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>crumhorn</orth>
+    </form>
+    <trans>crumhorn</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>crumhorn - crumhorn poss ccrumhorns - crumhornan pl</note>
+  </ainmear_fireann>

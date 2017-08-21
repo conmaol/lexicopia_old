@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="PA_Deadhan_Gnothachais_agus_Chur-seachadan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>PA Deadhan Gnothachais agus Chur-seachadan</orth>
+    </form>
+    <trans index="only">PA to the Dean of Business and Leisure</trans>
+    <trans index="no">the PA to the Dean of Business and Leisure</trans>
+    <note>Listed in An Seotal: Business Studies.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ro-innse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ro-innse</orth>
+    </form>
+    <trans>prediction</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>prediction - ro-innse poss cpredictions - ro-innsean pl</note>
+  </ainmear_fireann>

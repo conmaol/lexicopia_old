@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="a_cruinneachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a' cruinneachadh</orth>
+    </form>
+    <trans>collecting</trans>
+    <trans>rounding</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>Listed in An Seotal: Maths, as 'rounding'.</note>
+  </gnìomhair>

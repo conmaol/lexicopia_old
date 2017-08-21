@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dealan-dè_dorch-uaine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dealan-dè dorch-uaine</orth>
+    </form>
+    <trans>dark green fritillary butterfly</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: dealanan-dè dhorch-uaine</note>
+    <note>Latin: Argynnis aglaja</note>
+    <note>Info: The Gaelic name means 'the dark green butterfly'. Plural of dealan-dè can be dealanan-dè or dealain-dè.</note>
+  </ainmear_fireann>

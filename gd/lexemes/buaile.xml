@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="buaile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>buaile</orth>
+    </form>
+    <trans>enclosure</trans>
+    <trans>pen</trans>
+    <trans>fold</trans>
+    <trans>circle</trans>
+    <trans>ring</trans>
+  </ainmear_fireann>

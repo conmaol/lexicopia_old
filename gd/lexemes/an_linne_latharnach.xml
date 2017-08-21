@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="an_linne_latharnach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Linne Latharnach</orth>
+    </form>
+    <trans index="no">the Firth of Lorn</trans>
+    <trans index="only">Firth of Lorn</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_boireann>

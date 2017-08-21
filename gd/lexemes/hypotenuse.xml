@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="hypotenuse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>hypotenuse</orth>
+    </form>
+    <trans>hypotenuse</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>hypotenuse - hypotenuse poss chypotenuses - hypotenusean pl</note>
+  </ainmear_fireann>

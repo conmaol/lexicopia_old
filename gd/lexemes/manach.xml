@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="manach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>manach</orth>
+    </form>
+    <trans>monk</trans>
+    <note>Derived from Greek 'monachos' ('single', 'solitary'). Latin 'monachus'. Denotes a man who practices religious asceticism, living either alone or with other monks.</note>
+  </ainmear_fireann>

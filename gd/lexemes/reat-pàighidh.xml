@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="reat-pàighidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>reat-pàighidh</orth>
+    </form>
+    <trans>rate of pay</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="tubhailte-mhìosail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tubhailte-mhìosail</orth>
+    </form>
+    <trans>sanitary towel</trans>
+    <note>Listed in An Seotal: Personal and Social Education.</note>
+    <note>sanitary towel - tubhailte-mhìosail poss csanitary towels - tubhailtean-mìosail pl</note>
+  </ainmear_boireann>

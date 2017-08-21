@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="do_dh_ionnsaigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>do dh’ionnsaigh</orth>
+    </form>
+    <trans>towards</trans>
+    <trans>unto</trans>
+    <trans>to</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

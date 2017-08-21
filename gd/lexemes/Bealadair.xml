@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Bealadair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Bealadair</orth>
+    </form>
+    <trans>Ballater</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

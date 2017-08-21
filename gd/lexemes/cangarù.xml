@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cangarù" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cangarù</orth>
+    </form>
+    <trans>kangaroo</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>kangaroo - cangarù sckangaroos - cangarùthan iom</note>
+  </ainmear_fireann>

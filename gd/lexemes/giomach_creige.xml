@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="giomach_creige" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>giomach creige</orth>
+    </form>
+    <trans>crayfish</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: giomaich creige</note>
+    <note>Latin: Palinurus elephas</note>
+  </ainmear_fireann>

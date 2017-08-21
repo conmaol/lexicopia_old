@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="cràbhach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cràbhach</orth>
+    </form>
+    <trans>religious</trans>
+    <trans>pious</trans>
+    <trans>sactimonious</trans>
+    <trans>pietistic</trans>
+    <trans>pharisaic</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+    <note>Adjective. Derived from Old Irish 'cráibdech', and hence probably simplified from older 'crabhadhach'.</note>
+  </buadhair>

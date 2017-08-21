@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="slighe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>slighe</orth>
+    </form>
+    <trans>path</trans>
+    <trans>route</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>route - slighe poss croutes - slighean pl</note>
+    <note>Listed in An Seotal: Computing, as 'path'.</note>
+    <note>path - slighe poss cpaths - slighean pl</note>
+  </ainmear_boireann>

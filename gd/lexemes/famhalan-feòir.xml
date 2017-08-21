@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="famhalan-feòir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>famhalan-feòir</orth>
+    </form>
+    <trans>field vole</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Synonyms: feurlagan </note>
+    <note>Plurals: famhalain feòir, feurlagain</note>
+    <note>Latin: Microtus agrestis</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/famhalan-feoir.mp3</note>
+  </ainmear_fireann>

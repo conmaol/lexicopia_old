@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="meur" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>meur</orth>
+    </form>
+    <trans>finger</trans>
+    <trans>branch</trans>
+    <note>Listed in An Seotal: General, as 'branch'.</note>
+  </lexeme>

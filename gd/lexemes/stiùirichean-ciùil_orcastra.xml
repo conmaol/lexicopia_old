@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="stiùirichean-ciùil_orcastra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>stiùirichean(-ciùil) orcastra</orth>
+    </form>
+    <trans>orchestra conductors</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

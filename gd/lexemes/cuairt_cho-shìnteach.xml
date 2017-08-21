@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuairt_cho-shìnteach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuairt cho-shìnteach</orth>
+    </form>
+    <trans>parallel circuit</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

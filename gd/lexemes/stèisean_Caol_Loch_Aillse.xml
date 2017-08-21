@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="stèisean_Caol_Loch_Aillse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>stèisean Caol Loch Aillse</orth>
+    </form>
+    <trans>Kyle of Lochalsh station</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

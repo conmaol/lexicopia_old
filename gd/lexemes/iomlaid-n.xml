@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="iomlaid-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>iomlaid</orth>
+    </form>
+    <trans>exchange</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>exchange - iomlaid poss cexchanges - iomlaidean pl</note>
+  </ainmear_boireann>

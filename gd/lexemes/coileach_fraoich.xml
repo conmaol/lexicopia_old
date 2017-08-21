@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="coileach_fraoich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>coileach fraoich</orth>
+    </form>
+    <trans>male red grouse</trans>
+    <trans index="only">grouse</trans>
+    <trans>Lagopus lagopus male</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  </ainmear_fireann>

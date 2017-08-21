@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Rubha_Threvose" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Rubha Threvose</orth>
+    </form>
+    <trans>Trevose Head</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Trevose Head - Rubha Threvose poss c</note>
+  </ainmear_fireann>

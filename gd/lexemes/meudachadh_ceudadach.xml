@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="meudachadh_ceudadach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>meudachadh ceudadach</orth>
+    </form>
+    <trans>percentage increase</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

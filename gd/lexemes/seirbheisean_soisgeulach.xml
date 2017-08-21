@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="seirbheisean_soisgeulach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seirbheisean soisgeulach</orth>
+    </form>
+    <trans>evangelistic services</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+  </lexeme>

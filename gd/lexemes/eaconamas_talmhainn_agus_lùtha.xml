@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="eaconamas_talmhainn_agus_lùtha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eaconamas talmhainn agus lùtha</orth>
+    </form>
+    <trans>economics of land and energy</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

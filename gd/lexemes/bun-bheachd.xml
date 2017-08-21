@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bun-bheachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bun-bheachd</orth>
+    </form>
+    <trans>concept</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>concept - bun-bheachd poss cconcepts - bun-bheachdan pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cho_agus_a" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cho ... agus a</orth>
+    </form>
+    <trans>so ... as to</trans>
+    <trans>... enough to</trans>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="aloidh_stàilinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>aloidh stàilinn</orth>
+    </form>
+    <trans>alloy steel</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

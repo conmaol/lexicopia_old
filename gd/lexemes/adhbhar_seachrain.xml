@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="adhbhar_seachrain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>adhbhar seachrain</orth>
+    </form>
+    <trans>reason for accidental</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

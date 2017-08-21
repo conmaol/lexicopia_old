@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="goireasan_luchd-ceannaich_a-mhàin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>goireasan luchd-ceannaich a-mhàin</orth>
+    </form>
+    <trans>toilets for customers only</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

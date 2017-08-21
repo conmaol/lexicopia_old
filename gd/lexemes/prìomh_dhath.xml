@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="prìomh_dhath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>prìomh dhath</orth>
+    </form>
+    <trans>primary colour</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

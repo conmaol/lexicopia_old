@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Ionad_Meidigeach_Fhoithir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Ionad Meidigeach Fhoithir</orth>
+    </form>
+    <trans>Foyers Medical Centre</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dè_an_t-suim_airgid_a_tha_agad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dè an t-suim airgid a tha agad?</orth>
+    </form>
+    <trans>what sum of money do you have?</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

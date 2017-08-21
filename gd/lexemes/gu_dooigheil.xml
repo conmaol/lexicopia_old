@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="gu_dooigheil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gu dòigheil</orth>
+    </form>
+    <trans>fine</trans>
+    <note>This phrase behaves like an adjective, and hence can be used as a predicate.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="taic_a_bharrachd_airson_ionnsachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>taic a bharrachd airson ionnsachadh</orth>
+    </form>
+    <trans>additional support for learning</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

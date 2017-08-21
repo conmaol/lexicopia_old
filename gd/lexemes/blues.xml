@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="blues" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>blues</orth>
+    </form>
+    <trans>blues</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>blues - blues poss cblues - blues pl</note>
+  </ainmear_fireann>

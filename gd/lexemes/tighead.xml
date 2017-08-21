@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tighead" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tighead</orth>
+    </form>
+    <trans>thickness</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>thickness - tigheid poss cthicknesses - tigheadan pl</note>
+  </ainmear_fireann>

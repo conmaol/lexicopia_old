@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="nota_a_ghleus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nota a' ghleus</orth>
+    </form>
+    <trans>note of the key</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

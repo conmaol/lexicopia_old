@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="gnàthach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gnàthach</orth>
+    </form>
+    <trans>normal</trans>
+    <trans>customary</trans>
+    <trans>usual</trans>
+    <trans>habitual</trans>
+    <trans>accustomed</trans>
+    <trans>average</trans>
+    <trans>common</trans>
+    <trans>conventional</trans>
+    <trans>orthodox</trans>
+    <trans>set</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </buadhair>

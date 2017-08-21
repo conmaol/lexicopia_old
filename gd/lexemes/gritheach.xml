@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="gritheach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gritheach</orth>
+    </form>
+    <note>According to Dwelly: "Griathach is from early Irish grith, a scream".</note>
+  </buadhair>

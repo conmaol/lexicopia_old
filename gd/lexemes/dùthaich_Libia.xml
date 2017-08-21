@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dùthaich_Libia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dùthaich Libia</orth>
+    </form>
+    <trans>country of Libya</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

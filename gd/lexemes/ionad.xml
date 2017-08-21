@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ionad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ionad</orth>
+    </form>
+    <form>
+      <orth>ionaid</orth>
+    </form>
+    <form>
+      <orth>ionadan</orth>
+    </form>
+    <trans>place</trans>
+    <trans>centre</trans>
+    <trans>institute</trans>
+    <trans>lieu</trans>
+    <trans>quarter</trans>
+    <trans>scene</trans>
+    <trans>sphere</trans>
+    <trans>spot</trans>
+    <trans>stead</trans>
+    <trans>institution</trans>
+    <note>Listed in An Seotal: General, as 'institution'.</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="reul-chuairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>reul-chuairt</orth>
+    </form>
+    <trans>orbit</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>orbit - reul-chuairte scorbits - reul-chuairtean iom</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="An_Ceann_a_Deas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Ceann a Deas</orth>
+    </form>
+    <trans>Southend</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_fireann>

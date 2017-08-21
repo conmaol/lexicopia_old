@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Leabhar_Sheòlaidhean_Outlook" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Leabhar Sheòlaidhean Outlook</orth>
+    </form>
+    <trans>Outlook Address Book</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

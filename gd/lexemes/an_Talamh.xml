@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="an_Talamh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>an Talamh</orth>
+    </form>
+    <trans>Earth</trans>
+    <trans>the Earth</trans>
+    <trans>planet Earth</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>Earth - Talmhainn sc Earths - Talamhan iom</note>
+  </lexeme>

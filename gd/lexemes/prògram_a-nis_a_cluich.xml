@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="prògram_a-nis_a_cluich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>prògram a-nis a' cluich</orth>
+    </form>
+    <trans>program now playing</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

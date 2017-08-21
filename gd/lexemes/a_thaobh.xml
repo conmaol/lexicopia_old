@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_thaobh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a thaobh</orth>
+    </form>
+    <trans>in pursuance of</trans>
+    <trans>with reference to</trans>
+    <trans>with respect to</trans>
+    <note>Listed in Faclair na Pàrlamaid, as 'in pursuance of', 'with respect/reference to'.</note>
+  </lexeme>

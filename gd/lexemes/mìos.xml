@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="mìos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mìos</orth>
+    </form>
+    <trans>month</trans>
+    <note>Listed in An Seotal: Science, with meaning 'month'.</note>
+  </ainmear_fireann>

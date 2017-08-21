@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dè_an_uair_a_tha_e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dè an uair a tha e?</orth>
+    </form>
+    <trans>what is the time?</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

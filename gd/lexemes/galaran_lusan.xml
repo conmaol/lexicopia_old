@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="galaran_lusan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>galaran lusan</orth>
+    </form>
+    <trans>plant diseases</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

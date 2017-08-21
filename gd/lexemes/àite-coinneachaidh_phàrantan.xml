@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="àite-coinneachaidh_phàrantan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àite-coinneachaidh phàrantan</orth>
+    </form>
+    <trans>parent mèting point</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

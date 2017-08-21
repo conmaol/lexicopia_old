@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="buannachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>buannachd</orth>
+    </form>
+    <trans>benefit</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>benefit - buannachd poss cbenefits - buannachdan pl</note>
+  </ainmear_boireann>

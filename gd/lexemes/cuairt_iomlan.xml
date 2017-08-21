@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuairt_iomlan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuairt iomlan</orth>
+    </form>
+    <trans>complete revolution</trans>
+    <trans>compete turn</trans>
+    <trans>full turn</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="iuchair_SHIFT" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>iuchair SHIFT</orth>
+    </form>
+    <trans>SHIFT key</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>SHIFT key - iuchrach SHIFT poss cSHIFT keys - iuchraichean SHIFT pl</note>
+  </ainmear_boireann>

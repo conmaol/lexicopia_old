@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="astaroid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>astaroid</orth>
+    </form>
+    <trans>asteroid</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>asteroid - astaroid scasteroids - astaroidean iom</note>
+  </ainmear_boireann>

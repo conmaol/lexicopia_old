@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bi_shìos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bi shìos</orth>
+    </form>
+    <trans>be below</trans>
+    <trans>be down (t)here</trans>
+  </lexeme>

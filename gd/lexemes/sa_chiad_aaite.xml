@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sa_chiad_aaite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sa chiad àite</orth>
+    </form>
+    <trans>first pas the post</trans>
+    <note>Listed in Faclair na Pàrlamaid.</note>
+  </lexeme>

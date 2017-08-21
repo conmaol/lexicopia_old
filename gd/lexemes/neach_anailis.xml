@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="neach_anailis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>neach anailis</orth>
+    </form>
+    <trans>analyst</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>analyst - neach-anailis poss canalysts - luchd-anailis pl</note>
+  </ainmear_fireann>

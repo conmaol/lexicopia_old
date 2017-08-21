@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sionnach_feanaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sionnach feanaig</orth>
+    </form>
+    <trans>fennec fox</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

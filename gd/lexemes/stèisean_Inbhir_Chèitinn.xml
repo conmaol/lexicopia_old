@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="stèisean_Inbhir_Chèitinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>stèisean Inbhir Chèitinn</orth>
+    </form>
+    <trans>Inverkeithing station</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

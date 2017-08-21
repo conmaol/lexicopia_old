@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="modh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>modh</orth>
+    </form>
+    <form>
+      <orth>modha</orth>
+    </form>
+    <form>
+      <orth>modhan</orth>
+    </form>
+    <form>
+      <orth>modhannan</orth>
+    </form>
+    <trans>breeding</trans>
+    <trans>civility</trans>
+    <trans>courtesy</trans>
+    <trans>ethic</trans>
+    <trans>manners</trans>
+    <trans>approach</trans>
+    <trans>fashion</trans>
+    <trans>form</trans>
+    <trans>guise</trans>
+    <trans>manner</trans>
+    <trans>method</trans>
+    <trans>mode</trans>
+    <trans>style</trans>
+    <trans>way</trans>
+    <trans>procedure</trans>
+    <trans>recipe</trans>
+    <trans>shift</trans>
+    <trans>mood</trans>
+    <note>Listed in An Seotal: Maths, as 'mode'.</note>
+  </ainmear_fireann>

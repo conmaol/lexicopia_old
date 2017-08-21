@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="coimisean-v" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>coimisean</orth>
+    </form>
+    <trans>commission</trans>
+    <note>Listed in CM. Example: tha iad air rannsachadh a choimiseanadh 'they have commissioned a studu'.</note>
+  </gnìomhair>

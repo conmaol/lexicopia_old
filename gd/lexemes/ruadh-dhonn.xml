@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="ruadh-dhonn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ruadh-dhonn</orth>
+    </form>
+    <trans>reddish-brown</trans>
+    <note>Listed in An Seotal: Art.</note>
+  </buadhair>

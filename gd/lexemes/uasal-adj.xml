@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="uasal-adj" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uasal</orth>
+    </form>
+    <trans>grand</trans>
+    <trans>noble</trans>
+    <trans>high-minded</trans>
+    <trans>proud</trans>
+    <trans>genteel</trans>
+    <note>Listed in CM.</note>
+  </buadhair>

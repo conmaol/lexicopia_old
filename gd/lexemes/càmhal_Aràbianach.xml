@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="càmhal_Aràbianach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>càmhal Aràbianach</orth>
+    </form>
+    <trans>Arabian camel</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

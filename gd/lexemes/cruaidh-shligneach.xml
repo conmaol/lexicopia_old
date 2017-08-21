@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cruaidh-shligneach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cruaidh-shligneach</orth>
+    </form>
+    <trans>crustacean</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>crustacean - cruaidh-shlignich sccrustaceans - cruaidh-shlignich iom</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="eòrpium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eòrpium</orth>
+    </form>
+    <trans>europium</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>europium - eòrpium sc</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="da_capo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>da capo</orth>
+    </form>
+    <trans>da capo</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </buadhair>

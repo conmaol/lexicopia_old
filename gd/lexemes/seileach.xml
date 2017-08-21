@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seileach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seileach</orth>
+    </form>
+    <trans>willow</trans>
+    <trans>Salix spp.</trans>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Info: Older name 'suil' is letter 's' in Gaelic alphabet. </note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/seileach.mp3</note>
+  </ainmear_fireann>

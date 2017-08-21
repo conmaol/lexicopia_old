@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ro-innleachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ro-innleachd</orth>
+    </form>
+    <trans>strategy</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>strategy - ro-innleachd poss cstrategies - ro-innleachdan pl</note>
+  </ainmear_boireann>

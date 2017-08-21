@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="crìon-adj" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>crìon</orth>
+    </form>
+    <trans>withered</trans>
+    <trans>shrunken</trans>
+    <trans>dried up</trans>
+    <trans>small</trans>
+    <trans>mean</trans>
+    <trans>trifling</trans>
+  </buadhair>

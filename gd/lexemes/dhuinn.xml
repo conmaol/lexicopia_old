@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dhuinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dhuinn</orth>
+    </form>
+    <trans>to us</trans>
+    <note>Also: duinn.</note>
+  </lexeme>

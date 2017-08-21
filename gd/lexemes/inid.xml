@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="inid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Inid</orth>
+    </form>
+    <trans>Shrovetide</trans>
+    <note>The pre-Lenten part of the liturgical year, which ends on Shrove Tuesday.</note>
+  </lexeme>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="briigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>brìgh</orth>
+    </form>
+    <trans>essence</trans>
+    <trans>juice</trans>
+    <trans>drift</trans>
+    <trans>energy</trans>
+    <trans>epitome</trans>
+    <trans>force</trans>
+    <trans>gist</trans>
+    <trans>import</trans>
+    <trans>matter</trans>
+    <trans>meaning</trans>
+    <trans>moment</trans>
+    <trans>pith</trans>
+    <trans>point</trans>
+    <trans>purport</trans>
+    <trans>sense</trans>
+    <trans>substance</trans>
+    <trans>tenor</trans>
+    <trans>significance</trans>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

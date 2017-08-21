@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="steaarnan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>steàrnan</orth>
+    </form>
+    <trans>tern</trans>
+    <trans>Sternidae spp.</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair, listed as 'arctic tern'.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/stearnan.mp3</note>
+    <note>Listed in CM as 'arctic tern'.</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="chun_an_aonaid_as_fhaisge" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>chun an aonaid as fhaisge</orth>
+    </form>
+    <trans>to the nearest unit</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

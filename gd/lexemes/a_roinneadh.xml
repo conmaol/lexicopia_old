@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="a_roinneadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a' roinn(eadh)</orth>
+    </form>
+    <trans>dividing</trans>
+    <trans>sharing</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </gnìomhair>

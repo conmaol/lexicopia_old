@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="uisge_Loch_Mhòrair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uisge Loch Mhòrair</orth>
+    </form>
+    <trans>water of Loch Morar</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

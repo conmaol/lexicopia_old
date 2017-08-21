@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ruis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ruis</orth>
+    </form>
+    <trans>elder</trans>
+    <trans>Sambucus nigra</trans>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Info: The old name 'ruis' stands for 'r' in traditional Gaelic alphabet. </note>
+  </ainmear_boireann>

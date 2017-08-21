@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="comas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>comas</orth>
+    </form>
+    <trans>capacity</trans>
+    <trans>potential</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>capacity - comais poss ccapacities - comasan pl</note>
+    <note>potential - comais poss c</note>
+  </ainmear_fireann>

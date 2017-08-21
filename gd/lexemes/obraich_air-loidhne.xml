@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="obraich_air-loidhne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>obraich air-loidhne</orth>
+    </form>
+    <trans>work online</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

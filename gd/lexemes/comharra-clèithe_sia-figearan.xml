@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="comharra-clèithe_sia-figearan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>comharra-clèithe sia-figearan</orth>
+    </form>
+    <trans>six-figure grid reference</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="bith-cheimigeachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bith-cheimigeachd</orth>
+    </form>
+    <trans>biochemistry</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>biochemistry - bith-cheimigeachd sc</note>
+  </ainmear_boireann>

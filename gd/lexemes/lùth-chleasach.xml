@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="lùth-chleasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lùth-chleasach</orth>
+    </form>
+    <trans>athletic</trans>
+    <note>Listed in An Seotal: Physical Education.</note>
+  </buadhair>

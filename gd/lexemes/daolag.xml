@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="daolag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="_ag-suffix"/>
+    <form>
+      <orth>daolag</orth>
+    </form>
+    <trans>beetle</trans>
+    <note>Class: Insecta, Subclass: Pterygota, Infraclass: Neoptera, Superorder: Endopterygota, Order: Coleoptera.</note>
+    <note>Listed in An Seotal: Science, with meaning 'beetle'.</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Latin: Coleoptera spp.</note>
+  </lexeme>

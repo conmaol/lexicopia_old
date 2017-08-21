@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bratag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bratag</orth>
+    </form>
+    <trans>caterpillar</trans>
+    <note>Listed in An Seotal: Science, as 'caterpillar'.</note>
+    <note>caterpillar - brataig sc caterpillars - bratagan iom</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair, as 'caterpillar (emperor moth)'.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dathan_pastail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dathan pastail</orth>
+    </form>
+    <trans>pastel colours</trans>
+    <note>Listed in An Seotal: Art.</note>
+  </lexeme>

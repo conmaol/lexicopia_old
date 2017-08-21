@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="feadag_chladaich_bheag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>feadag chladaich bheag</orth>
+    </form>
+    <trans>little ringed plover</trans>
+    <trans>Charadrius dubius</trans>
+  </ainmear_boireann>

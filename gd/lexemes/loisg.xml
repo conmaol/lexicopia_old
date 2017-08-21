@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="loisg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>loisg</orth>
+    </form>
+    <trans>burn</trans>
+    <trans>shòt</trans>
+    <trans>fire</trans>
+    <note>Listed in An Seotal: General.</note>
+  </gnìomhair>

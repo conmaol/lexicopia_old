@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="torc_fiadhaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>torc fiadhaich</orth>
+    </form>
+    <trans>wild boar</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Synonyms: torc nimhe m</note>
+    <note>Plurals: tuirc fhiadhaich, tuirc nimhe</note>
+    <note>Latin: (Sus scrofa)</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/torc fhiadhaich.mp3</note>
+  </ainmear_fireann>

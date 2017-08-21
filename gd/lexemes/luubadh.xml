@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="luubadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lùbadh</orth>
+    </form>
+    <trans>bending</trans>
+    <trans>flexion</trans>
+    <trans>bend</trans>
+    <trans>curve</trans>
+    <note>Listed in CM.</note>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>curve - lùbaidh poss ccurves - lùbaidhean pl</note>
+  </ainmear_fireann>

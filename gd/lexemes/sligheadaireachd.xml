@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="sligheadaireachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sligheadaireachd</orth>
+    </form>
+    <trans>orienteering</trans>
+    <note>Listed in An Seotal: Physical Education.</note>
+    <note>orienteering - sligheadaireachd poss c</note>
+  </ainmear_boireann>

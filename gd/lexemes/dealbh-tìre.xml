@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dealbh-tìre" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dealbh-tìre</orth>
+    </form>
+    <trans>landscape</trans>
+    <trans>landscape (painting)</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>landscape - deilbh-tìre poss clandscapes - dealbhan-tìre pl</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: dealbhan-tìre</note>
+  </ainmear_fireann>

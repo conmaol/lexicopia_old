@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="beanail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>beanail</orth>
+    </form>
+    <trans>touching</trans>
+    <note>Listed in AFB.</note>
+  </ainmear_fireann>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="uallach-adj" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uallach</orth>
+    </form>
+    <trans>airy</trans>
+    <trans>light</trans>
+    <trans>giddy</trans>
+    <trans>cheerful</trans>
+    <trans>proud</trans>
+    <note>Listed in CM.</note>
+  </buadhair>

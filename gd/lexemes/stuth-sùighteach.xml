@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="stuth-sùighteach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>stuth-sùighteach</orth>
+    </form>
+    <trans>absorbent</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>absorbent - stutha-shùightich scabsorbents - stuthan-sùighteach iom</note>
+  </lexeme>

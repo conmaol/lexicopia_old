@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="seargach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="_ach-suffix"/>
+    <form>
+      <orth>seargach</orth>
+    </form>
+    <trans>withered</trans>
+    <trans>shrivelled</trans>
+    <trans>deciduous</trans>
+  </buadhair>

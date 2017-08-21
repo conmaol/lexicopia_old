@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="lionsa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lionsa</orth>
+    </form>
+    <form>
+      <orth>lionsan</orth>
+    </form>
+    <trans>lens</trans>
+    <note>Listed in Colin Mark's (2004) Gaelic-English dictionary.</note>
+    <note>lionsa fillte = compound lens, lionsa co-aomaidh = converging lens, lionsa-suathaidh = contact lens</note>
+  </ainmear_boireann>

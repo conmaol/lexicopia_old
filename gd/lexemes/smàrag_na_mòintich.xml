@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="smàrag_na_mòintich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>smàrag na mòintich</orth>
+    </form>
+    <trans>northern emerald dragonfly</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: smàragan na mòintich</note>
+    <note>Latin: Somatochlora arctica</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/smarag na mointich.mp3</note>
+  </ainmear_boireann>

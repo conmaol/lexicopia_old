@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="staitistigs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>staitistigs</orth>
+    </form>
+    <trans>statistics</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>statistics - staitistigs poss c</note>
+  </ainmear_boireann>

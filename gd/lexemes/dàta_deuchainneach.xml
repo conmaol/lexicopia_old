@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dàta_deuchainneach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dàta deuchainneach</orth>
+    </form>
+    <trans>experimental data</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

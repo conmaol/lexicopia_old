@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Rìgh_na_Suain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Rìgh na Suain</orth>
+    </form>
+    <trans>King of Sweden</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

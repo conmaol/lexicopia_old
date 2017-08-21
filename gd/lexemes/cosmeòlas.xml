@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cosmeòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cosmeòlas</orth>
+    </form>
+    <trans>cosmology</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>cosmology - cosmeòlas poss c</note>
+  </ainmear_fireann>

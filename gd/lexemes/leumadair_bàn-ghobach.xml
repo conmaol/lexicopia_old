@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="leumadair_bàn-ghobach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leumadair bàn-ghobach</orth>
+    </form>
+    <trans>white-beaked dolphin</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Synonyms: deilf gheal-ghobach f</note>
+    <note>Plurals: leumadairean bàn-ghobach, deilf gheal-ghobach</note>
+    <note>Latin: Lagenorhynchus albirostris</note>
+  </ainmear_fireann>

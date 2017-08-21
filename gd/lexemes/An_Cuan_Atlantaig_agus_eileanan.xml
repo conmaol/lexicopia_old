@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="An_Cuan_Atlantaig_agus_eileanan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Cuan Atlantaig agus eileanan</orth>
+    </form>
+    <trans>Atlantic ocean and islands</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

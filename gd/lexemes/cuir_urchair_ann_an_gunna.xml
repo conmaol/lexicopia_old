@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuir_urchair_ann_an_gunna" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuir urchair ann an gunna</orth>
+    </form>
+    <trans>load a gun</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="deadhan_facaltaidh_gnothachais_agus_chur-seachadan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Deadhan Facaltaidh Gnothachais agus Chur-seachadan</orth>
+    </form>
+    <trans index="only">Dean of the Faculty of Business and Leisure</trans>
+    <trans index="no">the Dean of the Faculty of Business and Leisure</trans>
+    <note>Listed in An Seotal: Business Studies.</note>
+  </ainmear_fireann>

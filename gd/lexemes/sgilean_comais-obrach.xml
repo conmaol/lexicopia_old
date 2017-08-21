@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sgilean_comais-obrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sgilean comais-obrach</orth>
+    </form>
+    <trans>employability skills</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

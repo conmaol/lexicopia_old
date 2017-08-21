@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="uabhasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uabhasach</orth>
+    </form>
+    <trans>atrocious</trans>
+    <trans>awful</trans>
+    <trans>dire</trans>
+    <trans>dreadful</trans>
+    <trans>enormous</trans>
+    <trans>prodigious</trans>
+    <trans>terrible</trans>
+    <trans>tremendous</trans>
+    <note>Listed in CM.</note>
+  </buadhair>

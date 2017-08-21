@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Colaisde_a_Chaisteil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Colaisde a' Chaisteil</orth>
+    </form>
+    <trans>Lews Castle College</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

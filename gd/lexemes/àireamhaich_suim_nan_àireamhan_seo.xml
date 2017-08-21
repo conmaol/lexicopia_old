@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="àireamhaich_suim_nan_àireamhan_seo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àireamhaich suim nan àireamhan seo</orth>
+    </form>
+    <trans>calculate the sum of these numbers</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

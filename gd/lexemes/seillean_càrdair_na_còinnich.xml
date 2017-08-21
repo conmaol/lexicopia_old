@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seillean_càrdair_na_còinnich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seillean càrdair na còinnich</orth>
+    </form>
+    <trans>moss carder bee</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: seilleanan càrdair na còinnich</note>
+    <note>Latin: Bombus muscorum</note>
+    <note>Info: 'Carder' refers to their nest building.</note>
+  </ainmear_fireann>

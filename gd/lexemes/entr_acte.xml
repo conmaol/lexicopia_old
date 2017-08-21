@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="entr_acte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>entr'acte</orth>
+    </form>
+    <trans>entr'acte</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>entr'acte - entr'acte poss centr'actes - entr'actan pl</note>
+  </ainmear_boireann>

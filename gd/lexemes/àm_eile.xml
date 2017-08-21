@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="àm_eile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àm eile</orth>
+    </form>
+    <trans>not now</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </ainmear_fireann>

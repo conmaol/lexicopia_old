@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Baile_Átha_an_Rí" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Baile Átha an Rí</orth>
+    </form>
+    <trans>Athenry</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

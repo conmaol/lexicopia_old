@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="àirneis_agus_acfhainnean_eaglais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àirneis agus acfhainnean eaglais</orth>
+    </form>
+    <trans>church furnishings and articles</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+  </lexeme>

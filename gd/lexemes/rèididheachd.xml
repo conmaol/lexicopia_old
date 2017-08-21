@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="rèididheachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>rèididheachd</orth>
+    </form>
+    <trans>radiation</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>radiation - rèididheachd scradiation - rèididheachdan iom</note>
+  </ainmear_boireann>

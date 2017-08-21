@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="clàr_dà-fhillte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clàr dà-fhillte</orth>
+    </form>
+    <trans>two-way table</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

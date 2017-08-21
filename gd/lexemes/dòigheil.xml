@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="dòigheil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dòigheil</orth>
+    </form>
+    <trans>comfortable</trans>
+    <trans>well off</trans>
+    <trans>appropriate</trans>
+    <trans>formal</trans>
+    <trans>fine</trans>
+    <trans>nice</trans>
+    <trans>decent</trans>
+    <trans>proper</trans>
+    <trans>satisfactory</trans>
+    <trans>suitable</trans>
+    <trans>formal</trans>
+    <trans>structured</trans>
+  </buadhair>

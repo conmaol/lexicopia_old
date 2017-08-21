@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Ceann_Cléire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Ceann Cléire</orth>
+    </form>
+    <trans>Cape Clear</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

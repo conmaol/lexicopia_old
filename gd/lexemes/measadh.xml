@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="measadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>measadh</orth>
+    </form>
+    <trans>evaluation</trans>
+    <trans>assessment</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>assessment - measaidh poss cassessments - measaidhean pl</note>
+    <note>Listed in An Seotal: Maths, as 'evaluation'.</note>
+    <note>evaluation - measaidh poss cevaluations - measaidhean pl</note>
+  </ainmear_fireann>

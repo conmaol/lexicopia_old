@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="an_aonamh_tè_deug" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>an aonamh tè deug</orth>
+    </form>
+    <trans>eleventh</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </buadhair>

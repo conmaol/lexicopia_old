@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="breitheamh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>breitheamh</orth>
+    </form>
+    <trans>judge</trans>
+    <trans>adjudicator</trans>
+    <trans>umpire</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dealan-dè_flùr_na_cuthaige" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dealan-dè flùr na cuthaige</orth>
+    </form>
+    <trans>orange tip butterfly</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: dealanan-dè flùr na cuthaige</note>
+    <note>Latin: Anthocharis cardamines</note>
+    <note>Info: Plural of dealan-dè can be dealanan-dè or dealain-dè.</note>
+  </ainmear_fireann>

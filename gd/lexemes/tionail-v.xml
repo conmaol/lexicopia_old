@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="tionail-v" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tional</orth>
+    </form>
+    <trans>gather</trans>
+    <trans>assemble</trans>
+    <trans>collect</trans>
+    <trans>pick</trans>
+    <trans>congregate</trans>
+    <trans>convene</trans>
+    <note>Listed in CM.</note>
+  </gnìomhair>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="roinnean_Mhalèisia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>roinnean Mhalèisia</orth>
+    </form>
+    <trans>regions of Malaysia</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

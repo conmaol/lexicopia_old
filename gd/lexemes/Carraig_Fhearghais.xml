@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Carraig_Fhearghais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Carraig Fhearghais</orth>
+    </form>
+    <trans>Carrickfergus</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

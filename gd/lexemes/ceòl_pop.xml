@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ceòl_pop" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceòl pop</orth>
+    </form>
+    <trans>pop</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>pop - ceòl pop poss c</note>
+  </ainmear_fireann>

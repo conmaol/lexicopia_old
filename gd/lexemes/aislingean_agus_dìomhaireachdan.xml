@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="aislingean_agus_dìomhaireachdan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>aislingean agus dìomhaireachdan</orth>
+    </form>
+    <trans>dreams and mysteries</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="latha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>latha</orth>
+    </form>
+    <form>
+      <orth>lathaichean</orth>
+    </form>
+    <form>
+      <orth>làithean</orth>
+    </form>
+    <trans>day</trans>
+    <trans>date</trans>
+    <note>Listed in An Seotal: Science, as 'day'.</note>
+    <note>Listed in An Seotal: General, as 'date'.</note>
+  </ainmear_fireann>

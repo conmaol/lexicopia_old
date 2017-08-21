@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="tog" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tog</orth>
+    </form>
+    <trans>raise</trans>
+    <trans>bring up</trans>
+    <trans>build</trans>
+    <trans>broach</trans>
+    <trans>collect</trans>
+    <trans>construct</trans>
+    <trans>dig up</trans>
+    <trans>excite</trans>
+    <trans>fabricate</trans>
+    <trans>gather</trans>
+    <trans>heave</trans>
+    <trans>learn</trans>
+    <trans>levy</trans>
+    <trans>lift</trans>
+    <trans>nourish</trans>
+    <trans>pick</trans>
+    <trans>pick up</trans>
+    <trans>rear</trans>
+    <trans>recruit</trans>
+    <trans>scoop</trans>
+    <trans>step up</trans>
+    <trans>take up</trans>
+    <trans>uplift</trans>
+  </gnìomhair>

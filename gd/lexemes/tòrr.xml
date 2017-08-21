@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tòrr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tòrr</orth>
+    </form>
+    <trans>mound</trans>
+    <trans>heap</trans>
+  </ainmear_fireann>

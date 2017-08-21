@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="aiseag_na_Hearadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>aiseag na Hearadh</orth>
+    </form>
+    <trans>Harris ferry</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="riaghailt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>riaghailt</orth>
+    </form>
+    <trans>rule</trans>
+    <trans>regulation</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>regulation - riaghailt(e) poss cregulations - riaghailtean pl</note>
+    <note>Listed in An Seotal: Maths, as 'rule'.</note>
+    <note>rule - riaghailt(e) poss crules - riaghailtean pl</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cm_ceàrnagaichte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cm ceàrnagaichte</orth>
+    </form>
+    <trans>squared cm</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

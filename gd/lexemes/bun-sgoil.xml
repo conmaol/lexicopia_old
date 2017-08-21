@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="bun-sgoil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bun-sgoil</orth>
+    </form>
+    <trans>primary</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>primary (schòl) - bun-sgoile poss cprimary (schòls) - bun-sgoiltean pl</note>
+  </ainmear_boireann>

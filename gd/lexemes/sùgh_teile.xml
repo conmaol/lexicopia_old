@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sùgh_teile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sùgh teile</orth>
+    </form>
+    <trans>lime juice</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

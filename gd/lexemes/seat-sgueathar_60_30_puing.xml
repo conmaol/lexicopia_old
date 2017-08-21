@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="seat-sgueathar_60_30_puing" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seat-sgueathar 60/30 puing</orth>
+    </form>
+    <trans>60/30 Degree Set Square</trans>
+    <note>Listed in An Seotal: Technology.</note>
+  </lexeme>

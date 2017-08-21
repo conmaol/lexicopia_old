@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="taistealach-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>taistealach</orth>
+    </form>
+    <trans>pilgrim</trans>
+    <trans>passenger</trans>
+    <trans>traveller</trans>
+    <trans>wanderer</trans>
+    <trans>saunterer</trans>
+    <trans>ghost</trans>
+    <trans>vagabond</trans>
+    <trans>itinerant</trans>
+    <trans>contemptible person</trans>
+    <note>Listed in Dwelly: Pilgrim, passenger, traveller. 2 Wanderer, saunterer. 3 Person that scuds or vanishes by. 4 Ghost. 6 Vagabond, itinerant. 6 Contemptible person.</note>
+    <note>eDIL: taistel(l)ach: traveller, wayfarer, attacker, rover, courier, messenger, runner.</note>
+  </ainmear_fireann>

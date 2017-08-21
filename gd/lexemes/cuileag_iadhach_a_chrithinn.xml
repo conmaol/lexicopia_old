@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cuileag_iadhach_a_chrithinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuileag iadhach a' chrithinn</orth>
+    </form>
+    <trans>aspen hoverfly</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: cuileagan iadhach a' chrithinn</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="lusan_sreap_tropaigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lusan sreap tropaigeach</orth>
+    </form>
+    <trans>tropical climbing plants</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

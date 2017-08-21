@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Lexicopia / GD</title>
+    <link href="../code/css/normalize.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="../code/css/lexicopia.css" />
+    <link rel="stylesheet" type="text/css" href="../code/css/lexicopia-entries.css" />
+    <script type="text/javascript" src="../code/js/lexicopia.js"></script>
+    <script type="text/javascript" src="../code/js/lexicopia-entries.js"></script>
+    <script type="text/javascript">
+            var lang = 'gd';
+            var defaultContent = 'Welcome to Lexicopia / GD! Get browsing.';
+            var entryhistory = [];
+        </script>
+  </head>
+  <body onload="createIndices();document.getElementById('content-div-entry').innerHTML = defaultContent;">
+    <div id="banner-div">
+      <!-- banner running along very top of page -->
+      <span style="font-size: 18pt;">
+        <!-- the Lexicopia logo --> Lexicopia / GD </span>
+      <span class="detail">
+        <!-- three links in the banner --> (<a href="#" onclick="resetpage();">about / reset</a>) (<a href="#" onclick="getRandom()">random</a>) </span>
+    </div>
+    <div id="container-div">
+      <div id="trg-sidebar">
+        <!-- container div for target language index and filterbox, on left -->
+        <form autocomplete="off">
+          <!-- target language filter box, at top left -->
+          <input title="trg-search" type="text" id="trg-filterbox" onkeyup="filterIndex('trg');" />
+        </form>
+        <div id="trg-index">
+          <!-- the target language index itself -->
+        </div>
+      </div>
+      <div id="en-sidebar">
+        <!-- container div for English index and filterbox, typically on right -->
+        <form autocomplete="off">
+          <input title="en-search" type="text" id="en-filterbox" onkeyup="filterIndex('en');" />
+        </form>
+        <div id="en-index"> </div>
+      </div>
+      <div id="content-div">
+        <div id="content-div-entry"></div>
+        <div id="backbutton" style="display: none"><a class="back" href="#" onclick="goBack();"> &lt; BACK </a></div>
+      </div>
+    </div>
+    <script src="../code/js/jquery-3.1.1.min.js"></script>
+  </body>
+</html>

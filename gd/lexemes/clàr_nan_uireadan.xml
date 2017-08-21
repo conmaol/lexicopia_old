@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="clàr_nan_uireadan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clàr nan uireadan</orth>
+    </form>
+    <trans>times table</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

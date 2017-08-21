@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="comharra-ceangail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>comharra-ceangail</orth>
+    </form>
+    <trans>ligature</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>ligature - comharra-ceangail poss cligatures - comharran-ceangail pl</note>
+  </ainmear_fireann>

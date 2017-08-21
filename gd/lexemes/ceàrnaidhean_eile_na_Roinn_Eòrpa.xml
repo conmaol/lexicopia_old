@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ceàrnaidhean_eile_na_Roinn_Eòrpa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceàrnaidhean eile na Roinn Eòrpa</orth>
+    </form>
+    <trans>other parts of Europe</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

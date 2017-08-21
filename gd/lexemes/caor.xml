@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="caor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>caor</orth>
+    </form>
+    <trans>rowan berry</trans>
+    <trans>berry</trans>
+    <note> Derive from Old Irish cáer/cáir. Edible red berries, used to make jellies and jams, and to flavour alchoholic beverages. </note>
+  </ainmear_boireann>

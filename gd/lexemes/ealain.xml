@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ealain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ealain</orth>
+    </form>
+    <trans>art</trans>
+    <note>Listed in An Seotal: Art.</note>
+    <note>art - ealain poss carts - ealainean plarts - ealain pl</note>
+  </ainmear_boireann>

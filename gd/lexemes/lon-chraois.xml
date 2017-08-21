@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="lon-chraois" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lon-chraois</orth>
+    </form>
+    <trans>mayfly</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Synonyms: cuileag-Ch�itein f</note>
+    <note>Plurals: loin-chraois, cuileagan-C�itein</note>
+    <note>Latin: (Ephemeroptera spp.)</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/lon-chraois.mp3</note>
+  </ainmear_fireann>

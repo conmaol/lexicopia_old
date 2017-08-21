@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="saidheansan_talmhainn_agus_geòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>saidheansan talmhainn agus geòlas</orth>
+    </form>
+    <trans>earth sciences and geology</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

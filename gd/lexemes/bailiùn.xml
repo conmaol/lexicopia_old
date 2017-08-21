@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bailiùn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bailiùn</orth>
+    </form>
+    <trans>ballòn</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>ballòn - bailiùn poss cballòns - bailiùnaichean pl</note>
+  </ainmear_fireann>

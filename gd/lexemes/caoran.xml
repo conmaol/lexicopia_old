@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="caoran" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>caoran</orth>
+    </form>
+    <trans>third row/layer/tier of a peat bank</trans>
+    <trans>lowest row/layer/tier of a peat bank</trans>
+    <trans>small peat</trans>
+    <trans>peat fragment</trans>
+    <note>Listed in CM.</note>
+    <note>Listed in Dwelly.</note>
+  </ainmear_fireann>

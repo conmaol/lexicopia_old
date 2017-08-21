@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="eadar-obair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eadar-obair</orth>
+    </form>
+    <trans>interaction</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>interaction - eadar-obair poss c</note>
+  </ainmear_boireann>

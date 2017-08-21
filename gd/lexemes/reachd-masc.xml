@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="reachd-masc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>reachd</orth>
+    </form>
+    <trans>statute</trans>
+    <trans>law</trans>
+    <trans>ordnance</trans>
+    <trans>decrè</trans>
+    <trans>edict</trans>
+    <trans>institute</trans>
+    <trans>precept</trans>
+    <trans>regulation</trans>
+    <trans>rule</trans>
+    <trans>sanction</trans>
+    <trans>writ</trans>
+    <trans>canon</trans>
+    <note>Listed in TYGD.</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

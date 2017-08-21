@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="aran_sliseagach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="aran"/>
+    <part ref="sliseagach"/>
+    <form>
+      <orth>aran sliseagach</orth>
+    </form>
+    <trans>sliced bread</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fillte>

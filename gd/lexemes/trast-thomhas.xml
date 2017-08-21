@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="trast-thomhas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>trast-thomhas</orth>
+    </form>
+    <trans>diameter</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>diameter - trast-thomhais poss cdiameters - trast-thomhasan pl</note>
+  </ainmear_fireann>

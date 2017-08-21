@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="àrd-chleaf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àrd-chleaf</orth>
+    </form>
+    <trans>treble clef</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>treble clef - àrd-chleaf poss ctreble clefs - àrd-chleafan pl</note>
+  </lexeme>

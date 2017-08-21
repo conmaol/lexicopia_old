@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="litrichean_gu_caraid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>litrichean gu caraid</orth>
+    </form>
+    <trans>letters to a friend</trans>
+    <note>Listed in An Seotal: Language.</note>
+  </lexeme>

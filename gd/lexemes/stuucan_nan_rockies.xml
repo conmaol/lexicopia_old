@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="stuucan_nan_rockies" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>stùcan nan Rockies</orth>
+    </form>
+    <trans>peaks of the Rocky Mountains</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

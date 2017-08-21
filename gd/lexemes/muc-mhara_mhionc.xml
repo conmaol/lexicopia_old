@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="muc-mhara_mhionc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>muc-mhara mhionc</orth>
+    </form>
+    <trans>minke whale</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Synonyms: muc-mhioncaidh f</note>
+    <note>Plurals: mucan-mara mionc, mucan-mioncaidh</note>
+    <note>Latin: (Balaenoptera acutorostrata)</note>
+  </ainmear_boireann>

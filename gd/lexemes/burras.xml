@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="burras" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>burras</orth>
+    </form>
+    <trans>caterpillar</trans>
+    <note>Listed in An Seotal: Science, as 'caterpillar'.</note>
+    <note>caterpillar - burrais sc caterpillars - burrais iom</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair, as 'caterpillar (emperor moth)'.</note>
+  </ainmear_fireann>

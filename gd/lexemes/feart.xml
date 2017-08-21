@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="feart" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>feart</orth>
+    </form>
+    <trans>property</trans>
+    <trans>attribute</trans>
+    <trans>characteristic</trans>
+    <trans>feature</trans>
+    <note>Listed in An Seotal: Science, as 'property'.</note>
+    <note>Listed in An Seotal: Religious and Moral, as 'attribute'.</note>
+    <note>Listed in An Seotal: General, as 'characteristic', 'feature', 'property'.</note>
+    <note>property - fearta scproperties - feartan iom</note>
+    <note>attribute - fearta scattributes - feartan iom</note>
+    <note>characteristic - feart poss ccharacteristics - feartan pl</note>
+    <note>feature - fearta poss cfeatures - feartan pl</note>
+    <note>Listed in An Seotal: Maths, as 'property'.</note>
+    <note>Listed in An Seotal: Computing, as 'property'.</note>
+    <note>property - fearta poss cproperties - feartan pl</note>
+  </ainmear_boireann>

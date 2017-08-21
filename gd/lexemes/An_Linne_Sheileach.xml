@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="An_Linne_Sheileach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Linne Sheileach</orth>
+    </form>
+    <trans>Loch Linnhe</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_boireann>

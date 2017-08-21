@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Baile_Shláine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Baile Shláine</orth>
+    </form>
+    <trans>Slane</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

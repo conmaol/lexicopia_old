@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="gann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gann</orth>
+    </form>
+    <trans>scarce</trans>
+    <trans>limited</trans>
+    <trans>few</trans>
+    <trans>meagre</trans>
+    <trans>niggardly</trans>
+    <trans>scant</trans>
+    <trans>scanty</trans>
+    <trans>spare</trans>
+    <trans>sparse</trans>
+    <trans>thin</trans>
+    <note>Listed in TYGD.</note>
+    <note>Listed in CM.</note>
+  </buadhair>

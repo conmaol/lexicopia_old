@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="An_Leth-eilean_Aràbianach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Leth-eilean Aràbianach</orth>
+    </form>
+    <trans>the Arabian Peninsula</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dubhadh_na_gealaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dubhadh na gealaich</orth>
+    </form>
+    <trans>eclipse of the mòn</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

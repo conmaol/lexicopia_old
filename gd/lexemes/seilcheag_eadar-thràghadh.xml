@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="seilcheag_eadar-thràghadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seilcheag eadar-thràghadh</orth>
+    </form>
+    <trans>intertidal snail</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: seilcheagan eadar-thràghadh</note>
+    <note>Latin: Gastropoda (Class) spp.</note>
+  </ainmear_boireann>

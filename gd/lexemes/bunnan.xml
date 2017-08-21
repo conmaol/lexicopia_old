@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bunnan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bunnan</orth>
+    </form>
+    <trans>heron</trans>
+    <trans>bittern</trans>
+    <note>Listed in Dwelly, as 'bittern, heron'.</note>
+    <note>Listed in Stòr-dàta as 'heron'.</note>
+  </ainmear_fireann>

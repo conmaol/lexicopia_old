@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="laigh_air_an_nota_sin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>laigh air an nota sin</orth>
+    </form>
+    <trans>slightly lengthen that note</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

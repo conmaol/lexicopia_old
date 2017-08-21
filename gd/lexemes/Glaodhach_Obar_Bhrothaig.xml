@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Glaodhach_Obar_Bhrothaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Glaodhach Obar Bhrothaig</orth>
+    </form>
+    <trans>Declaration of Arbroath</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

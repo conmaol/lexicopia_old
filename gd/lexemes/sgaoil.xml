@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="sgaoil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sgaoil</orth>
+    </form>
+    <trans>spread</trans>
+    <trans>disperse</trans>
+    <trans>expand</trans>
+    <trans>branch</trans>
+    <trans>disband</trans>
+    <trans>dissolve</trans>
+    <trans>disconnect</trans>
+    <trans>extend</trans>
+    <trans>stretch</trans>
+    <trans>rupture</trans>
+    <trans>scatter</trans>
+    <trans>cast loose</trans>
+    <trans>dismiss</trans>
+    <trans>dispel</trans>
+    <trans>diversify</trans>
+    <trans>ramify</trans>
+    <trans>sprinkle</trans>
+    <trans>strew</trans>
+    <trans>unfurl</trans>
+    <trans>broadcast</trans>
+    <note>Listed in CM.</note>
+    <note>An entity expands over a surface. Or something causes an entity to expand across a surface.</note>
+  </gnìomhair>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="deargan_fraoich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>deargan fraoich</orth>
+    </form>
+    <trans>goldfinch</trans>
+    <trans>Carduelis carduelis</trans>
+    <trans index="only">finch</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

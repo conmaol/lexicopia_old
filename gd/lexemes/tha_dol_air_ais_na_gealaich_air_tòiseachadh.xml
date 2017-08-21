@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="tha_dol_air_ais_na_gealaich_air_tòiseachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tha dol air ais na gealaich air tòiseachadh</orth>
+    </form>
+    <trans>the wane of the moon has begun</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Clàr_Gineòm_a_Chinne-daonna" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Clàr Gineòm a Chinne-daonna</orth>
+    </form>
+    <trans>Human Genome Project</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

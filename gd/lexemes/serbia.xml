@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="serbia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Serbia</orth>
+    </form>
+    <trans>Serbia</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Serbia - Sherbia poss c</note>
+  </ainmear_fireann>

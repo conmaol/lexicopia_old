@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ceannard_rannsachadh_liopadomaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceannard rannsachadh liopadomaig</orth>
+    </form>
+    <trans>head of lipidomic research</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

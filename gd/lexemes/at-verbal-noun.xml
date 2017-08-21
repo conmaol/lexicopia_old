@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="at-verbal-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>at</orth>
+    </form>
+    <trans>swelling</trans>
+    <trans>festering</trans>
+    <trans>surging</trans>
+    <trans>expansion</trans>
+    <trans>inflammation</trans>
+    <trans>protuberance</trans>
+    <trans>tumour</trans>
+    <trans>inflation</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

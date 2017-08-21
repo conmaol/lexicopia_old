@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="saorsainneachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>saorsainneachd</orth>
+    </form>
+    <trans>carpentry</trans>
+    <trans>joinery</trans>
+    <note>Listed in An Seotal: Technology.</note>
+    <note>carpentry - saorsainneachd poss c</note>
+    <note>joinery - saorsainneachd poss c</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="seòclaidean_Beilgeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seòclaidean Beilgeach</orth>
+    </form>
+    <trans>Belgian chocolates</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

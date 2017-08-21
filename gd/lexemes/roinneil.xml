@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="roinneil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>roinneil</orth>
+    </form>
+    <trans>departmental</trans>
+    <trans>regional</trans>
+    <note>Listed in An Seotal: General, as 'departmental'.</note>
+    <note>Listed in An Seotal: Geography, as 'regional'.</note>
+  </buadhair>

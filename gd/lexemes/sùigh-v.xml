@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="sùigh-v" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sùigh</orth>
+    </form>
+    <trans>suck</trans>
+    <trans>absorb</trans>
+    <trans>soak up</trans>
+    <trans index="only">soak</trans>
+    <note>Listed in An Seotal: Science, as 'absorb'.</note>
+    <note>Listed in TYGD.</note>
+  </gnìomhair>

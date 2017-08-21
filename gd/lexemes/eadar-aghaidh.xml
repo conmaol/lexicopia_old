@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="eadar-aghaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eadar-aghaidh</orth>
+    </form>
+    <trans>interface</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>interface - eadar-aghaidh poss cinterfaces - eadar-aghaidhean pl</note>
+  </ainmear_boireann>

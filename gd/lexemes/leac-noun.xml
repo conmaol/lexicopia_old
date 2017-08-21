@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="leac-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leac</orth>
+    </form>
+    <form>
+      <orth>lice</orth>
+    </form>
+    <form>
+      <orth>leacan</orth>
+    </form>
+    <trans>slab</trans>
+    <trans>flagstone</trans>
+    <trans>flat stone</trans>
+    <trans>tombstone</trans>
+    <trans>tile</trans>
+    <note>Listed in An Seotal: Maths, as 'tile'.</note>
+  </ainmear_boireann>

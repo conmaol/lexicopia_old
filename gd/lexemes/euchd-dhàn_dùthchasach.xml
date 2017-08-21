@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="euchd-dhàn_dùthchasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="euchd-dhàn"/>
+    <form>
+      <orth>euchd-dhàn dùthchasach</orth>
+    </form>
+    <trans sources="cmark">indigenous epic</trans>
+  </ainmear_fillte>

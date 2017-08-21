@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="co-chuid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>co-chuid</orth>
+    </form>
+    <trans>proportion</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>proportion - co-chuid poss cproportions - co-chuidean pl</note>
+  </ainmear_boireann>

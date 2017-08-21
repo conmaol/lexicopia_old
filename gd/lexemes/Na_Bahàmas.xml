@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Na_Bahàmas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Na Bahàmas</orth>
+    </form>
+    <trans>The Bahamas</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>The Bahamas - (nam) Bahàmas poss c</note>
+  </lexeme>

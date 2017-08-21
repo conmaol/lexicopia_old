@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cluas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cluas</orth>
+    </form>
+    <trans>ear</trans>
+    <note>Listed in An Seotal: Science, with meaning 'ear'.</note>
+  </ainmear_boireann>

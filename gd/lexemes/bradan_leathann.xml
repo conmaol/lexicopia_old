@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="bradan_leathann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="bradan"/>
+    <part ref="leathann"/>
+    <form>
+      <orth>bradan leathann</orth>
+    </form>
+    <trans>halibut</trans>
+    <trans>turbot</trans>
+    <note> Atlantic Halibut: Hippoglossus hippoglossus. Turbot: Scophthalmus maximus. </note>
+  </ainmear_fillte>

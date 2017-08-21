@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="boiteag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="_ag-suffix"/>
+    <form>
+      <orth>boiteag</orth>
+    </form>
+    <trans>worm</trans>
+    <trans>earthworm</trans>
+    <note>Listed in An Seotal: Science, with meaning 'earthworm', 'worm'.</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair, as 'worm': Eumetazoa (subkingdom) spp.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/boiteag.mp3</note>
+  </lexeme>

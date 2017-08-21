@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="catalogan_chuspairean_choitcheann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>catalogan chuspairean choitcheann</orth>
+    </form>
+    <trans>general subject catalogues</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="nead_iolaire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nead iolaire</orth>
+    </form>
+    <trans>eagle's nest</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

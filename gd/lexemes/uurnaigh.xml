@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="uurnaigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ùrnaigh</orth>
+    </form>
+    <trans>prayer</trans>
+    <trans>devotion</trans>
+    <note>Listed in CM.</note>
+    <note>Also: ùrnuigh.</note>
+  </ainmear_boireann>

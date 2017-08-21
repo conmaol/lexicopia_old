@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="pointillism" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pointillism</orth>
+    </form>
+    <trans>pointillism</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>pointillism - pointillism poss c</note>
+  </ainmear_fireann>

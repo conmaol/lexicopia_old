@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dreach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dreach</orth>
+    </form>
+    <trans>version</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>version - dreacha poss cversions - dreachan pl</note>
+  </ainmear_fireann>

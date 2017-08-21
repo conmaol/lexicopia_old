@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<iar-leasachan id="_il-suffix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>-eil</orth>
+    </form>
+    <form>
+      <orth>-ail</orth>
+    </form>
+  </iar-leasachan>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Monadh_Boirche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Monadh Boirche</orth>
+    </form>
+    <trans>Mourne Mts</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

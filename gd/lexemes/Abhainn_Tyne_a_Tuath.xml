@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Abhainn_Tyne_a_Tuath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Abhainn Tyne a Tuath</orth>
+    </form>
+    <trans>North Tyne River</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>North Tyne River - Abhainn Tyne a Tuath poss c</note>
+  </ainmear_boireann>

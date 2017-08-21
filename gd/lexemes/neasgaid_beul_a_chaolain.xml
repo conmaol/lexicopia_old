@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="neasgaid_beul_a_chaolain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>neasgaid beul a' chaolain</orth>
+    </form>
+    <trans>duodenal ulcer</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

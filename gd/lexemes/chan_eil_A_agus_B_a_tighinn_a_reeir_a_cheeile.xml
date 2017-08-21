@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="chan_eil_A_agus_B_a_tighinn_a_reeir_a_cheeile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>chan eil A agus B (a' tighinn) a rèir a chèile</orth>
+    </form>
+    <trans>there is a mismatch between A and B</trans>
+    <note>Listed in Faclair na Pàrlamaid.</note>
+  </lexeme>

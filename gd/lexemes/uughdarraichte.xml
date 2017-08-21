@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="uughdarraichte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ùghdarraichte</orth>
+    </form>
+    <trans>authorised</trans>
+    <trans>licenced</trans>
+    <note>Listed in CM.</note>
+  </buadhair>

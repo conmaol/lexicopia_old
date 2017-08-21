@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="mìosachan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mìosachan</orth>
+    </form>
+    <trans>calendar</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>calendar - mìosachain poss ccalendars - mìosachain pl</note>
+  </ainmear_fireann>

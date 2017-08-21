@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="co-sheirm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>co-sheirm</orth>
+    </form>
+    <trans>harmony</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>harmony - co-sheirm(e) poss charmonies - co-sheirmean pl</note>
+  </ainmear_boireann>

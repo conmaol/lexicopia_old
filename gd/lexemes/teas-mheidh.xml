@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="teas-mheidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>teas-mheidh</orth>
+    </form>
+    <trans>thermometer</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>thermometer - teas-mheidh scthermometers - teas-mheidhean iom</note>
+  </ainmear_boireann>

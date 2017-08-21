@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="còmhdhail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>còmhdhail</orth>
+    </form>
+    <trans>transportation</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>transportation - còmhdhala poss ctransportation - còmhdhalach poss c</note>
+  </ainmear_boireann>

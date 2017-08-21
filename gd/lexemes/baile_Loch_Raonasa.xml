@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="baile_Loch_Raonasa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>baile Loch Raonasa</orth>
+    </form>
+    <trans>village of Lochranza</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

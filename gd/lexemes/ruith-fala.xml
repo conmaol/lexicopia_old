@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ruith-fala" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ruith-fala</orth>
+    </form>
+    <trans>bloodstream</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

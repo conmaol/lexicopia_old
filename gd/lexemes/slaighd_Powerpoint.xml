@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="slaighd_Powerpoint" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>slaighd Powerpoint</orth>
+    </form>
+    <trans>Powerpoint slide</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

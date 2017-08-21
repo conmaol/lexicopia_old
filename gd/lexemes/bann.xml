@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bann</orth>
+    </form>
+    <trans>band</trans>
+    <trans>belt</trans>
+    <trans>bond</trans>
+    <trans>hinge</trans>
+    <trans>bandage</trans>
+    <trans>sash</trans>
+    <trans>tie</trans>
+    <trans>waveband</trans>
+    <trans>wavelength</trans>
+    <trans>zone</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

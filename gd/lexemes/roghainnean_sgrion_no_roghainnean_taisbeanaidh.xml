@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="roghainnean_sgrion_no_roghainnean_taisbeanaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>roghainnean sgrion no roghainnean taisbeanaidh (a rèir suidheachadh)</orth>
+    </form>
+    <trans>display options</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

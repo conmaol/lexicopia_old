@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ceàrnan_mu_choinneamh_a_chèile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceàrnan mu choinneamh (a chèile)</orth>
+    </form>
+    <trans>vertically opposite angles</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

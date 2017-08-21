@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="siostam_na_fala" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>siostam na fala</orth>
+    </form>
+    <trans>blood system</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

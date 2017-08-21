@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="suim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>suim</orth>
+    </form>
+    <trans>sum</trans>
+    <trans>amount</trans>
+    <trans>total</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>amount - suime poss camounts - suimean plamounts - suimeannan pl</note>
+    <note>sum - suime poss csums - suimean plsums - suimeannan pl</note>
+    <note>total - suime poss ctotals - suimean pl</note>
+  </ainmear_boireann>

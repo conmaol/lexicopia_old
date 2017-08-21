@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="buille-dealain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>buille-dealain</orth>
+    </form>
+    <trans>pulse</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>pulse - buille-dealain scpulses - buillean-dealain iom</note>
+  </ainmear_boireann>

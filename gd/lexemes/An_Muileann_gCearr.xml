@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="An_Muileann_gCearr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Muileann gCearr</orth>
+    </form>
+    <trans>Mullingar</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

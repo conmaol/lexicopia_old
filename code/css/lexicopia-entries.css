@@ -1,0 +1,104 @@
+div.lexicopia-entry {
+    padding: 20px;
+    font-size: 12pt;
+    font-family: Helvetica, Verdana, sans-serif;
+    color: black;
+    /* border: thin solid; */
+}
+
+div.lexicopia-entry-header {
+    padding: 10px;
+    background-color: lightgray;
+    /* border: thin solid; */
+}
+
+span.lexicopia-headword {
+    /* headwords which are not clickable are orange */
+    font-family: Verdana;
+    font-size: x-large;
+}
+
+table.lexicopia-structure {
+    margin-top: 30px;
+    /* border-left: solid 2px; */
+}
+
+td table.lexicopia-structure {
+    margin-top: 0px;
+}
+
+th.grammatical-relation {
+    padding-bottom: 10px;
+    padding-right: 10px;
+    float: left;
+    color: gray;
+    font-size: small;
+}
+
+td {
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a.lexicopia-link:link { /* everything clickable is blue; */
+    color:#35979c;
+    text-decoration: none;
+}
+
+a.lexicopia-link:visited {
+    color:#35979c;
+    text-decoration: none;
+}
+
+a.lexicopia-link:hover {
+    text-decoration: underline;
+}
+
+div.lexicopia-pos {
+    padding-top: 10px;
+    font-style: italic;
+    /* border: thin solid; */
+}
+
+dt {
+    /*border: thin solid;*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+dd {
+    /*border: thin solid;*/
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-family: Verdana;
+}
+
+dd.lexicopia-images {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+img {
+    padding-left: 0px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+ul.lexicopia-entry-notes {
+    /* border: thin solid; */
+    padding-top: 20px;
+    font-size: small;
+    padding-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+

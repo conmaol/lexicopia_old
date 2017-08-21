@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="lirig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lirig</orth>
+    </form>
+    <trans>lyric</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>lyric - lirig(e) poss clyrics - lirigean pl</note>
+  </ainmear_boireann>

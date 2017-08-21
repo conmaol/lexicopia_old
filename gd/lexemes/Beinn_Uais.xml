@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Beinn_Uais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Beinn Uais</orth>
+    </form>
+    <trans>Ben Wyvis</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Ben Wyvis - Beinn Uais poss c</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_cluich_a_mheur-chlàr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a’ cluich a’ mheur-chlàr</orth>
+    </form>
+    <trans>playing the keyboard</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

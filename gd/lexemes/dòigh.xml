@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="dòigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dòigh</orth>
+    </form>
+    <form>
+      <orth>dòighean</orth>
+    </form>
+    <trans>way</trans>
+    <trans>manner</trans>
+    <trans>agent</trans>
+    <trans>approach</trans>
+    <trans>art</trans>
+    <trans>fashion</trans>
+    <trans>form</trans>
+    <trans>guise</trans>
+    <trans>machinery</trans>
+    <trans>means</trans>
+    <trans>mechanism</trans>
+    <trans>method</trans>
+    <trans>mode</trans>
+    <trans>practice</trans>
+    <trans>procedure</trans>
+    <trans>recipe</trans>
+    <trans>resort</trans>
+    <trans>resource</trans>
+    <trans>scheme</trans>
+    <trans>system</trans>
+    <trans>technique</trans>
+    <trans>vein</trans>
+    <note>Listed in An Seotal: General, as 'method', 'technique'.</note>
+  </ainmear_boireann>

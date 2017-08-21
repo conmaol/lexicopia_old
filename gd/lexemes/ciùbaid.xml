@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ciùbaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ciùbaid</orth>
+    </form>
+    <trans>cuboid</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>cuboid - ciùbaid(e) poss ccubes - ciùbaidean pl</note>
+  </ainmear_boireann>

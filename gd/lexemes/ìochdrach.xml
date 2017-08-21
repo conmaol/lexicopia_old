@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="ìochdrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="ìochdar"/>
+    <part ref="_ach-suffix"/>
+    <form>
+      <orth>ìochd(a)rach</orth>
+    </form>
+    <trans>lower</trans>
+    <trans>inferior</trans>
+    <trans>lowermost</trans>
+    <trans>nether</trans>
+    <trans>subordinate</trans>
+    <trans>ulterior</trans>
+  </buadhair>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="currac_baintighearna" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>currac baintighearna</orth>
+    </form>
+    <trans>great tit</trans>
+    <trans>Parus major</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/currag baintighearna.mp3</note>
+    <note>Listed in CM as 'currac-bhain-tighearna'.</note>
+  </ainmear_fireann>

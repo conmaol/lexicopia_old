@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="òraidiche_speactromachd_tomaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>òraidiche speactromachd tomaid</orth>
+    </form>
+    <trans>lecturer in mass spectrometry</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="pàtran_minig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pàtran minig</orth>
+    </form>
+    <trans>repeating pattern</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

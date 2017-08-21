@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Blàr_an_t-Solent" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Blàr an t-Solent</orth>
+    </form>
+    <trans>Battle of the Solent</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

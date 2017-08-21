@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="port-cruinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>port-cruinn</orth>
+    </form>
+    <trans>jig</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>jig - port-cruinn poss cjigs - puirt-cruinn pl</note>
+  </ainmear_fireann>

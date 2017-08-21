@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="plàigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>plàigh</orth>
+    </form>
+    <trans>pest</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>pest - plàighe poss cpests - plàighean pl</note>
+  </ainmear_boireann>

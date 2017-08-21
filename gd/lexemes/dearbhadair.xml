@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dearbhadair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dearbhadair</orth>
+    </form>
+    <trans>validator</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>validator - dearbhadair poss cvalidators - dearbhadairean pl</note>
+  </ainmear_fireann>

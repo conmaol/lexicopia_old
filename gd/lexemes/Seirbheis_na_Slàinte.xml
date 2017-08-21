@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Seirbheis_na_Slàinte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Seirbheis na Slàinte</orth>
+    </form>
+    <trans>the Health Service</trans>
+    <note>Listed in An Seotal: Personal and Social Education.</note>
+  </lexeme>

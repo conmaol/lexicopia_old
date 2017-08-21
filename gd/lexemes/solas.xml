@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="solas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>solas</orth>
+    </form>
+    <trans>light</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>light - solais poss clights - solais pl</note>
+    <note>Also: solus.</note>
+  </ainmear_fireann>

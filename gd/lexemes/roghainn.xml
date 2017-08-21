@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="roghainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>roghainn</orth>
+    </form>
+    <trans>choice</trans>
+    <trans>option</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>choice - roghainn poss cchoices - roghainnean pl</note>
+    <note>Listed in An Seotal: Computing, as 'option'.</note>
+    <note>option - roghainn poss coptions - roghainnean pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="neach-casaid_a_Chrùin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>neach-casaid a' Chrùin</orth>
+    </form>
+    <trans>the procurator fiscal</trans>
+    <trans>the Crown prosecutor</trans>
+    <note>Listed in Faclair na Pàrlamaid.</note>
+  </lexeme>

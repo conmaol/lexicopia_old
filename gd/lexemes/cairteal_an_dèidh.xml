@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cairteal_an_dèidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cairteal an dèidh</orth>
+    </form>
+    <trans>quarter past</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

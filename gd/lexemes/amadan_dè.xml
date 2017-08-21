@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="amadan_dè" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="amadan"/>
+    <form>
+      <orth>amadan dé</orth>
+    </form>
+    <trans>butterfly</trans>
+    <trans>foolish child</trans>
+    <note>Dwelly: amadan-dé (AC) sm Butterfly, see dearbadan-dé. 2 Also applied to foolish children.</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="comas_ceangail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>comas ceangail</orth>
+    </form>
+    <trans>connectivity</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>connectivity - comas ceangail poss cconnectivities - comasan ceangail pl</note>
+  </ainmear_fireann>

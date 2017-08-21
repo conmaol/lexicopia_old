@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Rianaire_Leasachadh_Luchd-obrach_Gàidhlig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Rianaire Leasachadh Luchd-obrach Gàidhlig</orth>
+    </form>
+    <trans>Gaelic Staff Development Administrator</trans>
+    <note>Listed in An Seotal: Language.</note>
+  </lexeme>

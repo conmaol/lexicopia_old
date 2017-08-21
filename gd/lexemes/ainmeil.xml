@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="ainmeil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ainmeil</orth>
+    </form>
+    <trans>famous</trans>
+    <trans>famed</trans>
+    <trans>illustrious</trans>
+    <trans>memorable</trans>
+    <trans>renowned</trans>
+    <trans>notorious</trans>
+    <trans>notable</trans>
+    <trans>noted</trans>
+  </buadhair>

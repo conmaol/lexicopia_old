@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="nì_comharraichte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nì comharraichte</orth>
+    </form>
+    <trans>featured item</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

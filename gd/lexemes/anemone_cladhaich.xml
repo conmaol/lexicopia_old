@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="anemone_cladhaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>anemone cladhaich</orth>
+    </form>
+    <trans>burrowing anemone</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: anemonaidhean cladhaich</note>
+    <note>Latin: (Cerianthus lloydii)</note>
+  </ainmear_fireann>

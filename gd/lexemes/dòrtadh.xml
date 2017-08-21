@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dòrtadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dòrtadh</orth>
+    </form>
+    <trans>period</trans>
+    <note>Listed in An Seotal: Personal and Social Education.</note>
+    <note>period - dòrtaidh poss c</note>
+  </ainmear_fireann>

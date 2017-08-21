@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="faoileag_bheag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>faoileag bheag</orth>
+    </form>
+    <trans>little gull</trans>
+    <trans>lesser black-headed gull</trans>
+    <trans>Hydrocoloeus minutus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

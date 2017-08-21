@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="roghainnean_eadar-liin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>roghainnean eadar-lìn</orth>
+    </form>
+    <trans>internet options</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

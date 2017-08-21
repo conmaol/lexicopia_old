@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="bàrr-suime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bàrr-suime</orth>
+    </form>
+    <trans>maximum</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </buadhair>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="sealladh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sealladh</orth>
+    </form>
+    <trans>view</trans>
+    <trans>projection</trans>
+    <note>Listed in An Seotal: Maths, as 'view'.</note>
+    <note>view - seallaidh poss cviews - seallaidhean pl</note>
+    <note>Listed in An Seotal: Technology as 'view', 'projection'.</note>
+    <note>projection - seallaidh poss cprojections - seallaidhean pl</note>
+    <note>Listed in An Seotal: Computing, as 'view'.</note>
+    <note>view - seallaidh poss cviews - seallaidhean pl</note>
+  </ainmear_fireann>

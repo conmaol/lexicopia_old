@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_Chiad_Leughadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a' Chiad Leughadh (de Bhìle)</orth>
+    </form>
+    <trans>the First Reading (of a bill)</trans>
+    <note>Listed in Faclair na Pàrlamaid.</note>
+  </lexeme>

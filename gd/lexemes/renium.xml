@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="renium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>renium</orth>
+    </form>
+    <trans>rhenium</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>rhenium - renium sc</note>
+  </ainmear_fireann>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cliath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cliath</orth>
+    </form>
+    <trans>grid</trans>
+    <trans>stave</trans>
+    <note>Listed in An Seotal: Maths, as 'grid'.</note>
+    <note>grid - clèithe poss cgrids - cliathan pl</note>
+    <note>Listed in An Seotal: Music, as 'stave'.</note>
+    <note>stave - clèithe poss cstaves - cliathan pl</note>
+  </ainmear_boireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="fo-mhothachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fo-mhothachadh</orth>
+    </form>
+    <trans>subconscious</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>subconscious - fo-mhothachaidh poss c</note>
+  </ainmear_fireann>

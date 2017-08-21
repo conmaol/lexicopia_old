@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="luideach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>luideach</orth>
+    </form>
+    <trans>slovenly</trans>
+    <trans>untidy</trans>
+    <trans>clumsy</trans>
+    <trans>dingy</trans>
+    <trans>nondescript</trans>
+    <trans>shabby</trans>
+    <trans>silly</trans>
+    <trans>daft</trans>
+    <note>Listed in CM.</note>
+    <note>Listed in TYGD.</note>
+  </buadhair>

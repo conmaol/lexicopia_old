@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="lionn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lionn</orth>
+    </form>
+    <trans>fluid</trans>
+    <trans>liquid</trans>
+    <note>Listed in An Seotal: Science, as 'fluid'.</note>
+    <note>fluid - lionna scfluids - lionnan iom</note>
+    <note>Listed in An Seotal: Maths, as 'liquid'.</note>
+    <note>liquid - lionna poss cliquids - lionntan pl</note>
+  </ainmear_fireann>

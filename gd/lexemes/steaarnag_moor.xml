@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="steaarnag_moor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>steàrnag mòr</orth>
+    </form>
+    <trans>sandwich tern</trans>
+    <trans>Thalasseus sandvicensis</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Latin: (Sterna sandvicensis)</note>
+  </ainmear_boireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="air_fhad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>air fhad</orth>
+    </form>
+    <trans>longitudinal</trans>
+    <trans>longitudinally</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

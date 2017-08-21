@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="uidheamaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uidheamaich</orth>
+    </form>
+    <trans>equip</trans>
+    <trans>furnish</trans>
+    <trans>prepare</trans>
+    <trans>rig</trans>
+    <trans>trim</trans>
+    <note>Listed in CM.</note>
+  </gnìomhair>

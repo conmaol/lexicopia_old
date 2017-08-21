@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="surdan_co-ionann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>surdan co-ionann</orth>
+    </form>
+    <trans>equivalent surds</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

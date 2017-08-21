@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="modail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>modail</orth>
+    </form>
+    <trans>model</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>model - modail poss cmodels - modailean pl</note>
+  </ainmear_fireann>

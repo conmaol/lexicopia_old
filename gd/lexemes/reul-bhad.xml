@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="reul-bhad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>reul-bhad</orth>
+    </form>
+    <trans>constellation</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>constellation - reul-bhaid sc constellations - reul-bhadan iom</note>
+  </ainmear_fireann>

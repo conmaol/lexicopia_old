@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ialtag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ialtag</orth>
+    </form>
+    <trans>bat</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>bat - ialtaig scbats - ialtagan iom</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: ialtagan</note>
+    <note>Latin: Chiroptera spp.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/ialtag.mp3</note>
+  </ainmear_boireann>

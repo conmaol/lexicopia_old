@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Èirinn_a_tuath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Èirinn a tuath</orth>
+    </form>
+    <trans>Northern Ireland</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

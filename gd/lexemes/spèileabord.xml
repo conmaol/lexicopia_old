@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="spèileabord" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>spèileabord</orth>
+    </form>
+    <trans>skateboard</trans>
+    <note>Listed in An Seotal: Physical Education.</note>
+    <note>skateboard - spèileabuird poss cskateboards - spèileabuird pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Lìon_na_Cruinne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Lìon na Cruinne</orth>
+    </form>
+    <trans>World Wide Web</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </ainmear_fireann>

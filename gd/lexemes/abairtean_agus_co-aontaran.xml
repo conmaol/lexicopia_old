@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="abairtean_agus_co-aontaran" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>abairtean agus co-aontaran</orth>
+    </form>
+    <trans>expressions and equations</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

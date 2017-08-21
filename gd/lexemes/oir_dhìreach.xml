@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="oir_dhìreach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>oir dhìreach</orth>
+    </form>
+    <trans>straight edge</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="cinn-verb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cinn</orth>
+    </form>
+    <trans>grow</trans>
+    <trans>become</trans>
+    <trans>spring</trans>
+    <trans>thrive</trans>
+    <trans>turn</trans>
+    <note>Listed in CM.</note>
+  </gnìomhair>

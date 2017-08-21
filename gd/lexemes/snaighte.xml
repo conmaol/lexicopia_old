@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="snaighte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>snaighte</orth>
+    </form>
+    <trans>carved</trans>
+    <trans>sculpted</trans>
+    <trans>inscribed</trans>
+    <note>Listed in An Seotal: Maths, as 'inscribed'.</note>
+    <note>Listed in An Seotal: Art, as 'carved', 'sculpted'.</note>
+  </buadhair>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="ag_obrachadh_a-mach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ag obrachadh a-mach</orth>
+    </form>
+    <trans>calculating</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </gnìomhair>

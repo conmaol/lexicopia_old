@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="os_cionn_ìre_na_mara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>os cionn ìre na mara (ocm)</orth>
+    </form>
+    <trans>above sea level (asl)</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cruthadair-ciùil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cruthadair-ciùil</orth>
+    </form>
+    <trans>composer</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>composer - cruthadair-ciùil poss ccomposers - cruthadairean-ciùil pl</note>
+  </lexeme>

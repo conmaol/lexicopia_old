@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="crescendo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>crescendo</orth>
+    </form>
+    <trans>crescendo</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>crescendo - crescendo poss ccrescendos - crescendothan pl</note>
+  </ainmear_fireann>

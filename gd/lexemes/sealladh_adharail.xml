@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sealladh_adharail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sealladh adharail</orth>
+    </form>
+    <trans>aerial view</trans>
+    <trans>aerial perspective</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

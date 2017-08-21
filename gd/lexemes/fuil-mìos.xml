@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="fuil-mìos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fuil-mìos</orth>
+    </form>
+    <trans>menstruation</trans>
+    <trans>period</trans>
+    <note>Listed in An Seotal: Science, as 'menstruation'.</note>
+    <note>menstruation - fala-mìos sc</note>
+    <note>Listed in An Seotal: Personal and Social Education, as 'period'.</note>
+    <note>period - fuil-mìos poss c</note>
+  </ainmear_boireann>

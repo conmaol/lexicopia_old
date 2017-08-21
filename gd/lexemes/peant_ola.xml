@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="peant_ola" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>peant ola</orth>
+    </form>
+    <trans>oil paint</trans>
+    <note>Listed in An Seotal: Art.</note>
+  </lexeme>

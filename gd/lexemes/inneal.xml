@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="inneal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>inneal</orth>
+    </form>
+    <trans>device</trans>
+    <trans>tòl</trans>
+    <trans>appliance</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>device - inneil poss cdevices - innealan pl</note>
+    <note>tòl - inneal poss ctòls - innealan pl</note>
+    <note>Listed in An Seotal: Technology, as 'appliance'.</note>
+    <note>appliance - inneil poss cappliances - innealan pl</note>
+    <note>Listed in An Seotal: Computing, as 'tòl'.</note>
+    <note>tòl - inneil poss ctòls - innealan pl</note>
+  </ainmear_fireann>

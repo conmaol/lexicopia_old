@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="plàigh_ghuireanan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>plàigh ghuireanan</orth>
+    </form>
+    <trans>outbreak of spots</trans>
+    <note>Listed in An Seotal: Personal and Social Education.</note>
+  </lexeme>

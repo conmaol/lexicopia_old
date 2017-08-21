@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Seann_Drochaid_Nibheis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Seann Drochaid Nibheis</orth>
+    </form>
+    <trans>Old Nevis Bridge</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

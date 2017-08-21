@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="dùmhail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dùmhail</orth>
+    </form>
+    <trans>dense</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </buadhair>

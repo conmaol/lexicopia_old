@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="gnìomhaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gnìomhaich</orth>
+    </form>
+    <trans>activate</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </gnìomhair>

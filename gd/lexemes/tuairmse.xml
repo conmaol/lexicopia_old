@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="tuairmse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tuairmse</orth>
+    </form>
+    <trans>guess</trans>
+    <trans>estimate</trans>
+    <trans>approximation</trans>
+    <trans>estimation</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>approximation - tuairmse poss capproximations - tuairmsean pl</note>
+    <note>estimate - tuairmse poss cestimates - tuairmsean pl</note>
+    <note>estimation - tuairmse poss cestimations - tuairmsean pl</note>
+    <note>guess - tuairmse poss cguesses - tuairmsean pl</note>
+  </ainmear_boireann>

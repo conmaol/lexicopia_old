@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dlùths" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dlùths</orth>
+    </form>
+    <trans>density</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>density - dlùths sc</note>
+  </ainmear_fireann>

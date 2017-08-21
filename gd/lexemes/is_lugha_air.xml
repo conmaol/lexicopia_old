@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="is_lugha_air" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>is lugha air</orth>
+    </form>
+    <trans>dislike</trans>
+    <trans>hate</trans>
+    <trans>loathe</trans>
+  </lexeme>

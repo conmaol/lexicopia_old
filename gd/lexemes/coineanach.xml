@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="coineanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>coineanach</orth>
+    </form>
+    <trans>rabbit</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>rabbit - coineanaich sc rabbits - coineanaich iom</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: coineanaich</note>
+    <note>Latin: Oryctolagus cuniculus</note>
+  </ainmear_fireann>

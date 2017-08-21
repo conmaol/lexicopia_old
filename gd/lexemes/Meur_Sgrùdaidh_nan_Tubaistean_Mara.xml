@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Meur_Sgrùdaidh_nan_Tubaistean_Mara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Meur Sgrùdaidh nan Tubaistean Mara</orth>
+    </form>
+    <trans>the Marine Accident Investigation Branch (MAIB)</trans>
+    <note>From BBC.</note>
+    <note>Part of the UK Ministry of Transport</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="grian-stad_an_t-samhraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>grian-stad an t-samhraidh</orth>
+    </form>
+    <trans>summer solstice</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

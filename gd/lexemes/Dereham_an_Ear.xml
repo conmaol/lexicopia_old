@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Dereham_an_Ear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Dereham an Ear</orth>
+    </form>
+    <trans>East Dereham</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>East Dereham - Dhereham an Ear poss c</note>
+  </ainmear_fireann>

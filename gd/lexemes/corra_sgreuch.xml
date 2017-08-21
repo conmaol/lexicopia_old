@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="corra_sgreuch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>corra sgreuch</orth>
+    </form>
+    <trans>grey heron</trans>
+    <trans>Ardea cinerea</trans>
+    <note>Some variant spellings found in DASG Fieldwork Archive: corra sgritheach, corra sgreadhach.</note>
+  </ainmear_boireann>

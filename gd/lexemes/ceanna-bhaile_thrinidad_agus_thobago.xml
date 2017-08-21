@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ceanna-bhaile_thrinidad_agus_thobago" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceanna-bhaile Thrinidad agus Thobago</orth>
+    </form>
+    <trans>capital of Trinidad and Tobago</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_fireann>

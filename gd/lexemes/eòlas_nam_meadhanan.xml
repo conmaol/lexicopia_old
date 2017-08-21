@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="eòlas_nam_meadhanan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eòlas nam meadhanan</orth>
+    </form>
+    <trans>media studies</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

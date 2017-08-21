@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cril" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cril</orth>
+    </form>
+    <trans>krill</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>krill - cril sc</note>
+  </ainmear_fireann>

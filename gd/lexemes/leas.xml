@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="leas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leas</orth>
+    </form>
+    <trans>advantage</trans>
+    <trans>benefit</trans>
+    <trans>good</trans>
+    <trans>interest</trans>
+    <trans>welfare</trans>
+  </ainmear_fireann>

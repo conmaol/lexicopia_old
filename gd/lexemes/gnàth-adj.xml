@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="gnàth-adj" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gnàth</orth>
+    </form>
+    <trans>usual</trans>
+    <trans>habitual</trans>
+    <trans>common</trans>
+    <trans>customary</trans>
+  </buadhair>

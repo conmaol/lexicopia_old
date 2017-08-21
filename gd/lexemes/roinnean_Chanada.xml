@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="roinnean_Chanada" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>roinnean Chanada</orth>
+    </form>
+    <trans>regions of Canada</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

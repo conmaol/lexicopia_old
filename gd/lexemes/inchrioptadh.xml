@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="inchrioptadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>inchrioptadh</orth>
+    </form>
+    <trans>encryption</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>encryption - inchrioptaidh poss cencryptions - inchrioptaidhean pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="an_àird_a_deas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>an àird a deas</orth>
+    </form>
+    <trans>south</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>south - na h-àird a deas poss c</note>
+  </ainmear_boireann>

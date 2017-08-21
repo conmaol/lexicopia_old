@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_cumail_na_buille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a' cumail na buille</orth>
+    </form>
+    <trans>beating</trans>
+    <trans>keeping the beat</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

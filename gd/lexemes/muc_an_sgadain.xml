@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="muc_an_sgadain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>muc an sgadain</orth>
+    </form>
+    <trans>fin whale</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: mucan an sgadain</note>
+    <note>Latin: (Balaenoptera physalus)</note>
+    <note>Info: Name means herring sea-pig.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/muc an sgadain.mp3</note>
+  </ainmear_boireann>

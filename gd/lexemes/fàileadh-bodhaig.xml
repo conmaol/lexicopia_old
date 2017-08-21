@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="fàileadh-bodhaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fàileadh-bodhaig</orth>
+    </form>
+    <trans>body odour</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>B.O. - fàileidh-bodhaig poss cB.O. - fàileidhean-bodhaig pl</note>
+  </lexeme>

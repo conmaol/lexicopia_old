@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="bradan_sligeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="bradan"/>
+    <part ref="sligeach"/>
+    <form>
+      <orth>bradan sligeach</orth>
+    </form>
+    <trans>mullet</trans>
+    <note> Family: Mugilidae. </note>
+  </ainmear_fillte>

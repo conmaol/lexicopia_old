@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="liosta-miann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>liosta-miann</orth>
+    </form>
+    <trans>wishlist</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>wishlist - liosta-miann poss cwishlists - liostaichean-miann pl</note>
+  </ainmear_boireann>

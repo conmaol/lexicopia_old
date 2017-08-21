@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gealag_an_t-sneachda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gealag an t-sneachda</orth>
+    </form>
+    <trans>snow bunting</trans>
+    <trans>Plectrophenax nivalis</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

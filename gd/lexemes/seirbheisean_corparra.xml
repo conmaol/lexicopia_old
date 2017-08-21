@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="seirbheisean_corparra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seirbheisean corparra</orth>
+    </form>
+    <trans>corprate services</trans>
+    <note>Listed in An Seotal: Business Studies.</note>
+  </lexeme>

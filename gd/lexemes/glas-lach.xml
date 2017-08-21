@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="glas-lach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>glas-lach</orth>
+    </form>
+    <trans>wigeon</trans>
+    <trans>Anas penelope</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Latin: (Anas penelope)</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/glas-lach.mp3</note>
+  </ainmear_boireann>

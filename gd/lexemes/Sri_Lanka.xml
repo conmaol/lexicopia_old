@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Sri_Lanka" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Sri Lanka</orth>
+    </form>
+    <trans>Sri Lanka</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Sri Lanka - Shri Lanka poss c</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="concrait" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>concrait</orth>
+    </form>
+    <trans>concrete</trans>
+    <note>Listed in An Seotal: Technology.</note>
+    <note>concrete - concrait poss c</note>
+  </ainmear_fireann>

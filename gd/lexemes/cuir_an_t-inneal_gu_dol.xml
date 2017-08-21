@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuir_an_t-inneal_gu_dol" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuir an t-inneal gu dol</orth>
+    </form>
+    <trans>activate the machine</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="saobh-chreideas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>saobh-chreideas</orth>
+    </form>
+    <trans>heresy</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+    <note>heresy - saobh-chreideis scheresies - saobh-chreideasan iom</note>
+  </ainmear_fireann>

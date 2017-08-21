@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="taigh-staile_Inbhir_Ghòrdain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>taigh-staile Inbhir Ghòrdain</orth>
+    </form>
+    <trans>Invergordon distillery</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

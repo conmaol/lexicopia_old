@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="atharraich_mòd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>atharraich mòd</orth>
+    </form>
+    <trans>modulate</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </gnìomhair>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="dearc-luachrach_boiseach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dearc-luachrach boiseach</orth>
+    </form>
+    <trans>palmate newt</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: dearcan-luachrach boiseach</note>
+    <note>Latin: Triturus helveticus</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="nurs_rannsachadh_clionaigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nurs rannsachadh clionaigeach</orth>
+    </form>
+    <trans>clinical research nurse</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

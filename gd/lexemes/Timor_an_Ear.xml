@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Timor_an_Ear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Timor an Ear</orth>
+    </form>
+    <trans>East Timor</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>East Timor - Thimor an Ear poss c</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="am_Mathan_Mòr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>am Mathan Mòr</orth>
+    </form>
+    <trans>the Great Bear</trans>
+    <trans>Ursa Major</trans>
+  </lexeme>

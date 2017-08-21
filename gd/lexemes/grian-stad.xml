@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="grian-stad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>grian-stad</orth>
+    </form>
+    <trans>solstice</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>solstice - grian-staid scsolstices - grian-stadan iom</note>
+  </ainmear_fireann>

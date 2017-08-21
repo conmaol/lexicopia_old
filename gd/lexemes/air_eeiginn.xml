@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="air_eeiginn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>air èiginn</orth>
+    </form>
+    <trans>only just</trans>
+    <trans>with difficulty</trans>
+    <trans>scarcely</trans>
+    <trans>just</trans>
+    <trans>narrowly</trans>
+    <trans>perforce</trans>
+    <trans>by the skin of one's teeth</trans>
+    <note>Listed in TYGD.</note>
+    <note>Listed in CM.</note>
+  </lexeme>

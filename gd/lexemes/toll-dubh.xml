@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="toll-dubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>toll-dubh</orth>
+    </form>
+    <trans>dungeon</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>Listed in CM.</note>
+    <note>dungeon - tuill-dhuibh poss c dungeons - tollan-dubha pl</note>
+  </ainmear_fireann>

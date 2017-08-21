@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Poblachd_Eileanan_nan_Seychelles" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Poblachd Eileanan nan Seychelles</orth>
+    </form>
+    <trans>Island Republic of the Seychelles</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

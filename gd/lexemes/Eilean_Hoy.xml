@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Eilean_Hoy" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Eilean Hoy</orth>
+    </form>
+    <trans>Island of Hoy</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

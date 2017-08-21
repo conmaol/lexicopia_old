@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Cànan_Mharcaidh_Haidhpirteacsa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Cànan Mharcaidh Haidhpirteacsa (HTML)</orth>
+    </form>
+    <trans>Hypertext Markup Language (HTML)</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

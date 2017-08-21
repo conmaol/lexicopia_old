@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="co-thàthaidhean_itrium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>co-thàthaidhean itrium</orth>
+    </form>
+    <trans>yttrium compounds</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="lobhagachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lobhagachd</orth>
+    </form>
+    <trans>bacteriology</trans>
+    <note>Listed in Paterson's 'The Gaels havea word for it!'.</note>
+  </ainmear_boireann>

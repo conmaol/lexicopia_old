@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="a_bheilg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>A' Bheilg</orth>
+    </form>
+    <trans>Belgium</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Belgium - na Beilg(e) poss c</note>
+  </ainmear_boireann>

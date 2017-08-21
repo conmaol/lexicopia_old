@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="loidhne-muigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>loidhne-muigh</orth>
+    </form>
+    <trans>outline</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>outline - loidhne-muigh (2D) poss coutlines - loidhnichean-muigh (2D) pl</note>
+  </ainmear_boireann>

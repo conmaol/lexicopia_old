@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Ioslam" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Ioslam</orth>
+    </form>
+    <trans>Islam</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+    <note>Islam - Ioslam sc</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Feachd_an_Adhair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Feachd an Adhair</orth>
+    </form>
+    <trans>the (Royal) Air Force</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

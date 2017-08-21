@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="fiosaigs_nuadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fiosaigs nuadh</orth>
+    </form>
+    <trans>modern physics</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="bac-v" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bac</orth>
+    </form>
+    <trans>hinder</trans>
+    <trans>impede</trans>
+    <trans>hold back</trans>
+    <trans>obstruct</trans>
+    <trans>restrain</trans>
+    <trans>prevent</trans>
+    <trans>ban</trans>
+    <trans>bar</trans>
+    <trans>check</trans>
+    <trans>clog</trans>
+    <trans>curb</trans>
+    <trans>debar</trans>
+    <trans>detain</trans>
+    <trans>deter</trans>
+    <trans>disallow</trans>
+    <trans>foil</trans>
+    <trans>frustrate</trans>
+    <trans>inhibit</trans>
+    <trans>interdict</trans>
+    <trans>keep back</trans>
+    <trans>preclude</trans>
+    <trans>prohibit</trans>
+    <trans>retard</trans>
+    <trans>stop</trans>
+  </gnìomhair>

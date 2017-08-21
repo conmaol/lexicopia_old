@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ola_a_Chuain_a_Tuath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ola a' Chuain a Tuath</orth>
+    </form>
+    <trans>North Sea oil</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

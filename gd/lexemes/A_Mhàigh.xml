@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="A_Mhàigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>A' Mhàigh</orth>
+    </form>
+    <trans>May</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Info: Traditionally, fires we're lit and cattle driven through them on the first day of the month - Là Buidhe Bealltainn.</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sgrìobh_faid_thuairmseach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sgrìobh faid thuairmseach</orth>
+    </form>
+    <trans>write an approximate length</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="fìdeag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fìdeag</orth>
+    </form>
+    <trans>tin whistle</trans>
+    <trans>penny whistle</trans>
+    <trans index="only">whistle</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>penny whistle - fìdeig poss cpenny whistles - fìdeagan pl</note>
+    <note>whistle - fìdeig poss cwhistles - fìdeagan pl</note>
+  </ainmear_boireann>

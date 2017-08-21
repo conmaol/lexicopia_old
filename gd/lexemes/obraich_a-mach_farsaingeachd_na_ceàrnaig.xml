@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="obraich_a-mach_farsaingeachd_na_ceàrnaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>obraich a-mach farsaingeachd na ceàrnaig</orth>
+    </form>
+    <trans>calculate the area of the square</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

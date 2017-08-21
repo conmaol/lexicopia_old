@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="baile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>baile</orth>
+    </form>
+    <form>
+      <orth>bailtean</orth>
+    </form>
+    <trans>town</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_fireann>

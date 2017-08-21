@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="an-àird" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>an-àird</orth>
+    </form>
+    <trans>(to) above</trans>
+    <trans>(to) up there</trans>
+    <trans>up</trans>
+    <trans>upwards</trans>
+  </lexeme>

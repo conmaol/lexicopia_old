@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="buille_shìmplidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>buille shìmplidh</orth>
+    </form>
+    <trans>simple time</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

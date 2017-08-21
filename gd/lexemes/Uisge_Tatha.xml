@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Uisge_Tatha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Uisge Tatha</orth>
+    </form>
+    <trans>the River Tay</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_fireann>

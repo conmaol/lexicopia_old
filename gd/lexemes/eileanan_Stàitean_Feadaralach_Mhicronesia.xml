@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="eileanan_Stàitean_Feadaralach_Mhicronesia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eileanan Stàitean Feadaralach Mhicronesia</orth>
+    </form>
+    <trans>islands of the Federated States of Micronesia</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="leòmhann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leòmhann</orth>
+    </form>
+    <trans>lion</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>lion - leòmhainn sclions - leòmhainn iom</note>
+  </ainmear_fireann>

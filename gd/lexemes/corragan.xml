@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="corragan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>corragan</orth>
+    </form>
+    <trans>fingers</trans>
+    <note>Oxford Children's Scottish Gaelic Visual Dictionary, p. 13.</note>
+  </lexeme>

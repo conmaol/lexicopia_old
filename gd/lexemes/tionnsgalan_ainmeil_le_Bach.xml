@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="tionnsgalan_ainmeil_le_Bach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tionnsgalan ainmeil le Bach</orth>
+    </form>
+    <trans>famous inventions by Bach</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </lexeme>

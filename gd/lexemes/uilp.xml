@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="uilp" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uilp</orth>
+    </form>
+    <trans>fox cub</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: uilpean</note>
+    <note>Latin: (Vulpes vulpes)</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/uilp.mp3</note>
+  </ainmear_fireann>

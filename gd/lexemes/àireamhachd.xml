@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="àireamhachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àireamhachd</orth>
+    </form>
+    <trans>numeracy</trans>
+    <trans>arithmetic</trans>
+    <note>Listed in An Seotal: General, as 'numeracy'.</note>
+    <note>numeracy - àireamhachd poss c</note>
+    <note>Listed in An Seotal: Maths, as 'arithmetic'.</note>
+    <note>arithmetic - àireamhachd poss c</note>
+  </ainmear_boireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="loch-tasgaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>loch-tasgaidh</orth>
+    </form>
+    <trans>reservoir</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>reservoir - loch-tasgaidh poss creservoirs - lochan-tasgaidh pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bhidio_pop" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bhidio pop</orth>
+    </form>
+    <trans>pop video</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

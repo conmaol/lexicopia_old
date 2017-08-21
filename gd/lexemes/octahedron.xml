@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="octahedron" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>octahedron</orth>
+    </form>
+    <trans>octahedron</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>octahedron - octahedroin poss coctahedronan - octahedronan pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_sreap_Beinn_Clìbrig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a' sreap Beinn Clìbrig</orth>
+    </form>
+    <trans>climbing Ben Klibreck</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

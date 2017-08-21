@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="obair_shnaighte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>obair shnaighte</orth>
+    </form>
+    <trans>a carving</trans>
+    <trans>sculpted works</trans>
+    <note>Listed in An Seotal: Art.</note>
+  </lexeme>

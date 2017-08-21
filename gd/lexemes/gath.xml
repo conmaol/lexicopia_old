@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gath</orth>
+    </form>
+    <trans>arrow</trans>
+    <trans>ray</trans>
+    <trans>beam</trans>
+    <trans>barb</trans>
+    <trans>dart</trans>
+    <trans>javelin</trans>
+    <trans>spear</trans>
+    <trans>sting</trans>
+    <note>Listed in An Seotal: Science, as 'ray'.</note>
+    <note>ray - gath scrays - gathan iom</note>
+    <note>Listed in An Seotal: Maths, as 'arrow'.</note>
+    <note>arrow - gath poss c arrows - gathan pl</note>
+  </ainmear_fireann>

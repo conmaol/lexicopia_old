@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="luchdaich_suas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>luchdaich suas</orth>
+    </form>
+    <trans>upload</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </gnìomhair>

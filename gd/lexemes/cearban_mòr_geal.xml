@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cearban_mòr_geal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cearban mòr geal</orth>
+    </form>
+    <trans>great white shark</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

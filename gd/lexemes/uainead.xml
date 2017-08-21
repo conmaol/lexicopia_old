@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="uainead" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>uainead</orth>
+    </form>
+    <trans>greenness</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

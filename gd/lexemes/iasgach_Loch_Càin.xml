@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="iasgach_Loch_Càin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>iasgach Loch Càin</orth>
+    </form>
+    <trans>Loch Ken fishing</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

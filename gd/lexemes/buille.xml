@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="buille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>buille</orth>
+    </form>
+    <trans>pulse</trans>
+    <trans>beat</trans>
+    <trans>time</trans>
+    <trans>hit</trans>
+    <note>Listed in An Seotal: Science, as 'pulse'.</note>
+    <note>pulse - buille scpulses - buillean iom</note>
+    <note>Listed in An Seotal: Music, as 'beat', 'time'.</note>
+    <note>beat - buille poss cbeats - buillean pl</note>
+    <note>time - buille poss ctimes - buillean pl</note>
+    <note>Listed in An Seotal: Computing, as 'hit'.</note>
+    <note>hit - buille poss chits - buillean pl</note>
+  </ainmear_boireann>

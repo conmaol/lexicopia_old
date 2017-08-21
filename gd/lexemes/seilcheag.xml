@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="seilcheag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seilcheag</orth>
+    </form>
+    <trans>snail</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: seilcheagan</note>
+    <note>Latin: Gastropoda (Class) spp.</note>
+    <note>Info: Snails were traditionally applied as a cure for warts.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/seilcheag.mp3</note>
+  </ainmear_boireann>

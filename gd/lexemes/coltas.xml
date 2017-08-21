@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="coltas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>coltas</orth>
+    </form>
+    <trans>appearance</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>appearance - coltais poss cappearances - coltasan pl</note>
+  </ainmear_fireann>

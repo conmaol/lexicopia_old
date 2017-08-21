@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="beathaichean_Beanntan_Atlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>beathaichean Beanntan Atlas</orth>
+    </form>
+    <trans>animals of the Atlas Mountains</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

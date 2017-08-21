@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="log_a-mach-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>log a-mach</orth>
+    </form>
+    <trans>logout</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>logouts - logaidhean a-mach pl</note>
+  </ainmear_fireann>

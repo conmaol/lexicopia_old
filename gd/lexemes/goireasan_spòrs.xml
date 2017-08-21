@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="goireasan_spòrs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>goireasan spòrs</orth>
+    </form>
+    <trans>sports facilities</trans>
+    <note>Listed in An Seotal: Physical Education.</note>
+  </lexeme>

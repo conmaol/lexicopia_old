@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="amar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>amar</orth>
+    </form>
+    <trans>bath</trans>
+    <note>Listed in An Seotal: Technology.</note>
+    <note>bath - amair poss cbaths - amaran pl</note>
+  </ainmear_fireann>

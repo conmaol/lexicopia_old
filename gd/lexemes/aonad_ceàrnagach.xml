@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="aonad_ceàrnagach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>aonad ceàrnagach</orth>
+    </form>
+    <trans>square unit</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

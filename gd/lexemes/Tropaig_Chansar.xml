@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Tropaig_Chansar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Tropaig Chansar</orth>
+    </form>
+    <trans>Tropic of Cancer</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

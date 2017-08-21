@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="An_Ruis_Àisianach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Ruis Àisianach</orth>
+    </form>
+    <trans>Asiatic Russia</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

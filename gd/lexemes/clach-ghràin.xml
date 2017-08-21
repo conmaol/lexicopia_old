@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="clach-ghràin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clach-ghràin</orth>
+    </form>
+    <trans>granite</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>granite - cloich-ghràin poss c</note>
+  </ainmear_boireann>

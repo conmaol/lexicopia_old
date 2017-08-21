@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cùmhnantan_un_air_còraichean_chloinne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Cùmhnantan UN air Còraichean Chloinne</orth>
+    </form>
+    <trans index="no">the UN Convention on the Rights of the Child</trans>
+    <trans index="only">UN Convention on the Rights of the Child</trans>
+    <note>Listed in An Seotal: Modern Studies</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dearbh-aithneachadh_facal-faire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dearbh-aithneachadh facal-faire</orth>
+    </form>
+    <trans>password authentication</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

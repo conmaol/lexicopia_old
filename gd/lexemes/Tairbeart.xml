@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Tairbeart" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Tairbeart</orth>
+    </form>
+    <trans>Tarbet</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

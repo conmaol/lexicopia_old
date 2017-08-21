@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="neach-obrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>neach-obrach</orth>
+    </form>
+    <trans>staff member</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

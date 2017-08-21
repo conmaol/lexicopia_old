@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ochd-cheàrnach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ochd-cheàrnach</orth>
+    </form>
+    <trans>octagon</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>octagon - ochd-cheàrnaich poss coctagons - ochd-cheàrnachan pl</note>
+  </ainmear_fireann>

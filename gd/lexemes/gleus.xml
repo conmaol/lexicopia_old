@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gleus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gleus</orth>
+    </form>
+    <trans>key</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>key - gleus poss ckeys - gleusan pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="farsaingeachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>farsaingeachd</orth>
+    </form>
+    <trans>breadth</trans>
+    <trans>area</trans>
+    <note>Listed in An Seotal: General, as 'breadth'.</note>
+    <note>breadth - farsaingeachd poss cbreadths - farsaingeachdan pl</note>
+    <note>Listed in An Seotal: Maths, as 'area'.</note>
+    <note>area - farsaingeachd poss careas - farsaingeachdan pl</note>
+  </ainmear_boireann>

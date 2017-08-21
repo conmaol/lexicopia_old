@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_dh_aon_ghnothach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a dh’aon ghnothach</orth>
+    </form>
+    <trans>deliberate</trans>
+    <trans>intentional</trans>
+    <trans>express</trans>
+    <note>Listed in Faclair Rianachd Phoblaich, as 'intentional'.</note>
+    <note>Listed in Faclair na Pàrlamaid, as 'deliberate', 'intentional'.</note>
+  </lexeme>

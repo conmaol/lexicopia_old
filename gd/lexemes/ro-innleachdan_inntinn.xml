@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ro-innleachdan_inntinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ro-innleachdan inntinn</orth>
+    </form>
+    <trans>mental strategies</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

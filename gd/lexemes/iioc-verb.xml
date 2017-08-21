@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="iioc-verb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ìoc</orth>
+    </form>
+    <trans>pay</trans>
+    <trans>render</trans>
+    <note>Listed in Robert C. Owen’s Modern Gaelic-English Dictionary</note>
+  </gnìomhair>

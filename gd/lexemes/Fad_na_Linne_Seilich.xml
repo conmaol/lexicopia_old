@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Fad_na_Linne_Seilich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Fad na Linne Seilich</orth>
+    </form>
+    <trans>Length of Loch Linnhe</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

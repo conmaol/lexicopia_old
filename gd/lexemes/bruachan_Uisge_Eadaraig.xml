@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bruachan_Uisge_Eadaraig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bruachan Uisge Eadaraig</orth>
+    </form>
+    <trans>banks of Ettrick Water</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

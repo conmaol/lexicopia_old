@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="nam_measg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nam measg</orth>
+    </form>
+    <trans>among them</trans>
+    <note>Old spelling: ’nam measg</note>
+  </lexeme>

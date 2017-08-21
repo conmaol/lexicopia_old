@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Downs_Dorset_a_Tuath_Sasainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Downs Dorset a Tuath, Sasainn</orth>
+    </form>
+    <trans>North Dorset Downs, England</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

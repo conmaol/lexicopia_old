@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="toraidhean_a_cheart_cho_coltach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>toraidhean a cheart cho coltach</orth>
+    </form>
+    <trans>equally likely outcomes</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

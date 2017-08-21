@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="caithris-verb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>caithris</orth>
+    </form>
+    <trans>watch</trans>
+    <trans>keep under surveillance</trans>
+    <note>Listed in CM.</note>
+  </gnìomhair>

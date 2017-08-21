@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dàimh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dàimh</orth>
+    </form>
+    <trans>relation</trans>
+    <trans>relationship</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>realation - dàimhe poss crealations - dàimhean pl</note>
+    <note>relationship - dàimh(e) poss crelationships - dàimhean pl</note>
+    <note>Listed in An Seotal: Maths, as 'relationship'.</note>
+    <note>relationship - dàimh(e) poss crelationships - dàimhean pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cliop" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cliop</orth>
+    </form>
+    <trans>clip</trans>
+    <note>Listed in An Seotal: Technology.</note>
+    <note>clip - cliop poss cclip - cliopaichean pl</note>
+  </ainmear_fireann>

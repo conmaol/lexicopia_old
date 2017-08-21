@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="air_ais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>air ais</orth>
+    </form>
+    <trans>backwards</trans>
+    <trans>back</trans>
+    <note>Listed in An Seotal: Maths, as 'backwards'.</note>
+    <note>Listed in An Seotal: Computing, as 'back'.</note>
+  </lexeme>

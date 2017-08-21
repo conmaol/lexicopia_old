@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="sgiobalta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sgiobalta</orth>
+    </form>
+    <trans>quick</trans>
+    <trans>active</trans>
+    <trans>agile</trans>
+    <trans>nimble</trans>
+    <trans>neat</trans>
+    <trans>slick</trans>
+    <trans>spick and span</trans>
+    <trans>tidy</trans>
+    <trans>trim</trans>
+  </buadhair>

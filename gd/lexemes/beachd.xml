@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="beachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>beachd</orth>
+    </form>
+    <trans>point of view</trans>
+    <trans>comment</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>point of view - beachda poss cpoints of view - beachdan pl</note>
+    <note>Listed in An Seotal: Computing, as 'comment'.</note>
+    <note>comment - beachd poss ccomments - beachdan pl</note>
+  </ainmear_fireann>

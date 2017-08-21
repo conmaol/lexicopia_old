@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="dian" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dian</orth>
+    </form>
+    <trans>eager</trans>
+    <trans>keen</trans>
+    <trans>fervent</trans>
+    <trans>furious</trans>
+    <trans>intense</trans>
+    <trans>intensive</trans>
+    <trans>pressing</trans>
+    <trans>strenuous</trans>
+    <trans>urgent</trans>
+    <trans>vehement</trans>
+    <trans>impetuous</trans>
+    <trans>violent</trans>
+  </buadhair>

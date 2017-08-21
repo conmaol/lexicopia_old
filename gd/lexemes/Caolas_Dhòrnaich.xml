@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Caolas_Dhòrnaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Caolas Dhòrnaich</orth>
+    </form>
+    <trans>Dornoch Firth</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_fireann>

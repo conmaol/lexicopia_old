@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="thoir_tuairmse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>thoir tuairmse</orth>
+    </form>
+    <trans>estimate</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </gnìomhair>

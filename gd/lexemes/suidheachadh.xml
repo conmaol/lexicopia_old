@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="suidheachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>suidheachadh</orth>
+    </form>
+    <trans>situation</trans>
+    <trans>case</trans>
+    <trans>position</trans>
+    <trans>setting</trans>
+    <note>Listed in An Seotal: General, as 'situation'.</note>
+    <note>situation - suidheachaidh poss csituations - suidheachaidhean pl</note>
+    <note>Listed in An Seotal: Language, as 'case'.</note>
+    <note>case - suidheachaidh poss ccases - suidheachaidhean pl</note>
+    <note>Listed in An Seotal: Maths, as 'position'.</note>
+    <note>position - suidheachaidh poss cpositions - suidheachaidhean pl</note>
+    <note>Listed in An Seotal: Computing, as 'setting'.</note>
+    <note>setting - suidheachaidh poss csettings - suidheachaidhean pl</note>
+  </ainmear_fireann>

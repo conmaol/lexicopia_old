@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="acadamaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>acadamaidh</orth>
+    </form>
+    <trans>academy</trans>
+    <trans>school</trans>
+    <note>Listed in Colin Mark's (2004) Gaelic-English dictionary.</note>
+  </ainmear_boireann>

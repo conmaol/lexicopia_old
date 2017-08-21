@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="luch-fheòir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>luch-fheòir</orth>
+    </form>
+    <trans>common field mouse</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: luchan-feòir</note>
+    <note>Latin: Apodemus sylvaticus</note>
+  </ainmear_boireann>

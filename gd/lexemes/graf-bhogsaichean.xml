@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="graf-bhogsaichean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>graf-bhogsaichean</orth>
+    </form>
+    <trans>box graph</trans>
+    <trans>box plot</trans>
+    <trans>box plot graph</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>box plot - graf-bhogsaichean poss cbox plots - grafaichean-bhogsaichean pl</note>
+  </ainmear_fireann>

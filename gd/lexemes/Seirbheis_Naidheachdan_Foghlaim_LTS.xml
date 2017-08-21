@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Seirbheis_Naidheachdan_Foghlaim_LTS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Seirbheis Naidheachdan Foghlaim LTS</orth>
+    </form>
+    <trans>LTS Education News Service</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

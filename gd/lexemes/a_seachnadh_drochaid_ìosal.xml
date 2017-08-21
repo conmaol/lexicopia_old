@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_seachnadh_drochaid_ìosal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a' seachnadh drochaid ìosal</orth>
+    </form>
+    <trans>avoiding low bridge</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="sùgh-v" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sùgh</orth>
+    </form>
+    <trans>suck</trans>
+    <trans>absorb</trans>
+    <trans>soak up</trans>
+    <trans index="only">soak</trans>
+    <trans>lap</trans>
+    <note>Listed in TYGD.</note>
+  </gnìomhair>

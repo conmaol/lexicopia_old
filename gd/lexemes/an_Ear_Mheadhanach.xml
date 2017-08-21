@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="an_Ear_Mheadhanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>an Ear Mheadhanach</orth>
+    </form>
+    <trans>the Middle East</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="cam" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cam</orth>
+    </form>
+    <trans>bent</trans>
+    <trans>crooked</trans>
+    <trans>askew</trans>
+    <trans>awry</trans>
+    <trans>wry</trans>
+  </buadhair>

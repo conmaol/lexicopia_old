@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="thoir_air" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>thoir air</orth>
+    </form>
+    <trans>make</trans>
+    <trans>force</trans>
+    <trans>compell</trans>
+    <trans>cause</trans>
+    <trans>induce</trans>
+    <trans>persuade</trans>
+  </lexeme>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="lamhallan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>lamhallan</orth>
+    </form>
+    <trans>water vole</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: lamhallan</note>
+    <note>Latin: Arvicola amphibius</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/lamhallan.mp3</note>
+  </ainmear_fireann>

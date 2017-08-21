@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Solaraiche_Seirbheis_Eadar-lìn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Solaraiche Seirbheis Eadar-lìn (ISP)</orth>
+    </form>
+    <trans>Internet Service Provider (ISP)</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="monadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>monadh</orth>
+    </form>
+    <trans>mountain</trans>
+    <trans>range</trans>
+    <trans>high lying moorland</trans>
+    <note>Listed in An Seotal: Geography, as 'mountain'.</note>
+    <note>mountain - monaidh poss c mountains - monaidhean pl</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: monaidhean</note>
+    <note>Info: The common Gaelic word monadh 'mountain, range' originated in Pictish. It has a cognate in the Welsh mynydd.</note>
+  </ainmear_fireann>

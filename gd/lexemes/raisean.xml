@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="raisean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>raisean</orth>
+    </form>
+    <trans>ration</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>ration - raisein poss crations - raiseans plrations - raiseanan pl</note>
+  </ainmear_fireann>

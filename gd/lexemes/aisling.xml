@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="aisling" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>aisling</orth>
+    </form>
+    <trans>dream</trans>
+    <note>Listed in An Seotal: Personal and Social Education.</note>
+    <note>dream - aisling(e) poss cdreams - aislingean pl</note>
+  </ainmear_boireann>

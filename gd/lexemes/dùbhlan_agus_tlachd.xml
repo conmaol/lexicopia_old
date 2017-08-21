@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dùbhlan_agus_tlachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dùbhlan agus tlachd</orth>
+    </form>
+    <trans>challenge and enjoyment</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="gluais_an_luch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gluais an luch</orth>
+    </form>
+    <trans>move the mouse</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

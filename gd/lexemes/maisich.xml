@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="maisich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>maisich</orth>
+    </form>
+    <trans>decorate</trans>
+    <trans>ornament</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>Listed in An Seotal: Music, as 'ornament'.</note>
+  </gnìomhair>

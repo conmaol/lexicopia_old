@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="costa_rica" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Costa Rica</orth>
+    </form>
+    <trans>Costa Rica</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Costa Rica - Chosta Rica poss c</note>
+  </ainmear_fireann>

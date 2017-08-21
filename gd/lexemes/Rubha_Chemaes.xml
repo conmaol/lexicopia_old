@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Rubha_Chemaes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Rubha Chemaes</orth>
+    </form>
+    <trans>Cemaes Head</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Cemaes Head - Rubha Chemaes poss c</note>
+  </ainmear_fireann>

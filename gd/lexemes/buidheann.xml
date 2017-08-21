@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="buidheann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>buidheann</orth>
+    </form>
+    <form>
+      <orth>buidhne</orth>
+    </form>
+    <form>
+      <orth>buidhinn</orth>
+    </form>
+    <form>
+      <orth>buidhnean</orth>
+    </form>
+    <trans>group</trans>
+    <trans>gang</trans>
+    <trans>band</trans>
+    <trans>body</trans>
+    <trans>class</trans>
+    <trans>company</trans>
+    <trans>denomination</trans>
+    <trans>faction</trans>
+    <trans>firm</trans>
+    <trans>organisation</trans>
+    <trans>party</trans>
+    <trans>set</trans>
+    <trans>staff</trans>
+    <trans>troop</trans>
+    <note>Listed in An Seotal: General, as 'group', 'organisation'.</note>
+  </ainmear_boireann>

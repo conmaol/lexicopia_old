@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dealan-dè_na_deanntaig_beag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dealan-dè na deanntaig beag</orth>
+    </form>
+    <trans>small tortoiseshell butterfly</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: dealanan-dè na deanntaig bheaga</note>
+    <note>Latin: Aglais urticae</note>
+    <note>Info: Plural of dealan-dè can be dealanan-dè or dealain-dè.</note>
+  </ainmear_fireann>

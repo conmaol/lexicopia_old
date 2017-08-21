@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="poca_amniotaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>poca amniotaig</orth>
+    </form>
+    <trans>amniotic sac</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>amniotic sac - poca amniotaig sc amniotic sacs - pocannan amniotaig iom</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="comas_freagrachaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>comas freagrachaidh</orth>
+    </form>
+    <trans>adaptability</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>adaptability - comas freagrachaidh scadaptabilities - comasan freagrachaidh iom</note>
+  </ainmear_fireann>

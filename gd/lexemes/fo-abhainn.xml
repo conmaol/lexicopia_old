@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="fo-abhainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fo-abhainn</orth>
+    </form>
+    <trans>tributary</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: fo-aibhnichean</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/fo-aibhnichean.mp3</note>
+  </ainmear_boireann>

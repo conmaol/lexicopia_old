@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="clamhan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clamhan</orth>
+    </form>
+    <trans>buzzard</trans>
+    <trans>Buteo buteo</trans>
+    <trans>kite</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair, as 'buzzard'.</note>
+    <note>Plurals: clamhanan</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/clamhan.mp3</note>
+    <note>Listed in CM as 'buzzard, kite'.</note>
+  </ainmear_fireann>

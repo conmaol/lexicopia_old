@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="samhladh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>samhla(dh)</orth>
+    </form>
+    <trans>symbol</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>symbol - samhlaidh poss csymbols - samhlaidhean pl</note>
+  </ainmear_fireann>

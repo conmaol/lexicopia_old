@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="am_bìoball" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Am Bìoball</orth>
+    </form>
+    <trans>The Bible</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+  </lexeme>

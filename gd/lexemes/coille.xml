@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="coille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>coille</orth>
+    </form>
+    <form>
+      <orth>coilltean</orth>
+    </form>
+    <trans>forest</trans>
+    <trans>wood</trans>
+    <trans>woodland</trans>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair, as 'forest'.</note>
+    <note>Plurals: coilltean</note>
+  </ainmear_boireann>

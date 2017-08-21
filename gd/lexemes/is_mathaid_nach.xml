@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="is_mathaid_nach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>is mathaid nach</orth>
+    </form>
+    <trans index="no">it might not be that ...</trans>
+  </lexeme>

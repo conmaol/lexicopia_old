@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tar-iomadachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tar-iomadachadh</orth>
+    </form>
+    <trans>cross-multiplication</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>cross-multiplication - tar-iomadachaidh poss ccross-multiplications - tar-iomadachaidhean pl</note>
+  </ainmear_fireann>

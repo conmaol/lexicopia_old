@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="colcach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>colcach</orth>
+    </form>
+    <trans>auk</trans>
+    <trans>Alcidae spp.</trans>
+    <note>Listed in AFB.</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="feartan_chumaidhean_2D_agus_nithean_3D" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>feartan chumaidhean 2D agus nithean 3D</orth>
+    </form>
+    <trans>properties of 2D shapes and 3D objects</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

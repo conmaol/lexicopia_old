@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tamaran" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tamaran</orth>
+    </form>
+    <trans>tamarin</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>tamarin - tamarain sctamarins - tamarain iom</note>
+  </ainmear_fireann>

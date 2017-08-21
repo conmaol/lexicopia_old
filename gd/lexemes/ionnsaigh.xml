@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ionnsaigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ionnsaigh</orth>
+    </form>
+    <form>
+      <orth>ionnsaighean</orth>
+    </form>
+    <trans>raid</trans>
+    <note>Listed in An Seotal: General, as 'raid'.</note>
+  </ainmear_fireann>

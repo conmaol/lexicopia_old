@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="an_ruis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>An Ruis</orth>
+    </form>
+    <trans>Russia</trans>
+    <trans>Russian Federation</trans>
+    <note>Listed in An Seotal: Geography, as 'Russia', 'Russian Federation'.</note>
+    <note>Russia - na Ruis poss c</note>
+  </ainmear_boireann>

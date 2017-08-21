@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="coileach_coille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>coileach coille</orth>
+    </form>
+    <trans>male woodcock</trans>
+    <trans index="only">woodcock</trans>
+    <trans>Scolopax rusticola</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/coileach coille.mp3</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

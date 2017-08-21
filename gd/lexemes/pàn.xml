@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="pàn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pàn</orth>
+    </form>
+    <trans>pawn</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>pawn - pàin poss cpawns - pànaichean pl</note>
+  </ainmear_fireann>

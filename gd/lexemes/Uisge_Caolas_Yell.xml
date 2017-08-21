@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Uisge_Caolas_Yell" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Uisge Caolas Yell</orth>
+    </form>
+    <trans>Water of Yell Sound</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

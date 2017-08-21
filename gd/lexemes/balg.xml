@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="balg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>balg</orth>
+    </form>
+    <trans>bellows</trans>
+    <trans>side of a boat</trans>
+    <trans>abdomen</trans>
+    <note>Borgstrøm 1937: p. 161: Barra meaning is bellows, side of a boat.</note>
+    <note>Listed in An Seotal: Science, with meaning 'abdomen'.</note>
+  </ainmear_fireann>

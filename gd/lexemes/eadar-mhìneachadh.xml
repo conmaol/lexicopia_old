@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="eadar-mhìneachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eadar-mhìneachadh</orth>
+    </form>
+    <trans>interpretation</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>interpretation - eadar-mhìneachaidh poss cinterpretations - eadar-mhìneachaidhean pl</note>
+  </ainmear_fireann>

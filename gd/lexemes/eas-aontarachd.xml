@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="eas-aontarachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eas-aontarachd</orth>
+    </form>
+    <trans>inequality</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>inequality - eas-aontarachd poss cinequalities - eas-aontarachdan pl</note>
+  </ainmear_boireann>

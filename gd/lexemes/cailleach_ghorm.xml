@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cailleach_ghorm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cailleach ghorm</orth>
+    </form>
+    <trans>blue tit</trans>
+    <trans>Cyanistes caeruleus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: cailleachan gorma</note>
+  </ainmear_boireann>

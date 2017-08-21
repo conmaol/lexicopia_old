@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sliseag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="slis"/>
+    <part ref="_ag-suffix"/>
+    <form>
+      <orth>sliseag</orth>
+    </form>
+    <trans>slice</trans>
+    <trans>plant cutting</trans>
+    <trans index="only">cutting</trans>
+    <trans>parting</trans>
+    <trans>rasher</trans>
+    <trans index="only">shaving</trans>
+    <trans>wood-shaving</trans>
+    <trans>small slice</trans>
+    <note>Listed in CM</note>
+    <note>Listed in TYGD as '(small) slice'.</note>
+  </lexeme>

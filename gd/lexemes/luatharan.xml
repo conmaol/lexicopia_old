@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="luatharan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>luatharan</orth>
+    </form>
+    <trans>common sandpiper</trans>
+    <trans>Actitis hypoleucos</trans>
+    <trans>sea-lark</trans>
+    <trans>sand-lark</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair, as 'common sandpiper'.</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

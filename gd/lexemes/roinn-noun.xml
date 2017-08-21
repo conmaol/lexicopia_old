@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="roinn-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>roinn</orth>
+    </form>
+    <form>
+      <orth>roinne</orth>
+    </form>
+    <form>
+      <orth>roinnean</orth>
+    </form>
+    <trans>section</trans>
+    <trans>divide</trans>
+    <trans>department</trans>
+    <trans>region</trans>
+    <trans>division</trans>
+    <trans>share</trans>
+    <note>Listed in An Seotal: General, as 'section'.</note>
+    <note>Listed in An Seotal: Geography, as 'region'.</note>
+    <note>Listed in An Seotal: Maths, as 'division', 'share'.</note>
+  </ainmear_boireann>

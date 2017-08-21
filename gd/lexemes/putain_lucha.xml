@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="putain_lucha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>putain lucha</orth>
+    </form>
+    <trans>mouse buttons</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

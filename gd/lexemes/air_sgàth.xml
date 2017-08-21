@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="air_sgàth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>air sgàth</orth>
+    </form>
+    <trans>due to</trans>
+    <trans>because of</trans>
+    <trans>on account of</trans>
+  </lexeme>

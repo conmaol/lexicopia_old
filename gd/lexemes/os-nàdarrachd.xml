@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="os-nàdarrachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>os-nàdarrachd</orth>
+    </form>
+    <trans>occult</trans>
+    <trans>occultism</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>occult - os-nàdarrachd poss c</note>
+    <note>occultism - os-nàdarrachd poss c</note>
+  </ainmear_boireann>

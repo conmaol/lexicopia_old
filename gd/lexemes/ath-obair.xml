@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ath-obair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ath-obair</orth>
+    </form>
+    <trans>revision</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>revision - ath-obair poss crevisions - ath-obraichean pl</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuir_tuar_air" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuir tuar air</orth>
+    </form>
+    <trans>tint it</trans>
+    <note>Listed in An Seotal: Art.</note>
+  </lexeme>

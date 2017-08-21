@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="comharra_duilleige" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>comharra duilleige</orth>
+    </form>
+    <trans>bookmark</trans>
+    <note>Listed in An Seotal: Computing.</note>
+    <note>bookmark - comharra duilleige poss cbookmarks - comharran duilleige pl</note>
+  </ainmear_fireann>

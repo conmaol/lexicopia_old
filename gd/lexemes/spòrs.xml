@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="spòrs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>spòrs</orth>
+    </form>
+    <form>
+      <orth>spòrsa</orth>
+    </form>
+    <form>
+      <orth>spòrsan</orth>
+    </form>
+    <trans>sport</trans>
+    <trans>fun</trans>
+    <trans>activities</trans>
+    <note>Listed in An Seotal: Physical Education, as 'sport'.</note>
+  </ainmear_boireann>

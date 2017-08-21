@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="nota-maise" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nota-maise</orth>
+    </form>
+    <trans>grace note</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>grace note - nota-maise poss cgrace notes - notaichean-maise pl</note>
+  </lexeme>

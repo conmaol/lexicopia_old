@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="beith" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>beith</orth>
+    </form>
+    <trans>birch</trans>
+    <trans>Betula spp.</trans>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Info: The Gaelic alphabet contains 18 letters each of which was traditionally linked with a tree name. Beithe represents the letter 'b' in Gaelic alphabet. </note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/beith.mp3</note>
+  </ainmear_boireann>

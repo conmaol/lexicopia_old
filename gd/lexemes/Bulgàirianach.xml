@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Bulgàirianach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Bulgàirianach</orth>
+    </form>
+    <trans>Bulgarian</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Bulgarian - Bulgàirianaich poss cBulgarians - Bulgàirianaich pl</note>
+  </lexeme>

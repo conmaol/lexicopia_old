@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="speireag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>speireag</orth>
+    </form>
+    <trans>sparrowhawk</trans>
+    <trans>Accipiter nisus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/speireag.mp3</note>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

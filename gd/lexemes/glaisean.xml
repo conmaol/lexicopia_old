@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="glaisean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>glaisean</orth>
+    </form>
+    <trans>sedge warbler</trans>
+    <trans>Acrocephalus schoenobaenus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Synonyms: ceileiriche-seisg m</note>
+    <note>Plurals: glaiseanan, ceileirichean-seisge</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/glaisean.mp3</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

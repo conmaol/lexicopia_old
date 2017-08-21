@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bacadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bacadh</orth>
+    </form>
+    <trans>prevention</trans>
+    <trans>resistance</trans>
+    <note>Listed in An Seotal: Science, as 'resistance'.</note>
+    <note>resistance - bacaidh scresistances - bacaidhean iom</note>
+    <note>Listed in An Seotal: General, as 'prevention'.</note>
+    <note>prevention - bacaidh poss cpreventions - bacaidhean pl</note>
+  </ainmear_fireann>

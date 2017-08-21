@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="uachdarach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <part ref="uachdar"/>
+    <part ref="_ach-suffix"/>
+    <form>
+      <orth>uachdarach</orth>
+    </form>
+    <trans>upper</trans>
+    <trans>topmost</trans>
+    <trans>superior</trans>
+    <trans>superficial</trans>
+    <note>Listed in CM, also as 'uachdrach'.</note>
+  </buadhair>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="goireas_teicnigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>goireas teicnigeach</orth>
+    </form>
+    <trans>technical resource</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

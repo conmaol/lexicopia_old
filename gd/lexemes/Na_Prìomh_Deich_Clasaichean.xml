@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Na_Prìomh_Deich_Clasaichean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Na Prìomh Deich Clasaichean</orth>
+    </form>
+    <trans>The First Ten Classes</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

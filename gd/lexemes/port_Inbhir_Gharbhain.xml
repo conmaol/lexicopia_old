@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="port_Inbhir_Gharbhain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>port Inbhir Gharbhain</orth>
+    </form>
+    <trans>port of Girvan</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="fantasia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fantasia</orth>
+    </form>
+    <trans>fantasia</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>fantasia - fantasia poss cfantasias - fantasiathan pl</note>
+  </ainmear_fireann>

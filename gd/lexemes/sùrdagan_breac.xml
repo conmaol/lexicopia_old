@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="sùrdagan_breac" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sùrdagan breac</orth>
+    </form>
+    <trans>chequered skipper butterfly</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: sùrdagain breaca</note>
+    <note>Latin: Carterocephalus palaemon</note>
+  </ainmear_boireann>

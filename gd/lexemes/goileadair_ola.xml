@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="goileadair_ola" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>goileadair ola</orth>
+    </form>
+    <trans>oil-fired boiler</trans>
+  </ainmear_fireann>

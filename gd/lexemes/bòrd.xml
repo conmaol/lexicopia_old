@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bòrd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bòrd</orth>
+    </form>
+    <form>
+      <orth>bùird</orth>
+    </form>
+    <trans>table</trans>
+    <trans>board</trans>
+    <note>Listed in An Seotal: Home economics, as 'table'.</note>
+    <note>Listed in An Seotal: Technology, as 'board'.</note>
+  </ainmear_fireann>

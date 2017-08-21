@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2005/08/xml.xsd"/>
+
+<!--
+  <xs:element name="lexicon">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:choice minOccurs="1" maxOccurs="unbounded">
+          <xs:element ref="lexeme"/>
+          <xs:element ref="ainmear_fireann"/>
+          <xs:element ref="ainmear_boireann"/>
+          <xs:element ref="ainmear"/>
+          <xs:element ref="ainmear_fillte"/>
+          <xs:element ref="iar-leasachan"/>
+          <xs:element ref="buadhair"/>
+          <xs:element ref="gnìomhair"/>
+        </xs:choice>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  -->
+
+  <xs:element name="lexeme" type="lexeme-content"/>
+  
+  <xs:element name="ainmear_fireann" type="lexeme-content"/>
+
+  <xs:element name="ainmear_boireann" type="lexeme-content"/>
+  
+  <xs:element name="ainmear" type="lexeme-content"/>
+  
+  <xs:element name="ainmear_fillte" type="lexeme-content"/>
+
+  <xs:element name="iar-leasachan" type="lexeme-content"/>
+  
+  <xs:element name="buadhair" type="lexeme-content"/>
+  
+  <xs:element name="gnìomhair" type="lexeme-content"/>
+
+  <xs:complexType name="lexeme-content">
+    <xs:sequence>
+      <xs:element ref="part" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name="form" minOccurs="1" maxOccurs="unbounded"/>
+      <xs:element name="trans" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name="note" type="xs:token" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+    <xs:attribute name="id" type="xs:ID" use="required"/>
+  </xs:complexType>
+
+  <xs:element name="part">
+    <xs:complexType>
+      <xs:attribute name="ref" type="xs:IDREF" use="required"/>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="form">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="orth" type="xs:token" minOccurs="1" maxOccurs="1"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="trans">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:token">
+          <xs:attribute name="index">
+            <xs:simpleType>
+              <xs:restriction base="xs:string">
+                <xs:enumeration value="no"/>
+                <xs:enumeration value="only"/>
+                <xs:enumeration value="yes"/>
+                <!-- a few lexical forms need this -->
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

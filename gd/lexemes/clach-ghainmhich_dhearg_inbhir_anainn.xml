@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="clach-ghainmhich_dhearg_inbhir_anainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clach-ghainmhich dhearg Inbhir Anainn</orth>
+    </form>
+    <trans>Annan red sandstone</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_boireann>

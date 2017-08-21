@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="baile_Thaigh_Iain_Ghròt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>baile Thaigh Iain Ghròt</orth>
+    </form>
+    <trans>village of John o'Groats</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

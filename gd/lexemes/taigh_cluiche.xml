@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="taigh_cluiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>taigh cluiche</orth>
+    </form>
+    <trans>theatre</trans>
+  </ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="deigh_phacte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>deigh phacte</orth>
+    </form>
+    <trans>pack ice</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>pack ice - deighe phacte poss c</note>
+  </ainmear_boireann>

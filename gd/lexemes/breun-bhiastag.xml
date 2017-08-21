@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="breun-bhiastag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>breun-bhiastag</orth>
+    </form>
+    <trans>stinkbug</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>stinkbug - breun-bhiastaig scstinkbugs - breun-bhiastagan iom</note>
+  </ainmear_boireann>

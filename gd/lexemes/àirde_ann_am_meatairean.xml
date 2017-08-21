@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="àirde_ann_am_meatairean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>àirde ann am meatairean</orth>
+    </form>
+    <trans>height in metres</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

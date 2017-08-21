@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cailleachag_cheann-gorm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cailleachag cheann-gorm</orth>
+    </form>
+    <trans>blue tit</trans>
+    <trans>Cyanistes caeruleus</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plurals: cailleachagan ceann-gorma</note>
+    <note>Info: The name translates as 'small old woman with the blue head'.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cailleag cheann ghorm.mp3</note>
+    <note>Listed in CM.</note>
+  </ainmear_boireann>

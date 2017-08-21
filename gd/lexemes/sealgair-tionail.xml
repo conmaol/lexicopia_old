@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sealgair-tionail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sealgair-tionail</orth>
+    </form>
+    <trans>hunter-gatherer</trans>
+    <note>Listed in An Seotal: History.</note>
+    <note>hunter-gatherer - sealgair-tionail sc hunter-gatherers - sealgairean-tionail iom</note>
+  </lexeme>

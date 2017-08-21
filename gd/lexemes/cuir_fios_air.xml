@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cuir_fios_air" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cuir fios air</orth>
+    </form>
+    <trans>inform</trans>
+    <trans>contact</trans>
+    <trans>send word to</trans>
+    <trans>send a message to</trans>
+  </lexeme>

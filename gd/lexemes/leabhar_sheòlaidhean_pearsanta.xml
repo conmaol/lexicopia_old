@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Leabhar_Sheòlaidhean_Pearsanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Leabhar Sheòlaidhean Pearsanta</orth>
+    </form>
+    <trans>Personal Address Book</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

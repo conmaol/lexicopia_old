@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="pacadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pacadh</orth>
+    </form>
+    <trans>packaging</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>packaging - pacaidh poss c</note>
+  </ainmear_fireann>

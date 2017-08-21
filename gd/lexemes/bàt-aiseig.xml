@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bàt-aiseig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bàt'-aiseig</orth>
+    </form>
+    <trans>ferry boat</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

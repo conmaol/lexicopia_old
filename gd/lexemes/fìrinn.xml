@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="fìrinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fìrinn</orth>
+    </form>
+    <trans>fact</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>fact - fìrinn(e) poss cfacts - fìrinnean pl</note>
+  </ainmear_boireann>

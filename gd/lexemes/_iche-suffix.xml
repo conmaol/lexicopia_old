@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<iar-leasachan id="_iche-suffix" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>-iche</orth>
+    </form>
+    <form>
+      <orth>-aiche</orth>
+    </form>
+    <trans>-er</trans>
+  </iar-leasachan>

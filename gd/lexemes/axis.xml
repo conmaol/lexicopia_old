@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="axis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>axis</orth>
+    </form>
+    <trans>axis</trans>
+    <note>Listed in An Seotal: Maths.</note>
+    <note>axis - axis poss caxes - axes pl</note>
+  </ainmear_boireann>

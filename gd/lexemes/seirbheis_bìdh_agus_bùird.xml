@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="seirbheis_bìdh_agus_bùird" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seirbheis bìdh agus bùird</orth>
+    </form>
+    <trans>meals and table service</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

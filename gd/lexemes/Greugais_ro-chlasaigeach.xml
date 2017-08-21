@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Greugais_ro-chlasaigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Greugais ro-chlasaigeach</orth>
+    </form>
+    <trans>preclassical Greek</trans>
+    <note>Listed in An Seotal: Language.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="naaiseantachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>nàiseantachd</orth>
+    </form>
+    <trans>nationalism</trans>
+    <trans>nationality</trans>
+    <note>Listed in TYGD.</note>
+  </ainmear_boireann>

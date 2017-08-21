@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="gaoth_tuath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>gaoth tuath</orth>
+    </form>
+    <trans>north wind</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

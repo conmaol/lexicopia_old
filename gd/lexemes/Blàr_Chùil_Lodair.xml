@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Blàr_Chùil_Lodair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Blàr Chùil Lodair</orth>
+    </form>
+    <trans>Battle of Culloden</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

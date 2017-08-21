@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="eun_dubh_an_sgadain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>eun dubh an sgadain</orth>
+    </form>
+    <trans>common guillemot</trans>
+    <trans>common murre</trans>
+    <trans>Uria aalge</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Listed in CM as 'black guillemot'.</note>
+  </ainmear_fireann>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="pìob-uighe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>pìob-uighe</orth>
+    </form>
+    <trans>Fallopian tube</trans>
+    <trans>oviduct</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>Fallopian tube - pìoba-uighe scFallopian tubes - pìoban-uighe iom</note>
+    <note>oviduct - pìoba-uighe scoviducts - pìoban-uighe iom</note>
+  </ainmear_boireann>

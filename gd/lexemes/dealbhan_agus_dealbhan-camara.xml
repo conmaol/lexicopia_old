@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dealbhan_agus_dealbhan-camara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dealbhan agus dealbhan-camara</orth>
+    </form>
+    <trans>illustrations and photos</trans>
+    <note>Listed in An Seotal: Art.</note>
+  </lexeme>

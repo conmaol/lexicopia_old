@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="sgian_arain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>sgian arain</orth>
+    </form>
+    <trans>bread knife</trans>
+    <note>p. 84.</note>
+  </ainmear_boireann>

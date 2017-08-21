@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="clogaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>clogaid</orth>
+    </form>
+    <trans>helmet</trans>
+    <note>Listed in An Seotal: History.</note>
+    <note>helmet - clogaid sc helmets - clogaidean iom</note>
+  </ainmear_boireann>

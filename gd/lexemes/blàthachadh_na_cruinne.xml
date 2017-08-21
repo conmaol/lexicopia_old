@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="blàthachadh_na_cruinne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>blàthachadh na cruinne</orth>
+    </form>
+    <trans>global warming</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

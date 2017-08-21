@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="a_dh_aithghearr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a dh’aithghearr</orth>
+    </form>
+    <trans sources="cmark">soon</trans>
+    <trans sources="cmark">shortly</trans>
+    <trans sources="cmark">presently</trans>
+    <trans sources="cmark">by and by</trans>
+    <trans sources="cmark">anon</trans>
+  </lexeme>

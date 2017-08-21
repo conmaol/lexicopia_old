@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="craobh_sheanchais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>craobh sheanchais</orth>
+    </form>
+    <trans>genealogical tree</trans>
+  </ainmear_boireann>

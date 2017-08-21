@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="neach-leasachaidh_luchd-obrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>neach-leasachaidh luchd-obrach</orth>
+    </form>
+    <trans>staff developer</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

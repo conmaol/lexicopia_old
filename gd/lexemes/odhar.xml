@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="odhar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>odhar</orth>
+    </form>
+    <trans>yellowish</trans>
+    <trans>dun</trans>
+    <trans>dun-coloured</trans>
+    <note>Listed in An Seotal: Art, as 'dun-coloured'.</note>
+  </buadhair>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="bith-phrosbaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bith-phrosbaig</orth>
+    </form>
+    <trans>bioviewer</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>bioviewer - bith-phrosbaig(e) scbioviewers - bith-phrosbaigean iom</note>
+  </ainmear_boireann>

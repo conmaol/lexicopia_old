@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dubhradh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>dubhradh</orth>
+    </form>
+    <trans>shade</trans>
+    <trans>shading</trans>
+    <note>Listed in An Seotal: Technology.</note>
+    <note>shade - dubhraidh poss cshades - dubhraidhean pl</note>
+  </ainmear_fireann>

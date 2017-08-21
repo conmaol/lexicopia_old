@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Eaglais_na_h-Alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Eaglais na h-Alba</orth>
+    </form>
+    <trans>the Church of Scotland</trans>
+    <note>Listed in An Seotal: Religious and Moral.</note>
+  </lexeme>

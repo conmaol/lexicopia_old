@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="a_gabhail_air_iasad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>a' gabhail air iasad</orth>
+    </form>
+    <trans>borrowing</trans>
+    <trans>taking out a loan</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </gnìomhair>

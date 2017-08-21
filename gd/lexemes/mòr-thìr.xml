@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="mòr-thìr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mòr-thìr</orth>
+    </form>
+    <trans>continent</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>continent - mòr-thìr poss c</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: mòr-thìrean</note>
+  </ainmear_boireann>

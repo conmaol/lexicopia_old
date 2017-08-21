@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="liosta_luchd-cuir_earbsach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>liosta luchd-cuir earbsach</orth>
+    </form>
+    <trans>safe senders list</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>

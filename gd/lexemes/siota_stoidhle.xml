@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="siota_stoidhle" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>siota stoidhle</orth>
+    </form>
+    <trans>style sheet</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </ainmear_boireann>

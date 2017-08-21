@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="fosail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fosail</orth>
+    </form>
+    <trans>fossil</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>fossil - fosail(e) sc fossil - fosailean iom</note>
+    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: fosailean</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="luach_an_Iùro" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>luach an Iùro</orth>
+    </form>
+    <trans>value of the Euro</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </lexeme>

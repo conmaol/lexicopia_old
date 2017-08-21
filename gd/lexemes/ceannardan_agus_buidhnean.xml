@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ceannardan_agus_buidhnean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ceannardan agus buidhnean</orth>
+    </form>
+    <trans>leaders and organizations</trans>
+    <note>Listed in An Seotal: General.</note>
+  </lexeme>

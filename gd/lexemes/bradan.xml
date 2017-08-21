@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="bradan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>bradan</orth>
+    </form>
+    <trans>salmon</trans>
+    <note>Atlantic salmon: Salmo salar. Official SNH term.</note>
+  </ainmear_fireann>

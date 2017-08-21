@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="còrnaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>còrnaid</orth>
+    </form>
+    <trans>cornet</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>cornet - còrnaid poss ccornets - còrnaidean pl</note>
+  </ainmear_boireann>

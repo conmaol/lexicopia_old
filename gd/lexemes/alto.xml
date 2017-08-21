@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="alto" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>alto</orth>
+    </form>
+    <trans>alto</trans>
+    <note>Listed in An Seotal: Music.</note>
+    <note>alto - alto poss caltos - altothan pl</note>
+  </ainmear_boireann>

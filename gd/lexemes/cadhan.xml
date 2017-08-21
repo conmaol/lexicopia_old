@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cadhan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cadhan</orth>
+    </form>
+    <trans>barnacle goose</trans>
+    <trans>Branta leucopsis</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

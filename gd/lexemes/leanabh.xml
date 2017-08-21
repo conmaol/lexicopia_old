@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="leanabh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leanabh</orth>
+    </form>
+    <trans>child</trans>
+    <trans>baby</trans>
+    <note>Listed in An Seotal: General, as 'child'.</note>
+    <note>Listed in An Seotal: Science, as 'baby'.</note>
+    <note>baby - leanaibh scbabies - leanaban iombabies - leanabhan iom</note>
+    <note>child - leanaibh poss cchildren - leanaban plchildren - leanabhan pl</note>
+  </ainmear_fireann>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="seabhag-leòmann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>seabhag-leòmann</orth>
+    </form>
+    <trans>hawk-moth</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: seabhagan-leòmann</note>
+    <note>Latin: Sphingidae (Family) spp.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/seabhag-leomann.mp3</note>
+  </ainmear_boireann>

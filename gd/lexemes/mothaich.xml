@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="mothaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>mothaich</orth>
+    </form>
+    <trans>perceive</trans>
+    <trans>notice</trans>
+    <trans>realise</trans>
+    <trans>feel</trans>
+    <trans>experience</trans>
+    <trans>be aware</trans>
+    <note>Listed in CM.</note>
+  </gnìomhair>

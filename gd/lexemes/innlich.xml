@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="innlich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>innlich</orth>
+    </form>
+    <trans>invent</trans>
+    <note>Listed in An Seotal: General.</note>
+  </gnìomhair>

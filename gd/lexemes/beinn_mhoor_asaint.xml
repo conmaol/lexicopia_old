@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="beinn_mhoor_asaint" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Beinn Mhòr Asaint</orth>
+    </form>
+    <trans>Ben More Assynt</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Ben More Assynt - Beinn Mhòr Asaint poss c</note>
+  </ainmear_boireann>

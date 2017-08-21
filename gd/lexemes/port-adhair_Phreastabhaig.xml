@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="port-adhair_Phreastabhaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>port-adhair Phreastabhaig</orth>
+    </form>
+    <trans>Prestwick airport</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

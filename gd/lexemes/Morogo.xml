@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Morogo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Morogo</orth>
+    </form>
+    <trans>Morocco</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Morocco - Mhorogo poss c</note>
+  </ainmear_fireann>

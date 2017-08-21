@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cùirt_an_t-siorraim_ann_an_Peairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cùirt an t-siorraim ann an Peairt</orth>
+    </form>
+    <trans>Perth Sheriff Court</trans>
+    <note>Listed in CM.</note>
+  </lexeme>

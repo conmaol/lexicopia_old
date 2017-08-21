@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="tionndaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tionndaidh</orth>
+    </form>
+    <trans>turn</trans>
+    <trans>invert</trans>
+    <note>Listed in An Seotal: Maths.</note>
+  </gnìomhair>

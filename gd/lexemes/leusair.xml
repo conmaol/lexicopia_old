@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="leusair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>leusair</orth>
+    </form>
+    <form>
+      <orth>leusairean</orth>
+    </form>
+    <trans>laser</trans>
+    <note>Listed in Colin Mark's (2004) Gaelic-English dictionary.</note>
+  </lexeme>

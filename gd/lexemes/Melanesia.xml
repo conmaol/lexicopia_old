@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Melanesia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Melanesia</orth>
+    </form>
+    <trans>Melanesia</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>Melanesia - Mhelanesia poss c</note>
+  </ainmear_boireann>

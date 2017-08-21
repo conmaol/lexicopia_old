@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="fuaran" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>fuaran</orth>
+    </form>
+    <trans>spring</trans>
+    <trans>fountain</trans>
+    <trans>well</trans>
+    <note> Can denote a natural (i.e. spring) or man-made (fountain) entity. May be derived from the adjective 'fuar'. </note>
+  </ainmear_fireann>

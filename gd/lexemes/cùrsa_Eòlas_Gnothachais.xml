@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cùrsa_Eòlas_Gnothachais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cùrsa Eòlas Gnothachais</orth>
+    </form>
+    <trans>Business Studies course</trans>
+    <note>Listed in An Seotal: Business Studies.</note>
+  </lexeme>

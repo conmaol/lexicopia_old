@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="taistealachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>taistealachd</orth>
+    </form>
+    <trans>pilgrimage</trans>
+    <trans>journey</trans>
+    <trans>wandering</trans>
+    <trans>sauntering</trans>
+    <trans>lounging</trans>
+    <trans>pedestrianism</trans>
+    <trans>travelling</trans>
+    <note>Listed in Dwelly: Pilgrimage, journey. 2 Wandering, sauntering, lounging. 3** Pedestrianism, travelling.</note>
+  </ainmear_boireann>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="beul_Uisge_Èireann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>beul Uisge Èireann</orth>
+    </form>
+    <trans>mouth of River Earn</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </lexeme>

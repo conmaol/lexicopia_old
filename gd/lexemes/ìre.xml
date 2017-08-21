@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ìre" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ìre</orth>
+    </form>
+    <trans>stage</trans>
+    <trans>rate</trans>
+    <note>Listed in An Seotal: General.</note>
+    <note>stage - ìre poss cstages - ìrean pl</note>
+    <note>Listed in An Seotal: Maths, as 'rate'.</note>
+    <note>rate - ìre poss c rates - ìrean pl</note>
+  </ainmear_boireann>

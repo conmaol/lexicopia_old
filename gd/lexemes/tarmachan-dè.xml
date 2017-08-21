@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tarmachan-dè" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>tarmachan-dè</orth>
+    </form>
+    <trans>butterfly</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+    <note>Plural: tarmachain-dè</note>
+    <note>Latin: Lepidoptera (Order) spp.</note>
+  </ainmear_fireann>

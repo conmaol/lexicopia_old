@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Na_Fens" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Na Fens</orth>
+    </form>
+    <trans>The Fens</trans>
+    <note>Listed in An Seotal: Geography.</note>
+    <note>The Fens - nam Fens poss c</note>
+  </lexeme>

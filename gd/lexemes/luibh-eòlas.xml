@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="luibh-eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>luibh-eòlas</orth>
+    </form>
+    <trans>botany</trans>
+    <note>Listed in An Seotal: Science.</note>
+    <note>botany - luibh-eòlais sc</note>
+  </ainmear_fireann>

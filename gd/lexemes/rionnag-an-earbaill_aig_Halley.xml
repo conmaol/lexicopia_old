@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="rionnag-an-earbaill_aig_Halley" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>rionnag-an-earbaill aig Halley</orth>
+    </form>
+    <trans>Halley's comet</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

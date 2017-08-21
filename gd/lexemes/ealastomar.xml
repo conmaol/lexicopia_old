@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ealastomar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ealastomar</orth>
+    </form>
+    <trans>elastomer</trans>
+    <note>Listed in An Seotal: Home economics.</note>
+    <note>elastomer - ealastomar poss celastomers - ealastomaran pl</note>
+  </ainmear_fireann>

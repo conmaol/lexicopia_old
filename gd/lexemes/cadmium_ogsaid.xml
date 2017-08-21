@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cadmium_ogsaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>cadmium ogsaid</orth>
+    </form>
+    <trans>cadmium oxide</trans>
+    <note>Listed in An Seotal: Science.</note>
+  </lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="laigh_air" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>laigh air</orth>
+    </form>
+    <trans>lengthen slightly</trans>
+    <trans>rest on</trans>
+    <note>Listed in An Seotal: Music.</note>
+  </gnìomhair>

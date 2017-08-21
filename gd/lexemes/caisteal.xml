@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="caisteal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>caisteal</orth>
+    </form>
+    <form>
+      <orth>caisteil</orth>
+    </form>
+    <form>
+      <orth>caistealan</orth>
+    </form>
+    <trans>castle</trans>
+    <note>Listed in An Seotal: Geography.</note>
+  </ainmear_fireann>

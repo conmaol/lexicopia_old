@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ugan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>ugan</orth>
+    </form>
+    <trans index="no">upper part of the chest</trans>
+    <trans index="only">chest</trans>
+    <trans index="no">front part of the neck</trans>
+    <trans index="only">neck</trans>
+    <trans>throat</trans>
+    <trans>collarbone</trans>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

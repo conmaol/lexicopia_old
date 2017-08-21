@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Co-phàirt_Lìn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+    <form>
+      <orth>Co-phàirt Lìn</orth>
+    </form>
+    <trans>Web Part</trans>
+    <note>Listed in An Seotal: Computing.</note>
+  </lexeme>
