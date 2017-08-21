@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Àrd-chuuirt_a_Cheartais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Àrd-chùirt a' Cheartais</orth>
+  </form>
+  <trans>the High Court of Judiciary</trans>
+  <note>Listed in Faclair na Pàrlamaid.</note>
+  <note>Supreme criminal court in Scotland.</note>
+</lexeme>

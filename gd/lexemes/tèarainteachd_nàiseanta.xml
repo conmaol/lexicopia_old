@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="tèarainteachd_nàiseanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="tèarainteachd"/>
+  <part ref="nàiseanta"/>
+  <form>
+    <orth>tèarainteachd nàiseanta</orth>
+  </form>
+  <trans>national security</trans>
+</lexeme>

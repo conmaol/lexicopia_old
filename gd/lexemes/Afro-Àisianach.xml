@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="Afro-Àisianach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="Àisianach"/>
+  <form>
+    <orth>Afro-Àisianach</orth>
+  </form>
+  <trans>Afro-Asiatic</trans>
+  <note>Listed in An Seotal: Language.</note>
+</buadhair>

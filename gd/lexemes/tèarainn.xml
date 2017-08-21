@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="tèarainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>tèarainn</orth>
+  </form>
+  <trans>escape</trans>
+  <trans>evade</trans>
+  <trans>save</trans>
+  <trans>rescue</trans>
+  <trans>deliver</trans>
+  <note>Listed in CM.</note>
+</gnìomhair>

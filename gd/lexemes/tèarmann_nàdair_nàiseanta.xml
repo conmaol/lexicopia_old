@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="tèarmann_nàdair_nàiseanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>tèarmann nàdair nàiseanta</orth>
-    </form>
-    <trans>national nature reserve</trans>
-    <note>Listed in An Seotal: General.</note>
-  </lexeme>
+<ainmear_fireann id="tèarmann_nàdair_nàiseanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="tèarmann_nàdair"/>
+  <part ref="nàiseanta"/>
+  <form>
+    <orth>tèarmann nàdair nàiseanta</orth>
+  </form>
+  <form>
+    <orth>tèarmainn nàdair nàiseanta</orth>
+  </form>
+  <trans>national nature reserve</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  <note>Audio: http://www.snh.org.uk/gaidhlig/audio/tearmann nadair naiseanta.mp3</note>
+</ainmear_fireann>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="às_aonais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>às aonais</orth>
+  </form>
+  <trans>without</trans>
+  <trans>lacking</trans>
+  <trans>minus</trans>
+  <note>Listed in CM.</note>
+</lexeme>
