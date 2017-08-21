@@ -2,9 +2,21 @@
 <project version="18.0">
     <meta>
         <filters directoryPatterns="" filePatterns="lexicopia.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
-        <options/>
+        <options>
+            <serialized version="18.0" xml:space="preserve">
+                <map>
+                    <entry>
+                        <String>enable.project.master.files.support</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                </map>
+            </serialized>
+        </options>
     </meta>
     <projectTree name="lexicopia.xpr">
+        <folder masterFiles="true" name="Master Files">
+            <file name="gd/lexicon.xml"/>
+        </folder>
         <folder path="."/>
     </projectTree>
 </project>

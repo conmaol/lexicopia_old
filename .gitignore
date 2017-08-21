@@ -1,5 +1,7 @@
 gd/cache/
 
+gd/lexicon.xml
+
 .DS_Store
 
 .idea/

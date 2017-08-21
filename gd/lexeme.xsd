@@ -4,7 +4,6 @@
 
   <xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2005/08/xml.xsd"/>
 
-<!--
   <xs:element name="lexicon">
     <xs:complexType>
       <xs:sequence>
@@ -21,7 +20,6 @@
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  -->
 
   <xs:element name="lexeme" type="lexeme-content"/>
   
@@ -47,6 +45,7 @@
       <xs:element name="note" type="xs:token" minOccurs="0" maxOccurs="unbounded"/>
     </xs:sequence>
     <xs:attribute name="id" type="xs:ID" use="required"/>
+    <xs:attribute ref="xml:base"/>
   </xs:complexType>
 
   <xs:element name="part">
