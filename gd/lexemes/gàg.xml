@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="gàg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>gàg</orth>
+  </form>
+  <form>
+    <orth>gàige</orth>
+  </form>
+  <form>
+    <orth>gàgan</orth>
+  </form>
+  <trans>chink</trans>
+  <trans>fissure</trans>
+  <trans>chap in skin</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+</ainmear_boireann>

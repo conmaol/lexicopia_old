@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="gabhaltach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="gabhail"/>
+  <form>
+    <orth>gabhaltach</orth>
+  </form>
+  <form>
+    <orth>gabhaltaiche</orth>
+  </form>
+  <trans>infectious</trans>
+  <trans>contagious</trans>
+</buadhair>

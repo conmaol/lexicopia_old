@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="gagach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>gagach</orth>
+  </form>
+  <form>
+    <orth>gagaiche</orth>
+  </form>
+  <trans>stuttering</trans>
+  <trans>stammering</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+</buadhair>

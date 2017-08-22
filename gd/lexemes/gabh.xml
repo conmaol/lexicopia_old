@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <gnìomhair id="gabh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>gabh</orth>
-    </form>
-    <trans>take</trans>
-  </gnìomhair>
+  <form>
+    <orth>gabh</orth>
+  </form>
+  <trans>take</trans>
+  <trans>hold</trans>
+  <trans>be possible</trans>
+</gnìomhair>

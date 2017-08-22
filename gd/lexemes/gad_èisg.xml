@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gad_èisg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="gad"/>
+  <part ref="iasg"/>
+  <form>
+    <orth>gad èisg</orth>
+  </form>
+  <trans index="no">a number of fish carried by a withe, wire or string</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+</ainmear_fireann>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="gàbhaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="gàbhadh"/>
+  <form>
+    <orth>gàbhaidh</orth>
+  </form>
+  <form>
+    <orth>gàbhaidhe</orth>
+  </form>
+  <trans>perilous</trans>
+  <trans>dangerous</trans>
+</buadhair>
+

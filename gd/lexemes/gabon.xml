@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gabon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Gabon</orth>
-    </form>
-    <trans>Gabon</trans>
-    <note>Listed in An Seotal: Geography.</note>
-    <note>Gabon - Ghabon poss c</note>
-  </ainmear_fireann>
+<ainmear_fireann id="Gabon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Gabon</orth>
+  </form>
+  <trans>Gabon</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</ainmear_fireann>

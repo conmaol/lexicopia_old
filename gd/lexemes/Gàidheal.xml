@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="Gàidheal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Gàidheal</orth>
-    </form>
-    <trans>Gael</trans>
-  </ainmear_fireann>
+  <form>
+    <orth>Gàidheal</orth>
+  </form>
+  <form>
+    <orth>Gàidheil</orth>
+  </form>
+  <trans>Gael</trans>
+  <trans>Highlander</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+</ainmear_fireann>
