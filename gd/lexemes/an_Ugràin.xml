@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="an_Ugràin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>An Ugràin</orth>
+  </form>
+  <form>
+    <orth>na h-Ugràine</orth>
+  </form>
+  <trans>Ukraine</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</ainmear_boireann>

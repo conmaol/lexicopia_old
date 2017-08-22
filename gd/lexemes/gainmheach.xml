@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_boireann id="gainmheach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>gainmheach</orth>
-    </form>
-    <trans>sand</trans>
-  </ainmear_boireann>
+  <form>
+    <orth>gainmheach</orth>
+  </form>
+  <form>
+    <orth>gainmhich</orth>
+  </form>
+  <form>
+    <orth>gainmhche</orth>
+  </form>
+  <form>
+    <orth>gainmhcheadh</orth>
+  </form>
+  <trans>sand</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+</ainmear_boireann>

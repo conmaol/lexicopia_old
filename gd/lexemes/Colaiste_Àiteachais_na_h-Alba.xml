@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Colaiste_Àiteachais_na_h-Alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="colaiste"/>
+  <form>
+    <orth>Colaiste Àiteachais na h-Alba</orth>
+  </form>
+  <trans>Scottish Agricultural College</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  <note>Audio: http://www.snh.org.uk/gaidhlig/audio/colaisde aiteachais na h-alba.mp3</note>
+</ainmear_boireann>

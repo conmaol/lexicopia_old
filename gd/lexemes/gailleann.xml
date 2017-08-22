@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="gailleann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>gailleann</orth>
+  </form>
+  <form>
+    <orth>gaillinn</orth>
+  </form>
+  <form>
+    <orth>gailleannan</orth>
+  </form>
+  <trans>storm</trans>
+  <trans>tempest</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+</ainmear_boireann>
+

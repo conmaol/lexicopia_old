@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="dà_thrian" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="dà"/>
+  <form>
+    <orth>dà thrian</orth>
+  </form>
+  <trans>two thirds</trans>
+  <note>Listed in An Seotal: Maths.</note>
+</lexeme>

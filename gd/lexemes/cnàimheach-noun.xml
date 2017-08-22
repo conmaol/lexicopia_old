@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cnàimheach-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="cnàimheach-adj"/>
+  <form>
+    <orth>cnàimheach</orth>
+  </form>
+  <trans>skeleton</trans>
+  <trans>corvid</trans>
+  <trans>Corvidae spp.</trans>
+  <note>Listed in Oxford Children's Scottish Gaelic Visual Dictionary, p. 14., as 'skeleton'.</note>
+  <note>Listed in AFB as 'corvid'.</note>
+</ainmear_fireann>

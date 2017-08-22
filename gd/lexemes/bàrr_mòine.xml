@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bàrr_mòine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="bàrr-verb"/>
+  <part ref="mòine"/>
+  <form>
+    <orth>bàrr mòine</orth>
+  </form>
+  <trans>strip the sod (in preparation for cutting peat)</trans>
+  <note>Listed in AFB.</note>
+</lexeme>

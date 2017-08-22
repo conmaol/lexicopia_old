@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<lexeme id="coo_aas_a_tha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Cò às a tha ... ?</orth>
-    </form>
-    <trans>Where is/are ... from?</trans>
-  </lexeme>

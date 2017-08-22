@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cruinneachaidhean_anns_na_cànanan_Lochlannach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="cruinneachadh"/>
+  <part ref="cànanan_Lochlannach"/>
+  <form>
+    <orth>cruinneachaidhean anns na cànanan Lochlannach</orth>
+  </form>
+  <trans>collections in Scandinavian languages</trans>
+  <note>Listed in An Seotal: Language.</note>
+</lexeme>

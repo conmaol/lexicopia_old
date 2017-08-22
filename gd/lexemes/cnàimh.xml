@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="cnàimh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>cnàimh</orth>
-    </form>
-    <trans>bone</trans>
-    <note>Listed in An Seotal: Science.</note>
-    <note>bone - cnàimhe scbone - cnàmha scbones - cnàimhean iombones - cnàmhan iom</note>
-  </ainmear_fireann>
+  <form>
+    <orth>cnàimh</orth>
+  </form>
+  <form>
+    <orth>cnàimhe</orth>
+  </form>
+  <form>
+    <orth>cnàmha</orth>
+  </form>
+  <form>
+    <orth>cnàmhan</orth>
+  </form>
+  <form>
+    <orth>cnàimhe</orth>
+  </form>
+  <trans>bone</trans>
+  <note>Listed in An Seotal: Science.</note>
+</ainmear_fireann>

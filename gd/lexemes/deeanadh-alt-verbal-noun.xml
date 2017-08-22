@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ainmear_fireann id="deeanadh-alt-verbal-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>dèanadh</orth>
-    </form>
-    <trans>doing</trans>
-    <trans>making</trans>
-  </ainmear_fireann>

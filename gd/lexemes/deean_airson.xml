@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<lexeme id="deean_airson" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>dèan airson</orth>
-    </form>
-    <trans>head for</trans>
-    <trans>make for</trans>
-  </lexeme>

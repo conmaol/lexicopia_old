@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bi_nàire_air" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>bi nàire air</orth>
+  </form>
+  <trans>be ashamed</trans>
+  <trans index="only">ashamed</trans>
+  <trans>be embarrassed</trans>
+  <trans index="only">embarrassed</trans>
+</lexeme>

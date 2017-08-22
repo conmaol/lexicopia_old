@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="gainnead" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>gainnead</orth>
-    </form>
-    <trans>scarcity</trans>
-    <trans>shortage</trans>
-    <trans>want</trans>
-    <trans>fewness</trans>
-    <trans>scantiness</trans>
-    <trans>shortfall</trans>
-    <note>Listed in TYGD.</note>
-    <note>Listed in CM.</note>
-  </ainmear_fireann>
+  <part ref="gainne"/>
+  <form>
+    <orth>gainnead</orth>
+  </form>
+  <form>
+    <orth>gainnid</orth>
+  </form>
+  <trans>scarcity</trans>
+  <trans>shortage</trans>
+  <trans>want</trans>
+  <trans>fewness</trans>
+  <trans>scantiness</trans>
+  <trans>shortfall</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Gaelic Dictionary.</note>
+</ainmear_fireann>

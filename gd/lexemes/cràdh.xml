@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cràdh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>cràdh</orth>
+  </form>
+  <trans>tormenting</trans>
+  <trans>ache</trans>
+  <trans>anguish</trans>
+  <trans>pain</trans>
+  <trans>pang</trans>
+  <trans>smart</trans>
+  <trans>torment</trans>
+  <trans>torture</trans>
+</ainmear_fireann>

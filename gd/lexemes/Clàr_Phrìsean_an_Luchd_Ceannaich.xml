@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="Clàr_Phrìsean_an_Luchd_Ceannaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="clàr-noun"/>
+  <form>
+    <orth>Clàr Phrìsean an Luchd Ceannaich</orth>
+  </form>
+  <trans index="only">Consumer Prices Index</trans>
+  <trans index="no">the Consumer Prices Index</trans>
+  <trans>CPI</trans>
+  <note>From BBC RnaG news, 14/2/2017.</note>
+</ainmear_fireann>
