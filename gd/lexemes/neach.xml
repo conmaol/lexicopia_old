@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="neach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>neach</orth>
-    </form>
-    <trans>person</trans>
-  </ainmear_fireann>
+  <form>
+    <orth>neach</orth>
+  </form>
+  <form>
+    <orth>luchd</orth>
+  </form>
+  <trans>person</trans>
+</ainmear_fireann>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="teicneòlaiche_co-labhairt_bhidio" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>teicneòlaiche co-labhairt bhidio</orth>
-    </form>
-    <trans>video conference technician</trans>
-    <note>Listed in An Seotal: General.</note>
-  </lexeme>
+  <part ref="teicneòlaiche"/>
+  <part ref="co-labhairt_bhidio"/>
+  <form>
+    <orth>teicneòlaiche co-labhairt bhidio</orth>
+  </form>
+  <trans>video conference technician</trans>
+  <note>Listed in An Seotal: General.</note>
+</lexeme>

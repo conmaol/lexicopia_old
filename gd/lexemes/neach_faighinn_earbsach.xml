@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="neach_faighinn_earbsach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>neach faighinn earbsach</orth>
+  </form>
+  <form>
+    <orth>luchd faighinn earbsach</orth>
+  </form>
+  <trans>safe recipient</trans>
+</ainmear_fillte>

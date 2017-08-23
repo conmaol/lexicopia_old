@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="liosta_luchd-faighinn_earbsach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>liosta luchd-faighinn earbsach</orth>
-    </form>
-    <trans>safe recipients list</trans>
-    <note>Listed in An Seotal: Computing.</note>
-  </lexeme>
+<lexeme id="liosta_luchd_faighinn_earbsach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="liosta"/>
+  <part ref="neach_faighinn_earbsach"/>
+  <form>
+    <orth>liosta luchd faighinn earbsach</orth>
+  </form>
+  <trans>safe recipients list</trans>
+  <note>Listed in An Seotal: Computing.</note>
+</lexeme>

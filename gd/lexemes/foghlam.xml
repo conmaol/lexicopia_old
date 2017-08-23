@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="foghlam" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>foghlam</orth>
-    </form>
-    <trans>education</trans>
-    <note>Listed in An Seotal: General.</note>
-    <note>education - foghlaim poss c</note>
-  </ainmear_fireann>
+  <form>
+    <orth>foghlam</orth>
+  </form>
+  <form>
+    <orth>foghlaim</orth>
+  </form>
+  <trans>education</trans>
+  <trans index="only">educational</trans>
+  <note>Listed in An Seotal: General.</note>
+</ainmear_fireann>

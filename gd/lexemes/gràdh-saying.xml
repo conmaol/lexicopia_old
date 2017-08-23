@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="gràdh-saying" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>gràdh</orth>
+  </form>
+  <form>
+    <orth>gràdha</orth>
+  </form>
+  <trans>saying</trans>
+</lexeme>

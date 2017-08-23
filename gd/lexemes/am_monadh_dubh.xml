@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="am_monadh_dubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>am_Monadh_Dubh</orth>
-    </form>
-    <trans index="only">Black Mountains</trans>
-    <trans index="no">the Black Mountains</trans>
-    <note>Listed in An Seotal: Geography.</note>
-    <note>Black Mountains - A' Mhonaidh Dhuibh poss c</note>
-  </lexeme>
+<lexeme id="am_Monadh_Dubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="monadh"/>
+  <part ref="dubh"/>
+  <form>
+    <orth>am Monadh Dubh</orth>
+  </form>
+  <form>
+    <orth>a’ Mhonaidh Dhuibh</orth>
+  </form>
+  <trans index="only">Black Mountains</trans>
+  <trans index="no">the Black Mountains</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

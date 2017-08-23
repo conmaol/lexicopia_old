@@ -2,7 +2,7 @@
 
 <lexeme id="dà-earrainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="dà"/>
-  <part ref="earrainn"/>
+  <part ref="earrann"/>
   <form>
     <orth>dà-earrainn</orth>
   </form>

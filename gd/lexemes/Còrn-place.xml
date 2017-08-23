@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Còrn-place" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Còrn</orth>
+  </form>
+  <form>
+    <orth>Cùirn</orth>
+  </form>
+  <trans>Cornwall</trans>
+  <note>Listed in An Seotal: Geography.</note>
+  <note>Used with definite article: a’ Chòrn, a’ Chùirn.</note>
+</ainmear_boireann>

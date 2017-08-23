@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="mòr-eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="mòr"/>
+  <part ref="eòlas"/>
+  <form>
+    <orth>mòr-eòlas</orth>
+  </form>
+  <form>
+    <orth>mòr-eòlais</orth>
+  </form>
+  <trans>general knowledge</trans>
+</ainmear_fillte>

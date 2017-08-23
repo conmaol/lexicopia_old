@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="gèadh_got" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="gèadh"/>
+    <form>
+      <orth>gèadh got</orth>
+    </form>
+    <trans>brent goose</trans>
+    <trans>Branta bernicla</trans>
+    <note>From Scottish Natural Heritage's Faclan Nàdair, as 'gèadh-ghot'.</note>
+    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/geadh got.mp3</note>
+    <note>Listed in CM.</note>
+  </ainmear_fireann>

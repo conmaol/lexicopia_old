@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_boireann id="imrich-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>imrich</orth>
-    </form>
-    <trans>flitting</trans>
-    <trans>moving house</trans>
-    <trans>migration</trans>
-    <trans>removal</trans>
-    <trans>haulage</trans>
-    <note>Listed in An Seotal: Modern Studies, as 'migration'.</note>
-    <note>Listed in TYGD.</note>
-    <note>Listed in CM.</note>
-  </ainmear_boireann>
+  <part ref="imrich-verb"/>
+  <form>
+    <orth>imrich</orth>
+  </form>
+  <trans>flitting</trans>
+  <trans>moving house</trans>
+  <trans>migration</trans>
+  <trans>removal</trans>
+  <trans>haulage</trans>
+  <note>Listed in An Seotal: Modern Studies, as 'migration'.</note>
+  <note>Listed in TYGD.</note>
+  <note>Listed in CM.</note>
+</ainmear_boireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="fàd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>fàd</orth>
+  </form>
+  <trans>peat</trans>
+  <note>Countable noun.</note>
+  <note>Listed in CM.</note>
+</ainmear_fireann>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="sgrìobhadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="sgrìobh"/>
+  <form>
+    <orth>sgrìobhadh</orth>
+  </form>
+  <form>
+    <orth>sgrìobhaidh</orth>
+  </form>
+  <form>
+    <orth>sgrìobhaidhean</orth>
+  </form>
+  <trans>writing</trans>
+  <note>Listed in An Seotal: General.</note>
+</ainmear_fireann>

@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="aiseag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>aiseag</orth>
-    </form>
-    <form>
-      <orth>aiseig</orth>
-    </form>
-    <form>
-      <orth>aisig</orth>
-    </form>
-    <form>
-      <orth>aiseagan</orth>
-    </form>
-    <trans>ferry</trans>
-    <trans>transfer</trans>
-    <note>Listed in An Seotal: General, as 'transfer'.</note>
-    <note>Listed in An Seotal: Geography, as 'ferry'.</note>
-  </ainmear_fireann>
+  <part ref="aisig"/>
+  <form>
+    <orth>aiseag</orth>
+  </form>
+  <form>
+    <orth>aiseig</orth>
+  </form>
+  <form>
+    <orth>aisig</orth>
+  </form>
+  <form>
+    <orth>aiseagan</orth>
+  </form>
+  <trans>ferry</trans>
+  <trans>transfer</trans>
+  <note>Listed in An Seotal: General, as 'transfer'.</note>
+  <note>Listed in An Seotal: Geography, as 'ferry'.</note>
+  <note>Verbal noun.</note>
+</ainmear_fireann>

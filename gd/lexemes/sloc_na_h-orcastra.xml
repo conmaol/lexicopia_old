@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="sloc_na_h-orcastra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>sloc na h-orcastra</orth>
-    </form>
-    <trans>orchestra pit</trans>
-    <note>Listed in An Seotal: Music.</note>
-  </lexeme>
+  <part ref="sloc"/>
+  <part ref="orcastra"/>
+  <form>
+    <orth>sloc na h-orcastra</orth>
+  </form>
+  <trans>orchestra pit</trans>
+  <note>Listed in An Seotal: Music.</note>
+</lexeme>

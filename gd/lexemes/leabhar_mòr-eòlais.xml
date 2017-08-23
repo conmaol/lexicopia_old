@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leabhar_mòr-eòlais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>leabhar mòr-eòlais</orth>
-    </form>
-    <trans>encyclopedia</trans>
-    <note>Listed in An Seotal: General.</note>
-    <note>encyclopedias - leabhraichean mòr-eòlais pl</note>
-  </ainmear_fireann>
+<ainmear_fillte id="leabhar_mòr-eòlais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="leabhar"/>
+  <part ref="mòr-eòlas"/>
+  <form>
+    <orth>leabhar mòr-eòlais</orth>
+  </form>
+  <form>
+    <orth>leabhraichean mòr-eòlais</orth>
+  </form>
+  <trans>encyclopedia</trans>
+  <note>Listed in An Seotal: General.</note>
+</ainmear_fillte>

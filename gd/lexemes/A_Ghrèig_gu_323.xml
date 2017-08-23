@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="A_Ghrèig_gu_323" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>A' Ghrèig gu 323</orth>
-    </form>
-    <trans>Greece to 323</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+<lexeme id="a_Ghrèig_gu_323" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="Grèig"/>
+  <form>
+    <orth>a’ Ghrèig gu 323</orth>
+  </form>
+  <trans>Greece to 323</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

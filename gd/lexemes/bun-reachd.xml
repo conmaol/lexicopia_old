@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bun-reachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>bun-reachd</orth>
-    </form>
-    <trans>constitution</trans>
-    <note>Listed in TYGD.</note>
-  </ainmear_fireann>
+<ainmear_fillte id="bun-reachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="bun"/>
+  <part ref="reachd-masc"/>
+  <form>
+    <orth>bun-reachd</orth>
+  </form>
+  <trans>constitution</trans>
+  <note>Listed in TYGD.</note>
+</ainmear_fillte>

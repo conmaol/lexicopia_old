@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="faigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>faigh</orth>
+  </form>
+  <form>
+    <orth>gheibh</orth>
+  </form>
+  <form>
+    <orth>fhuair</orth>
+  </form>
+  <trans>get</trans>
+  <trans>receive</trans>
+</gnìomhair>

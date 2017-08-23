@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="leabhraichean_mòr-eòlais_anns_na_cànanan_Lochlannach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="leabhar_mòr-eòlais"/>
+  <part ref="cànan_Lochlannach"/>
+  <form>
+    <orth>leabhraichean mòr-eòlais anns na cànanan Lochlannach</orth>
+  </form>
+  <trans>encyclopedias in Scandinavian languages</trans>
+  <note>Listed in An Seotal: Language.</note>
+</lexeme>

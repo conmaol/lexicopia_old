@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_boireann id="imrich_eadar-nàiseanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>imrich eadar-nàiseanta</orth>
-    </form>
-    <trans>international migration</trans>
-    <note>Listed in An Seotal: Modern Studies</note>
-  </ainmear_boireann>
+  <part ref="imrich-noun"/>
+  <part ref="eadar-nàiseanta"/>
+  <form>
+    <orth>imrich eadar-nàiseanta</orth>
+  </form>
+  <trans>international migration</trans>
+  <note>Listed in An Seotal: Modern Studies</note>
+</ainmear_boireann>

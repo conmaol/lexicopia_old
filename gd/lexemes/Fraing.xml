@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Fraing" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Fraing</orth>
+  </form>
+  <form>
+    <orth>Frainge</orth>
+  </form>
+  <trans>France</trans>
+  <note>Listed in An Seotal: Geography.</note>
+  <note>Used with definite article: an Fhraing, na Frainge.</note>
+</ainmear_boireann>

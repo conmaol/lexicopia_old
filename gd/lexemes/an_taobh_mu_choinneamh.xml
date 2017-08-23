@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="an_taobh_mu_choinneamh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>an taobh mu choinneamh</orth>
-    </form>
-    <trans>the side opposite</trans>
-    <note>Listed in An Seotal: Maths.</note>
-  </lexeme>
+  <part ref="taobh"/>
+  <part ref="mu_choinneamh"/>
+  <form>
+    <orth>an taobh mu choinneamh</orth>
+  </form>
+  <trans index="no">the side opposite</trans>
+  <trans index="no">the opposite side</trans>
+  <trans index="only">opposite side</trans>
+  <note>Listed in An Seotal: Maths.</note>
+</lexeme>

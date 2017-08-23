@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <buadhair id="bun-reachdail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>bun-reachdail</orth>
-    </form>
-    <trans>constitutional</trans>
-    <note>Listed in An Seotal: Modern Studies</note>
-  </buadhair>
+  <part ref="bun-reachd"/>
+  <part ref="reachdail"/>
+  <form>
+    <orth>bun-reachdail</orth>
+  </form>
+  <trans>constitutional</trans>
+  <note>Listed in An Seotal: Modern Studies</note>
+</buadhair>

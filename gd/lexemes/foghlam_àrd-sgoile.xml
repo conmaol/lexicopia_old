@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="foghlam_àrd-sgoile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>foghlam àrd-sgoile</orth>
-    </form>
-    <trans>secondary education</trans>
-    <note>Listed in An Seotal: General.</note>
-  </lexeme>
+  <part ref="foghlam"/>
+  <part ref="bun-sgoil"/>
+  <form>
+    <orth>foghlam àrd-sgoile</orth>
+  </form>
+  <trans>secondary education</trans>
+  <note>Listed in An Seotal: General.</note>
+</lexeme>

@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="beul_Uisge_Liddel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>beul Uisge Liddel</orth>
-    </form>
-    <trans>mouth of Liddell Water</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+<ainmear_fillte id="beul_Uisge_Liddel" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="beul"/>
+  <part ref="Uisge_Liddel"/>
+  <form>
+    <orth>beul Uisge Liddel</orth>
+  </form>
+  <trans index="only">mouth of Liddell Water</trans>
+  <trans index="no">the mouth of Liddell Water</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</ainmear_fillte>

@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="an_taobh_dlùth_ri" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>an taobh dlùth ri</orth>
-    </form>
-    <trans>the side adjacent to</trans>
-    <note>Listed in An Seotal: Maths.</note>
-  </lexeme>
+  <part ref="taobh"/>
+  <part ref="dlùth"/>
+  <form>
+    <orth>an taobh dlùth ri</orth>
+  </form>
+  <trans index="no">the side adjacent to</trans>
+  <trans index="only">adjacent side to</trans>
+  <note>Listed in An Seotal: Maths.</note>
+</lexeme>

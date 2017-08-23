@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="gràdhaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="gràdh-love"/>
+  <form>
+    <orth>gràdhaich</orth>
+  </form>
+  <trans>love</trans>
+</gnìomhair>

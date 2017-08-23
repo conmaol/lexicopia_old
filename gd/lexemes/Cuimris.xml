@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_boireann id="Cuimris" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Cuimris</orth>
-    </form>
-    <trans>Welsh</trans>
-    <note>Listed in An Seotal: Geography.</note>
-    <note>Welsh - Cuimris poss c</note>
-  </ainmear_boireann>
+  <part ref="Cuimrigh"/>
+  <form>
+    <orth>Cuimris</orth>
+  </form>
+  <trans>Welsh</trans>
+  <note>Listed in An Seotal: Geography.</note>
+  <note>Used with definite article: a’ Chuimris, na Cuimris.</note>
+</ainmear_boireann>

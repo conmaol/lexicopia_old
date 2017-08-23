@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="tabhartas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>tabhartas</orth>
-    </form>
-    <trans>grant</trans>
-    <note>Listed in An Seotal: General.</note>
-    <note>grant - tabhartais poss cgrants - tabhartasan pl</note>
-  </ainmear_fireann>
+  <form>
+    <orth>tabhartas</orth>
+  </form>
+  <form>
+    <orth>tabhartais</orth>
+  </form>
+  <form>
+    <orth>tabhartasan</orth>
+  </form>
+  <trans>grant</trans>
+  <note>Listed in An Seotal: General.</note>
+</ainmear_fireann>

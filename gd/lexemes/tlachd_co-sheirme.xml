@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="tlachd_co-sheirme" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>tlachd co-sheirme</orth>
-    </form>
-    <trans>pleasure of harmony</trans>
-    <note>Listed in An Seotal: Music.</note>
-  </lexeme>
+  <part ref="tlachd"/>
+  <part ref="co-sheirm"/>
+  <form>
+    <orth>tlachd co-sheirme</orth>
+  </form>
+  <trans>pleasure of harmony</trans>
+  <note>Listed in An Seotal: Music.</note>
+</lexeme>

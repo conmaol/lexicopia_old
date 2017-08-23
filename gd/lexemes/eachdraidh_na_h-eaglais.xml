@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="eachdraidh_na_h-eaglais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>eachdraidh na h-eaglais</orth>
-    </form>
-    <trans>church history</trans>
-    <note>Listed in An Seotal: Religious and Moral.</note>
-  </lexeme>
+<lexeme id="eachdraidh_na_h-eaglaise" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="eachdraidh"/>
+  <part ref="eaglais"/>
+  <form>
+    <orth>eachdraidh na h-eaglaise</orth>
+  </form>
+  <form>
+    <orth>eachdraidh na h-eaglais</orth>
+  </form>
+  <trans>church history</trans>
+  <note>Listed in An Seotal: Religious and Moral.</note>
+</lexeme>

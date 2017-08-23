@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Eilbheis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Eilbheis</orth>
+  </form>
+  <trans>Switzerland</trans>
+  <trans>Helvetia</trans>
+  <note>Listed in An Seotal: Geography.</note>
+  <note>Used with definite article: an Eilbheis, na h-Eilbheis.</note>
+</ainmear_boireann>

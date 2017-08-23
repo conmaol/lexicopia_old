@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="lach_lochlannach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>lach Lochlannach</orth>
-    </form>
-    <trans>eider</trans>
-    <trans>Somateria mollissima</trans>
-    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-    <note>Typically denotes the female.</note>
-  </ainmear_boireann>
+<ainmear_boireann id="lach_Lochlannach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="lach"/>
+  <part ref="Lochlannach-adj"/>
+  <form>
+    <orth>lach Lochlannach</orth>
+  </form>
+  <trans>eider</trans>
+  <trans>Somateria mollissima</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  <note>Typically denotes the female.</note>
+</ainmear_boireann>
