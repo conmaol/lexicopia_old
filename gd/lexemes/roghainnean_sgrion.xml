@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="roghainnean_sgrion" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="roghainn"/>
+  <part ref="sgrion"/>
+  <form>
+    <orth>roghainnean sgrion</orth>
+  </form>
+  <trans>display options</trans>
+  <note>Listed in An Seotal: Computing.</note>
+</lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear id="cobhair_roghnaichte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="roghnaichte"/>
+  <form>
+    <orth>cobhair roghnaichte</orth>
+  </form>
+  <trans>selective assistance</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear>

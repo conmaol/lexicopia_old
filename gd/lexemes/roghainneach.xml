@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="roghainneach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="roghainn"/>
+  <form>
+    <orth>roghainneach</orth>
+  </form>
+  <form>
+    <orth>roghainniche</orth>
+  </form>
+  <trans>eclectic</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</buadhair>
+
