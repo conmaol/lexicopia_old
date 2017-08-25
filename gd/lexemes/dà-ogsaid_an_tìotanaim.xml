@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="dà-ogsaid_an_tìotanaim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>dà-ogsaid an tìotanaim</orth>
-    </form>
-    <trans>titanium dioxide</trans>
-    <note>Listed in An Seotal: Science, as 'titanium dà-ogsaid'.</note>
-  </lexeme>
+  <part ref="dà-ogsaid"/>
+  <form>
+    <orth>dà-ogsaid an tìotanaim</orth>
+  </form>
+  <trans>titanium dioxide</trans>
+  <note>Listed in An Seotal: Science, as 'titanium dà-ogsaid'.</note>
+</lexeme>

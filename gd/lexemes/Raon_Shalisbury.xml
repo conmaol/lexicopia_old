@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Raon_Shalisbury" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Raon Shalisbury</orth>
-    </form>
-    <trans>Salisbury Plain</trans>
-    <note>Listed in An Seotal: Geography.</note>
-    <note>Salisbury Plain - Raon Shalisbury poss c</note>
-  </ainmear_fireann>
+<lexeme id="Raon_Shalisbury" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="raon"/>
+  <form>
+    <orth>Raon Shalisbury</orth>
+  </form>
+  <trans>Salisbury Plain</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

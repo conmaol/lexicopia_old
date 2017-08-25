@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="buidheann_rannsachaidh_lùtha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>buidheann rannsachaidh lùtha</orth>
-    </form>
-    <trans>energy research group</trans>
-    <note>Listed in An Seotal: Science.</note>
-  </lexeme>
+  <part ref="buidheann"/>
+  <part ref="lùth"/>
+  <form>
+    <orth>buidheann rannsachaidh lùtha</orth>
+  </form>
+  <trans>energy research group</trans>
+  <note>Listed in An Seotal: Science.</note>
+</lexeme>

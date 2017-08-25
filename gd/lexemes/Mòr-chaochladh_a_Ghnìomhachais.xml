@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="Mòr-chaochladh_a_Ghnìomhachais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Mòr-chaochladh a' Ghnìomhachais</orth>
-    </form>
-    <trans>Industrial Revolution</trans>
-    <note>Listed in An Seotal: General.</note>
-  </lexeme>
+  <part ref="mòr-chaochladh"/>
+  <part ref="gnìomhachas"/>
+  <form>
+    <orth>Mòr-chaochladh a' Ghnìomhachais</orth>
+  </form>
+  <trans index="only">Industrial Revolution</trans>
+  <trans index="no">the Industrial Revolution</trans>
+  <note>Listed in An Seotal: General.</note>
+</lexeme>

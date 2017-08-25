@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="Portagaileach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="Portagail"/>
+  <form>
+    <orth>Portagaileach</orth>
+  </form>
+  <form>
+    <orth>Portagailich</orth>
+  </form>
+  <trans>Portuguese</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</buadhair>

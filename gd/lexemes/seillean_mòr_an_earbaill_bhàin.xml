@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seillean_mòr_an_earbaill_bhàin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="seillean_mòr"/>
+  <part ref="earball"/>
+  <part ref="bàn"/>
+  <form>
+    <orth>seillean mòr an earbaill bhàin</orth>
+  </form>
+  <form>
+    <orth>seilleanan mòra an earbaill bhàin</orth>
+  </form>
+  <trans>white tailed bumblebee</trans>
+  <trans>Bombus lucorum</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+</ainmear_fireann>

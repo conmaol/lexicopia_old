@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_boireann id="cruinneag_liath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>cruinneag liath</orth>
-    </form>
-    <trans>azure damselfly</trans>
-    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-    <note>Plurals: cruinneagan liatha</note>
-    <note>Latin: Coenagrion puella</note>
-    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cruinneag liath.mp3</note>
-  </ainmear_boireann>
+  <part ref="cruinneag"/>
+  <part ref="liath"/>
+  <form>
+    <orth>cruinneag liath</orth>
+  </form>
+  <form>
+    <orth>cruinneagan liatha</orth>
+  </form>
+  <trans>azure damselfly</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  <note>Latin: Coenagrion puella</note>
+  <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cruinneag liath.mp3</note>
+</ainmear_boireann>

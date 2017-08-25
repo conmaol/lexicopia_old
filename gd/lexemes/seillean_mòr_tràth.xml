@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seillean_mòr_tràth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="seillean_mòr"/>
+  <form>
+    <orth>seillean mòr tràth</orth>
+  </form>
+  <form>
+    <orth>seilleanan mòra tràtha</orth>
+  </form>
+  <trans>early bumblebee</trans>
+  <trans>Bombus pratorum</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+</ainmear_fireann>

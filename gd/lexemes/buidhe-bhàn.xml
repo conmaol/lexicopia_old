@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="buidhe-bhàn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="buidhe"/>
+  <part ref="bàn"/>
+  <form>
+    <orth>buidhe-bhàn</orth>
+  </form>
+  <trans>buff</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</buadhair>

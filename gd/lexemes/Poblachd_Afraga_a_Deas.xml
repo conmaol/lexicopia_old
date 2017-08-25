@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_boireann id="Poblachd_Afraga_a_Deas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Poblachd Afraga a Deas</orth>
-    </form>
-    <trans>Republic of South Africa</trans>
-    <note>Listed in An Seotal: Geography.</note>
-    <note>South Africa - Afraga a Deas poss c</note>
-  </ainmear_boireann>
+  <part ref="poblachd"/>
+  <form>
+    <orth>Poblachd Afraga a Deas</orth>
+  </form>
+  <trans>Republic of South Africa</trans>
+  <note>Listed in An Seotal: Geography.</note>
+  <note>South Africa - Afraga a Deas poss c</note>
+</ainmear_boireann>

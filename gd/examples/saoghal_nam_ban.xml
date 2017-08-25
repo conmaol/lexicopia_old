@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<example id="saoghal_nam_ban" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="saoghal"/>
+  <part ref="bean"/>
+  <form>
+    <orth>saoghal nam ban</orth>
+  </form>
+  <trans>the world of women</trans>
+  <note>Historic Scotland signage at Iona Abbey, 2015.</note>
+</example>

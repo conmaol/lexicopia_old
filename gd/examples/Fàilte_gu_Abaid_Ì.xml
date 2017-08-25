@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<example id="Fàilte_gu_Abaid_Ì" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="fàilte"/>
+  <part ref="Abaid_Ì"/>
+  <form>
+    <orth>Fàilte gu Abaid Ì</orth>
+  </form>
+  <trans>Welcome to Iona Abbey</trans>
+  <note>Historic Scotland signage at Iona Abbey, 2015.</note>
+</example>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="saidheansail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="saidheans"/>
+  <form>
+    <orth>saidheansail</orth>
+  </form>
+  <form>
+    <orth>saidheansaile</orth>
+  </form>
+  <trans>scientific</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</buadhair>

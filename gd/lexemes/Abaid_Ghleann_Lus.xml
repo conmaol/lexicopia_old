@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="Abaid_Ghleann_Lus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Abaid Ghleann Lus</orth>
-    </form>
-    <trans>Glenluce Abbey</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+  <part ref="abaid"/>
+  <part ref="Gleann_Lus"/>
+  <form>
+    <orth>Abaid Ghleann Lus</orth>
+  </form>
+  <trans>Glenluce Abbey</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

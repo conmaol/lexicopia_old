@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="Poblachd_Mhàilidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Poblachd Mhàilidh</orth>
-    </form>
-    <trans>Republic of Mali</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+  <part ref="poblachd"/>
+  <form>
+    <orth>Poblachd Mhàilidh</orth>
+  </form>
+  <trans>Republic of Mali</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

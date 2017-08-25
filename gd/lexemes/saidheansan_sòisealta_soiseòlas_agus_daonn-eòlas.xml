@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="saidheansan_sòisealta_soiseòlas_agus_daonn-eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>saidheansan sòisealta, soiseòlas agus daonn-eòlas</orth>
-    </form>
-    <trans>social sciences, sociology and anthropology</trans>
-    <note>Listed in An Seotal: General.</note>
-  </lexeme>
+  <part ref="saidheansan_sòisealta"/>
+  <part ref="daonn-eòlas"/>
+  <form>
+    <orth>saidheansan sòisealta, soiseòlas agus daonn-eòlas</orth>
+  </form>
+  <trans>social sciences, sociology and anthropology</trans>
+  <note>Listed in An Seotal: General.</note>
+</lexeme>

@@ -16,6 +16,7 @@
           <xs:element ref="iar-leasachan"/>
           <xs:element ref="buadhair"/>
           <xs:element ref="gnìomhair"/>
+          <xs:element ref="example"/>
         </xs:choice>
       </xs:sequence>
     </xs:complexType>
@@ -36,6 +37,8 @@
   <xs:element name="buadhair" type="lexeme-content"/>
   
   <xs:element name="gnìomhair" type="lexeme-content"/>
+  
+  <xs:element name="example" type="lexeme-content"/>
 
   <xs:complexType name="lexeme-content">
     <xs:sequence>

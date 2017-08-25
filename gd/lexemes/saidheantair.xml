@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="saidheantair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="saidheans"/>
+  <form>
+    <orth>saidheantair</orth>
+  </form>
+  <form>
+    <orth>saidheantairean</orth>
+  </form>
+  <trans>scientist</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear_fireann>

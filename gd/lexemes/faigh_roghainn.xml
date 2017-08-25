@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="faigh_roghainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="faigh"/>
+  <part ref="roghainn"/>
+  <form>
+    <orth>faigh roghainn</orth>
+  </form>
+  <trans>take one’s pick</trans>
+  <trans>choose</trans>
+</lexeme>

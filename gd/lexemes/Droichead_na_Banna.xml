@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="Droichead_na_Banna" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Droichead na Banna</orth>
-    </form>
-    <trans>Banbridge</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+  <part ref="drochaid"/>
+  <form>
+    <orth>Droichead na Banna</orth>
+  </form>
+  <trans>Banbridge</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

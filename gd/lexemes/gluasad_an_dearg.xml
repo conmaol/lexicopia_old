@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="gluasad_an_dearg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>gluasad an dearg</orth>
-    </form>
-    <trans>red shift</trans>
-    <note>Listed in An Seotal: Science.</note>
-    <note>red shift - gluasad an dearg sc</note>
-  </ainmear_fireann>
+  <part ref="gluasad"/>
+  <part ref="dearg"/>
+  <form>
+    <orth>gluasad an dearg</orth>
+  </form>
+  <trans>redshift</trans>
+  <note>Listed in An Seotal: Science.</note>
+</ainmear_fireann>

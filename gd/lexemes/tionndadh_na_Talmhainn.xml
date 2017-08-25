@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="tionndadh_na_talmhainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>tionndadh na talmhainn</orth>
-    </form>
-    <trans>rotation of the earth</trans>
-    <note>Listed in An Seotal: Science.</note>
-  </lexeme>
+<lexeme id="tionndadh_na_Talmhainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="tionndadh"/>
+  <part ref="talamh"/>
+  <form>
+    <orth>tionndadh na Talmhainn</orth>
+  </form>
+  <trans index="no">the rotation of the earth</trans>
+  <trans index="only">rotation of the earth</trans>
+  <note>Listed in An Seotal: Science.</note>
+</lexeme>

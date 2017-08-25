@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="eòrpa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Eòrpa</orth>
-    </form>
-    <trans>Europe</trans>
-  </lexeme>
+<lexeme id="Eòrpa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Eòrpa</orth>
+  </form>
+  <trans>Europe</trans>
+</lexeme>

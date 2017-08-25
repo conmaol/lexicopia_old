@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="Oifigear_Leasachaidh_Gàidhlig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Oifigear Leasachaidh Gàidhlig</orth>
-    </form>
-    <trans>Gaelic Development Officer</trans>
-    <note>Listed in An Seotal: Language.</note>
-  </lexeme>
+<lexeme id="oifigear_leasachaidh_Gàidhlig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="oifigear_leasachaidh"/>
+  <form>
+    <orth>oifigear leasachaidh Gàidhlig</orth>
+  </form>
+  <trans>Gaelic development officer</trans>
+  <note>Listed in An Seotal: Language.</note>
+</lexeme>

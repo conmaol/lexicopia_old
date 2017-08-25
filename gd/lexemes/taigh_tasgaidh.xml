@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="taigh_tasgaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>taigh tasgaidh</orth>
+  </form>
+  <form>
+    <orth>taighean tasgaidh</orth>
+  </form>
+  <trans>museum</trans>
+  <note>Listed in An Seotal: History.</note>
+</lexeme>

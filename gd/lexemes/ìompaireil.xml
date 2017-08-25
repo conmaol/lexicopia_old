@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="ìompaireil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="ìompaire"/>
+  <form>
+    <orth>ìompaireil</orth>
+  </form>
+  <form>
+    <orth>ìmpireil</orth>
+  </form>
+  <trans>imperial</trans>
+  <note>Listed in An Seotal: Maths, as: Ìmpireil</note>
+  <note>Listed in Colin Mark’s dictionary as: ìmpireil.</note>
+</buadhair>

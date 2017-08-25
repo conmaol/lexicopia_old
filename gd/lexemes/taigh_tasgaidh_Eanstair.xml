@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="taigh_tasgaidh_Eanstair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="taigh_tasgaidh"/>
+  <part ref="Eanstar"/>
+  <form>
+    <orth>taigh tasgaidh Eanstair</orth>
+  </form>
+  <trans>Anstruther museum</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

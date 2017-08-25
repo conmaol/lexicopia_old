@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="leòmann_a_chàil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>leòmann a' chàil</orth>
-    </form>
-    <trans>large white moth</trans>
-    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-    <note>Plural: leòmainn a' chàil</note>
-    <note>Latin: Pieris brassicae</note>
-  </ainmear_fireann>
+  <part ref="leòmann"/>
+  <form>
+    <orth>leòmann a' chàil</orth>
+  </form>
+  <trans>large white moth</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  <note>Plural: leòmainn a' chàil</note>
+  <note>Latin: Pieris brassicae</note>
+</ainmear_fireann>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<example id="gheibh_thu_do_roghainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="faigh_roghainn"/>
+  <form>
+    <orth>gheibh thu do roghainn</orth>
+  </form>
+  <trans>you can have your pick</trans>
+  <note>Cited in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+</example>

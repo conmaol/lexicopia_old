@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="roghainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>roghainn</orth>
-    </form>
-    <trans>choice</trans>
-    <trans>option</trans>
-    <note>Listed in An Seotal: General.</note>
-    <note>choice - roghainn poss cchoices - roghainnean pl</note>
-    <note>Listed in An Seotal: Computing, as 'option'.</note>
-    <note>option - roghainn poss coptions - roghainnean pl</note>
-  </ainmear_fireann>
+<ainmear_boireann id="roghainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>roghainn</orth>
+  </form>
+  <form>
+    <orth>roghainnean</orth>
+  </form>
+  <trans>choice</trans>
+  <trans>option</trans>
+  <trans>selection</trans>
+  <trans>pick</trans>
+  <note>Listed in An Seotal: General.</note>
+  <note>Listed in An Seotal: Computing, as 'option'.</note>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary, as either masculine or feminine.</note>
+</ainmear_boireann>

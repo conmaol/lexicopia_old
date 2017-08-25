@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="bun-bheachdan_mu_Dhia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>bun-bheachdan mu Dhia</orth>
-    </form>
-    <trans>concepts of God</trans>
-    <note>Listed in An Seotal: Religious and Moral.</note>
-  </lexeme>
+  <part ref="bun-bheachd"/>
+  <part ref="Dia-name"/>
+  <form>
+    <orth>bun-bheachdan mu Dhia</orth>
+  </form>
+  <trans>concepts of God</trans>
+  <note>Listed in An Seotal: Religious and Moral.</note>
+</lexeme>

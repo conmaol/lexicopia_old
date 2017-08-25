@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="eòrpium_ogsaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>eòrpium ogsaid</orth>
-    </form>
-    <trans>europium oxide</trans>
-    <note>Listed in An Seotal: Science.</note>
-  </lexeme>
+  <part ref="eòrpium"/>
+  <part ref="ogsaid"/>
+  <form>
+    <orth>eòrpium ogsaid</orth>
+  </form>
+  <trans>europium oxide</trans>
+  <note>Listed in An Seotal: Science.</note>
+</lexeme>

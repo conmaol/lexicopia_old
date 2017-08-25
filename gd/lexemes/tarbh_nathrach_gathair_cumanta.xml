@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tarbh_nathrach_gathair_cumanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="tarbh_nathrach"/>
+  <part ref="gath"/>
+  <part ref="cumanta"/>
+  <form>
+    <orth>tarbh nathrach gathair cumanta</orth>
+  </form>
+  <form>
+    <orth>tairbh nathrach ghathair chumanta</orth>
+  </form>
+  <trans>common darter dragonfly</trans>
+  <trans>Highland darter dragonfly</trans>
+  <trans>Sympetrum nigrescens</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+</ainmear_fireann>

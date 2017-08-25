@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="eadailig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Eadailig</orth>
-    </form>
-    <trans>Italic</trans>
-    <note>Listed in An Seotal: Language.</note>
-    <note>Italic - Eadailig poss c</note>
-  </ainmear_boireann>
+<ainmear_boireann id="Eadailig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="Eadailt"/>
+  <form>
+    <orth>Eadailig</orth>
+  </form>
+  <trans>Italic</trans>
+  <note>Listed in An Seotal: Language.</note>
+</ainmear_boireann>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="ballach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="ball"/>
+  <form>
+    <orth>ballach</orth>
+  </form>
+  <form>
+    <orth>ballaiche</orth>
+  </form>
+  <trans>speckled</trans>
+  <trans>spotted</trans>
+  <trans>variegated</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</buadhair>
+
+

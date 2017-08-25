@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<lexeme id="tha_uisge_na_stuth-sgaoilidh_airson_siùcar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>tha uisge na stuth-sgaoilidh airson siùcar</orth>
-    </form>
-    <trans>water is a solvent for sugar</trans>
-    <note>Listed in An Seotal: Science.</note>
-  </lexeme>

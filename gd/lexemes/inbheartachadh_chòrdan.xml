@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="inbheartachadh_chòrdan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="inbheartachadh"/>
+  <part ref="còrd-noun"/>
+  <form>
+    <orth>inbheartachadh chòrdan</orth>
+  </form>
+  <trans>inversion of chords</trans>
+  <note>Listed in An Seotal: Music.</note>
+</ainmear_fireann>

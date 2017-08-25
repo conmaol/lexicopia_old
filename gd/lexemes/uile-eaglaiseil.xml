@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <buadhair id="uile-eaglaiseil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>uile-eaglaiseil</orth>
-    </form>
-    <trans>ecumenical</trans>
-    <note>Listed in Robert C. Owen’s Modern Gaelic-English Dictionary</note>
-  </buadhair>
+  <part ref="uile"/>
+  <part ref="eaglaiseil"/>
+  <form>
+    <orth>uile-eaglaiseil</orth>
+  </form>
+  <trans>ecumenical</trans>
+  <note>Listed in Robert C. Owen’s Modern Gaelic-English Dictionary</note>
+</buadhair>

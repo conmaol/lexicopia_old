@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="Poblachd_Fhìdsidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Poblachd Fhìdsidh</orth>
-    </form>
-    <trans>Republic of Fiji</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+  <part ref="poblachd"/>
+  <form>
+    <orth>Poblachd Fhìdsidh</orth>
+  </form>
+  <trans>Republic of Fiji</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

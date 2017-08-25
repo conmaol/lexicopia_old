@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="Lugsamburg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Lugsamburg</orth>
-    </form>
-    <trans>Luxembourg</trans>
-    <note>Listed in An Seotal: Geography.</note>
-    <note>Luxembourg - Lugsamburg poss c</note>
-  </ainmear_fireann>
+  <form>
+    <orth>Lugsamburg</orth>
+  </form>
+  <form>
+    <orth>Lucsamburg</orth>
+  </form>
+  <trans>Luxembourg</trans>
+  <note>Listed in An Seotal: Geography.</note>
+  <note>Listed in Colin Mark’s Dictionary as: Lucsamburg.</note>
+</ainmear_fireann>

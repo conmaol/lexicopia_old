@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="ìompaireachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <part ref="ìompaire"/>
-    <part ref="_achd-suffix"/>
-    <form>
-      <orth>ìompaireachd</orth>
-    </form>
-    <trans>empire</trans>
-  </lexeme>
+  <part ref="ìompaire"/>
+  <form>
+    <orth>ìompaireachd</orth>
+  </form>
+  <form>
+    <orth>ìompaireachdan</orth>
+  </form>
+  <trans>empire</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</lexeme>

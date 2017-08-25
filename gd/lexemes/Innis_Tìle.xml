@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="innis_tiile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="innis-noun"/>
+  <part ref="Tìle"/>
+  <form>
+    <orth>Innis Tìle</orth>
+  </form>
+  <trans>Iceland</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</ainmear_boireann>

@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="mòr-chaochladh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>mòr-chaochladh</orth>
-    </form>
-    <trans>revolution</trans>
-    <note>Listed in An Seotal: General.</note>
-    <note>revolution - mòr-chaochlaidh poss crevolutions - mòr-chaochlaidhean pl</note>
-  </ainmear_fireann>
+  <part ref="mòr"/>
+  <form>
+    <orth>mòr-chaochladh</orth>
+  </form>
+  <form>
+    <orth>mòr-chaochlaidh</orth>
+  </form>
+  <form>
+    <orth>mòr-chaochlaidhean</orth>
+  </form>
+  <trans>revolution</trans>
+  <note>Listed in An Seotal: General.</note>
+</ainmear_fireann>

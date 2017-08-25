@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seillean_mòr_gàrraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="seillean_mòr"/>
+  <part ref="gàrradh"/>
+  <form>
+    <orth>seillean mòr gàrraidh</orth>
+  </form>
+  <form>
+    <orth>seilleanan mòra gàrraidh</orth>
+  </form>
+  <trans>garden bumblebee</trans>
+  <trans>Bombus hortorum</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+</ainmear_fireann>

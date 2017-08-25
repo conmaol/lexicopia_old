@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="baile_Eyemouth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>baile Eyemouth</orth>
-    </form>
-    <trans>town of Eyemouth</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+  <part ref="baile"/>
+  <form>
+    <orth>baile Eyemouth</orth>
+  </form>
+  <trans index="no">the town of Eyemouth</trans>
+  <trans index="only">town of Eyemouth</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

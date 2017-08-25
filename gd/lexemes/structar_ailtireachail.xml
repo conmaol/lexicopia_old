@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="structar_ailtireachail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>structar ailtireachail</orth>
-    </form>
-    <trans>architectural structure</trans>
-    <note>Listed in An Seotal: General.</note>
-  </lexeme>
+  <part ref="structar"/>
+  <part ref="ailtireachail"/>
+  <form>
+    <orth>structar ailtireachail</orth>
+  </form>
+  <trans>architectural structure</trans>
+  <note>Listed in An Seotal: General.</note>
+</lexeme>

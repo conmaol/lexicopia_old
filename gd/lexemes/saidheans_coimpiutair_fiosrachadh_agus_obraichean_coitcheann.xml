@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="saidheans_coimpiutair_fiosrachadh_agus_obraichean_coitcheann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>saidheans coimpiutair, fiosrachadh agus obraichean coitcheann</orth>
-    </form>
-    <trans>computer science, information and general works</trans>
-    <note>Listed in An Seotal: General.</note>
-  </lexeme>
+  <part ref="saidheans_coimpiutair"/>
+  <part ref="fiosrachadh"/>
+  <part ref="obraichean_coitcheann"/>
+  <form>
+    <orth>saidheans coimpiutair, fiosrachadh agus obraichean coitcheann</orth>
+  </form>
+  <trans>computer science, information and general works</trans>
+  <note>Listed in An Seotal: General.</note>
+</lexeme>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="ceannard_leasachaidh_agus_iomairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>ceannard leasachaidh agus iomairt</orth>
-    </form>
-    <trans>head of development and enterprise</trans>
-    <note>Listed in An Seotal: General.</note>
-  </lexeme>
+  <part ref="ceannard_leasachaidh"/>
+  <part ref="iomairt"/>
+  <form>
+    <orth>ceannard leasachaidh agus iomairt</orth>
+  </form>
+  <trans>head of development and enterprise</trans>
+  <note>Listed in An Seotal: General.</note>
+</lexeme>

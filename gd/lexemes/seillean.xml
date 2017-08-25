@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="seillean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>seillean</orth>
-    </form>
-    <trans>bee</trans>
-    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-    <note>Plural: seilleanan</note>
-    <note>Latin: Apoidea (Superfamily) spp.</note>
-    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/seillean.mp3</note>
-  </ainmear_fireann>
+  <form>
+    <orth>seillean</orth>
+  </form>
+  <form>
+    <orth>seillein</orth>
+  </form>
+  <form>
+    <orth>seilleanan</orth>
+  </form>
+  <trans>bee</trans>
+  <trans>Apoidea spp.</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  <note>Audio: http://www.snh.org.uk/gaidhlig/audio/seillean.mp3</note>
+</ainmear_fireann>

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="poblachd_nan_seiceach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Poblachd nan Seiceach</orth>
-    </form>
-    <trans>Czech Republic</trans>
-    <note>Listed in An Seotal: Geography.</note>
-    <note>Czech Republic - Poblachd nan Seiceach poss c</note>
-  </ainmear_boireann>
+<ainmear_boireann id="Poblachd_nan_Seiceach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="poblachd"/>
+  <part ref="Seiceach"/>
+  <form>
+    <orth>Poblachd nan Seiceach</orth>
+  </form>
+  <trans index="only">Czech Republic</trans>
+  <trans index="no">the Czech Republic</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</ainmear_boireann>

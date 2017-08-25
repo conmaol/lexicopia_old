@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="Drochaid_Choldstream" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Drochaid Choldstream</orth>
-    </form>
-    <trans>Coldstream Bridge</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+  <part ref="drochaid"/>
+  <form>
+    <orth>Drochaid Choldstream</orth>
+  </form>
+  <trans>Coldstream Bridge</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

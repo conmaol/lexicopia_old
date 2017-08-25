@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Òlaind" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Òlaind</orth>
+  </form>
+  <trans index="no">the Netherlands</trans>
+  <trans index="only">Netherlands</trans>
+  <trans>Holland</trans>
+  <note>Listed in An Seotal: Geography.</note>
+  <note>Used with definite article: an Òlaind, na h-Òlaind.</note>
+</ainmear_boireann>

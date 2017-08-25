@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="Gearmailtis_agus_cànanan_co-cheangailte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Gearmailtis agus cànanan co-cheangailte</orth>
-    </form>
-    <trans>German and related languages</trans>
-    <note>Listed in An Seotal: Language.</note>
-  </lexeme>
+  <part ref="Gearmailtis"/>
+  <part ref="cànan"/>
+  <part ref="co-cheangailte"/>
+  <form>
+    <orth>Gearmailtis agus cànanan co-cheangailte</orth>
+  </form>
+  <trans>German and related languages</trans>
+  <note>Listed in An Seotal: Language.</note>
+</lexeme>

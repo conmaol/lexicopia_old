@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="oifigear_trusadh_oileanach_ìnntrigeadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="oifigear_trusaidh"/>
+  <form>
+    <orth>oifigear trusadh oileanach, ìnntrigeadh</orth>
+  </form>
+  <trans>Student Recruitment Officer, Admissions</trans>
+  <note>Listed in An Seotal: Personal and Social Education.</note>
+</lexeme>

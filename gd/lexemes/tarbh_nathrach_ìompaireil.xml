@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tarbh_nathrach_ìompaireil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="tarbh_nathrach"/>
+  <part ref="ìompaireil"/>
+  <form>
+    <orth>tarbh nathrach ìompaireil</orth>
+  </form>
+  <form>
+    <orth>tairbh nathrach ìompaireil</orth>
+  </form>
+  <trans>emperor dragonfly</trans>
+  <trans>Anax imperator</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  <note>Audio: http://www.snh.org.uk/gaidhlig/audio/tarbh nathrach impireil.mp3</note>
+</ainmear_fireann>

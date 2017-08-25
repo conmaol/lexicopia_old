@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="buidheann_còmhraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>buidheann còmhraidh</orth>
-    </form>
-    <trans>discussion group</trans>
-    <note>Listed in An Seotal: Computing.</note>
-  </lexeme>
+  <part ref="buidheann"/>
+  <part ref="còmhradh"/>
+  <form>
+    <orth>buidheann còmhraidh</orth>
+  </form>
+  <trans>discussion group</trans>
+  <note>Listed in An Seotal: Computing.</note>
+</lexeme>

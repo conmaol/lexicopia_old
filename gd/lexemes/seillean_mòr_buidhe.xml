@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seillean_mòr_buidhe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="seillean_mòr"/>
+  <part ref="buidhe"/>
+  <form>
+    <orth>seillean mòr buidhe</orth>
+  </form>
+  <form>
+    <orth>seilleanan mòra buidhe</orth>
+  </form>
+  <trans>great yellow bumblebee</trans>
+  <trans>Bombus distinguendus</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  <note>Audio: http://www.snh.org.uk/gaidhlig/audio/seillean mor buidhe.mp3</note>
+</ainmear_fireann>

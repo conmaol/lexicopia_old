@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="sìor-fhàsachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>sìor-fhàsachadh</orth>
-    </form>
-    <trans>spiral desertification</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+<ainmear_fireann id="sìor-fhàsachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="sìor"/>
+  <part ref="fàsachadh"/>
+  <form>
+    <orth>sìor-fhàsachadh</orth>
+  </form>
+  <trans>spiral desertification</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</ainmear_fireann>

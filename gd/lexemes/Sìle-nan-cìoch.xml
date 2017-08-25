@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Sìle-nan-cìoch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="cìoch"/>
+  <form>
+    <orth>Sìle-nan-cìoch</orth>
+  </form>
+  <trans>sheena-na-gig</trans>
+  <note>Image of a naked woman with her legs apart, to ward off evil.</note>
+  <note>Historic Scotland signage at Iona Abbey, 2015.</note>
+</lexeme>

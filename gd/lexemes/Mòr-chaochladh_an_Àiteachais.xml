@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="Mòr-chaochladh_an_Àiteachais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Mòr-chaochladh an Àiteachais</orth>
-    </form>
-    <trans>The Agricultural Revolution</trans>
-    <note>Listed in An Seotal: General.</note>
-  </lexeme>
+  <part ref="mòr-chaochladh"/>
+  <part ref="àiteachas"/>
+  <form>
+    <orth>Mòr-chaochladh an Àiteachais</orth>
+  </form>
+  <trans index="no">the Agricultural Revolution</trans>
+  <trans index="only">Agricultural Revolution</trans>
+  <note>Listed in An Seotal: General.</note>
+</lexeme>

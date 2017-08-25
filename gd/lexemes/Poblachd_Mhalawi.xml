@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="Poblachd_Mhalawi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Poblachd Mhalawi</orth>
-    </form>
-    <trans>Republic of Malawi</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+  <part ref="poblachd"/>
+  <part ref="Malawi"/>
+  <form>
+    <orth>Poblachd Mhalawi</orth>
+  </form>
+  <trans index="only">Republic of Malawi</trans>
+  <trans index="no">the Republic of Malawi</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

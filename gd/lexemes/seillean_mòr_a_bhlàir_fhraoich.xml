@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="seillean_mòr_a_bhlàir_fhraoich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="seillean_mòr"/>
+  <part ref="blàr"/>
+  <part ref="fraoch"/>
+  <form>
+    <orth>seillean mòr a' bhlàir fhraoich</orth>
+  </form>
+  <form>
+    <orth>seilleanan mòra a' bhlàir fhraoich</orth>
+  </form>
+  <trans>heath bumblebee</trans>
+  <trans>Bombus jonellus</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+</ainmear_fireann>

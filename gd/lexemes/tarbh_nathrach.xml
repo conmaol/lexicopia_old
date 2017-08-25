@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="tarbh_nathrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="tarbh"/>
+  <part ref="nathair"/>
+  <form>
+    <orth>tarbh nathrach</orth>
+  </form>
+  <form>
+    <orth>tairbh nathrach</orth>
+  </form>
+  <form>
+    <orth>tarbhan nathrach</orth>
+  </form>
+  <trans>dragonfly</trans>
+  <trans>Anisoptera spp.</trans>
+  <note>Listed in An Seotal: Science.</note>
+  <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+  <note>Audio: http://www.snh.org.uk/gaidhlig/audio/tarbh nathrach.mp3</note>
+  <note>Listed in Colin Mark’s dictionary as: tarbhan nathrach.</note>
+</ainmear_fillte>

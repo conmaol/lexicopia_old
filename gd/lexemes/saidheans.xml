@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="saidheans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>saidheans</orth>
-    </form>
-    <trans>science</trans>
-    <note>Listed in An Seotal: Science.</note>
-    <note>science - saidheans scsciences - saidheansan iom</note>
-  </ainmear_fireann>
+  <form>
+    <orth>saidheans</orth>
+  </form>
+  <form>
+    <orth>saidheansan</orth>
+  </form>
+  <trans>science</trans>
+  <note>Listed in An Seotal: Science.</note>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear_fireann>

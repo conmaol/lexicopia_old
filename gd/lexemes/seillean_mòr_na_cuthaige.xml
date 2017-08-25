@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="seillean_mòr_na_cuthaige" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="seillean_mòr"/>
+  <part ref="cuthag"/>
+  <form>
+    <orth>seillean mòr na cuthaige</orth>
+  </form>
+  <form>
+    <orth>seilleanan mòra na cuthaige</orth>
+  </form>
+  <trans>cuckoo bumblebee</trans>
+</ainmear_fillte>

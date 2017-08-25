@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="saidheans_talmhainn_agus_gnàth-shìde" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>saidheans talmhainn agus gnàth-shìde</orth>
-    </form>
-    <trans>climate and earth science</trans>
-    <note>Listed in An Seotal: Science.</note>
-  </lexeme>
+  <part ref="saidheans"/>
+  <part ref="talamh"/>
+  <part ref="gnàth-shìde"/>
+  <form>
+    <orth>saidheans talmhainn agus gnàth-shìde</orth>
+  </form>
+  <trans>climate and earth science</trans>
+  <note>Listed in An Seotal: Science.</note>
+</lexeme>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="seillean_mòr_na_cuthaig_shiopsaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="seillean_mòr_na_cuthaige"/>
+  <form>
+    <orth>seillean mòr na cuthaig shiopsaich</orth>
+  </form>
+  <form>
+    <orth>seilleanan mòra na cuthaig shiopsaich</orth>
+  </form>
+  <trans>gypsy cuckoo bumblebee</trans>
+  <trans>Bombus (Psithyrus) bohemicus</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+</ainmear_fillte>

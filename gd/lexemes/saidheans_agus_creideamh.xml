@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="saidheans_agus_creideamh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>saidheans agus creideamh</orth>
-    </form>
-    <trans>science and religion</trans>
-    <note>Listed in An Seotal: Religious and Moral.</note>
-  </lexeme>
+  <part ref="saidheans"/>
+  <part ref="creideamh"/>
+  <form>
+    <orth>saidheans agus creideamh</orth>
+  </form>
+  <trans>science and religion</trans>
+  <note>Listed in An Seotal: Religious and Moral.</note>
+</lexeme>

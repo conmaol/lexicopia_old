@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="sgìre_thropaigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>sgìre thropaigeach</orth>
-    </form>
-    <trans>tropical region</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+  <part ref="sgìre"/>
+  <part ref="tropaigeach"/>
+  <form>
+    <orth>sgìre thropaigeach</orth>
+  </form>
+  <trans>tropical region</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

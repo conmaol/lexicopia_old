@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="saidheansan_leabharlainn_agus_fiosrachaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>saidheansan leabharlainn agus fiosrachaidh</orth>
-    </form>
-    <trans>library and information sciences</trans>
-    <note>Listed in An Seotal: General.</note>
-  </lexeme>
+  <part ref="saidheansan_leabharlainn"/>
+  <part ref="saidheansan_fiosrachaidh"/>
+  <form>
+    <orth>saidheansan leabharlainn agus fiosrachaidh</orth>
+  </form>
+  <trans>library and information sciences</trans>
+  <note>Listed in An Seotal: General.</note>
+</lexeme>

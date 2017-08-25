@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="roghainn_eile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="roghainn"/>
+  <part ref="eile"/>
+  <form>
+    <orth>roghainn eile</orth>
+  </form>
+  <form>
+    <orth>roghainnean eile</orth>
+  </form>
+  <trans>alternative</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+</ainmear_fillte>

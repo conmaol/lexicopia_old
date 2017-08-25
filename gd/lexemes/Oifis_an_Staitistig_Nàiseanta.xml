@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Oifis_an_Staitistig_Nàiseanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="oifis"/>
+  <part ref="staitistig"/>
+  <part ref="nàiseanta"/>
+  <form>
+    <orth>Oifis an Staitistig Nàiseanta</orth>
+  </form>
+  <trans index="no">the Office of National Statistics</trans>
+  <trans index="only">Office of National Statistics</trans>
+  <note>From BBC RnaG news, 14/2/2017.</note>
+</ainmear_boireann>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="frangach-a" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="Fraing"/>
+  <form>
+    <orth>Frangach</orth>
+  </form>
+  <form>
+    <orth>Frangaich</orth>
+  </form>
+  <trans>French</trans>
+  <trans>Frenchman</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</buadhair>

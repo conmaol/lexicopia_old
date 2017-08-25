@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="seillean_mòr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="seillean"/>
+  <part ref="mòr"/>
+  <form>
+    <orth>seillean mòr</orth>
+  </form>
+  <form>
+    <orth>seilleanan mòra</orth>
+  </form>
+  <trans>bumblebee</trans>
+  <trans>Bombus spp.</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  <note>Audio: http://www.snh.org.uk/gaidhlig/audio/seillean mor.mp3</note>
+</ainmear_fillte>

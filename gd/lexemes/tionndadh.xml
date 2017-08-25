@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="tionndadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>tionndadh</orth>
-    </form>
-    <trans>revolution</trans>
-    <trans>inversion</trans>
-    <trans>translation</trans>
-    <trans>turning</trans>
-    <note>Listed in An Seotal: General, as 'revolution'.</note>
-    <note>revolution - tionndaidh poss crevolutions - tionndaidhean pl</note>
-    <note>Listed in An Seotal: Maths, as 'inversion', 'translation', 'turning'.</note>
-    <note>inversion - tionndaidh poss cinversions - tionndaidhean pl</note>
-    <note>translation - tionndaidh poss ctranslations - tionndaidhean pl</note>
-    <note>turning - tionndaidh poss cturnings - tionndaidhean pl</note>
-  </ainmear_fireann>
+  <part ref="tionndaidh"/>
+  <form>
+    <orth>tionndadh</orth>
+  </form>
+  <form>
+    <orth>tionndaidh</orth>
+  </form>
+  <form>
+    <orth>tionndaidhean</orth>
+  </form>
+  <trans>revolution</trans>
+  <trans>inversion</trans>
+  <trans>translation</trans>
+  <trans>turning</trans>
+  <note>Listed in An Seotal: General, as 'revolution'.</note>
+  <note>Listed in An Seotal: Maths, as 'inversion', 'translation', 'turning'.</note>
+</ainmear_fireann>

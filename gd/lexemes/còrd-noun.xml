@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="còrd-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>còrd</orth>
+  </form>
+  <form>
+    <orth>còrda</orth>
+  </form>
+  <form>
+    <orth>còrdan</orth>
+  </form>
+  <trans>chord</trans>
+  <note>Listed in An Seotal: Maths, Music, as 'chord'.</note>
+</ainmear_fireann>

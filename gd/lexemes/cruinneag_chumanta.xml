@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_boireann id="cruinneag_chumanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>cruinneag chumanta</orth>
-    </form>
-    <trans>common blue damselfly</trans>
-    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-    <note>Plurals: cruinneagan cumanta</note>
-    <note>Latin: Enallagma cyathigerum</note>
-    <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cruinneag chumanta.mp3</note>
-  </ainmear_boireann>
+  <part ref="cruinneag"/>
+  <part ref="cumanta"/>
+  <form>
+    <orth>cruinneag chumanta</orth>
+  </form>
+  <form>
+    <orth>cruinneagan cumanta</orth>
+  </form>
+  <trans>common blue damselfly</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  <note>Latin: Enallagma cyathigerum</note>
+  <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cruinneag chumanta.mp3</note>
+</ainmear_boireann>

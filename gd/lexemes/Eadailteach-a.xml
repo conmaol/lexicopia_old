@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<buadhair id="Eadailteach-a" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Eadailteach</orth>
-    </form>
-    <trans>Italian</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </buadhair>

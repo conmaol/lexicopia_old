@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leasachadh_eòrpach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>leasachadh Eòrpach</orth>
-    </form>
-    <trans>European development</trans>
-    <note>Listed in An Seotal: Modern Studies</note>
-  </ainmear_fireann>
+<ainmear_fireann id="leasachadh_Eòrpach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="leasachadh"/>
+  <part ref="Eòrpach"/>
+  <form>
+    <orth>leasachadh Eòrpach</orth>
+  </form>
+  <trans>European development</trans>
+  <note>Listed in An Seotal: Modern Studies</note>
+</ainmear_fireann>

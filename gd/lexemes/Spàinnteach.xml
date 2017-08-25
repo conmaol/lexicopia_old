@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="Spàinnteach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="Spàinn"/>
+  <form>
+    <orth>Spàinnteach</orth>
+  </form>
+  <form>
+    <orth>Spàinntich</orth>
+  </form>
+  <form>
+    <orth>Spàinneach</orth>
+  </form>
+  <form>
+    <orth>Spàinnich</orth>
+  </form>
+  <trans>Spanish</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</buadhair>

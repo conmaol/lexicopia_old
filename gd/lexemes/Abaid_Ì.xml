@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Abaid_Ì" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="abaid"/>
+  <part ref="Ì"/>
+  <form>
+    <orth>Abaid Ì</orth>
+  </form>
+  <trans>Iona Abbey</trans>
+  <note>Historic Scotland signage at Iona Abbey, 2015.</note>
+</lexeme>
+

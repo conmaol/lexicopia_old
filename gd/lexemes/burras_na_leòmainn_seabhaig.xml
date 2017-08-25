@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="burras_na_leòmainn_seabhaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="burras"/>
+  <part ref="leòmann_seabhaig"/>
+  <form>
+    <orth>burras na leòmainn seabhaig</orth>
+  </form>
+  <trans>hawk moth caterpillar</trans>
+  <note>Listed in An Seotal: Science.</note>
+</lexeme>

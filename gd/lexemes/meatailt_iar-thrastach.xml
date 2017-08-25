@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="meatailt_iar-thrastach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>meatailt iar-thrastach</orth>
-    </form>
-    <trans>post-transition metal</trans>
-  </lexeme>
+  <part ref="meatailt"/>
+  <part ref="iar-thrastach"/>
+  <form>
+    <orth>meatailt iar-thrastach</orth>
+  </form>
+  <trans>post-transition metal</trans>
+</lexeme>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<example id="cridhe_spioradail_eilean_naomh_Chaluim_Chille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="cridhe"/>
+  <part ref="spioradail"/>
+  <part ref="eilean"/>
+  <part ref="naomh-adj"/>
+  <part ref="Calum_Cille"/>
+  <form>
+    <orth>cridhe spioradail eilean naomh Chaluim Chille</orth>
+  </form>
+  <trans>the spiritual heart of St Columba’s sacred isle</trans>
+  <note>Historic Scotland signage at Iona Abbey, 2015.</note>
+</example>

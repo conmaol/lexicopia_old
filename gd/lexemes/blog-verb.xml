@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="blog-verb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="blog-noun"/>
+  <form>
+    <orth>blog</orth>
+  </form>
+  <trans>blog</trans>
+  <note>Listed in An Seotal: Computing.</note>
+</gnìomhair>

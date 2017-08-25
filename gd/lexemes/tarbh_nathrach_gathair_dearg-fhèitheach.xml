@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="tarbh_nathrach_gathair_dearg-fhèitheach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="tarbh_nathrach"/>
+  <part ref="gath"/>
+  <part ref="dearg-fhèitheach"/>
+  <form>
+    <orth>tarbh nathrach gathair dearg-fhèitheach</orth>
+  </form>
+  <form>
+    <orth>tairbh nathrach gathair dearg-fhèitheach</orth>
+  </form>
+  <trans>red-veined darter dragonfly</trans>
+  <trans>Sympetrum fonscolombii</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+</ainmear_fireann>

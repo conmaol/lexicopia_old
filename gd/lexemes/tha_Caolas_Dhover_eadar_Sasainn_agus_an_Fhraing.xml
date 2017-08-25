@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<lexeme id="tha_Caolas_Dhover_eadar_Sasainn_agus_an_Fhraing" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>tha Caolas Dhover eadar Sasainn agus an Fhraing</orth>
-    </form>
-    <trans>The Strait of Dover is between England and France</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>

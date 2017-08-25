@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="blog-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>blog</orth>
+  </form>
+  <form>
+    <orth>bloga</orth>
+  </form>
+  <form>
+    <orth>blogaichean</orth>
+  </form>
+  <trans>blog</trans>
+  <trans>weblog</trans>
+  <note>Listed in An Seotal: Computing.</note>
+</ainmear_fireann>

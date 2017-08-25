@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="Ungair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Ungair</orth>
+  </form>
+  <form>
+    <orth>Ungaire</orth>
+  </form>
+  <trans>Hungary</trans>
+  <note>Listed in An Seotal: Geography.</note>
+  <note>Used with definite article: an Ungair, na h-Ungaire.</note>
+</ainmear_boireann>

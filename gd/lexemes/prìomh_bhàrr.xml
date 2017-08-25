@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="prìomh_bhàrr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>prìomh bhàrr</orth>
-    </form>
-    <trans>main crop</trans>
-    <note>Listed in An Seotal: Science.</note>
-  </lexeme>
+  <part ref="prìomh-adj"/>
+  <part ref="bàrr"/>
+  <form>
+    <orth>prìomh bhàrr</orth>
+  </form>
+  <trans>main crop</trans>
+  <note>Listed in An Seotal: Science.</note>
+</lexeme>

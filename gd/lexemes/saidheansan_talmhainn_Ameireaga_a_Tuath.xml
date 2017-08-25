@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="saidheansan_talmhainn_Ameireaga_a_Tuath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="saidheansan_talmhainn"/>
+  <part ref="Ameireaga_a_Tuath"/>
+  <form>
+    <orth>saidheansan talmhainn Ameireaga a Tuath</orth>
+  </form>
+  <trans>earth sciences of North America</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

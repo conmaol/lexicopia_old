@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="oifigear_taice_teicnigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>oifigear taice teicnigeach</orth>
-    </form>
-    <trans>technical support officer</trans>
-    <note>Listed in An Seotal: General.</note>
-  </lexeme>
+  <part ref="oifigear_taice"/>
+  <form>
+    <orth>oifigear taice teicnigeach</orth>
+  </form>
+  <trans>technical support officer</trans>
+  <note>Listed in An Seotal: General.</note>
+</lexeme>

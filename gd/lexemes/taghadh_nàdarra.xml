@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="taghadh_nàdarra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>taghadh nàdarra</orth>
-    </form>
-    <trans>natural selection</trans>
-    <note>Listed in An Seotal: Science.</note>
-  </lexeme>
+  <part ref="nàdarra"/>
+  <form>
+    <orth>taghadh nàdarra</orth>
+  </form>
+  <trans>natural selection</trans>
+  <note>Listed in An Seotal: Science.</note>
+</lexeme>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="Eadailtis_Romàinis_agus_litreachasan_co-cheangailte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Eadailtis, Romàinis agus litreachasan co-cheangailte</orth>
-    </form>
-    <trans>Italian, Romanian and related literatures</trans>
-    <note>Listed in An Seotal: Language.</note>
-  </lexeme>
+  <part ref="Eadailtis"/>
+  <form>
+    <orth>Eadailtis, Romàinis agus litreachasan co-cheangailte</orth>
+  </form>
+  <trans>Italian, Romanian and related literatures</trans>
+  <note>Listed in An Seotal: Language.</note>
+</lexeme>

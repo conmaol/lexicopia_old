@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="fàs-verb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>fàs</orth>
+  </form>
+  <trans>grow</trans>
+  <trans>become</trans>
+  <trans>accrue</trans>
+  <trans>develop</trans>
+  <trans>get</trans>
+  <trans>shoot</trans>
+  <trans>spring</trans>
+  <trans>turn</trans>
+  <trans>wax</trans>
+  <trans>flourish</trans>
+  <trans>growing</trans>
+</gnìomhair>

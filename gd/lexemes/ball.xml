@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="ball" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>ball</orth>
-    </form>
-    <trans>ball</trans>
-  </ainmear_fireann>
+  <form>
+    <orth>ball</orth>
+  </form>
+  <form>
+    <orth>buill</orth>
+  </form>
+  <trans>member</trans>
+  <trans>organ</trans>
+  <trans>limb</trans>
+  <trans>article</trans>
+  <trans>rope</trans>
+  <trans>cord</trans>
+  <trans>spot</trans>
+  <trans>ball</trans>
+  <note>Oxford Children's Scottish Gaelic Visual Dictionary, p. 15.</note>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear_fireann>

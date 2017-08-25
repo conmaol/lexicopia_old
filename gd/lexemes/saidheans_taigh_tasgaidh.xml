@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="saidheans_taigh_tasgaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="saidheans"/>
+  <part ref="taigh_tasgaidh"/>
+  <form>
+    <orth>saidheans taigh tasgaidh</orth>
+  </form>
+  <trans>museum science</trans>
+  <note>Listed in An Seotal: Science.</note>
+</lexeme>

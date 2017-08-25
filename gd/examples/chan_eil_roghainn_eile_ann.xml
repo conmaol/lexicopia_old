@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<example id="chan_eil_roghainn_eile_ann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="roghainn_eile"/>
+  <form>
+    <orth>chan eil roghainn eile ann</orth>
+  </form>
+  <trans>there is no alternative</trans>
+  <note>Cited in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+</example>
