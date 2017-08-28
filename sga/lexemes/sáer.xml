@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="sáer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>sáer</orth>
+  </form>
+  <form>
+    <orth>saír</orth>
+  </form>
+  <form>
+    <orth>sáeru</orth>
+  </form>
+  <form>
+    <orth>sáeraib</orth>
+  </form>
+  <trans>carpenter</trans>
+  <trans>craftsman</trans>
+  <trans>artisan</trans>
+</masculine_noun>

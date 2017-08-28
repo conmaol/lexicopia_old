@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="carpat" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>carpat</orth>
+  </form>
+  <form>
+    <orth>carpait</orth>
+  </form>
+  <form>
+    <orth>carput</orth>
+  </form>
+  <form>
+    <orth>cairptiu</orth>
+  </form>
+  <form>
+    <orth>cairptib</orth>
+  </form>
+  <trans>chariot</trans>
+</masculine_noun>

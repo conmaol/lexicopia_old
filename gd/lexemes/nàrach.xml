@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="nàrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="nàr"/>
+  <form>
+    <orth>nàrach</orth>
+  </form>
+  <trans>ashamed</trans>
+  <trans>shamefaced</trans>
+  <trans>bashful</trans>
+</buadhair>

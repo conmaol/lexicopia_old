@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="dealas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>dealas</orth>
-    </form>
-    <trans>drive</trans>
-    <note>Listed in An Seotal: General.</note>
-    <note>drive - dealais poss c</note>
-  </ainmear_fireann>
+  <form>
+    <orth>dealas</orth>
+  </form>
+  <form>
+    <orth>dealais</orth>
+  </form>
+  <trans>eagerness</trans>
+  <trans>zeal</trans>
+  <trans>commitment</trans>
+  <trans>drive</trans>
+  <trans>warmth</trans>
+  <note>Listed in An Seotal: General.</note>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear_fireann>

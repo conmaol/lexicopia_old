@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="nél" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>nél</orth>
+  </form>
+  <form>
+    <orth>níuil</orth>
+  </form>
+  <form>
+    <orth>néul</orth>
+  </form>
+  <form>
+    <orth>níulu</orth>
+  </form>
+  <form>
+    <orth>nélaib</orth>
+  </form>
+  <form>
+    <orth>níul</orth>
+  </form>
+  <trans>cloud</trans>
+</masculine_noun>

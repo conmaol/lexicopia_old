@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="thoir_roghainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="roghainn"/>
+  <form>
+    <orth>thoir roghainn</orth>
+  </form>
+  <trans>take a choice</trans>
+  <trans>choose</trans>
+  <trans>give a choice</trans>
+  <trans>let choose</trans>
+</lexeme>

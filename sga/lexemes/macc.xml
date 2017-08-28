@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="macc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>macc</orth>
+  </form>
+  <form>
+    <orth>maicc</orth>
+  </form>
+  <form>
+    <orth>maccu</orth>
+  </form>
+  <form>
+    <orth>maccaibh</orth>
+  </form>
+  <trans>son</trans>
+  <trans>boy</trans>
+</masculine_noun>

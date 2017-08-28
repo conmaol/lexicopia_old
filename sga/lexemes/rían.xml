@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="rían" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>rían</orth>
+  </form>
+  <form>
+    <orth>réin</orth>
+  </form>
+  <form>
+    <orth>ríanu</orth>
+  </form>
+  <form>
+    <orth>ríanaib</orth>
+  </form>
+  <trans>ocean</trans>
+  <trans>sea</trans>
+</masculine_noun>

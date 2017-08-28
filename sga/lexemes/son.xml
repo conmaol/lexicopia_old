@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="son" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>son</orth>
+  </form>
+  <form>
+    <orth>suin</orth>
+  </form>
+  <form>
+    <orth>sun</orth>
+  </form>
+  <form>
+    <orth>sunu</orth>
+  </form>
+  <form>
+    <orth>sonaib</orth>
+  </form>
+  <trans>sound</trans>
+</masculine_noun>
+

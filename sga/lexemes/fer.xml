@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="fer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>fer</orth>
+  </form>
+  <form>
+    <orth>fir</orth>
+  </form>
+  <form>
+    <orth>fiur</orth>
+  </form>
+  <form>
+    <orth>firu</orth>
+  </form>
+  <form>
+    <orth>feraib</orth>
+  </form>
+  <trans>man</trans>
+</masculine_noun>

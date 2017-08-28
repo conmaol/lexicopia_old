@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexicon xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lexeme.xsd">
+  
+  <xi:include href="lexemes/ech.xml"/>
+  <xi:include href="lexemes/fer.xml"/>
+  <xi:include href="lexemes/son.xml"/>
+  <xi:include href="lexemes/macc.xml"/>
+  <xi:include href="lexemes/corp.xml"/>
+  <xi:include href="lexemes/sorn.xml"/>
+  <xi:include href="lexemes/bedg.xml"/>
+  <xi:include href="lexemes/roth.xml"/>
+  <xi:include href="lexemes/bech.xml"/>
+  <xi:include href="lexemes/ball.xml"/>
+  <xi:include href="lexemes/slóg.xml"/>
+  <xi:include href="lexemes/múr.xml"/>
+  <xi:include href="lexemes/én.xml"/>
+  <xi:include href="lexemes/nél.xml"/>
+  <xi:include href="lexemes/sáer.xml"/>
+  <xi:include href="lexemes/rían.xml"/>
+  <xi:include href="lexemes/fiach.xml"/>
+  <xi:include href="lexemes/claideb.xml"/>
+  <xi:include href="lexemes/salann.xml"/>
+  <xi:include href="lexemes/carpat.xml"/>
+  <xi:include href="lexemes/lóech.xml"/>
+  <xi:include href="lexemes/sacart.xml"/>
+  <xi:include href="lexemes/bél.xml"/>
+  
+</lexicon>

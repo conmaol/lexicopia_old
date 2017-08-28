@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="neo-sgàthach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="neo-"/>
+  <part ref="sgàthach"/>
+  <form>
+    <orth>neo-sgàthach</orth>
+  </form>
+  <trans>daring</trans>
+  <trans>dauntless</trans>
+  <trans>fearless</trans>
+  <trans>undauntedly</trans>
+</buadhair>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="màsach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="màs"/>
+  <form>
+    <orth>màsach</orth>
+  </form>
+  <trans>large-bottomed</trans>
+  <trans>large-hipped</trans>
+  <trans>fat-bottomed</trans>
+  <trans>broad-hipped</trans>
+</buadhair>

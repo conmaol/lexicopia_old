@@ -1,0 +1,301 @@
+{
+    "english_index": [
+        {
+            "en": "army",
+            "gds": [
+                {
+                    "id": "slóg",
+                    "form": "slóg"
+                }
+            ]
+        },
+        {
+            "en": "artisan",
+            "gds": [
+                {
+                    "id": "sáer",
+                    "form": "sáer"
+                }
+            ]
+        },
+        {
+            "en": "bee",
+            "gds": [
+                {
+                    "id": "bech",
+                    "form": "bech"
+                }
+            ]
+        },
+        {
+            "en": "bird",
+            "gds": [
+                {
+                    "id": "én",
+                    "form": "én"
+                }
+            ]
+        },
+        {
+            "en": "body",
+            "gds": [
+                {
+                    "id": "corp",
+                    "form": "corp"
+                }
+            ]
+        },
+        {
+            "en": "bound",
+            "gds": [
+                {
+                    "id": "bedg",
+                    "form": "bedg"
+                }
+            ]
+        },
+        {
+            "en": "boy",
+            "gds": [
+                {
+                    "id": "macc",
+                    "form": "macc"
+                }
+            ]
+        },
+        {
+            "en": "carpenter",
+            "gds": [
+                {
+                    "id": "sáer",
+                    "form": "sáer"
+                }
+            ]
+        },
+        {
+            "en": "chariot",
+            "gds": [
+                {
+                    "id": "carpat",
+                    "form": "carpat"
+                }
+            ]
+        },
+        {
+            "en": "cloud",
+            "gds": [
+                {
+                    "id": "nél",
+                    "form": "nél"
+                }
+            ]
+        },
+        {
+            "en": "craftsman",
+            "gds": [
+                {
+                    "id": "sáer",
+                    "form": "sáer"
+                }
+            ]
+        },
+        {
+            "en": "crowd",
+            "gds": [
+                {
+                    "id": "slóg",
+                    "form": "slóg"
+                }
+            ]
+        },
+        {
+            "en": "group",
+            "gds": [
+                {
+                    "id": "slóg",
+                    "form": "slóg"
+                }
+            ]
+        },
+        {
+            "en": "horse",
+            "gds": [
+                {
+                    "id": "ech",
+                    "form": "ech"
+                }
+            ]
+        },
+        {
+            "en": "host",
+            "gds": [
+                {
+                    "id": "slóg",
+                    "form": "slóg"
+                }
+            ]
+        },
+        {
+            "en": "leap",
+            "gds": [
+                {
+                    "id": "bedg",
+                    "form": "bedg"
+                }
+            ]
+        },
+        {
+            "en": "limb",
+            "gds": [
+                {
+                    "id": "ball",
+                    "form": "ball"
+                }
+            ]
+        },
+        {
+            "en": "lip",
+            "gds": [
+                {
+                    "id": "bél",
+                    "form": "bél"
+                }
+            ]
+        },
+        {
+            "en": "man",
+            "gds": [
+                {
+                    "id": "fer",
+                    "form": "fer"
+                }
+            ]
+        },
+        {
+            "en": "member",
+            "gds": [
+                {
+                    "id": "ball",
+                    "form": "ball"
+                }
+            ]
+        },
+        {
+            "en": "ocean",
+            "gds": [
+                {
+                    "id": "rían",
+                    "form": "rían"
+                }
+            ]
+        },
+        {
+            "en": "oven",
+            "gds": [
+                {
+                    "id": "sorn",
+                    "form": "sorn"
+                }
+            ]
+        },
+        {
+            "en": "priest",
+            "gds": [
+                {
+                    "id": "sacart",
+                    "form": "sacart"
+                }
+            ]
+        },
+        {
+            "en": "raven",
+            "gds": [
+                {
+                    "id": "fiach",
+                    "form": "fiach"
+                }
+            ]
+        },
+        {
+            "en": "salt",
+            "gds": [
+                {
+                    "id": "salann",
+                    "form": "salann"
+                }
+            ]
+        },
+        {
+            "en": "sea",
+            "gds": [
+                {
+                    "id": "rían",
+                    "form": "rían"
+                }
+            ]
+        },
+        {
+            "en": "son",
+            "gds": [
+                {
+                    "id": "macc",
+                    "form": "macc"
+                }
+            ]
+        },
+        {
+            "en": "sound",
+            "gds": [
+                {
+                    "id": "son",
+                    "form": "son"
+                }
+            ]
+        },
+        {
+            "en": "start",
+            "gds": [
+                {
+                    "id": "bedg",
+                    "form": "bedg"
+                }
+            ]
+        },
+        {
+            "en": "sword",
+            "gds": [
+                {
+                    "id": "claideb",
+                    "form": "claideb"
+                }
+            ]
+        },
+        {
+            "en": "wall",
+            "gds": [
+                {
+                    "id": "múr",
+                    "form": "múr"
+                }
+            ]
+        },
+        {
+            "en": "warrior",
+            "gds": [
+                {
+                    "id": "lóech",
+                    "form": "lóech"
+                }
+            ]
+        },
+        {
+            "en": "wheel",
+            "gds": [
+                {
+                    "id": "roth",
+                    "form": "roth"
+                }
+            ]
+        }
+    ]
+}

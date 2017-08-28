@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<example id="faodaidh_tu_do_roghainn_a_thoirt_às_na_leabhraichean_seo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="thoir_roghainn"/>
+  <part ref="leabhar"/>
+  <form>
+    <orth>faodaidh tu do roghainn a thoirt às na leabhraichean seo</orth>
+  </form>
+  <trans>you may take your choice of these books</trans>
+  <note>Cited in Colin Mark’s dictionary.</note>
+</example>
+
+
+
+
+

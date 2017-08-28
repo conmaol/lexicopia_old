@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<lexeme id="mo_naaire_ort" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Mo nàire ort!</orth>
-    </form>
-    <trans>Shame on you!</trans>
-    <note>Listed in TYGD.</note>
-  </lexeme>

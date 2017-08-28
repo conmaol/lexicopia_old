@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="an_roghainn_air" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="roghainn"/>
+  <form>
+    <orth>an roghainn air</orth>
+  </form>
+  <trans>in preference to</trans>
+  <trans>rather than</trans>
+</lexeme>

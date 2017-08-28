@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="pill" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>pill</orth>
+  </form>
+  <form>
+    <orth>pilleadh</orth>
+  </form>
+  <form>
+    <orth>pill</orth>
+  </form>
+  <trans>return</trans>
+  <trans>go back</trans>
+  <trans>come back</trans>
+  <trans>turn</trans>
+  <note>Listed in Dwelly.</note>
+</gnìomhair>

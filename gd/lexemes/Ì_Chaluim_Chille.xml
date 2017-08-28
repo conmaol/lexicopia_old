@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Ì_Chaluim_Chille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="Ì"/>
+  <part ref="Calum_Cille"/>
+  <form>
+    <orth>Ì Chaluim Chille</orth>
+  </form>
+  <trans>Iona</trans>
+</lexeme>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="roth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>roth</orth>
+  </form>
+  <form>
+    <orth>roith</orth>
+  </form>
+  <form>
+    <orth>routh</orth>
+  </form>
+  <form>
+    <orth>routhu</orth>
+  </form>
+  <form>
+    <orth>rothaib</orth>
+  </form>
+  <trans>wheel</trans>
+</masculine_noun>

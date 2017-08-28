@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="én" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>én</orth>
+  </form>
+  <form>
+    <orth>éuin</orth>
+  </form>
+  <form>
+    <orth>éun</orth>
+  </form>
+  <form>
+    <orth>éunu</orth>
+  </form>
+  <form>
+    <orth>énaib</orth>
+  </form>
+  <trans>bird</trans>
+</masculine_noun>

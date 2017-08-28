@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="fiach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>fiach</orth>
+  </form>
+  <form>
+    <orth>fiich</orth>
+  </form>
+  <form>
+    <orth>fiuch</orth>
+  </form>
+  <form>
+    <orth>fíuchu</orth>
+  </form>
+  <form>
+    <orth>fíachaib</orth>
+  </form>
+  <trans>raven</trans>
+</masculine_noun>

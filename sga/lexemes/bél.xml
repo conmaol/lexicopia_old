@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="bél" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>bél</orth>
+  </form>
+  <form>
+    <orth>béuil</orth>
+  </form>
+  <form>
+    <orth>béul</orth>
+  </form>
+  <form>
+    <orth>béulu</orth>
+  </form>
+  <form>
+    <orth>bélaib</orth>
+  </form>
+  <form>
+    <orth>béoil</orth>
+  </form>
+  <form>
+    <orth>béol</orth>
+  </form>
+  <trans>lip</trans>
+</masculine_noun>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="ball" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>ball</orth>
+  </form>
+  <form>
+    <orth>baill</orth>
+  </form>
+  <form>
+    <orth>baull</orth>
+  </form>
+  <form>
+    <orth>baullu</orth>
+  </form>
+  <form>
+    <orth>ballaibh</orth>
+  </form>
+  <trans>member</trans>
+  <trans>limb</trans>
+</masculine_noun>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="claideb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>claideb</orth>
+  </form>
+  <form>
+    <orth>claidib</orth>
+  </form>
+  <form>
+    <orth>claidiub</orth>
+  </form>
+  <form>
+    <orth>claidbiu</orth>
+  </form>
+  <form>
+    <orth>claidbib</orth>
+  </form>
+  <trans>sword</trans>
+</masculine_noun>

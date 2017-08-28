@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="le_roghainn_agus_le_dealas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="roghainn"/>
+  <part ref="dealas"/>
+  <form>
+    <orth>le roghainn agus le dealas</orth>
+  </form>
+  <trans>by choice and by commitment</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</lexeme>
+
+
+

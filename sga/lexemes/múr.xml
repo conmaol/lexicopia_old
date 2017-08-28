@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="múr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>múr</orth>
+  </form>
+  <form>
+    <orth>múir</orth>
+  </form>
+  <form>
+    <orth>múru</orth>
+  </form>
+  <form>
+    <orth>múraib</orth>
+  </form>
+  <trans>wall</trans>
+</masculine_noun>

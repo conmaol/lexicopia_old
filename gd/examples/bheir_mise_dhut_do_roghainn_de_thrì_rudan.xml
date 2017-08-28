@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<example id="bheir_mise_dhut_do_roghainn_de_thrì_rudan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="thoir_roghainn"/>
+  <part ref="rud"/>
+  <form>
+    <orth>bheir mise dhut do roghainn de thrì rudan</orth>
+  </form>
+  <trans>I’ll give you your choice out of three objects</trans>
+</example>
+
+
+

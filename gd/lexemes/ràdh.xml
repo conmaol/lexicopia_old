@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ràdh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>ràdh</orth>
+  </form>
+  <form>
+    <orth>ràdha</orth>
+  </form>
+  <trans>saying</trans>
+</lexeme>

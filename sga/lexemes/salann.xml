@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="salann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>salann</orth>
+  </form>
+  <form>
+    <orth>salainn</orth>
+  </form>
+  <form>
+    <orth>salunn</orth>
+  </form>
+  <trans>salt</trans>
+</masculine_noun>

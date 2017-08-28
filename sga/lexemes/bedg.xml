@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="bedg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>bedg</orth>
+  </form>
+  <form>
+    <orth>bidg</orth>
+  </form>
+  <form>
+    <orth>biudg</orth>
+  </form>
+  <form>
+    <orth>biudgu</orth>
+  </form>
+  <form>
+    <orth>bedgaib</orth>
+  </form>
+  <trans>leap</trans>
+  <trans>start</trans>
+  <trans>bound</trans>
+</masculine_noun>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<example id="bidh_e_a_sgrìobhadh_ann_an_Gàidhlig_an_roghainn_air_Beurla" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="an_roghainn_air"/>
+  <part ref="sgrìobh"/>
+  <part ref="Gàidhlig"/>
+  <part ref="Beurla"/>
+  <form>
+    <orth>bidh e a sgrìobhadh ann an Gàidhlig an roghainn air Beurla</orth>
+  </form>
+  <trans>he writes in Gaelic in preference to English</trans>
+  <note>Cited in Colin Mark’s dictionary.</note>
+</example>
+

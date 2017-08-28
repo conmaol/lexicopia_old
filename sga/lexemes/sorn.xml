@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="sorn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>sorn</orth>
+  </form>
+  <form>
+    <orth>suirn</orth>
+  </form>
+  <form>
+    <orth>surn</orth>
+  </form>
+  <form>
+    <orth>surnu</orth>
+  </form>
+  <form>
+    <orth>sornaib</orth>
+  </form>
+  <trans>oven</trans>
+</masculine_noun>

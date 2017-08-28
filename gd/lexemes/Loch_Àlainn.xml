@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Loch_Àlainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="loch"/>
+  <part ref="àlainn"/>
+  <form>
+    <orth>Loch Àlainn</orth>
+  </form>
+  <trans>Lochaline</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

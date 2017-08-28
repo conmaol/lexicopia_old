@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="slóg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>slóg</orth>
+  </form>
+  <form>
+    <orth>slóig</orth>
+  </form>
+  <form>
+    <orth>slógu</orth>
+  </form>
+  <form>
+    <orth>slógaib</orth>
+  </form>
+  <form>
+    <orth>slúag</orth>
+  </form>
+  <trans>host</trans>
+  <trans>army</trans>
+  <trans>crowd</trans>
+  <trans>group</trans>
+</masculine_noun>

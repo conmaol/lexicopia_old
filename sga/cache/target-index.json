@@ -1,0 +1,554 @@
+{
+    "target_index": [
+        {
+            "word": "baill",
+            "id": "ball",
+            "en": "member, limb"
+        },
+        {
+            "word": "ball",
+            "id": "ball",
+            "en": "member, limb"
+        },
+        {
+            "word": "ballaibh",
+            "id": "ball",
+            "en": "member, limb"
+        },
+        {
+            "word": "baull",
+            "id": "ball",
+            "en": "member, limb"
+        },
+        {
+            "word": "baullu",
+            "id": "ball",
+            "en": "member, limb"
+        },
+        {
+            "word": "bech",
+            "id": "bech",
+            "en": "bee"
+        },
+        {
+            "word": "bechaib",
+            "id": "bech",
+            "en": "bee"
+        },
+        {
+            "word": "bedg",
+            "id": "bedg",
+            "en": "leap, start, bound"
+        },
+        {
+            "word": "bedgaib",
+            "id": "bedg",
+            "en": "leap, start, bound"
+        },
+        {
+            "word": "beich",
+            "id": "bech",
+            "en": "bee"
+        },
+        {
+            "word": "beuch",
+            "id": "bech",
+            "en": "bee"
+        },
+        {
+            "word": "beuchu",
+            "id": "bech",
+            "en": "bee"
+        },
+        {
+            "word": "bidg",
+            "id": "bedg",
+            "en": "leap, start, bound"
+        },
+        {
+            "word": "biudg",
+            "id": "bedg",
+            "en": "leap, start, bound"
+        },
+        {
+            "word": "biudgu",
+            "id": "bedg",
+            "en": "leap, start, bound"
+        },
+        {
+            "word": "bél",
+            "id": "bél",
+            "en": "lip"
+        },
+        {
+            "word": "bélaib",
+            "id": "bél",
+            "en": "lip"
+        },
+        {
+            "word": "béoil",
+            "id": "bél",
+            "en": "lip"
+        },
+        {
+            "word": "béol",
+            "id": "bél",
+            "en": "lip"
+        },
+        {
+            "word": "béuil",
+            "id": "bél",
+            "en": "lip"
+        },
+        {
+            "word": "béul",
+            "id": "bél",
+            "en": "lip"
+        },
+        {
+            "word": "béulu",
+            "id": "bél",
+            "en": "lip"
+        },
+        {
+            "word": "cairptib",
+            "id": "carpat",
+            "en": "chariot"
+        },
+        {
+            "word": "cairptiu",
+            "id": "carpat",
+            "en": "chariot"
+        },
+        {
+            "word": "carpait",
+            "id": "carpat",
+            "en": "chariot"
+        },
+        {
+            "word": "carpat",
+            "id": "carpat",
+            "en": "chariot"
+        },
+        {
+            "word": "carput",
+            "id": "carpat",
+            "en": "chariot"
+        },
+        {
+            "word": "claidbib",
+            "id": "claideb",
+            "en": "sword"
+        },
+        {
+            "word": "claidbiu",
+            "id": "claideb",
+            "en": "sword"
+        },
+        {
+            "word": "claideb",
+            "id": "claideb",
+            "en": "sword"
+        },
+        {
+            "word": "claidib",
+            "id": "claideb",
+            "en": "sword"
+        },
+        {
+            "word": "claidiub",
+            "id": "claideb",
+            "en": "sword"
+        },
+        {
+            "word": "corp",
+            "id": "corp",
+            "en": "body"
+        },
+        {
+            "word": "corpaib",
+            "id": "corp",
+            "en": "body"
+        },
+        {
+            "word": "cuirp",
+            "id": "corp",
+            "en": "body"
+        },
+        {
+            "word": "curp",
+            "id": "corp",
+            "en": "body"
+        },
+        {
+            "word": "curpu",
+            "id": "corp",
+            "en": "body"
+        },
+        {
+            "word": "ech",
+            "id": "ech",
+            "en": "horse"
+        },
+        {
+            "word": "echaib",
+            "id": "ech",
+            "en": "horse"
+        },
+        {
+            "word": "echu",
+            "id": "ech",
+            "en": "horse"
+        },
+        {
+            "word": "eich",
+            "id": "ech",
+            "en": "horse"
+        },
+        {
+            "word": "eoch",
+            "id": "ech",
+            "en": "horse"
+        },
+        {
+            "word": "eochu",
+            "id": "ech",
+            "en": "horse"
+        },
+        {
+            "word": "euch",
+            "id": "ech",
+            "en": "horse"
+        },
+        {
+            "word": "euchu",
+            "id": "ech",
+            "en": "horse"
+        },
+        {
+            "word": "fer",
+            "id": "fer",
+            "en": "man"
+        },
+        {
+            "word": "feraib",
+            "id": "fer",
+            "en": "man"
+        },
+        {
+            "word": "fiach",
+            "id": "fiach",
+            "en": "raven"
+        },
+        {
+            "word": "fiich",
+            "id": "fiach",
+            "en": "raven"
+        },
+        {
+            "word": "fir",
+            "id": "fer",
+            "en": "man"
+        },
+        {
+            "word": "firu",
+            "id": "fer",
+            "en": "man"
+        },
+        {
+            "word": "fiuch",
+            "id": "fiach",
+            "en": "raven"
+        },
+        {
+            "word": "fiur",
+            "id": "fer",
+            "en": "man"
+        },
+        {
+            "word": "fíachaib",
+            "id": "fiach",
+            "en": "raven"
+        },
+        {
+            "word": "fíuchu",
+            "id": "fiach",
+            "en": "raven"
+        },
+        {
+            "word": "loích",
+            "id": "lóech",
+            "en": "warrior"
+        },
+        {
+            "word": "láech",
+            "id": "lóech",
+            "en": "warrior"
+        },
+        {
+            "word": "lóech",
+            "id": "lóech",
+            "en": "warrior"
+        },
+        {
+            "word": "macc",
+            "id": "macc",
+            "en": "son, boy"
+        },
+        {
+            "word": "maccaibh",
+            "id": "macc",
+            "en": "son, boy"
+        },
+        {
+            "word": "maccu",
+            "id": "macc",
+            "en": "son, boy"
+        },
+        {
+            "word": "maicc",
+            "id": "macc",
+            "en": "son, boy"
+        },
+        {
+            "word": "múir",
+            "id": "múr",
+            "en": "wall"
+        },
+        {
+            "word": "múr",
+            "id": "múr",
+            "en": "wall"
+        },
+        {
+            "word": "múraib",
+            "id": "múr",
+            "en": "wall"
+        },
+        {
+            "word": "múru",
+            "id": "múr",
+            "en": "wall"
+        },
+        {
+            "word": "nél",
+            "id": "nél",
+            "en": "cloud"
+        },
+        {
+            "word": "nélaib",
+            "id": "nél",
+            "en": "cloud"
+        },
+        {
+            "word": "néul",
+            "id": "nél",
+            "en": "cloud"
+        },
+        {
+            "word": "níuil",
+            "id": "nél",
+            "en": "cloud"
+        },
+        {
+            "word": "níul",
+            "id": "nél",
+            "en": "cloud"
+        },
+        {
+            "word": "níulu",
+            "id": "nél",
+            "en": "cloud"
+        },
+        {
+            "word": "roith",
+            "id": "roth",
+            "en": "wheel"
+        },
+        {
+            "word": "roth",
+            "id": "roth",
+            "en": "wheel"
+        },
+        {
+            "word": "rothaib",
+            "id": "roth",
+            "en": "wheel"
+        },
+        {
+            "word": "routh",
+            "id": "roth",
+            "en": "wheel"
+        },
+        {
+            "word": "routhu",
+            "id": "roth",
+            "en": "wheel"
+        },
+        {
+            "word": "réin",
+            "id": "rían",
+            "en": "ocean, sea"
+        },
+        {
+            "word": "rían",
+            "id": "rían",
+            "en": "ocean, sea"
+        },
+        {
+            "word": "ríanaib",
+            "id": "rían",
+            "en": "ocean, sea"
+        },
+        {
+            "word": "ríanu",
+            "id": "rían",
+            "en": "ocean, sea"
+        },
+        {
+            "word": "sacairt",
+            "id": "sacart",
+            "en": "priest"
+        },
+        {
+            "word": "sacart",
+            "id": "sacart",
+            "en": "priest"
+        },
+        {
+            "word": "salainn",
+            "id": "salann",
+            "en": "salt"
+        },
+        {
+            "word": "salann",
+            "id": "salann",
+            "en": "salt"
+        },
+        {
+            "word": "salunn",
+            "id": "salann",
+            "en": "salt"
+        },
+        {
+            "word": "saír",
+            "id": "sáer",
+            "en": "carpenter, craftsman, artisan"
+        },
+        {
+            "word": "slóg",
+            "id": "slóg",
+            "en": "host, army, crowd, group"
+        },
+        {
+            "word": "slógaib",
+            "id": "slóg",
+            "en": "host, army, crowd, group"
+        },
+        {
+            "word": "slógu",
+            "id": "slóg",
+            "en": "host, army, crowd, group"
+        },
+        {
+            "word": "slóig",
+            "id": "slóg",
+            "en": "host, army, crowd, group"
+        },
+        {
+            "word": "slúag",
+            "id": "slóg",
+            "en": "host, army, crowd, group"
+        },
+        {
+            "word": "son",
+            "id": "son",
+            "en": "sound"
+        },
+        {
+            "word": "sonaib",
+            "id": "son",
+            "en": "sound"
+        },
+        {
+            "word": "sorn",
+            "id": "sorn",
+            "en": "oven"
+        },
+        {
+            "word": "sornaib",
+            "id": "sorn",
+            "en": "oven"
+        },
+        {
+            "word": "suin",
+            "id": "son",
+            "en": "sound"
+        },
+        {
+            "word": "suirn",
+            "id": "sorn",
+            "en": "oven"
+        },
+        {
+            "word": "sun",
+            "id": "son",
+            "en": "sound"
+        },
+        {
+            "word": "sunu",
+            "id": "son",
+            "en": "sound"
+        },
+        {
+            "word": "surn",
+            "id": "sorn",
+            "en": "oven"
+        },
+        {
+            "word": "surnu",
+            "id": "sorn",
+            "en": "oven"
+        },
+        {
+            "word": "sáer",
+            "id": "sáer",
+            "en": "carpenter, craftsman, artisan"
+        },
+        {
+            "word": "sáeraib",
+            "id": "sáer",
+            "en": "carpenter, craftsman, artisan"
+        },
+        {
+            "word": "sáeru",
+            "id": "sáer",
+            "en": "carpenter, craftsman, artisan"
+        },
+        {
+            "word": "én",
+            "id": "én",
+            "en": "bird"
+        },
+        {
+            "word": "énaib",
+            "id": "én",
+            "en": "bird"
+        },
+        {
+            "word": "éuin",
+            "id": "én",
+            "en": "bird"
+        },
+        {
+            "word": "éun",
+            "id": "én",
+            "en": "bird"
+        },
+        {
+            "word": "éunu",
+            "id": "én",
+            "en": "bird"
+        }
+    ]
+}
