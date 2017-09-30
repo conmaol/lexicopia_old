@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="còig-bhliadhnail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="còig"/>
+  <part ref="bliadhnail"/>
+  <form>
+    <orth>còig-bhliadhnail</orth>
+  </form>
+  <form>
+    <orth>còig-bhliannail</orth>
+  </form>
+  <trans>quinquennial</trans>
+  <trans>five yearly</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</buadhair>

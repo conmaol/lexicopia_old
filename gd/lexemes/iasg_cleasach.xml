@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="iasg_cleasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="iasg"/>
+  <form>
+    <orth>iasg cleasach</orth>
+  </form>
+  <trans>clown fish</trans>
+  <note>Listed in An Seotal: Science.</note>
+</ainmear_fillte>

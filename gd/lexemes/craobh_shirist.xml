@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_boireann id="craobh_shirist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>craobh shirist</orth>
-    </form>
-    <trans>cherry tree</trans>
-    <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
-  </ainmear_boireann>
+  <part ref="craobh"/>
+  <part ref="sirist"/>
+  <form>
+    <orth>craobh shirist</orth>
+  </form>
+  <trans>cherry tree</trans>
+  <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
+</ainmear_boireann>

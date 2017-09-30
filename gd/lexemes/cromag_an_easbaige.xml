@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cromag_an_easbaige" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="cromag"/>
+  <part ref="easbaig"/>
+  <form>
+    <orth>cromag an easbaige</orth>
+  </form>
+  <trans index="only">crozier</trans>
+  <trans>crosier</trans>
+  <trans>bishop’s staff</trans>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</lexeme>
+

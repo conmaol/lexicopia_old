@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="craobh_durcain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="craobh"/>
+  <form>
+    <orth>craobh durcain</orth>
+  </form>
+  <form>
+    <orth>craobhan durcain</orth>
+  </form>
+  <trans>conifer</trans>
+  <note>Listed in An Seotal: Science.</note>
+</ainmear_boireann>

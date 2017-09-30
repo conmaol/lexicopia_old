@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="Pàpanach-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="pàpa"/>
+  <form>
+    <orth>Pàpanach</orth>
+  </form>
+  <form>
+    <orth>Pàpanaich</orth>
+  </form>
+  <trans>Roman Catholic</trans>
+  <trans index="only">Catholic</trans>
+  <trans>Papist</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+  <note>Also used as a masculine noun, meaning a follower of the faith.</note>
+</buadhair>

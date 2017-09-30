@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="seata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>seata</orth>
-    </form>
-    <trans>set</trans>
-    <note>Listed in An Seotal: Maths, Computing.</note>
-    <note>set - seata poss csets - seataichean pl</note>
-  </ainmear_fireann>
+  <form>
+    <orth>seata</orth>
+  </form>
+  <form>
+    <orth>seataichean</orth>
+  </form>
+  <trans>set</trans>
+  <note>Listed in An Seotal: Maths, Computing.</note>
+</ainmear_fireann>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ròn_bèine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="ròn"/>
+  <part ref="bian"/>
+  <form>
+    <orth>ròn bèine</orth>
+  </form>
+  <form>
+    <orth>ròin bhèine</orth>
+  </form>
+  <trans>fur seal</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+</ainmear_boireann>

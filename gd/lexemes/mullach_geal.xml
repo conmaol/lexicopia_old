@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="mullach_geal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="mullach"/>
+  <part ref="geal"/>
+  <form>
+    <orth>mullach geal</orth>
+  </form>
+  <topic ref="clothing"/>
+  <topic ref="church"/>
+  <trans>surplice</trans>
+  <trans>cotta</trans>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</ainmear_fillte>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ròn_calaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="ròn"/>
+  <form>
+    <orth>ròn calaidh</orth>
+  </form>
+  <form>
+    <orth>ròin chalaidh</orth>
+  </form>
+  <trans>harbour seal</trans>
+  <trans>common seal</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  <note>Synonyms: ròn cumanta</note>
+  <note>Plurals: ròin-chalaidh, ròin chumanta </note>
+  <note>Latin: (Phoca vitulina)</note>
+</ainmear_boireann>

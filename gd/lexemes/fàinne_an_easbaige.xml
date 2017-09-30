@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="fàinne_an_easbaige" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="fàinne"/>
+  <part ref="easbaig"/>
+  <form>
+    <orth>fàinne an easbaige</orth>
+  </form>
+  <trans>episcopal ring</trans>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</lexeme>

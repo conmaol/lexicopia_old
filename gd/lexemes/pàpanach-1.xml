@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="pàpanach-1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="pàpa"/>
+  <form>
+    <orth>pàpanach</orth>
+  </form>
+  <trans>papal</trans>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</buadhair>

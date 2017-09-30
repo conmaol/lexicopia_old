@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="snàithlean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>snàithlean</orth>
+  </form>
+  <form>
+    <orth>snàithlein</orth>
+  </form>
+  <form>
+    <orth>snàithleanan</orth>
+  </form>
+  <trans>thread</trans>
+  <note>Listed in An Seotal: Computing.</note>
+</ainmear_fireann>

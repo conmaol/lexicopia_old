@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<lexeme id="suugh_feoola" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>sùgh feòla</orth>
-    </form>
-    <trans>gravy</trans>
-    <note>Listed in CM.</note>
-  </lexeme>

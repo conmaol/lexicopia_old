@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="leughadair_dealain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="leughadair"/>
+  <form>
+    <orth>leughadair dealain</orth>
+  </form>
+  <trans>e-book reader</trans>
+  <note>Listed in An Seotal: Computing.</note>
+</lexeme>

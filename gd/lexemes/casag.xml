@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="casag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>casag</orth>
+  </form>
+  <form>
+    <orth>casaig</orth>
+  </form>
+  <form>
+    <orth>casaige</orth>
+  </form>
+  <form>
+    <orth>casagan</orth>
+  </form>
+  <topic ref="clothing"/>
+  <topic ref="church"/>
+  <trans>cassock</trans>
+  <trans>tunic</trans>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</ainmear_boireann>

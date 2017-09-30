@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="gùn_dubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="gùn"/>
+  <part ref="dubh"/>
+  <form>
+    <orth>gùn dubh</orth>
+  </form>
+  <form>
+    <orth>gòn dubh</orth>
+  </form>
+  <topic ref="church"/>
+  <trans>cassock</trans>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</ainmear_fillte>

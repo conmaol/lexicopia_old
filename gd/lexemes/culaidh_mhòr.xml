@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="culaidh_mhòr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="culaidh"/>
+  <part ref="mòr"/>
+  <form>
+    <orth>culaidh mhòr</orth>
+  </form>
+  <topic ref="church"/>
+  <trans>cope</trans>
+  <note>Listed in DASG Fieldwork Archive.</note>
+</lexeme>

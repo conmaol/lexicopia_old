@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="àrd_easbaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="àrd"/>
+  <part ref="easbaig"/>
+  <form>
+    <orth>àrd easbaig</orth>
+  </form>
+  <form>
+    <orth>àrd easbaige</orth>
+  </form>
+  <form>
+    <orth>àrd easbaigean</orth>
+  </form>
+  <form>
+    <orth>àrd easbuig</orth>
+  </form>
+  <form>
+    <orth>àrd easbuige</orth>
+  </form>
+  <form>
+    <orth>àrd easbuigean</orth>
+  </form>
+  <trans>archbishop</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</ainmear_fillte>
+

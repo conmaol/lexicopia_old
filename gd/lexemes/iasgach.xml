@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="iasgach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>iasgach</orth>
-    </form>
-    <trans>fishing</trans>
-    <note>Listed in An Seotal: General.</note>
-    <note>fishing - iasgaich poss c</note>
-  </ainmear_fireann>
+  <part ref="iasgaich"/>
+  <form>
+    <orth>iasgach</orth>
+  </form>
+  <form>
+    <orth>iasgaich</orth>
+  </form>
+  <trans>fishing</trans>
+  <note>Listed in An Seotal: General.</note>
+</ainmear_fireann>

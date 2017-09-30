@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="iasgaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="iasg"/>
+  <form>
+    <orth>iasgaich</orth>
+  </form>
+  <form>
+    <orth>iasgach</orth>
+  </form>
+  <trans>fish</trans>
+  <note>Listed in An Seotal: General.</note>
+</gnìomhair>

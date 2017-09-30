@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="iasg_tòcaidh_breac" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="iasg_tòcaidh"/>
+  <part ref="breac-adj"/>
+  <form>
+    <orth>iasg tòcaidh breac</orth>
+  </form>
+  <trans>white-spotted puffer fish</trans>
+  <note>Listed in An Seotal: Science.</note>
+</lexeme>

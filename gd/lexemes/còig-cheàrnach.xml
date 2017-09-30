@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="còig-cheàrnach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>còig-cheàrnach</orth>
-    </form>
-    <trans>pentagon</trans>
-    <note>Listed in An Seotal: Maths.</note>
-    <note>pentagon - còig-cheàrnaich poss cpentagons - còig-cheàrnachan pl</note>
-  </ainmear_fireann>
+  <part ref="còig"/>
+  <part ref="ceàrn"/>
+  <form>
+    <orth>còig-cheàrnach</orth>
+  </form>
+  <form>
+    <orth>còig-cheàrnaich</orth>
+  </form>
+  <form>
+    <orth>còig-cheàrnachan</orth>
+  </form>
+  <form>
+    <orth>còig-cheàrnaichean</orth>
+  </form>
+  <trans>pentagon</trans>
+  <note>Listed in An Seotal: Maths.</note>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic dictionary.</note>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear_fireann>

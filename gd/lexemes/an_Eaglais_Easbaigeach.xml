@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="an_Eaglais_Easbaigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>an Eaglais Easbaigeach</orth>
-    </form>
-    <trans>the Episcopal Church</trans>
-    <note>Listed in An Seotal: Religious and Moral.</note>
-  </lexeme>
+  <part ref="eaglais"/>
+  <part ref="easbaigeach"/>
+  <form>
+    <orth>an Eaglais Easbaigeach</orth>
+  </form>
+  <trans index="no">the Episcopal Church</trans>
+  <trans index="only">Episcopal Church</trans>
+  <note>Listed in An Seotal: Religious and Moral.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</lexeme>

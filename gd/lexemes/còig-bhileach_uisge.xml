@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="còig-bhileach_uisge" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="còig-bhileach"/>
+  <part ref="uisge"/>
+  <form>
+    <orth>còig-bhileach uisge</orth>
+  </form>
+  <trans>marsh cinquefoil</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear_fillte>
+

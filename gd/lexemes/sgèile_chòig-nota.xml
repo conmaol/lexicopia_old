@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sgèile_chòig-nota" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="sgèile"/>
+  <part ref="còig-nota"/>
+  <form>
+    <orth>sgèile chòig-nota</orth>
+  </form>
+  <form>
+    <orth>sgèilean còig-nota</orth>
+  </form>
+  <form>
+    <orth>sgèilichean còig-nota</orth>
+  </form>
+  <trans>pentatonic scale</trans>
+  <note>Listed in An Seotal: Music.</note>
+</lexeme>

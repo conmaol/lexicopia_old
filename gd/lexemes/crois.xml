@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_boireann id="crois" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>crois</orth>
-    </form>
-    <trans>cross</trans>
-    <note>Listed in An Seotal: General.</note>
-    <note>cross - croise poss ccrosses - croisean pl</note>
-  </ainmear_boireann>
+  <form>
+    <orth>crois</orth>
+  </form>
+  <topic ref="clothing"/>
+  <trans>cross</trans>
+  <note>Listed in An Seotal: General.</note>
+  <note>cross - croise poss ccrosses - croisean pl</note>
+</ainmear_boireann>

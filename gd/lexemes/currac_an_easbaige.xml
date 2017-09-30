@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="currac_an_easbaige" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="currac"/>
+  <part ref="easbaig"/>
+  <form>
+    <orth>currac an easbaige</orth>
+  </form>
+  <trans>zucchetto</trans>
+  <trans>skullcap</trans>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</lexeme>

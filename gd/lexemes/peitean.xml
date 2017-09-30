@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="peitean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>peitean</orth>
+  </form>
+  <form>
+    <orth>peitein</orth>
+  </form>
+  <form>
+    <orth>peiteanan</orth>
+  </form>
+  <form>
+    <orth>peiteag</orth>
+  </form>
+  <topic ref="clothing"/>
+  <trans>waistcoat</trans>
+  <trans>doublet</trans>
+  <trans>vest</trans>
+  <trans>sweater</trans>
+  <trans>jersey</trans>
+  <trans>vest stock</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+  <note>Also in DASG Fieldwork Archive as feminine diminutive: peiteag, meaning ‘vest stock’ (clerical garb).</note>
+</ainmear_fireann>
+

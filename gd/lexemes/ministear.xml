@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="ministear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>ministear</orth>
-    </form>
-    <trans>minister</trans>
-  </ainmear_fireann>
+  <form>
+    <orth>ministear</orth>
+  </form>
+  <form>
+    <orth>ministeir</orth>
+  </form>
+  <topic ref="church"/>
+  <topic ref="person"/>
+  <trans>minister</trans>
+</ainmear_fireann>

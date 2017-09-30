@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="clèireachail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="clèireach"/>
+  <form>
+    <orth>clèireachail</orth>
+  </form>
+  <trans>clerical</trans>
+  <trans>presbyteral</trans>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</buadhair>
+

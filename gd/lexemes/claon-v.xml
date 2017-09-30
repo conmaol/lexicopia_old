@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<gnìomhair id="claon-v" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>claon</orth>
-    </form>
-    <trans>slope</trans>
-    <note>Listed in An Seotal: Maths.</note>
-  </gnìomhair>

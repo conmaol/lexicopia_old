@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="paraiste_Dhiùranais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>paraiste Dhiùranais</orth>
-    </form>
-    <trans>parish of Durness</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+  <part ref="paraiste"/>
+  <part ref="Diùranais"/>
+  <form>
+    <orth>paraiste Dhiùranais</orth>
+  </form>
+  <trans index="only">parish of Durness</trans>
+  <trans index="no">the parish of Durness</trans>
+  <trans>Durness parish</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Comhairle_Easbaigean_Alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="comhairle_nan_easbaigean"/>
+  <form>
+    <orth>Comhairle Easbaigean Alba</orth>
+  </form>
+  <form>
+    <orth>Comhairle Easbuigean Alba</orth>
+  </form>
+  <trans index="no">the Bishops’ Conference of Scotland</trans>
+  <trans index="only">Bishops’ Conference of Scotland</trans>
+  <trans index="no">the Scottish Episcopal Conference</trans>
+  <trans index="only">Scottish Episcopal Conference</trans>
+  <note>Body in the Catholic Church.</note>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</lexeme>
+

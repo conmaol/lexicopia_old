@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="steàrnag_an_earbaill" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="steàrnag"/>
+  <part ref="earball"/>
+  <form>
+    <orth>steàrnag an earbaill</orth>
+  </form>
+  <trans>arctic tern</trans>
+  <trans>Sterna paradisaea</trans>
+  <note>Listed in AFB.</note>
+</ainmear_boireann>

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="indeacs" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>indeacs</orth>
-    </form>
-    <trans>index</trans>
-    <note>Listed in An Seotal: Maths.</note>
-    <note>index - indeacs poss cindexes - indeacsan pl</note>
-  </ainmear_fireann>
+  <form>
+    <orth>indeacs</orth>
+  </form>
+  <form>
+    <orth>indeacsan</orth>
+  </form>
+  <trans>index</trans>
+  <note>Listed in An Seotal: Maths.</note>
+</ainmear_fireann>

@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="claon-shealladh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>claon-shealladh </orth>
-    </form>
-    <trans>oblique projection</trans>
-    <note>Listed in An Seotal: Technology.</note>
-  </lexeme>
+  <part ref="claon-adj"/>
+  <part ref="sealladh"/>
+  <form>
+    <orth>claon-shealladh </orth>
+  </form>
+  <trans>oblique projection</trans>
+  <note>Listed in An Seotal: Technology.</note>
+</lexeme>

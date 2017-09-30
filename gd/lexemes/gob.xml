@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="gob" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>gob</orth>
-    </form>
-    <trans>bill</trans>
-    <trans>beak</trans>
-    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-    <note>Synonyms: smut m</note>
-    <note>Plurals: guib / goban, smutan </note>
-  </ainmear_fireann>
+  <form>
+    <orth>gob</orth>
+  </form>
+  <form>
+    <orth>guib</orth>
+  </form>
+  <form>
+    <orth>goban</orth>
+  </form>
+  <trans>bill</trans>
+  <trans>beak</trans>
+  <trans index="only">point</trans>
+  <trans>sharp point</trans>
+  <trans>gob</trans>
+  <trans>mouth</trans>
+  <trans>neb</trans>
+  <trans>nib</trans>
+  <trans>vertex</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  <note>Synonyms: smut m</note>
+  <note>Plurals: guib / goban, smutan </note>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s dictionary.</note>
+  <note>Denotes the sharp point of a ‘dubhan’ (fish hook).</note>
+</ainmear_fireann>

@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="èideadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>èideadh</orth>
-    </form>
-    <trans>costume</trans>
-    <note>Listed in An Seotal: Home economics.</note>
-    <note>costume - èididh poss ccostumes - èididhean pl</note>
-  </ainmear_fireann>
+  <part ref="èid"/>
+  <form>
+    <orth>èideadh</orth>
+  </form>
+  <form>
+    <orth>èididh</orth>
+  </form>
+  <form>
+    <orth>èididhean</orth>
+  </form>
+  <trans>costume</trans>
+  <trans>clothing</trans>
+  <trans>dress</trans>
+  <trans>garb</trans>
+  <trans>uniform</trans>
+  <trans>habit</trans>
+  <note>Listed in An Seotal: Home economics.</note>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</ainmear_fireann>

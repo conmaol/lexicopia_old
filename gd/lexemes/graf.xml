@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="graf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>graf</orth>
-    </form>
-    <trans>graph</trans>
-    <note>Listed in An Seotal: Maths.</note>
-    <note>graph - grafa poss cgraphs - grafaichean pl</note>
-  </ainmear_fireann>
+  <form>
+    <orth>graf</orth>
+  </form>
+  <form>
+    <orth>grafa</orth>
+  </form>
+  <form>
+    <orth>grafaichean</orth>
+  </form>
+  <trans>graph</trans>
+  <note>Listed in An Seotal: Maths.</note>
+</ainmear_fireann>

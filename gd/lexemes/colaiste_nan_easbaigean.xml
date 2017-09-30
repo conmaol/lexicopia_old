@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="colaiste_nan_easbaigean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="colaiste"/>
+  <part ref="easbaig"/>
+  <form>
+    <orth>colaiste nan easbaigean</orth>
+  </form>
+  <form>
+    <orth>colaistean nan easbaigean</orth>
+  </form>
+  <form>
+    <orth>colaisde nan easbuigean</orth>
+  </form>
+  <trans>college of bishops</trans>
+  <trans>episcopal college</trans>
+  <note>Body in the Scottish Episcopal Church.</note>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</lexeme>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="claon-verb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="claon-adj"/>
+  <form>
+    <orth>claon</orth>
+  </form>
+  <form>
+    <orth>claonadh</orth>
+  </form>
+  <trans>slope</trans>
+  <trans>veer</trans>
+  <trans>incline</trans>
+  <trans>decline</trans>
+  <trans>deflect</trans>
+  <trans>deviate</trans>
+  <trans>divert</trans>
+  <trans>heel</trans>
+  <trans>lean</trans>
+  <trans>pervert</trans>
+  <trans>slant</trans>
+  <trans>swerve</trans>
+  <trans>tilt</trans>
+  <trans>verge</trans>
+  <trans>warp</trans>
+  <note>Listed in An Seotal: Maths, as ‘slope’.</note>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</gnìomhair>

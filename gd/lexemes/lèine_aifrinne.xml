@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="lèine_aifrinne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="lèine"/>
+  <part ref="aifreann"/>
+  <form>
+    <orth>lèine aifrinne</orth>
+  </form>
+  <form>
+    <orth>lèine aifhrionn</orth>
+  </form>
+  <trans>alb</trans>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</ainmear_fillte>

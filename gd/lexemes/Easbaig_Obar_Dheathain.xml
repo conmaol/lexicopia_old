@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="Easbaig_Obar_Dheathain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="easbaig"/>
+  <part ref="Obar_Dheathain"/>
+  <form>
+    <orth>Easbaig Obar Dheathain</orth>
+  </form>
+  <trans index="no">the Bishop of Aberdeen</trans>
+  <trans index="only">Bishop of Aberdeen</trans>
+</ainmear_fillte>

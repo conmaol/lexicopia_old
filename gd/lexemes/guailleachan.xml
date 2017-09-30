@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="guailleachan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="gualann"/>
+  <form>
+    <orth>guailleachan</orth>
+  </form>
+  <topic ref="clothing"/>
+  <topic ref="church"/>
+  <trans>humeral veil</trans>
+  <trans index="only">veil</trans>
+  <note>Listed in DASG Fieldwork Archive.</note>
+</lexeme>
+

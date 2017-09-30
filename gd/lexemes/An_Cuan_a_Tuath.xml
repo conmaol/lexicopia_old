@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="An_Cuan_a_Tuath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>An Cuan a Tuath</orth>
-    </form>
-    <trans>North Sea</trans>
-    <note>Listed in An Seotal: Geography.</note>
-    <note>North Sea - a' Chuain a Tuath poss c</note>
-  </ainmear_fireann>
+<ainmear_fireann id="an_Cuan_a_Tuath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="cuan"/>
+  <form>
+    <orth>an Cuan a Tuath</orth>
+  </form>
+  <form>
+    <orth>a’ Chuain a Tuath</orth>
+  </form>
+  <trans index="no">the North Sea</trans>
+  <trans index="only">North Sea</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</ainmear_fireann>

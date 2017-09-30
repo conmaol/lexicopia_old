@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="leughadair_sgrion" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>leughadair sgrion</orth>
-    </form>
-    <trans>scrèn reader</trans>
-    <note>Listed in An Seotal: Computing.</note>
-    <note>scrèn reader - leughadair sgrion poss cscrèn readers - leughadairean sgrion pl</note>
-  </ainmear_fireann>
+  <part ref="leughadair"/>
+  <form>
+    <orth>leughadair sgrion</orth>
+  </form>
+  <trans>screen reader</trans>
+  <note>Listed in An Seotal: Computing.</note>
+  <note>screen reader - leughadair sgrion poss cscreen readers - leughadairean sgrion pl</note>
+</ainmear_fireann>

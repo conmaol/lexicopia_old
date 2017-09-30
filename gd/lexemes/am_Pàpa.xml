@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="am_Pàpa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="pàpa"/>
+  <form>
+    <orth>am Pàpa</orth>
+  </form>
+  <form>
+    <orth>am Pàp</orth>
+  </form>
+  <trans index="no">the Pope</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</lexeme>

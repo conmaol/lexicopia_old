@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="staitistearachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="staitistear"/>
+  <form>
+    <orth>staitistearachd</orth>
+  </form>
+  <trans>statistics</trans>
+  <note>From BBC website (written with hyphen): http://www.bbc.co.uk/education/guides/z8b92nb/revision</note>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+</ainmear_boireann>

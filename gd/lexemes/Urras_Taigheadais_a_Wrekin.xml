@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="Urras_Taigheadais_a_Wrekin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Urras Taigheadais a' Wrekin</orth>
-    </form>
-    <trans>The Wrekin Housing Trust</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+  <part ref="urras"/>
+  <part ref="taigheadas"/>
+  <form>
+    <orth>Urras Taigheadais a’ Wrekin</orth>
+  </form>
+  <trans>The Wrekin Housing Trust</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dubhan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>dubhan</orth>
+  </form>
+  <form>
+    <orth>dubhain</orth>
+  </form>
+  <trans>hook</trans>
+  <trans>fish hook</trans>
+  <trans>clasp</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s dictionary.</note>
+  <note>Old Gaelic: dubán.</note>
+</ainmear_fireann>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<lexeme id="S_e_Porth_Tywyn_am_facal_Cuimris_airson_Port_Bhurry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Is e 'Porth Tywyn' am facal Cuimris airson Port Bhurry</orth>
-    </form>
-    <trans>Porth Tywyn' is the Welsh word for Burry Port</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>

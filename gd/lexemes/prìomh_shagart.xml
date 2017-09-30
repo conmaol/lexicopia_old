@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="prìomh_shagart" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="prìomh"/>
+  <part ref="sagart"/>
+  <form>
+    <orth>prìomh shagart</orth>
+  </form>
+  <form>
+    <orth>prìomh shagairt</orth>
+  </form>
+  <form>
+    <orth>prìomh shagartan</orth>
+  </form>
+  <trans>primate</trans>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</ainmear_fillte>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="graf_bhlocaichean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="graf"/>
+  <form>
+    <orth>graf bhlocaichean</orth>
+  </form>
+  <form>
+    <orth>grafaichean bhlocaichean</orth>
+  </form>
+  <trans>block graph</trans>
+  <note>Listed in An Seotal: Maths.</note>
+</ainmear_fireann>

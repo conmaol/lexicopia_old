@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="cairteal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>cairteal</orth>
-    </form>
-    <trans>quarter</trans>
-    <trans>quartile</trans>
-    <note>Listed in An Seotal: Maths.</note>
-    <note>quarter - cairteil poss cquarters - cairtealan pl</note>
-    <note>quartile - cairteil poss cquartiles - cairtealan pl</note>
-  </ainmear_fireann>
+  <form>
+    <orth>cairteal</orth>
+  </form>
+  <form>
+    <orth>cairteil</orth>
+  </form>
+  <form>
+    <orth>cairtealan</orth>
+  </form>
+  <trans>quarter</trans>
+  <trans>quartile</trans>
+  <trans>quart</trans>
+  <trans>gill</trans>
+  <note>Listed in An Seotal: Maths, as 'quarter', 'quartile'.</note>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear_fireann>

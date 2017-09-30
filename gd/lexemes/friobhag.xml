@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="fribheag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>fribheag</orth>
+  </form>
+  <form>
+    <orth>ribheag</orth>
+  </form>
+  <form>
+    <orth>rifeag</orth>
+  </form>
+  <trans>barb</trans>
+  <note>Denotes part of a ‘dubhan’ (fish hook).</note>
+</ainmear_boireann>

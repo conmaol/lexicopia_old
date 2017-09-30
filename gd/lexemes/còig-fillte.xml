@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="còig-fillte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="còig"/>
+  <part ref="fillte"/>
+  <form>
+    <orth>còig-fillte</orth>
+  </form>
+  <trans>fivefold</trans>
+  <trans>quintuple</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</buadhair>

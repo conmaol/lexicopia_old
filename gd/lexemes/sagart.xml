@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="sagart" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>sagart</orth>
-    </form>
-    <trans>priest</trans>
-    <note>Old Irish: sacart.</note>
-  </ainmear_fireann>
+  <form>
+    <orth>sagart</orth>
+  </form>
+  <form>
+    <orth>sagairt</orth>
+  </form>
+  <form>
+    <orth>sagartan</orth>
+  </form>
+  <topic ref="church"/>
+  <topic ref="person"/>
+  <trans>priest</trans>
+  <note>Old Irish: sacart.</note>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</ainmear_fireann>

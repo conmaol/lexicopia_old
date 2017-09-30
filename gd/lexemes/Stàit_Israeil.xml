@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="Stàit_Israeil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Stàit Israeil</orth>
-    </form>
-    <trans>State of Israel</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+<lexeme id="stàit_Israeil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="stàit"/>
+  <part ref="Israel"/>
+  <form>
+    <orth>stàit Israeil</orth>
+  </form>
+  <trans index="only">state of Israel</trans>
+  <trans index="no">the state of Israel</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

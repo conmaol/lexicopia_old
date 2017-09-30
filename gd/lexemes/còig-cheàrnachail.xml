@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <buadhair id="còig-cheàrnachail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>còig-cheàrnachail</orth>
-    </form>
-    <trans>pentagonal</trans>
-    <note>Listed in An Seotal: Maths.</note>
-  </buadhair>
+  <part ref="còig-cheàrnach"/>
+  <form>
+    <orth>còig-cheàrnachail</orth>
+  </form>
+  <trans>pentagonal</trans>
+  <note>Listed in An Seotal: Maths.</note>
+</buadhair>

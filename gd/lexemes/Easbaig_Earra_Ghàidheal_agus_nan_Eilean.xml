@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="Easbaig_Earra_Ghàidheal_agus_nan_Eilean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="easbaig"/>
+  <part ref="Earra_Ghàidheal"/>
+  <part ref="eilean"/>
+  <form>
+    <orth>Easbaig Earra Ghàidheal agus nan Eilean</orth>
+  </form>
+  <trans index="no">the Bishop of Argyll and the Isles</trans>
+  <trans index="only">Bishop of Argyll and the Isles</trans>
+</ainmear_fillte>

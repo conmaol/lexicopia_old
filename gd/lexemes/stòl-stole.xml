@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="stòl-stole" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>stòl</orth>
+  </form>
+  <form>
+    <orth>stal</orth>
+  </form>
+  <topic ref="clothing"/>
+  <topic ref="church"/>
+  <trans>stole</trans>
+  <note>Listed in DASG Fieldwork Archive as 'stole' (clerical garb).</note>
+</ainmear_fireann>
+
+

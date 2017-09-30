@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="fear_ionaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="fear"/>
+  <part ref="ionad"/>
+  <form>
+    <orth>fear ionaid</orth>
+  </form>
+  <form>
+    <orth>fir ionaid</orth>
+  </form>
+  <topic ref="church"/>
+  <trans>representative</trans>
+  <trans>agent</trans>
+  <trans>delegate</trans>
+  <trans>proxy</trans>
+  <trans>deputy</trans>
+  <trans>substitute</trans>
+  <trans>successor</trans>
+  <trans>vicar</trans>
+  <note>Listed in the DASG Fieldwork Archive, as: fear ionad ‘vicar’.</note>
+</ainmear_fillte>

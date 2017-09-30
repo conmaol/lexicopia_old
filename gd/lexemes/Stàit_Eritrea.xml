@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="Stàit_Eritrea" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Stàit Eritrea</orth>
-    </form>
-    <trans>State of Eritrea</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+<lexeme id="stàit_Eritrea" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="stàit"/>
+  <part ref="Eritrea"/>
+  <form>
+    <orth>stàit Eritrea</orth>
+  </form>
+  <trans index="no">the state of Eritrea</trans>
+  <trans index="only">state of Eritrea</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="rinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>rinn</orth>
+  </form>
+  <form>
+    <orth>rinne</orth>
+  </form>
+  <form>
+    <orth>rinnean</orth>
+  </form>
+  <trans index="only">point</trans>
+  <trans>sharp point</trans>
+  <trans>nib</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+  <note>Denotes the sharp point of a ‘dubhan’ (fish hook).</note>
+</ainmear_boireann>

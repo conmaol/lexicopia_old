@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="comhairle_nan_easbaigean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="comhairle"/>
+  <part ref="easbaig"/>
+  <form>
+    <orth>comhairle nan easbaigean</orth>
+  </form>
+  <form>
+    <orth>comhairlean nan easbaigean</orth>
+  </form>
+  <form>
+    <orth>comhairle nan easbuigean</orth>
+  </form>
+  <trans>conference of bishops</trans>
+  <trans>episcopal conference</trans>
+  <note>Kind of body in the Catholic Church.</note>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</lexeme>

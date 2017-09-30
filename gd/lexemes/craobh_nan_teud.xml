@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_boireann id="craobh_nan_teud" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>craobh nan teud</orth>
-    </form>
-    <trans index="no">the harp</trans>
-    <trans index="only">harp</trans>
-    <note>Poetic usage, from Sorley MacLean.</note>
-  </ainmear_boireann>
+  <part ref="craobh"/>
+  <part ref="teud"/>
+  <form>
+    <orth>craobh nan teud</orth>
+  </form>
+  <trans index="no">the harp</trans>
+  <trans index="only">harp</trans>
+  <note>Poetic usage, from Sorley MacLean.</note>
+</ainmear_boireann>

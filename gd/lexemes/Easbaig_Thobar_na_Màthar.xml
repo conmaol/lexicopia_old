@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="Easbaig_Thobar_na_Màthar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="easbaig"/>
+  <part ref="Tobar_na_Màthar"/>
+  <form>
+    <orth>Easbaig Thobar na Màthar</orth>
+  </form>
+  <trans index="no">the Bishop of Motherwell</trans>
+  <trans index="only">Bishop of Motherwell</trans>
+</ainmear_fillte>

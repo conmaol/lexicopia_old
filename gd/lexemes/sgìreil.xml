@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="sgìreil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="sgìre"/>
+  <form>
+    <orth>sgìreil</orth>
+  </form>
+  <form>
+    <orth>sgìreile</orth>
+  </form>
+  <trans>parochial</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+</buadhair>
+

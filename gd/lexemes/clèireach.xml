@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <buadhair id="clèireach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>clèireach</orth>
-    </form>
-    <trans>presbyterian</trans>
-    <note>Listed in An Seotal: Religious and Moral.</note>
-    <note/>
-  </buadhair>
+  <part ref="clèir"/>
+  <form>
+    <orth>clèireach</orth>
+  </form>
+  <form>
+    <orth>clèirich</orth>
+  </form>
+  <topic ref="person"/>
+  <trans>presbyterian</trans>
+  <trans>cleric</trans>
+  <trans>clerk</trans>
+  <trans>acolyte</trans>
+  <trans>altar server</trans>
+  <trans>altar boy</trans>
+  <note>Listed in An Seotal: Religious and Moral.</note>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+  <note>Also, a masculine noun meaning 'cleric', 'clerk'; or with a capital C: ‘Presbyterian’.</note>
+  <note>Listed in DASG Fieldwork Archive as ‘acolyte’, ‘altar server’.</note>
+</buadhair>

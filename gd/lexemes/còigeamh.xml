@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="còigeamh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="còig"/>
+  <form>
+    <orth>còigeamh</orth>
+  </form>
+  <form>
+    <orth>còigeimh</orth>
+  </form>
+  <form>
+    <orth>còigeamhan</orth>
+  </form>
+  <trans>fifth</trans>
+  <note>Listed in An Seotal: Maths.</note>
+  <note>Also used as a masculine noun.</note>
+</buadhair>

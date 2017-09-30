@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="claonadh_àbhaisteach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="claonadh"/>
+  <part ref="àibheastach"/>
+  <form>
+    <orth>claonadh àbhaisteach</orth>
+  </form>
+  <trans>standard deviation</trans>
+  <note>From BBC website (written with hyphen): http://www.bbc.co.uk/education/guides/z8b92nb/revision</note>
+</ainmear_fillte>

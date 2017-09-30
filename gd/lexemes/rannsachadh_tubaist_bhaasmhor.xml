@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<lexeme id="rannsachadh_tubaist_bhaasmhor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>rannsachadh tubaist bhàsmhor</orth>
-    </form>
-    <trans>fatal accident investigation (FAI)</trans>
-    <note>From BBC.</note>
-  </lexeme>

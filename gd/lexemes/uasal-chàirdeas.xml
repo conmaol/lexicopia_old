@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="uasal-chàirdeas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="uasal"/>
+  <part ref="càirdeas"/>
+  <form>
+    <orth>uasal-chàirdeas</orth>
+  </form>
+  <trans>condescension</trans>
+  <note>Listed in CM.</note>
+</ainmear_fireann>

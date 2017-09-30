@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cromag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>cromag</orth>
+  </form>
+  <form>
+    <orth>cromaig</orth>
+  </form>
+  <form>
+    <orth>cromaige</orth>
+  </form>
+  <form>
+    <orth>cromagan</orth>
+  </form>
+  <trans>hook</trans>
+  <trans>crook</trans>
+  <trans>clasp</trans>
+  <trans>apostrophe</trans>
+  <trans>comma</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</ainmear_boireann>
+

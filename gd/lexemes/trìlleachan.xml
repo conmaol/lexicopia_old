@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="trìlleachan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>trìlleachan</orth>
+  </form>
+  <trans>oystercatcher</trans>
+  <trans>Haematopus ostralegus</trans>
+  <trans>plover</trans>
+  <note>Listed in CM, as 'oystercatcher' or 'plover'.</note>
+</ainmear_fireann>

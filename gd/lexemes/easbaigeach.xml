@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <buadhair id="easbaigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <part ref="easbaig"/>
-    <part ref="_ach-suffix"/>
-    <form>
-      <orth>easbaigeach</orth>
-    </form>
-    <trans>episcopal</trans>
-    <trans>episcopalian</trans>
-  </buadhair>
+  <part ref="easbaig"/>
+  <form>
+    <orth>easbaigeach</orth>
+  </form>
+  <form>
+    <orth>easbaigich</orth>
+  </form>
+  <form>
+    <orth>easbuigeach</orth>
+  </form>
+  <form>
+    <orth>easbuigich</orth>
+  </form>
+  <trans>episcopal</trans>
+  <trans>episcopalian</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+  <note>Also masculine noun denoting a member of the Episcopalian church, usually with an initial capital E.</note>
+</buadhair>

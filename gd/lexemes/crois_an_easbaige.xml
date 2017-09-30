@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="crois_an_easbaige" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="crois"/>
+  <part ref="easbaig"/>
+  <form>
+    <orth>crois an easbaige</orth>
+  </form>
+  <trans>pectoral cross</trans>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</lexeme>

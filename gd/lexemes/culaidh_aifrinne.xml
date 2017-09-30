@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="culaidh_aifrinne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="culaidh"/>
+  <part ref="aifreann"/>
+  <form>
+    <orth>culaidh aifrinne</orth>
+  </form>
+  <trans>vestments</trans>
+  <trans>chasuble</trans>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</ainmear_fillte>
+

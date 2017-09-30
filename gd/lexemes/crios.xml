@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="crios" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>crios</orth>
-    </form>
-    <trans>belt</trans>
-    <trans>strap</trans>
-  </ainmear_fireann>
+  <form>
+    <orth>crios</orth>
+  </form>
+  <form>
+    <orth>criosa</orth>
+  </form>
+  <form>
+    <orth>criosan</orth>
+  </form>
+  <form>
+    <orth>criosachan</orth>
+  </form>
+  <topic ref="clothing"/>
+  <trans>belt</trans>
+  <trans>strap</trans>
+  <trans>girdle</trans>
+  <trans>sash</trans>
+  <trans>cinture</trans>
+  <trans>zone</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+  <note>Listed in DASG Fieldwork Archive as 'cinture' (clerical garb).</note>
+</ainmear_fireann>

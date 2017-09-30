@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="Urras_Leabhraichean_nan_Eilean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Urras Leabhraichean nan Eilean</orth>
-    </form>
-    <trans>The Islands Bòk Trust</trans>
-    <note>Listed in An Seotal: General.</note>
-  </lexeme>
+  <part ref="urras"/>
+  <part ref="leabhar"/>
+  <part ref="eilean"/>
+  <form>
+    <orth>Urras Leabhraichean nan Eilean</orth>
+  </form>
+  <trans index="no">the Islands Book Trust</trans>
+  <trans index="only">Islands Book Trust</trans>
+  <note>Listed in An Seotal: General.</note>
+</lexeme>

@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_boireann id="craobh_chaorainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>craobh chaorainn</orth>
-    </form>
-    <trans>rowan tree</trans>
-  </ainmear_boireann>
+  <part ref="craobh"/>
+  <part ref="caorann"/>
+  <form>
+    <orth>craobh chaorainn</orth>
+  </form>
+  <form>
+    <orth>craobhan caorainn</orth>
+  </form>
+  <trans>rowan tree</trans>
+</ainmear_boireann>

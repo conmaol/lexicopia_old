@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="claonadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>claonadh</orth>
-    </form>
-    <trans>slope</trans>
-    <note>Listed in An Seotal: Maths.</note>
-    <note>slope - claonaidh poss c</note>
-  </ainmear_fireann>
+  <part ref="claon-verb"/>
+  <form>
+    <orth>claonadh</orth>
+  </form>
+  <form>
+    <orth>claonaidh</orth>
+  </form>
+  <form>
+    <orth>claonaidhean</orth>
+  </form>
+  <trans>bias</trans>
+  <trans>cast</trans>
+  <trans>decadence</trans>
+  <trans>deflection</trans>
+  <trans>degeneracy</trans>
+  <trans>deviation</trans>
+  <trans>digression</trans>
+  <trans>discrimination</trans>
+  <trans>diversion</trans>
+  <trans>perversion</trans>
+  <trans>predeliction</trans>
+  <trans>proclivity</trans>
+  <trans>slant</trans>
+  <trans>squint</trans>
+  <trans>streak</trans>
+  <trans>trend</trans>
+  <trans>slope</trans>
+  <note>Listed in An Seotal: Maths, as ‘slope’.</note>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear_fireann>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="cruinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>cruinn</orth>
+  </form>
+  <form>
+    <orth>cruinne</orth>
+  </form>
+  <trans>round</trans>
+  <trans>circular</trans>
+  <trans>gathered together</trans>
+  <trans>compact</trans>
+  <trans>neat</trans>
+  <trans>gathered together</trans>
+  <trans>globular</trans>
+  <trans>orbed</trans>
+  <trans>rotund</trans>
+  <trans>spherical</trans>
+  <trans>accurate</trans>
+  <trans>well-formed</trans>
+  <trans>well-rounded</trans>
+  <trans>assembled</trans>
+  <trans>all togather</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</buadhair>

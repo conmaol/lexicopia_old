@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="sagart_faoisid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="sagart"/>
+  <part ref="faoisid"/>
+  <form>
+    <orth>sagart faoisid</orth>
+  </form>
+  <form>
+    <orth>sagairt fhaoisid</orth>
+  </form>
+  <form>
+    <orth>sagartan faoisid</orth>
+  </form>
+  <trans>confessor</trans>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</ainmear_fillte>
+

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ainmear_fireann id="turas_staaite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>turas stàite</orth>
-    </form>
-    <trans>state visit</trans>
-    <note>From BBC RnaG news, 14/2/2017.</note>
-  </ainmear_fireann>

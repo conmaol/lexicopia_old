@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="ciste_na_culaidhe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="ciste"/>
+  <part ref="culaidh"/>
+  <form>
+    <orth>ciste na culaidhe</orth>
+  </form>
+  <xs:enumeration value="church"/>
+  <trans>vestment chest</trans>
+  <note>Listed in DASG Fieldwork Archive.</note>
+</lexeme>
+

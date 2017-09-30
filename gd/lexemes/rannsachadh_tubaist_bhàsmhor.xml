@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="rannsachadh_tubaist_bhàsmhor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="rannsachadh"/>
+  <part ref="tubaist"/>
+  <part ref="bàsmhor"/>
+  <form>
+    <orth>rannsachadh tubaist bhàsmhor</orth>
+  </form>
+  <trans>fatal accident investigation</trans>
+  <note>From BBC.</note>
+</lexeme>

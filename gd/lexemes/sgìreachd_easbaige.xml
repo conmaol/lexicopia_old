@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="sgìreachd_easbaige" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="sgìreachd"/>
+  <part ref="easbaig"/>
+  <form>
+    <orth>sgìreachd easbaige</orth>
+  </form>
+  <form>
+    <orth>sgìreachdan easbaige</orth>
+  </form>
+  <trans>diocese</trans>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</ainmear_fillte>
+

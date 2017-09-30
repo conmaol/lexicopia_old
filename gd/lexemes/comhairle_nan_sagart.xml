@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="comhairle_nan_sagart" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="comhairle"/>
+  <part ref="sagart"/>
+  <form>
+    <orth>comhairle nan sagart</orth>
+  </form>
+  <form>
+    <orth>comhairlean nan sagart</orth>
+  </form>
+  <trans index="only">council of priests</trans>
+  <trans index="no">the council of priests</trans>
+  <trans>presbyteral council</trans>
+  <note>A group of priests chosen to assist the local ordinary (bishop) in an advisory capacity in the governance of the diocese.</note>
+  <note>From DASG Fieldwork Archive.</note>
+</ainmear_fillte>
+

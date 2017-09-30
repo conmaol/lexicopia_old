@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="Stàit_Kuwait" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Stàit Kuwait</orth>
-    </form>
-    <trans>State of Kuwait</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+<lexeme id="stàit_Kuwait" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="stàit"/>
+  <part ref="Kuwait"/>
+  <form>
+    <orth>stàit Kuwait</orth>
+  </form>
+  <trans index="only">state of Kuwait</trans>
+  <trans index="no">the state of Kuwait</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

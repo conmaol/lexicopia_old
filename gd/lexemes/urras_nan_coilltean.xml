@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="urras_nan_coilltean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Urras nan Coilltean</orth>
-    </form>
-    <trans>Woodland Trust</trans>
-    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-  </ainmear_fireann>
+<ainmear_fillte id="Urras_nan_Coilltean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="urras"/>
+  <part ref="coille"/>
+  <form>
+    <orth>Urras nan Coilltean</orth>
+  </form>
+  <trans index="no">the Woodland Trust</trans>
+  <trans index="only">Woodland Trust</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+</ainmear_fillte>

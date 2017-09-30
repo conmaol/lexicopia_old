@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="stòl-stool" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>stòl</orth>
+  </form>
+  <form>
+    <orth>stòla</orth>
+  </form>
+  <form>
+    <orth>stòil</orth>
+  </form>
+  <form>
+    <orth>stùil</orth>
+  </form>
+  <form>
+    <orth>stòlan</orth>
+  </form>
+  <topic ref="furniture"/>
+  <trans>stool</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</ainmear_fireann>
+

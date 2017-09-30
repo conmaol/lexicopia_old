@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="urras_fiadh-bheatha_na_h-alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Urras Fiadh-bheatha na h-Alba</orth>
-    </form>
-    <trans>Scottish Wildlife Trust (SWT)</trans>
-    <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-  </lexeme>
+<lexeme id="Urras_Fiadh-bheatha_na_h-Alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="urras"/>
+  <form>
+    <orth>Urras Fiadh-bheatha na h-Alba</orth>
+  </form>
+  <trans index="no">the Scottish Wildlife Trust</trans>
+  <trans index="only">Scottish Wildlife Trust</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+</lexeme>

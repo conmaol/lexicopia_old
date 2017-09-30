@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="stàit_Phapua_Guinea_Nuaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="stàit"/>
+  <part ref="Papua_Guinea_Nuaidh"/>
+  <form>
+    <orth>stàit Phapua Guinea Nuaidh</orth>
+  </form>
+  <trans index="no">the state of Papua New Guinea</trans>
+  <trans index="only">state of Papua New Guinea</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

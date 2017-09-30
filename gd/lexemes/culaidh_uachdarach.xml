@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="culaidh_uachdarach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="culaidh"/>
+  <part ref="uachdarach"/>
+  <form>
+    <orth>culaidh uachdarach</orth>
+  </form>
+  <topic ref="church"/>
+  <trans>chasuble</trans>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</ainmear_fillte>
+

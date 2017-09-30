@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="buaidh_astair_dà-phuingeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="buaidh_astair"/>
+  <form>
+    <orth>buaidh astair dà-phuingeach </orth>
+  </form>
+  <trans>two point perspective</trans>
+  <note>Listed in An Seotal: Technology.</note>
+</lexeme>

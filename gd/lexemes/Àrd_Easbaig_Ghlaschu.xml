@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="Àrd_Easbaig_Ghlaschu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="àrd_easbaig"/>
+  <part ref="Glaschu"/>
+  <form>
+    <orth>Àrd Easbaig Ghlaschu</orth>
+  </form>
+  <trans index="no">the Bishop of Glasgow</trans>
+  <trans index="only">Bishop of Glasgow</trans>
+</ainmear_fillte>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="seabhag_mhòr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="seabhag"/>
+  <part ref="mòr"/>
+  <form>
+    <orth>seabhag mhòr</orth>
+  </form>
+  <form>
+    <orth>seabhagan mòra</orth>
+  </form>
+  <trans>gyrfalcon</trans>
+  <trans>Falco rusticolus</trans>
+  <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
+  <note>Audio: http://www.snh.org.uk/gaidhlig/audio/seabhag mhor.mp3</note>
+</ainmear_boireann>

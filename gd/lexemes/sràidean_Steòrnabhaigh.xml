@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sràidean_Steòrnabhaigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="sràid"/>
+  <part ref="Steòrnabhagh"/>
+  <form>
+    <orth>sràidean Steòrnabhaigh</orth>
+  </form>
+  <trans index="no">the streets of Stornoway</trans>
+  <trans index="only">streets of Stornoway</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

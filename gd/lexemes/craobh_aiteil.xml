@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fillte id="craobh_aiteil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <part ref="craobh"/>
-    <form>
-      <orth>craobh aiteil</orth>
-    </form>
-    <trans>juniper tree</trans>
-  </ainmear_fillte>
+  <part ref="craobh"/>
+  <part ref="aiteal"/>
+  <form>
+    <orth>craobh aiteil</orth>
+  </form>
+  <trans>juniper tree</trans>
+</ainmear_fillte>

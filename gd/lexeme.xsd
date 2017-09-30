@@ -44,6 +44,7 @@
     <xs:sequence>
       <xs:element ref="part" minOccurs="0" maxOccurs="unbounded"/>
       <xs:element name="form" minOccurs="1" maxOccurs="unbounded"/>
+      <xs:element name="topic" minOccurs="0" maxOccurs="unbounded"/>
       <xs:element name="trans" minOccurs="0" maxOccurs="unbounded"/>
       <xs:element name="note" type="xs:token" minOccurs="0" maxOccurs="unbounded"/>
     </xs:sequence>
@@ -62,6 +63,21 @@
       <xs:sequence>
         <xs:element name="orth" type="xs:token" minOccurs="1" maxOccurs="1"/>
       </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+  <xs:element name="topic">
+    <xs:complexType>
+      <xs:attribute name="ref" use="required">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="church"/>
+            <xs:enumeration value="clothing"/>
+            <xs:enumeration value="furniture"/>
+            <xs:enumeration value="person"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
     </xs:complexType>
   </xs:element>
 

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="Fear_Cathrach_Comhairle_nan_Easbaigean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="fear_cathrach"/>
+  <part ref="comhairle_nan_easbaigean"/>
+  <form>
+    <orth>Fear Cathrach Comhairle nan Easbaigean</orth>
+  </form>
+  <trans index="only">President of the Episcopal Conference</trans>
+  <trans index="no">the President of the Episcopal Conference</trans>
+  <trans index="only">President of the Bishop’s Conference</trans>
+  <trans index="no">the President of the Bishop’s Conference</trans>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</ainmear_fillte>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="sgìre_easbaige" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="sgìre"/>
+  <part ref="easbaig"/>
+  <form>
+    <orth>sgìre easbaige</orth>
+  </form>
+  <form>
+    <orth>sgìrean easbaige</orth>
+  </form>
+  <trans>diocese</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary, as ‘sgìr-easbaig’.</note>
+  <note>Listed in Colin Mark’s Dictionary, as ‘sgìr-easbaig’.</note>
+</ainmear_fillte>
+

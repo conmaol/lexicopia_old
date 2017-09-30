@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="cleòca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>cleòca</orth>
+  </form>
+  <form>
+    <orth>cleòcaichean</orth>
+  </form>
+  <form>
+    <orth>cleòcan</orth>
+  </form>
+  <form>
+    <orth>cleòcannan</orth>
+  </form>
+  <form>
+    <orth>cleòc</orth>
+  </form>
+  <topic ref="clothing"/>
+  <trans>cloak</trans>
+  <trans>cape</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</ainmear_fireann>

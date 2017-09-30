@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="còignear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="còig"/>
+  <form>
+    <orth>còignear</orth>
+  </form>
+  <trans>five people</trans>
+</ainmear_fireann>

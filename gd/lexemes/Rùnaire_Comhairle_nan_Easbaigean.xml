@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="Rùnaire_Comhairle_nan_Easbaigean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="rùnaire"/>
+  <part ref="comhairle_nan_easbaigean"/>
+  <form>
+    <orth>Rùnaire Comhairle nan Easbaigean</orth>
+  </form>
+  <trans index="only">Secretary of the Episcopal Conference</trans>
+  <trans index="no">the Secretary of the Episcopal Conference</trans>
+  <trans index="only">Secretary of the Bishop’s Conference</trans>
+  <trans index="no">the Secretary of the Bishop’s Conference</trans>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</ainmear_fillte>

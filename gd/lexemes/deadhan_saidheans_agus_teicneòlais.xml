@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="deadhan_saidheans_agus_teicneòlais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>deadhan saidheans agus teicneòlais</orth>
-    </form>
-    <trans>dean of science and technology</trans>
-    <note>Listed in An Seotal: General.</note>
-  </lexeme>
+  <part ref="deadhan"/>
+  <form>
+    <orth>deadhan saidheans agus teicneòlais</orth>
+  </form>
+  <trans>dean of science and technology</trans>
+  <note>Listed in An Seotal: General.</note>
+</lexeme>

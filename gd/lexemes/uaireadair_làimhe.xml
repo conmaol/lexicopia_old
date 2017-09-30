@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="uaireadair_làimhe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="uaireadair"/>
+  <part ref="làmh"/>
+  <form>
+    <orth>uaireadair làimhe</orth>
+  </form>
+  <trans>wristwatch</trans>
+  <note>Listed in CM.</note>
+</ainmear_fireann>

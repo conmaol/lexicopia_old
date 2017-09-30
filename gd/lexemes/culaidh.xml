@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="culaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>culaidh</orth>
+  </form>
+  <form>
+    <orth>culaidhe</orth>
+  </form>
+  <form>
+    <orth>culaidhean</orth>
+  </form>
+  <topic ref="clothing"/>
+  <trans>costume</trans>
+  <trans>uniform</trans>
+  <trans>garment</trans>
+  <trans>apparel</trans>
+  <trans>object</trans>
+  <trans>butt</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</ainmear_boireann>
+

@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_boireann id="fallainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>fallainn</orth>
-    </form>
-    <trans>mantle</trans>
-    <note>Listed in An Seotal: Science.</note>
-    <note>mantle - fallainn(e) scmantles - fallainnean iom</note>
-  </ainmear_boireann>
+  <form>
+    <orth>fallainn</orth>
+  </form>
+  <form>
+    <orth>fallainne</orth>
+  </form>
+  <form>
+    <orth>fallainnean</orth>
+  </form>
+  <form>
+    <orth>falluinn</orth>
+  </form>
+  <form>
+    <orth>fallaing</orth>
+  </form>
+  <form>
+    <orth>fallainge</orth>
+  </form>
+  <form>
+    <orth>fallaingean</orth>
+  </form>
+  <form>
+    <orth>faillinn</orth>
+  </form>
+  <topic ref="clothing"/>
+  <trans>cloak</trans>
+  <trans>mantle</trans>
+  <trans>robe</trans>
+  <note>Listed in An Seotal: Science, as 'mantle'.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</ainmear_boireann>

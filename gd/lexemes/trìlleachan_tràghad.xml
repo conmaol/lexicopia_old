@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="trìlleachan_tràghad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="trìlleachan"/>
+  <part ref="tràigh"/>
+  <form>
+    <orth>trìlleachan tràghad</orth>
+  </form>
+  <form>
+    <orth>trìlleachan tràighe</orth>
+  </form>
+  <trans>ringed plover</trans>
+  <trans>Charadrius hiaticula</trans>
+  <note>Latin: (Charadrius hiaticula)</note>
+  <note>Listed in CM.</note>
+</ainmear_fireann>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="fear_ionaid_an_easbaige" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="fear_ionaid"/>
+  <part ref="easbaig"/>
+  <form>
+    <orth>fear ionaid an easbaige</orth>
+  </form>
+  <trans>representative</trans>
+  <trans>episcopal vicar</trans>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</ainmear_fillte>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="stàit" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>stàit</orth>
+  </form>
+  <form>
+    <orth>stàite</orth>
+  </form>
+  <form>
+    <orth>stàitean</orth>
+  </form>
+  <trans>state</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</ainmear_boireann>
