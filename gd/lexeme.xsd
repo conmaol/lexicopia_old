@@ -71,10 +71,12 @@
       <xs:attribute name="ref" use="required">
         <xs:simpleType>
           <xs:restriction base="xs:string">
-            <xs:enumeration value="church"/>
-            <xs:enumeration value="clothing"/>
-            <xs:enumeration value="furniture"/>
-            <xs:enumeration value="person"/>
+            <xs:enumeration value="church"/> <!-- words to do with church and religion -->
+            <xs:enumeration value="clothing"/> <!-- words to do with clothing and adornment -->
+            <xs:enumeration value="furniture"/> <!-- furniture and decoration -->
+            <xs:enumeration value="people"/> <!-- words to do with people, esp. types of people -->
+            <xs:enumeration value="buildings"/> <!-- buildings and parts of buildings -->
+            <xs:enumeration value="activities"/> <!-- actions and activities -->
           </xs:restriction>
         </xs:simpleType>
       </xs:attribute>

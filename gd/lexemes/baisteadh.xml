@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="baisteadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="baist"/>
+  <form>
+    <orth>baisteadh</orth>
+  </form>
+  <form>
+    <orth>baistidh</orth>
+  </form>
+  <form>
+    <orth>baistidhean</orth>
+  </form>
+  <trans>baptism</trans>
+  <trans>christening</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</ainmear_fireann>
+

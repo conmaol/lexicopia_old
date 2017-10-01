@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="maor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>maor</orth>
+  </form>
+  <form>
+    <orth>maoir</orth>
+  </form>
+  <topic ref="people"/>
+  <trans>bailiff</trans>
+  <trans>steward</trans>
+  <trans>constable</trans>
+  <trans>officer</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</ainmear_fireann>

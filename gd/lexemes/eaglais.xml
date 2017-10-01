@@ -10,6 +10,8 @@
   <form>
     <orth>eaglaisean</orth>
   </form>
+  <topic ref="church"/>
+  <topic ref="buildings"/>
   <trans>church</trans>
   <note>Old Irish: eclais. itself borrowed from Greek 'ἐκκλησία' ('ekklēsia'), 'ἐκκλησίας' (an assembly, a congregation, a church - First Declension Feminine Noun). From ἔκκλητος "summoned", from
     'ἐκκαλέω' (I summon), from 'ἐκ' (out - cognate with 'á', 'eas-') and 'καλέω' (I call - cognate with 'coileach' - rooster).</note>

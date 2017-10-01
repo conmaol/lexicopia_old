@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="àite_na_h-èisteachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="àite"/>
+  <part ref="èisteachd"/>
+  <form>
+    <orth>àite na h-èisteachd</orth>
+  </form>
+  <topic ref="buildings"/>
+  <trans>confessional</trans>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</lexeme>

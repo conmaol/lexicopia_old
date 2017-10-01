@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <buadhair id="leantainneach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>leantainneach</orth>
-    </form>
-    <trans>continuing</trans>
-    <trans>longitudinal</trans>
-    <trans>consecutive</trans>
-    <note>Listed in An Seotal: General.</note>
-    <note>Listed in An Seotal: Maths, as 'consecutive'.</note>
-  </buadhair>
+  <part ref="leantainn"/>
+  <form>
+    <orth>leantainneach</orth>
+  </form>
+  <trans>continuous</trans>
+  <trans>lingering</trans>
+  <trans>sticky</trans>
+  <trans>continuing</trans>
+  <trans>longitudinal</trans>
+  <trans>consecutive</trans>
+  <trans>abiding</trans>
+  <trans>renewable</trans>
+  <trans>successive</trans>
+  <note>Listed in An Seotal: General.</note>
+  <note>Listed in An Seotal: Maths, as 'consecutive'.</note>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</buadhair>

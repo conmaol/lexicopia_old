@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tobar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>tobar</orth>
-    </form>
-    <trans>well</trans>
-    <trans>source</trans>
-  </ainmear_fireann>
+<ainmear id="tobar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>tobar</orth>
+  </form>
+  <form>
+    <orth>tobair</orth>
+  </form>
+  <form>
+    <orth>tobrach</orth>
+  </form>
+  <form>
+    <orth>tobraichean</orth>
+  </form>
+  <trans>well</trans>
+  <trans>source</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary, as either gender.</note>
+  <note>Listed in Colin Mark’s Dictionary, as either gender.</note>
+</ainmear>

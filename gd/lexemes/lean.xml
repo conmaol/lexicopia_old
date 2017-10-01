@@ -1,8 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <gnìomhair id="lean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>lean</orth>
-    </form>
-    <trans>follow</trans>
-  </gnìomhair>
+  <form>
+    <orth>lean</orth>
+  </form>
+  <form>
+    <orth>leantail</orth>
+  </form>
+  <form>
+    <orth>leantainn</orth>
+  </form>
+  <form>
+    <orth>leanmhainn</orth>
+  </form>
+  <trans>follow</trans>
+  <trans>continue</trans>
+  <trans>pursue</trans>
+  <trans>dog</trans>
+  <trans>ensue</trans>
+  <trans>succeed</trans>
+  <trans>proceed</trans>
+  <trans>prosecute</trans>
+  <trans>sue</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</gnìomhair>

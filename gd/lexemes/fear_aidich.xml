@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="fear_aidich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="fear"/>
+  <part ref="aidich"/>
+  <form>
+    <orth>fear aidich</orth>
+  </form>
+  <form>
+    <orth>fir aidich</orth>
+  </form>
+  <topic ref="church"/>
+  <trans>communicant</trans>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</ainmear_fillte>

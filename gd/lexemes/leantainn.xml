@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="leantainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>leantainn</orth>
-    </form>
-    <trans>following</trans>
-  </lexeme>
+  <part ref="lean"/>
+  <form>
+    <orth>leantainn</orth>
+  </form>
+  <trans>following</trans>
+</lexeme>

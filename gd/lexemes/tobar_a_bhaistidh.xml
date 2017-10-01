@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="tobar_abhaistidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="tobar"/>
+  <part ref="baistidh"/>
+  <form>
+    <orth>tobar a’ bhaistidh</orth>
+  </form>
+  <topic ref="furniture"/>
+  <trans>baptismal font</trans>
+  <trans index="only">font</trans>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</lexeme>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="tobar_an_uisge_choisrigte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="tobar"/>
+  <part ref="uisge_coisrigte"/>
+  <form>
+    <orth>tobar an uisge choisrigte</orth>
+  </form>
+  <topic ref="furniture"/>
+  <trans>stoup</trans>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</lexeme>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="maor_eaglaise" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="maor"/>
+  <part ref="eaglaise"/>
+  <form>
+    <orth>maor eaglaise</orth>
+  </form>
+  <trans>beadle</trans>
+  <trans>church officer</trans>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</ainmear_fillte>
+

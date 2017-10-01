@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="èist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>èist</orth>
+  </form>
+  <form>
+    <orth>èisteachd</orth>
+  </form>
+  <form>
+    <orth>èisd</orth>
+  </form>
+  <form>
+    <orth>èisdeachd</orth>
+  </form>
+  <topic ref="activities"/>
+  <trans>listen</trans>
+  <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
+  <note>Listed in Colin Mark’s Dictionary.</note>
+</gnìomhair>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="cùl_na_h-eaglaise" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="cùl"/>
+  <part ref="eaglais"/>
+  <form>
+    <orth>cùl na h-eaglaise</orth>
+  </form>
+  <trans>entrance area of a church</trans>
+  <note>Listed in the DASG Fieldwork Archive.</note>
+</lexeme>
