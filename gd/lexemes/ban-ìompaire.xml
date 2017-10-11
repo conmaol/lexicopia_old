@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="ban-ìompaire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <part ref="bean"/>
-    <part ref="ìompaire"/>
-    <form>
-      <orth>ban-ìompaire</orth>
-    </form>
-    <trans>empress</trans>
-  </lexeme>
+  <part ref="bean-woman"/>
+  <part ref="ìompaire"/>
+  <form>
+    <orth>ban-ìompaire</orth>
+  </form>
+  <trans>empress</trans>
+</lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Gall_Ghàidhealaibh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="Gall"/>
+  <part ref="Gàidheal"/>
+  <form>
+    <orth>Gall Ghàidhealaibh</orth>
+  </form>
+  <trans>Galloway</trans>
+</lexeme>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="memoria" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>memoria</orth>
+  </form>
+  <form>
+    <orth>memoriam</orth>
+  </form>
+  <form>
+    <orth>memoriae</orth>
+  </form>
+  <form>
+    <orth>memoria</orth>
+  </form>
+  <form>
+    <orth>memorias</orth>
+  </form>
+  <form>
+    <orth>memoriarum</orth>
+  </form>
+  <form>
+    <orth>memoriis</orth>
+  </form>
+  <trans>memory</trans>
+  <note>No long vowels.</note>
+</feminine_noun>

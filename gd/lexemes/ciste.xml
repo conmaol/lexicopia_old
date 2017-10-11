@@ -10,7 +10,7 @@
   <form>
     <orth>cistichean</orth>
   </form>
-  <topic ref="furniture"/>
+  <sense ref="furniture"/>
   <trans>chest</trans>
   <trans>box</trans>
   <trans>coffer</trans>

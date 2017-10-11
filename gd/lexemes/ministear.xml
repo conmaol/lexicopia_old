@@ -7,7 +7,6 @@
   <form>
     <orth>ministeir</orth>
   </form>
-  <topic ref="church"/>
-  <topic ref="people"/>
+  <sense ref="church jobs"/>
   <trans>minister</trans>
 </ainmear_fireann>

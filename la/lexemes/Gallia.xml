@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="Gallia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Gallia</orth>
+  </form>
+  <form>
+    <orth>Galliam</orth>
+  </form>
+  <form>
+    <orth>Galliae</orth>
+  </form>
+  <form>
+    <orth>Gallia</orth>
+  </form>
+  <trans>Gaul</trans>
+  <note>IPA: ['galja]</note>
+</feminine_noun>

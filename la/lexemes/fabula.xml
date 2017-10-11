@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="fabula" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>fabula</orth>
+  </form>
+  <form>
+    <orth>fabulam</orth>
+  </form>
+  <form>
+    <orth>fabulae</orth>
+  </form>
+  <form>
+    <orth>fabula</orth>
+  </form>
+  <form>
+    <orth>fabulas</orth>
+  </form>
+  <form>
+    <orth>fabularum</orth>
+  </form>
+  <form>
+    <orth>fabulis</orth>
+  </form>
+  <trans>story</trans>
+  <note>IPA: ['fa:bula]</note>
+</feminine_noun>

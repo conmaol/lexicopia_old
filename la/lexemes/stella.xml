@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="stella" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>stella</orth>
+  </form>
+  <form>
+    <orth>stellam</orth>
+  </form>
+  <form>
+    <orth>stellae</orth>
+  </form>
+  <form>
+    <orth>stella</orth>
+  </form>
+  <form>
+    <orth>stellas</orth>
+  </form>
+  <form>
+    <orth>stellarum</orth>
+  </form>
+  <form>
+    <orth>stellis</orth>
+  </form>
+  <trans>star</trans>
+  <note>IPA: [st'ella]</note>
+</feminine_noun>

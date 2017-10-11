@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="Easbaig_Ghall_Ghàidhealaibh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="easbaig"/>
+  <part ref="Gall_Ghàidhealaibh"/>
+  <form>
+    <orth>Easbaig Ghall Ghàidhealaibh</orth>
+  </form>
+  <trans index="no">the Bishop of Galloway</trans>
+  <trans index="only">Bishop of Galloway</trans>
+</ainmear_fillte>

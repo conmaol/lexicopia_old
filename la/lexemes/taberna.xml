@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="taberna" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>taberna</orth>
+  </form>
+  <form>
+    <orth>tabernam</orth>
+  </form>
+  <form>
+    <orth>tabernae</orth>
+  </form>
+  <form>
+    <orth>taberna</orth>
+  </form>
+  <form>
+    <orth>tabernas</orth>
+  </form>
+  <form>
+    <orth>tabernarum</orth>
+  </form>
+  <form>
+    <orth>tabernis</orth>
+  </form>
+  <trans>tavern</trans>
+</feminine_noun>
+

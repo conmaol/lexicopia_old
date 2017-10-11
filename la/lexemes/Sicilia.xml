@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="Sicilia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Sicilia</orth>
+  </form>
+  <form>
+    <orth>Siciliam</orth>
+  </form>
+  <form>
+    <orth>Siciliae</orth>
+  </form>
+  <form>
+    <orth>Sicilia</orth>
+  </form>
+  <trans>Sicily</trans>
+  <note>IPA: [si'kilja]</note>
+</feminine_noun>
+
+

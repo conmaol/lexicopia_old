@@ -2,7 +2,7 @@
 
 <ainmear_fillte id="claonadh_àbhaisteach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="claonadh"/>
-  <part ref="àibheastach"/>
+  <part ref="àbhaisteach"/>
   <form>
     <orth>claonadh àbhaisteach</orth>
   </form>

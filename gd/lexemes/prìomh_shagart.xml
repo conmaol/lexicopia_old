@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fillte id="prìomh_shagart" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-  <part ref="prìomh"/>
+  <part ref="prìomh-adj"/>
   <part ref="sagart"/>
   <form>
     <orth>prìomh shagart</orth>
@@ -12,6 +12,7 @@
   <form>
     <orth>prìomh shagartan</orth>
   </form>
+  <sense ref="church jobs"/>
   <trans>primate</trans>
   <note>Listed in Colin Mark’s Dictionary.</note>
 </ainmear_fillte>

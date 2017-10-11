@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<adjective id="praeteritus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>praeteritus</orth>
+  </form>
+  <form>
+    <orth>praeterita</orth>
+  </form>
+  <form>
+    <orth>praeteritum</orth>
+  </form>
+  <form>
+    <orth>praeteritorum</orth>
+  </form>
+  <trans>past</trans>
+  <trans>former</trans>
+</adjective>

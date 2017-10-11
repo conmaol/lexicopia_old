@@ -2,7 +2,7 @@
 
 <example id="saoghal_nam_ban" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="saoghal"/>
-  <part ref="bean"/>
+  <part ref="bean-woman"/>
   <form>
     <orth>saoghal nam ban</orth>
   </form>

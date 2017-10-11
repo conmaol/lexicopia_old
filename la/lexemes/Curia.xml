@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="Curia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Curia</orth>
+  </form>
+  <form>
+    <orth>Curiam</orth>
+  </form>
+  <form>
+    <orth>Curiae</orth>
+  </form>
+  <form>
+    <orth>Curia</orth>
+  </form>
+  <trans>Senate House</trans>
+  <note>IPA: ['ku:rja]</note>
+</feminine_noun>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="Roma" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Roma</orth>
+  </form>
+  <form>
+    <orth>Romam</orth>
+  </form>
+  <form>
+    <orth>Romae</orth>
+  </form>
+  <form>
+    <orth>Roma</orth>
+  </form>
+  <trans>Rome</trans>
+</feminine_noun>

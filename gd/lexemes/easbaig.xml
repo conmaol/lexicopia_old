@@ -19,8 +19,7 @@
   <form>
     <orth>easbuigean</orth>
   </form>
-  <topic ref="church"/>
-  <topic ref="people"/>
+  <sense ref="church jobs"/>
   <trans>bishop</trans>
   <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
   <note>Listed in Colin Mark’s Dictionary.</note>

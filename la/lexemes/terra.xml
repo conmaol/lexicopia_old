@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="terra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>terra</orth>
+  </form>
+  <form>
+    <orth>terram</orth>
+  </form>
+  <form>
+    <orth>terrae</orth>
+  </form>
+  <form>
+    <orth>terra</orth>
+  </form>
+  <form>
+    <orth>terras</orth>
+  </form>
+  <form>
+    <orth>terrarum</orth>
+  </form>
+  <form>
+    <orth>terris</orth>
+  </form>
+  <trans>land</trans>
+  <note>IPA: ['terra]</note>
+</feminine_noun>
+

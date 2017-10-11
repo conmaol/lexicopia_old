@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="memoria_praeteritorum_bonorum" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="memoria"/>
+  <part ref="praeteritus"/>
+  <part ref="bonus"/>
+  <form>
+    <orth>memoria praeteritorum bonorum</orth>
+  </form>
+  <trans>the past is always well remembered</trans>
+</feminine_noun>

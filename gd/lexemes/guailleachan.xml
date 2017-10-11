@@ -5,8 +5,7 @@
   <form>
     <orth>guailleachan</orth>
   </form>
-  <topic ref="clothing"/>
-  <topic ref="church"/>
+  <sense ref="church clothing"/>
   <trans>humeral veil</trans>
   <trans index="only">veil</trans>
   <note>Listed in DASG Fieldwork Archive.</note>

@@ -10,8 +10,7 @@
   <form>
     <orth>cùbaidean</orth>
   </form>
-  <topic ref="church"/>
-  <topic ref="furniture"/>
+  <sense ref="church furniture"/>
   <trans>pulpit</trans>
   <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
   <note>Listed in Colin Mark’s Dictionary.</note>

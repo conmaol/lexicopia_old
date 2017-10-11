@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="pecunia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>pecunia</orth>
+  </form>
+  <form>
+    <orth>pecuniam</orth>
+  </form>
+  <form>
+    <orth>pecuniae</orth>
+  </form>
+  <form>
+    <orth>pecunia</orth>
+  </form>
+  <form>
+    <orth>pecunias</orth>
+  </form>
+  <form>
+    <orth>pecuniarum</orth>
+  </form>
+  <form>
+    <orth>pecuniis</orth>
+  </form>
+  <trans>money</trans>
+  <note>IPA: [pe'ku:nja]</note>
+</feminine_noun>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="Italia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Italia</orth>
+  </form>
+  <form>
+    <orth>Italiam</orth>
+  </form>
+  <form>
+    <orth>Italiae</orth>
+  </form>
+  <form>
+    <orth>Italia</orth>
+  </form>
+  <trans>Italy</trans>
+</feminine_noun>

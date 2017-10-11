@@ -1,0 +1,382 @@
+{
+    "english_index": [
+        {
+            "en": "advantageous",
+            "gds": [
+                {
+                    "id": "bonus",
+                    "form": "bonus"
+                }
+            ]
+        },
+        {
+            "en": "Appian Way",
+            "gds": [
+                {
+                    "id": "via_Appia",
+                    "form": "via Appia"
+                }
+            ]
+        },
+        {
+            "en": "beneficial",
+            "gds": [
+                {
+                    "id": "bonus",
+                    "form": "bonus"
+                }
+            ]
+        },
+        {
+            "en": "beneficient",
+            "gds": [
+                {
+                    "id": "bonus",
+                    "form": "bonus"
+                }
+            ]
+        },
+        {
+            "en": "darkness",
+            "gds": [
+                {
+                    "id": "tenebrae",
+                    "form": "tenebrae"
+                }
+            ]
+        },
+        {
+            "en": "farmer",
+            "gds": [
+                {
+                    "id": "agricola",
+                    "form": "agricola"
+                }
+            ]
+        },
+        {
+            "en": "flame",
+            "gds": [
+                {
+                    "id": "flamma",
+                    "form": "flamma"
+                }
+            ]
+        },
+        {
+            "en": "former",
+            "gds": [
+                {
+                    "id": "praeteritus",
+                    "form": "praeteritus"
+                }
+            ]
+        },
+        {
+            "en": "friendship",
+            "gds": [
+                {
+                    "id": "amicitia",
+                    "form": "amicitia"
+                }
+            ]
+        },
+        {
+            "en": "Gaul",
+            "gds": [
+                {
+                    "id": "Gallia",
+                    "form": "Gallia"
+                }
+            ]
+        },
+        {
+            "en": "girl",
+            "gds": [
+                {
+                    "id": "puella",
+                    "form": "puella"
+                }
+            ]
+        },
+        {
+            "en": "good",
+            "gds": [
+                {
+                    "id": "bonus",
+                    "form": "bonus"
+                }
+            ]
+        },
+        {
+            "en": "Greece",
+            "gds": [
+                {
+                    "id": "Graecia",
+                    "form": "Graecia"
+                }
+            ]
+        },
+        {
+            "en": "inhabitant",
+            "gds": [
+                {
+                    "id": "incola",
+                    "form": "incola"
+                }
+            ]
+        },
+        {
+            "en": "island",
+            "gds": [
+                {
+                    "id": "insula",
+                    "form": "insula"
+                }
+            ]
+        },
+        {
+            "en": "Italy",
+            "gds": [
+                {
+                    "id": "Italia",
+                    "form": "Italia"
+                }
+            ]
+        },
+        {
+            "en": "kind",
+            "gds": [
+                {
+                    "id": "bonus",
+                    "form": "bonus"
+                }
+            ]
+        },
+        {
+            "en": "land",
+            "gds": [
+                {
+                    "id": "terra",
+                    "form": "terra"
+                }
+            ]
+        },
+        {
+            "en": "life",
+            "gds": [
+                {
+                    "id": "vita",
+                    "form": "vita"
+                }
+            ]
+        },
+        {
+            "en": "memory",
+            "gds": [
+                {
+                    "id": "memoria",
+                    "form": "memoria"
+                }
+            ]
+        },
+        {
+            "en": "money",
+            "gds": [
+                {
+                    "id": "pecunia",
+                    "form": "pecunia"
+                }
+            ]
+        },
+        {
+            "en": "moon",
+            "gds": [
+                {
+                    "id": "luna",
+                    "form": "luna"
+                }
+            ]
+        },
+        {
+            "en": "past",
+            "gds": [
+                {
+                    "id": "praeteritus",
+                    "form": "praeteritus"
+                }
+            ]
+        },
+        {
+            "en": "poet",
+            "gds": [
+                {
+                    "id": "poeta",
+                    "form": "poeta"
+                }
+            ]
+        },
+        {
+            "en": "road",
+            "gds": [
+                {
+                    "id": "via",
+                    "form": "via"
+                }
+            ]
+        },
+        {
+            "en": "Rome",
+            "gds": [
+                {
+                    "id": "Roma",
+                    "form": "Roma"
+                }
+            ]
+        },
+        {
+            "en": "sailor",
+            "gds": [
+                {
+                    "id": "nauta",
+                    "form": "nauta"
+                }
+            ]
+        },
+        {
+            "en": "Senate House",
+            "gds": [
+                {
+                    "id": "Curia",
+                    "form": "Curia"
+                }
+            ]
+        },
+        {
+            "en": "Sicily",
+            "gds": [
+                {
+                    "id": "Sicilia",
+                    "form": "Sicilia"
+                }
+            ]
+        },
+        {
+            "en": "soul",
+            "gds": [
+                {
+                    "id": "anima",
+                    "form": "anima"
+                }
+            ]
+        },
+        {
+            "en": "Spain",
+            "gds": [
+                {
+                    "id": "Hispania",
+                    "form": "Hispania"
+                }
+            ]
+        },
+        {
+            "en": "spirit",
+            "gds": [
+                {
+                    "id": "anima",
+                    "form": "anima"
+                }
+            ]
+        },
+        {
+            "en": "star",
+            "gds": [
+                {
+                    "id": "stella",
+                    "form": "stella"
+                }
+            ]
+        },
+        {
+            "en": "story",
+            "gds": [
+                {
+                    "id": "fabula",
+                    "form": "fabula"
+                }
+            ]
+        },
+        {
+            "en": "street",
+            "gds": [
+                {
+                    "id": "via",
+                    "form": "via"
+                }
+            ]
+        },
+        {
+            "en": "tavern",
+            "gds": [
+                {
+                    "id": "taberna",
+                    "form": "taberna"
+                }
+            ]
+        },
+        {
+            "en": "the past is always well remembered",
+            "gds": [
+                {
+                    "id": "memoria_praeteritorum_bonorum",
+                    "form": "memoria praeteritorum bonorum"
+                }
+            ]
+        },
+        {
+            "en": "Troy",
+            "gds": [
+                {
+                    "id": "Troia",
+                    "form": "Troia"
+                }
+            ]
+        },
+        {
+            "en": "victory",
+            "gds": [
+                {
+                    "id": "victoria",
+                    "form": "victoria"
+                }
+            ]
+        },
+        {
+            "en": "virtuous",
+            "gds": [
+                {
+                    "id": "bonus",
+                    "form": "bonus"
+                }
+            ]
+        },
+        {
+            "en": "water",
+            "gds": [
+                {
+                    "id": "aqua",
+                    "form": "aqua"
+                }
+            ]
+        },
+        {
+            "en": "woman",
+            "gds": [
+                {
+                    "id": "femina",
+                    "form": "femina"
+                }
+            ]
+        }
+    ]
+}

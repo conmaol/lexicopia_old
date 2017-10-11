@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="femina" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>femina</orth>
+  </form>
+  <form>
+    <orth>feminam</orth>
+  </form>
+  <form>
+    <orth>feminae</orth>
+  </form>
+  <form>
+    <orth>femina</orth>
+  </form>
+  <form>
+    <orth>feminas</orth>
+  </form>
+  <form>
+    <orth>feminarum</orth>
+  </form>
+  <form>
+    <orth>feminis</orth>
+  </form>
+  <trans>woman</trans>
+  <note>IPA: ['fe:mina]</note>
+</feminine_noun>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<noun id="incola" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>incola</orth>
+  </form>
+  <form>
+    <orth>incolam</orth>
+  </form>
+  <form>
+    <orth>incolae</orth>
+  </form>
+  <form>
+    <orth>incola</orth>
+  </form>
+  <form>
+    <orth>incolas</orth>
+  </form>
+  <form>
+    <orth>incolarum</orth>
+  </form>
+  <form>
+    <orth>incolis</orth>
+  </form>
+  <trans>inhabitant</trans>
+</noun>
+

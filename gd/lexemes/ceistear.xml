@@ -11,8 +11,7 @@
   <form>
     <orth>ceistearan</orth>
   </form>
-  <topic ref="church"/>
-  <topic ref="people"/>
+  <sense ref="church jobs"/>
   <trans>catechist</trans>
   <trans>questioner</trans>
   <trans>quizmaster</trans>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="nauta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>nauta</orth>
+  </form>
+  <form>
+    <orth>nautam</orth>
+  </form>
+  <form>
+    <orth>nautae</orth>
+  </form>
+  <form>
+    <orth>nauta</orth>
+  </form>
+  <form>
+    <orth>nautas</orth>
+  </form>
+  <form>
+    <orth>nautarum</orth>
+  </form>
+  <form>
+    <orth>nautis</orth>
+  </form>
+  <trans>sailor</trans>
+</masculine_noun>
+

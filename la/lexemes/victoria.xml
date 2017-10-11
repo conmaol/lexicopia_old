@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="victoria" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>victoria</orth>
+  </form>
+  <form>
+    <orth>victoriam</orth>
+  </form>
+  <form>
+    <orth>victoriae</orth>
+  </form>
+  <form>
+    <orth>victoria</orth>
+  </form>
+  <form>
+    <orth>victorias</orth>
+  </form>
+  <form>
+    <orth>victoriarum</orth>
+  </form>
+  <form>
+    <orth>victoriis</orth>
+  </form>
+  <trans>victory</trans>
+</feminine_noun>
+

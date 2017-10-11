@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="Hispania" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Hispania</orth>
+  </form>
+  <form>
+    <orth>Hispaniam</orth>
+  </form>
+  <form>
+    <orth>Hispaniae</orth>
+  </form>
+  <form>
+    <orth>Hispania</orth>
+  </form>
+  <trans>Spain</trans>
+</feminine_noun>

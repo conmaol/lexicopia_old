@@ -13,8 +13,7 @@
   <form>
     <orth>casagan</orth>
   </form>
-  <topic ref="clothing"/>
-  <topic ref="church"/>
+  <sense ref="church clothing"/>
   <trans>cassock</trans>
   <trans>tunic</trans>
   <note>Listed in Colin Mark’s Dictionary.</note>

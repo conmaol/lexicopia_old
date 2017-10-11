@@ -7,8 +7,7 @@
   <form>
     <orth>baisteadh</orth>
   </form>
-  <topic ref="church"/>
-  <topic ref="activities"/>
+  <sense ref="ceremonies church"/>
   <trans>baptise</trans>
   <trans>christen</trans>
   <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>

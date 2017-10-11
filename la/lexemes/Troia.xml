@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="Troia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Troia</orth>
+  </form>
+  <form>
+    <orth>Troiam</orth>
+  </form>
+  <form>
+    <orth>Troiae</orth>
+  </form>
+  <form>
+    <orth>Troia</orth>
+  </form>
+  <trans>Troy</trans>
+  <note>IPA: ['troja]</note>
+</feminine_noun>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="insula" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>insula</orth>
+  </form>
+  <form>
+    <orth>insulam</orth>
+  </form>
+  <form>
+    <orth>insulae</orth>
+  </form>
+  <form>
+    <orth>insula</orth>
+  </form>
+  <form>
+    <orth>insulas</orth>
+  </form>
+  <form>
+    <orth>insularum</orth>
+  </form>
+  <form>
+    <orth>insulis</orth>
+  </form>
+  <trans>island</trans>
+</feminine_noun>
+
+

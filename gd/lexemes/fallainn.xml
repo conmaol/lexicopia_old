@@ -25,7 +25,7 @@
   <form>
     <orth>faillinn</orth>
   </form>
-  <topic ref="clothing"/>
+  <sense ref="clothing"/>
   <trans>cloak</trans>
   <trans>mantle</trans>
   <trans>robe</trans>

@@ -6,7 +6,7 @@
   <form>
     <orth>ciste na culaidhe</orth>
   </form>
-  <xs:enumeration value="church"/>
+  <sense ref="church furniture"/>
   <trans>vestment chest</trans>
   <note>Listed in DASG Fieldwork Archive.</note>
 </lexeme>

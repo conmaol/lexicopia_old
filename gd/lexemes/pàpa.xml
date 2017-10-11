@@ -13,8 +13,7 @@
   <form>
     <orth>pàp</orth>
   </form>
-  <topic ref="church"/>
-  <topic ref="people"/>
+  <sense ref="church jobs"/>
   <trans>pope</trans>
   <trans>pontiff</trans>
   <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>

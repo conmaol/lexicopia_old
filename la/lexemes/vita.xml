@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="vita" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>vita</orth>
+  </form>
+  <form>
+    <orth>vitam</orth>
+  </form>
+  <form>
+    <orth>vitae</orth>
+  </form>
+  <form>
+    <orth>vita</orth>
+  </form>
+  <form>
+    <orth>vitas</orth>
+  </form>
+  <form>
+    <orth>vitarum</orth>
+  </form>
+  <form>
+    <orth>vitis</orth>
+  </form>
+  <trans>life</trans>
+</feminine_noun>
+

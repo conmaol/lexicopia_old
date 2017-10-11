@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="via" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>via</orth>
+  </form>
+  <form>
+    <orth>viam</orth>
+  </form>
+  <form>
+    <orth>viae</orth>
+  </form>
+  <form>
+    <orth>via</orth>
+  </form>
+  <form>
+    <orth>vias</orth>
+  </form>
+  <form>
+    <orth>viarum</orth>
+  </form>
+  <form>
+    <orth>viis</orth>
+  </form>
+  <trans>road</trans>
+  <trans>street</trans>
+  <note>IPA: ['wia]</note>
+</feminine_noun>
+
+

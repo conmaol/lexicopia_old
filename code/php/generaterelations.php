@@ -41,7 +41,6 @@ foreach ($lexicalarray as $id=>$lexeme) {
             fwrite($myfile, "</dd>");
         }
     }
-
     $compounds = get_compounds($id,$lexicalarray);
     if (count($compounds)>0) {
         fwrite($myfile, "    <dt>Abairtean fillte:</dt>\n");
@@ -49,6 +48,14 @@ foreach ($lexicalarray as $id=>$lexeme) {
             fwrite($myfile, "<dd>");
             fwrite($myfile, makelink($nextcompound));
             fwrite($myfile, "</dd>");
+        }
+    }
+    // closely related words: all words with a sense which shares ALL the topics that this word has
+    if ($lexeme->topic) {
+        foreach ($lexeme->topic as $nexttopic) {
+            fwrite($myfile, "    <dt>");
+            fwrite($myfile, $nexttopic['ref']);
+            fwrite($myfile, "    </dt>\n");
         }
     }
     fclose($myfile);

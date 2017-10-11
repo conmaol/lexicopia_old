@@ -6,8 +6,7 @@
   <form>
     <orth>mullach geal</orth>
   </form>
-  <topic ref="clothing"/>
-  <topic ref="church"/>
+  <sense ref="church clothing"/>
   <trans>surplice</trans>
   <trans>cotta</trans>
   <note>Listed in the DASG Fieldwork Archive.</note>

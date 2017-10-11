@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexicon xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="lexeme.xsd">
+  
+  <xi:include href="lexemes/puella.xml"/>
+  <xi:include href="lexemes/agricola.xml"/>
+  <xi:include href="lexemes/aqua.xml"/>
+  <xi:include href="lexemes/incola.xml"/>
+  <xi:include href="lexemes/insula.xml"/>
+  <xi:include href="lexemes/nauta.xml"/>
+  <xi:include href="lexemes/taberna.xml"/>
+  <xi:include href="lexemes/victoria.xml"/>
+  <xi:include href="lexemes/vita.xml"/>
+  <xi:include href="lexemes/Hispania.xml"/>
+  <xi:include href="lexemes/Italia.xml"/>
+  <xi:include href="lexemes/Roma.xml"/>
+  <xi:include href="lexemes/memoria_praeteritorum_bonorum.xml"/>
+  <xi:include href="lexemes/memoria.xml"/>
+  <xi:include href="lexemes/praeteritus.xml"/>
+  <xi:include href="lexemes/bonus.xml"/>
+  <xi:include href="lexemes/amicitia.xml"/>
+  <xi:include href="lexemes/fabula.xml"/>
+  <xi:include href="lexemes/femina.xml"/>
+  <xi:include href="lexemes/Gallia.xml"/>
+  <xi:include href="lexemes/Graecia.xml"/>
+  <xi:include href="lexemes/pecunia.xml"/>
+  <xi:include href="lexemes/poeta.xml"/>
+  <xi:include href="lexemes/Sicilia.xml"/>
+  <xi:include href="lexemes/via.xml"/>
+  <xi:include href="lexemes/anima.xml"/>
+  <xi:include href="lexemes/Curia.xml"/>
+  <xi:include href="lexemes/flamma.xml"/>
+  <xi:include href="lexemes/luna.xml"/>
+  <xi:include href="lexemes/stella.xml"/>
+  <xi:include href="lexemes/tenebrae.xml"/>
+  <xi:include href="lexemes/terra.xml"/>
+  <xi:include href="lexemes/Troia.xml"/>
+  <xi:include href="lexemes/via_Appia.xml"/>
+  
+</lexicon>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="Graecia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Graecia</orth>
+  </form>
+  <form>
+    <orth>Graeciam</orth>
+  </form>
+  <form>
+    <orth>Graeciae</orth>
+  </form>
+  <form>
+    <orth>Graecia</orth>
+  </form>
+  <trans>Greece</trans>
+  <note>IPA: ['grajkja]</note>
+</feminine_noun>

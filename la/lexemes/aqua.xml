@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="aqua" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>aqua</orth>
+  </form>
+  <form>
+    <orth>aquam</orth>
+  </form>
+  <form>
+    <orth>aquae</orth>
+  </form>
+  <form>
+    <orth>aqua</orth>
+  </form>
+  <form>
+    <orth>aquas</orth>
+  </form>
+  <form>
+    <orth>aquarum</orth>
+  </form>
+  <form>
+    <orth>aquis</orth>
+  </form>
+  <trans>water</trans>
+</feminine_noun>

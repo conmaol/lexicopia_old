@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<adjective id="bonus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>bonus</orth>
+  </form>
+  <form>
+    <orth>bona</orth>
+  </form>
+  <form>
+    <orth>bonum</orth>
+  </form>
+  <form>
+    <orth>bonorum</orth>
+  </form>
+  <trans>good</trans>
+  <trans>kind</trans>
+  <trans>beneficient</trans>
+  <trans>virtuous</trans>
+  <trans>advantageous</trans>
+  <trans>beneficial</trans>
+</adjective>

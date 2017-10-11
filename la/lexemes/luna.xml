@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="luna" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>luna</orth>
+  </form>
+  <form>
+    <orth>lunam</orth>
+  </form>
+  <form>
+    <orth>lunae</orth>
+  </form>
+  <form>
+    <orth>luna</orth>
+  </form>
+  <form>
+    <orth>lunas</orth>
+  </form>
+  <form>
+    <orth>lunarum</orth>
+  </form>
+  <form>
+    <orth>lunis</orth>
+  </form>
+  <trans>moon</trans>
+  <note>IPA: ['lu:na]</note>
+</feminine_noun>
+
+

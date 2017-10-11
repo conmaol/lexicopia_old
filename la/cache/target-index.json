@@ -1,0 +1,984 @@
+{
+    "target_index": [
+        {
+            "word": "agricola",
+            "id": "agricola",
+            "en": "farmer"
+        },
+        {
+            "word": "agricola",
+            "id": "agricola",
+            "en": "farmer"
+        },
+        {
+            "word": "agricolae",
+            "id": "agricola",
+            "en": "farmer"
+        },
+        {
+            "word": "agricolam",
+            "id": "agricola",
+            "en": "farmer"
+        },
+        {
+            "word": "agricolarum",
+            "id": "agricola",
+            "en": "farmer"
+        },
+        {
+            "word": "agricolas",
+            "id": "agricola",
+            "en": "farmer"
+        },
+        {
+            "word": "agricolis",
+            "id": "agricola",
+            "en": "farmer"
+        },
+        {
+            "word": "amicitia",
+            "id": "amicitia",
+            "en": "friendship"
+        },
+        {
+            "word": "amicitia",
+            "id": "amicitia",
+            "en": "friendship"
+        },
+        {
+            "word": "amicitiae",
+            "id": "amicitia",
+            "en": "friendship"
+        },
+        {
+            "word": "amicitiam",
+            "id": "amicitia",
+            "en": "friendship"
+        },
+        {
+            "word": "amicitiarum",
+            "id": "amicitia",
+            "en": "friendship"
+        },
+        {
+            "word": "amicitias",
+            "id": "amicitia",
+            "en": "friendship"
+        },
+        {
+            "word": "amicitiis",
+            "id": "amicitia",
+            "en": "friendship"
+        },
+        {
+            "word": "anima",
+            "id": "anima",
+            "en": "soul, spirit"
+        },
+        {
+            "word": "anima",
+            "id": "anima",
+            "en": "soul, spirit"
+        },
+        {
+            "word": "animae",
+            "id": "anima",
+            "en": "soul, spirit"
+        },
+        {
+            "word": "animam",
+            "id": "anima",
+            "en": "soul, spirit"
+        },
+        {
+            "word": "animarum",
+            "id": "anima",
+            "en": "soul, spirit"
+        },
+        {
+            "word": "animas",
+            "id": "anima",
+            "en": "soul, spirit"
+        },
+        {
+            "word": "animis",
+            "id": "anima",
+            "en": "soul, spirit"
+        },
+        {
+            "word": "aqua",
+            "id": "aqua",
+            "en": "water"
+        },
+        {
+            "word": "aqua",
+            "id": "aqua",
+            "en": "water"
+        },
+        {
+            "word": "aquae",
+            "id": "aqua",
+            "en": "water"
+        },
+        {
+            "word": "aquam",
+            "id": "aqua",
+            "en": "water"
+        },
+        {
+            "word": "aquarum",
+            "id": "aqua",
+            "en": "water"
+        },
+        {
+            "word": "aquas",
+            "id": "aqua",
+            "en": "water"
+        },
+        {
+            "word": "aquis",
+            "id": "aqua",
+            "en": "water"
+        },
+        {
+            "word": "bona",
+            "id": "bonus",
+            "en": "good, kind, beneficient, virtuous, advantageous, beneficial"
+        },
+        {
+            "word": "bonorum",
+            "id": "bonus",
+            "en": "good, kind, beneficient, virtuous, advantageous, beneficial"
+        },
+        {
+            "word": "bonum",
+            "id": "bonus",
+            "en": "good, kind, beneficient, virtuous, advantageous, beneficial"
+        },
+        {
+            "word": "bonus",
+            "id": "bonus",
+            "en": "good, kind, beneficient, virtuous, advantageous, beneficial"
+        },
+        {
+            "word": "Curia",
+            "id": "Curia",
+            "en": "Senate House"
+        },
+        {
+            "word": "Curia",
+            "id": "Curia",
+            "en": "Senate House"
+        },
+        {
+            "word": "Curiae",
+            "id": "Curia",
+            "en": "Senate House"
+        },
+        {
+            "word": "Curiam",
+            "id": "Curia",
+            "en": "Senate House"
+        },
+        {
+            "word": "fabula",
+            "id": "fabula",
+            "en": "story"
+        },
+        {
+            "word": "fabula",
+            "id": "fabula",
+            "en": "story"
+        },
+        {
+            "word": "fabulae",
+            "id": "fabula",
+            "en": "story"
+        },
+        {
+            "word": "fabulam",
+            "id": "fabula",
+            "en": "story"
+        },
+        {
+            "word": "fabularum",
+            "id": "fabula",
+            "en": "story"
+        },
+        {
+            "word": "fabulas",
+            "id": "fabula",
+            "en": "story"
+        },
+        {
+            "word": "fabulis",
+            "id": "fabula",
+            "en": "story"
+        },
+        {
+            "word": "femina",
+            "id": "femina",
+            "en": "woman"
+        },
+        {
+            "word": "femina",
+            "id": "femina",
+            "en": "woman"
+        },
+        {
+            "word": "feminae",
+            "id": "femina",
+            "en": "woman"
+        },
+        {
+            "word": "feminam",
+            "id": "femina",
+            "en": "woman"
+        },
+        {
+            "word": "feminarum",
+            "id": "femina",
+            "en": "woman"
+        },
+        {
+            "word": "feminas",
+            "id": "femina",
+            "en": "woman"
+        },
+        {
+            "word": "feminis",
+            "id": "femina",
+            "en": "woman"
+        },
+        {
+            "word": "flamma",
+            "id": "flamma",
+            "en": "flame"
+        },
+        {
+            "word": "flamma",
+            "id": "flamma",
+            "en": "flame"
+        },
+        {
+            "word": "flammae",
+            "id": "flamma",
+            "en": "flame"
+        },
+        {
+            "word": "flammam",
+            "id": "flamma",
+            "en": "flame"
+        },
+        {
+            "word": "flammarum",
+            "id": "flamma",
+            "en": "flame"
+        },
+        {
+            "word": "flammas",
+            "id": "flamma",
+            "en": "flame"
+        },
+        {
+            "word": "flammis",
+            "id": "flamma",
+            "en": "flame"
+        },
+        {
+            "word": "Gallia",
+            "id": "Gallia",
+            "en": "Gaul"
+        },
+        {
+            "word": "Gallia",
+            "id": "Gallia",
+            "en": "Gaul"
+        },
+        {
+            "word": "Galliae",
+            "id": "Gallia",
+            "en": "Gaul"
+        },
+        {
+            "word": "Galliam",
+            "id": "Gallia",
+            "en": "Gaul"
+        },
+        {
+            "word": "Graecia",
+            "id": "Graecia",
+            "en": "Greece"
+        },
+        {
+            "word": "Graecia",
+            "id": "Graecia",
+            "en": "Greece"
+        },
+        {
+            "word": "Graeciae",
+            "id": "Graecia",
+            "en": "Greece"
+        },
+        {
+            "word": "Graeciam",
+            "id": "Graecia",
+            "en": "Greece"
+        },
+        {
+            "word": "Hispania",
+            "id": "Hispania",
+            "en": "Spain"
+        },
+        {
+            "word": "Hispania",
+            "id": "Hispania",
+            "en": "Spain"
+        },
+        {
+            "word": "Hispaniae",
+            "id": "Hispania",
+            "en": "Spain"
+        },
+        {
+            "word": "Hispaniam",
+            "id": "Hispania",
+            "en": "Spain"
+        },
+        {
+            "word": "incola",
+            "id": "incola",
+            "en": "inhabitant"
+        },
+        {
+            "word": "incola",
+            "id": "incola",
+            "en": "inhabitant"
+        },
+        {
+            "word": "incolae",
+            "id": "incola",
+            "en": "inhabitant"
+        },
+        {
+            "word": "incolam",
+            "id": "incola",
+            "en": "inhabitant"
+        },
+        {
+            "word": "incolarum",
+            "id": "incola",
+            "en": "inhabitant"
+        },
+        {
+            "word": "incolas",
+            "id": "incola",
+            "en": "inhabitant"
+        },
+        {
+            "word": "incolis",
+            "id": "incola",
+            "en": "inhabitant"
+        },
+        {
+            "word": "insula",
+            "id": "insula",
+            "en": "island"
+        },
+        {
+            "word": "insula",
+            "id": "insula",
+            "en": "island"
+        },
+        {
+            "word": "insulae",
+            "id": "insula",
+            "en": "island"
+        },
+        {
+            "word": "insulam",
+            "id": "insula",
+            "en": "island"
+        },
+        {
+            "word": "insularum",
+            "id": "insula",
+            "en": "island"
+        },
+        {
+            "word": "insulas",
+            "id": "insula",
+            "en": "island"
+        },
+        {
+            "word": "insulis",
+            "id": "insula",
+            "en": "island"
+        },
+        {
+            "word": "Italia",
+            "id": "Italia",
+            "en": "Italy"
+        },
+        {
+            "word": "Italia",
+            "id": "Italia",
+            "en": "Italy"
+        },
+        {
+            "word": "Italiae",
+            "id": "Italia",
+            "en": "Italy"
+        },
+        {
+            "word": "Italiam",
+            "id": "Italia",
+            "en": "Italy"
+        },
+        {
+            "word": "luna",
+            "id": "luna",
+            "en": "moon"
+        },
+        {
+            "word": "luna",
+            "id": "luna",
+            "en": "moon"
+        },
+        {
+            "word": "lunae",
+            "id": "luna",
+            "en": "moon"
+        },
+        {
+            "word": "lunam",
+            "id": "luna",
+            "en": "moon"
+        },
+        {
+            "word": "lunarum",
+            "id": "luna",
+            "en": "moon"
+        },
+        {
+            "word": "lunas",
+            "id": "luna",
+            "en": "moon"
+        },
+        {
+            "word": "lunis",
+            "id": "luna",
+            "en": "moon"
+        },
+        {
+            "word": "memoria",
+            "id": "memoria",
+            "en": "memory"
+        },
+        {
+            "word": "memoria",
+            "id": "memoria",
+            "en": "memory"
+        },
+        {
+            "word": "memoria praeteritorum bonorum",
+            "id": "memoria_praeteritorum_bonorum",
+            "en": "the past is always well remembered"
+        },
+        {
+            "word": "memoriae",
+            "id": "memoria",
+            "en": "memory"
+        },
+        {
+            "word": "memoriam",
+            "id": "memoria",
+            "en": "memory"
+        },
+        {
+            "word": "memoriarum",
+            "id": "memoria",
+            "en": "memory"
+        },
+        {
+            "word": "memorias",
+            "id": "memoria",
+            "en": "memory"
+        },
+        {
+            "word": "memoriis",
+            "id": "memoria",
+            "en": "memory"
+        },
+        {
+            "word": "nauta",
+            "id": "nauta",
+            "en": "sailor"
+        },
+        {
+            "word": "nauta",
+            "id": "nauta",
+            "en": "sailor"
+        },
+        {
+            "word": "nautae",
+            "id": "nauta",
+            "en": "sailor"
+        },
+        {
+            "word": "nautam",
+            "id": "nauta",
+            "en": "sailor"
+        },
+        {
+            "word": "nautarum",
+            "id": "nauta",
+            "en": "sailor"
+        },
+        {
+            "word": "nautas",
+            "id": "nauta",
+            "en": "sailor"
+        },
+        {
+            "word": "nautis",
+            "id": "nauta",
+            "en": "sailor"
+        },
+        {
+            "word": "pecunia",
+            "id": "pecunia",
+            "en": "money"
+        },
+        {
+            "word": "pecunia",
+            "id": "pecunia",
+            "en": "money"
+        },
+        {
+            "word": "pecuniae",
+            "id": "pecunia",
+            "en": "money"
+        },
+        {
+            "word": "pecuniam",
+            "id": "pecunia",
+            "en": "money"
+        },
+        {
+            "word": "pecuniarum",
+            "id": "pecunia",
+            "en": "money"
+        },
+        {
+            "word": "pecunias",
+            "id": "pecunia",
+            "en": "money"
+        },
+        {
+            "word": "pecuniis",
+            "id": "pecunia",
+            "en": "money"
+        },
+        {
+            "word": "poeta",
+            "id": "poeta",
+            "en": "poet"
+        },
+        {
+            "word": "poeta",
+            "id": "poeta",
+            "en": "poet"
+        },
+        {
+            "word": "poetae",
+            "id": "poeta",
+            "en": "poet"
+        },
+        {
+            "word": "poetam",
+            "id": "poeta",
+            "en": "poet"
+        },
+        {
+            "word": "poetarum",
+            "id": "poeta",
+            "en": "poet"
+        },
+        {
+            "word": "poetas",
+            "id": "poeta",
+            "en": "poet"
+        },
+        {
+            "word": "poetis",
+            "id": "poeta",
+            "en": "poet"
+        },
+        {
+            "word": "praeterita",
+            "id": "praeteritus",
+            "en": "past, former"
+        },
+        {
+            "word": "praeteritorum",
+            "id": "praeteritus",
+            "en": "past, former"
+        },
+        {
+            "word": "praeteritum",
+            "id": "praeteritus",
+            "en": "past, former"
+        },
+        {
+            "word": "praeteritus",
+            "id": "praeteritus",
+            "en": "past, former"
+        },
+        {
+            "word": "puella",
+            "id": "puella",
+            "en": "girl"
+        },
+        {
+            "word": "puella",
+            "id": "puella",
+            "en": "girl"
+        },
+        {
+            "word": "puellae",
+            "id": "puella",
+            "en": "girl"
+        },
+        {
+            "word": "puellam",
+            "id": "puella",
+            "en": "girl"
+        },
+        {
+            "word": "puellarum",
+            "id": "puella",
+            "en": "girl"
+        },
+        {
+            "word": "puellas",
+            "id": "puella",
+            "en": "girl"
+        },
+        {
+            "word": "puellis",
+            "id": "puella",
+            "en": "girl"
+        },
+        {
+            "word": "Roma",
+            "id": "Roma",
+            "en": "Rome"
+        },
+        {
+            "word": "Roma",
+            "id": "Roma",
+            "en": "Rome"
+        },
+        {
+            "word": "Romae",
+            "id": "Roma",
+            "en": "Rome"
+        },
+        {
+            "word": "Romam",
+            "id": "Roma",
+            "en": "Rome"
+        },
+        {
+            "word": "Sicilia",
+            "id": "Sicilia",
+            "en": "Sicily"
+        },
+        {
+            "word": "Sicilia",
+            "id": "Sicilia",
+            "en": "Sicily"
+        },
+        {
+            "word": "Siciliae",
+            "id": "Sicilia",
+            "en": "Sicily"
+        },
+        {
+            "word": "Siciliam",
+            "id": "Sicilia",
+            "en": "Sicily"
+        },
+        {
+            "word": "stella",
+            "id": "stella",
+            "en": "star"
+        },
+        {
+            "word": "stella",
+            "id": "stella",
+            "en": "star"
+        },
+        {
+            "word": "stellae",
+            "id": "stella",
+            "en": "star"
+        },
+        {
+            "word": "stellam",
+            "id": "stella",
+            "en": "star"
+        },
+        {
+            "word": "stellarum",
+            "id": "stella",
+            "en": "star"
+        },
+        {
+            "word": "stellas",
+            "id": "stella",
+            "en": "star"
+        },
+        {
+            "word": "stellis",
+            "id": "stella",
+            "en": "star"
+        },
+        {
+            "word": "taberna",
+            "id": "taberna",
+            "en": "tavern"
+        },
+        {
+            "word": "taberna",
+            "id": "taberna",
+            "en": "tavern"
+        },
+        {
+            "word": "tabernae",
+            "id": "taberna",
+            "en": "tavern"
+        },
+        {
+            "word": "tabernam",
+            "id": "taberna",
+            "en": "tavern"
+        },
+        {
+            "word": "tabernarum",
+            "id": "taberna",
+            "en": "tavern"
+        },
+        {
+            "word": "tabernas",
+            "id": "taberna",
+            "en": "tavern"
+        },
+        {
+            "word": "tabernis",
+            "id": "taberna",
+            "en": "tavern"
+        },
+        {
+            "word": "tenebrae",
+            "id": "tenebrae",
+            "en": "darkness"
+        },
+        {
+            "word": "tenebrarum",
+            "id": "tenebrae",
+            "en": "darkness"
+        },
+        {
+            "word": "tenebras",
+            "id": "tenebrae",
+            "en": "darkness"
+        },
+        {
+            "word": "tenebris",
+            "id": "tenebrae",
+            "en": "darkness"
+        },
+        {
+            "word": "terra",
+            "id": "terra",
+            "en": "land"
+        },
+        {
+            "word": "terra",
+            "id": "terra",
+            "en": "land"
+        },
+        {
+            "word": "terrae",
+            "id": "terra",
+            "en": "land"
+        },
+        {
+            "word": "terram",
+            "id": "terra",
+            "en": "land"
+        },
+        {
+            "word": "terrarum",
+            "id": "terra",
+            "en": "land"
+        },
+        {
+            "word": "terras",
+            "id": "terra",
+            "en": "land"
+        },
+        {
+            "word": "terris",
+            "id": "terra",
+            "en": "land"
+        },
+        {
+            "word": "Troia",
+            "id": "Troia",
+            "en": "Troy"
+        },
+        {
+            "word": "Troia",
+            "id": "Troia",
+            "en": "Troy"
+        },
+        {
+            "word": "Troiae",
+            "id": "Troia",
+            "en": "Troy"
+        },
+        {
+            "word": "Troiam",
+            "id": "Troia",
+            "en": "Troy"
+        },
+        {
+            "word": "via",
+            "id": "via",
+            "en": "road, street"
+        },
+        {
+            "word": "via",
+            "id": "via",
+            "en": "road, street"
+        },
+        {
+            "word": "via Appia",
+            "id": "via_Appia",
+            "en": "the Appian Way"
+        },
+        {
+            "word": "via Appia",
+            "id": "via_Appia",
+            "en": "the Appian Way"
+        },
+        {
+            "word": "viae",
+            "id": "via",
+            "en": "road, street"
+        },
+        {
+            "word": "viae Appiae",
+            "id": "via_Appia",
+            "en": "the Appian Way"
+        },
+        {
+            "word": "viam",
+            "id": "via",
+            "en": "road, street"
+        },
+        {
+            "word": "viam Appiam",
+            "id": "via_Appia",
+            "en": "the Appian Way"
+        },
+        {
+            "word": "viarum",
+            "id": "via",
+            "en": "road, street"
+        },
+        {
+            "word": "vias",
+            "id": "via",
+            "en": "road, street"
+        },
+        {
+            "word": "victoria",
+            "id": "victoria",
+            "en": "victory"
+        },
+        {
+            "word": "victoria",
+            "id": "victoria",
+            "en": "victory"
+        },
+        {
+            "word": "victoriae",
+            "id": "victoria",
+            "en": "victory"
+        },
+        {
+            "word": "victoriam",
+            "id": "victoria",
+            "en": "victory"
+        },
+        {
+            "word": "victoriarum",
+            "id": "victoria",
+            "en": "victory"
+        },
+        {
+            "word": "victorias",
+            "id": "victoria",
+            "en": "victory"
+        },
+        {
+            "word": "victoriis",
+            "id": "victoria",
+            "en": "victory"
+        },
+        {
+            "word": "viis",
+            "id": "via",
+            "en": "road, street"
+        },
+        {
+            "word": "vita",
+            "id": "vita",
+            "en": "life"
+        },
+        {
+            "word": "vita",
+            "id": "vita",
+            "en": "life"
+        },
+        {
+            "word": "vitae",
+            "id": "vita",
+            "en": "life"
+        },
+        {
+            "word": "vitam",
+            "id": "vita",
+            "en": "life"
+        },
+        {
+            "word": "vitarum",
+            "id": "vita",
+            "en": "life"
+        },
+        {
+            "word": "vitas",
+            "id": "vita",
+            "en": "life"
+        },
+        {
+            "word": "vitis",
+            "id": "vita",
+            "en": "life"
+        }
+    ]
+}

@@ -2,7 +2,7 @@
 
 <ainmear_fillte id="maor_eaglaise" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="maor"/>
-  <part ref="eaglaise"/>
+  <part ref="eaglais"/>
   <form>
     <orth>maor eaglaise</orth>
   </form>

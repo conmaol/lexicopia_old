@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="via_Appia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="via"/>
+  <form>
+    <orth>via Appia</orth>
+  </form>
+  <form>
+    <orth>viam Appiam</orth>
+  </form>
+  <form>
+    <orth>viae Appiae</orth>
+  </form>
+  <form>
+    <orth>via Appia</orth>
+  </form>
+  <trans index="only">Appian Way</trans>
+  <trans index="no">the Appian Way</trans>
+  <note>The road from Rome to Southern Italy.</note>
+</feminine_noun>

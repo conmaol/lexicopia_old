@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="poeta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>poeta</orth>
+  </form>
+  <form>
+    <orth>poetam</orth>
+  </form>
+  <form>
+    <orth>poetae</orth>
+  </form>
+  <form>
+    <orth>poeta</orth>
+  </form>
+  <form>
+    <orth>poetas</orth>
+  </form>
+  <form>
+    <orth>poetarum</orth>
+  </form>
+  <form>
+    <orth>poetis</orth>
+  </form>
+  <trans>poet</trans>
+  <note>IPA: [po'e:ta]</note>
+</masculine_noun>
+

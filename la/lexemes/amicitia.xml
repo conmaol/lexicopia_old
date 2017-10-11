@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="amicitia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>amicitia</orth>
+  </form>
+  <form>
+    <orth>amicitiam</orth>
+  </form>
+  <form>
+    <orth>amicitiae</orth>
+  </form>
+  <form>
+    <orth>amicitia</orth>
+  </form>
+  <form>
+    <orth>amicitias</orth>
+  </form>
+  <form>
+    <orth>amicitiarum</orth>
+  </form>
+  <form>
+    <orth>amicitiis</orth>
+  </form>
+  <trans>friendship</trans>
+  <note>IPA: [ami:'kitja]</note>
+</feminine_noun>

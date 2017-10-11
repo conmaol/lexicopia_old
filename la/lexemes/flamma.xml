@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="flamma" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>flamma</orth>
+  </form>
+  <form>
+    <orth>flammam</orth>
+  </form>
+  <form>
+    <orth>flammae</orth>
+  </form>
+  <form>
+    <orth>flamma</orth>
+  </form>
+  <form>
+    <orth>flammas</orth>
+  </form>
+  <form>
+    <orth>flammarum</orth>
+  </form>
+  <form>
+    <orth>flammis</orth>
+  </form>
+  <trans>flame</trans>
+  <note>IPA: ['flamma]</note>
+</feminine_noun>
+

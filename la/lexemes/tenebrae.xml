@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="tenebrae" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>tenebrae</orth>
+  </form>
+  <form>
+    <orth>tenebras</orth>
+  </form>
+  <form>
+    <orth>tenebrarum</orth>
+  </form>
+  <form>
+    <orth>tenebris</orth>
+  </form>
+  <trans>darkness</trans>
+  <note>IPA: ['tenebray]</note>
+</feminine_noun>
+

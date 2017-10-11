@@ -44,7 +44,7 @@
     <xs:sequence>
       <xs:element ref="part" minOccurs="0" maxOccurs="unbounded"/>
       <xs:element name="form" minOccurs="1" maxOccurs="unbounded"/>
-      <xs:element name="topic" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name="sense" minOccurs="0" maxOccurs="unbounded"/>
       <xs:element name="trans" minOccurs="0" maxOccurs="unbounded"/>
       <xs:element name="note" type="xs:token" minOccurs="0" maxOccurs="unbounded"/>
     </xs:sequence>
@@ -66,17 +66,17 @@
     </xs:complexType>
   </xs:element>
 
-  <xs:element name="topic">
+  <xs:element name="sense">
     <xs:complexType>
       <xs:attribute name="ref" use="required">
         <xs:simpleType>
-          <xs:restriction base="xs:string">
-            <xs:enumeration value="church"/> <!-- words to do with church and religion -->
-            <xs:enumeration value="clothing"/> <!-- words to do with clothing and adornment -->
+          <xs:restriction base="xs:NMTOKENS">
+            <xs:enumeration value="church"/> <!-- church and religion -->
+            <xs:enumeration value="clothing"/> <!-- clothing and adornment -->
             <xs:enumeration value="furniture"/> <!-- furniture and decoration -->
-            <xs:enumeration value="people"/> <!-- words to do with people, esp. types of people -->
+            <xs:enumeration value="jobs"/> <!-- jobs and roles -->
             <xs:enumeration value="buildings"/> <!-- buildings and parts of buildings -->
-            <xs:enumeration value="activities"/> <!-- actions and activities -->
+            <xs:enumeration value="ceremonies"/> 
           </xs:restriction>
         </xs:simpleType>
       </xs:attribute>

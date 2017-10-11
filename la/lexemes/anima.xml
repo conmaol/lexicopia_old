@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="anima" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>anima</orth>
+  </form>
+  <form>
+    <orth>animam</orth>
+  </form>
+  <form>
+    <orth>animae</orth>
+  </form>
+  <form>
+    <orth>anima</orth>
+  </form>
+  <form>
+    <orth>animas</orth>
+  </form>
+  <form>
+    <orth>animarum</orth>
+  </form>
+  <form>
+    <orth>animis</orth>
+  </form>
+  <trans>soul</trans>
+  <trans>spirit</trans>
+  <note>IPA: ['anima]</note>
+</feminine_noun>
+
