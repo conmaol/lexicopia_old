@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="philosophus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>philosophus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>philosophe</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>philosophum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>philosophi</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>philosopho</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>philosophos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>philosophorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>philosophis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>philosopher</trans>
+  <note>IPA: [Pi'losoPus]</note>
+</masculine_noun>
+

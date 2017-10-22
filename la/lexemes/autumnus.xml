@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="autumnus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>autumnus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>autumne</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>autumnum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>autumni</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>autumno</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>autumnos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>autumnorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>autumnis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>autumn</trans>
+  <note>IPA: [aw'tumnus]</note>
+</masculine_noun>
+
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="initium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>initium</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>initii</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>initio</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>initia</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>initiorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>initiis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>beginning</trans>
+  <note>IPA: [i'nitjum]</note>
+</neuter_noun>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="ciall" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>ciall</orth>
+  </form>
+  <form>
+    <orth>cèill</orth>
+  </form>
+  <trans>sense</trans>
+  <trans>meaning</trans>
+  <trans>connotation</trans>
+  <trans>gumption</trans>
+  <trans>implication</trans>
+  <trans>import</trans>
+  <trans>mind</trans>
+  <trans>purport</trans>
+  <trans>reason</trans>
+  <trans>sanity</trans>
+  <trans>significance</trans>
+  <trans>taste</trans>
+  <trans>understanding</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear_boireann>

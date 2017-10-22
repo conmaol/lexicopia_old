@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="definite-article" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>an</orth>
+  </form>
+  <form>
+    <orth>am</orth>
+  </form>
+  <form>
+    <orth>a’</orth>
+  </form>
+  <form>
+    <orth>a’</orth>
+  </form>
+  <form>
+    <orth>na</orth>
+  </form>
+  <form>
+    <orth>nan</orth>
+  </form>
+  <form>
+    <orth>nam</orth>
+  </form>
+  <trans>the</trans>
+</lexeme>

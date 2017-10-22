@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="mortuus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>mortuus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>mortue</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>mortuum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>mortui</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>mortuo</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>mortuos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>mortuorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>mortuis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>dead man</trans>
+  <note>IPA: ['mortwus]</note>
+</masculine_noun>

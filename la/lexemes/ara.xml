@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="ara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>ara</orth>
+  </form>
+  <form>
+    <orth>aram</orth>
+  </form>
+  <form>
+    <orth>arae</orth>
+  </form>
+  <form>
+    <orth>ara</orth>
+  </form>
+  <form>
+    <orth>aras</orth>
+  </form>
+  <form>
+    <orth>ararum</orth>
+  </form>
+  <form>
+    <orth>aris</orth>
+  </form>
+  <trans>alter</trans>
+  <note>IPA: ['a:ra]</note>
+</feminine_noun>

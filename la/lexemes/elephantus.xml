@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="elephantus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>elephantus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>elephante</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>elephantum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>elephanti</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>elephanto</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>elephantos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>elephantorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>elephantis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>elephant</trans>
+  <note>IPA: [ele'Pantus]</note>
+</masculine_noun>
+
+

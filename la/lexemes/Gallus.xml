@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="Gallus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="Gallia"/>
+  <form>
+    <orth>Gallus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>Galle</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>Gallum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>Galli</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>Gallo</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>Gallos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>Gallorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>Gallis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>Gaul</trans>
+  <trans>inhabitant of Gaul</trans>
+  <note>IPA: ['gallus]</note>
+</masculine_noun>
+

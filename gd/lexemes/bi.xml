@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bi" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>bi</orth>
+  </form>
+  <form>
+    <orth>tha</orth>
+  </form>
+  <form>
+    <orth>bha</orth>
+  </form>
+  <form>
+    <orth>eil</orth>
+  </form>
+  <form>
+    <orth>bheil</orth>
+  </form>
+  <form>
+    <orth>robh</orth>
+  </form>
+  <form>
+    <orth>bhios</orth>
+  </form>
+  <form>
+    <orth>bith</orth>
+  </form>
+  <trans>be</trans>
+  <trans index="only">is</trans>
+  <trans index="only">am</trans>
+  <trans index="only">are</trans>
+  <trans index="only">was</trans>
+  <trans index="only">were</trans>
+</lexeme>

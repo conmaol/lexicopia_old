@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="tàire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>tàire</orth>
+  </form>
+  <form>
+    <orth>tàir</orth>
+  </form>
+  <trans>contempt</trans>
+  <trans>disdain</trans>
+  <trans>disparagement</trans>
+  <trans>insult</trans>
+  <trans>scorm</trans>
+  <trans>slight</trans>
+  <trans>slur</trans>
+  <trans>difficulty</trans>
+  <trans>trouble</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear_boireann>

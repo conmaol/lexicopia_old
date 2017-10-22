@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="monumentum" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>monumentum</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>monumenti</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>monumento</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>monumenta</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>monumentorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>monumentis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>monument</trans>
+  <note>IPA: [monu'mentum]</note>
+</neuter_noun>

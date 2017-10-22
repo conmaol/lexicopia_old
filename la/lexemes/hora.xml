@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="hora" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>hora</orth>
+  </form>
+  <form>
+    <orth>horam</orth>
+  </form>
+  <form>
+    <orth>horae</orth>
+  </form>
+  <form>
+    <orth>hora</orth>
+  </form>
+  <form>
+    <orth>horas</orth>
+  </form>
+  <form>
+    <orth>horarum</orth>
+  </form>
+  <form>
+    <orth>horis</orth>
+  </form>
+  <trans>hour</trans>
+  <note>IPA: ['ho:ra]</note>
+</feminine_noun>

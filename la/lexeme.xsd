@@ -14,6 +14,7 @@
           <xs:element ref="neuter_noun"/>
           <xs:element ref="noun"/>
           <xs:element ref="adjective"/>
+          <xs:element ref="verb"/>
         </xs:choice>
       </xs:sequence>
     </xs:complexType>
@@ -30,6 +31,8 @@
   <xs:element name="noun" type="lexeme-content"/>
   
   <xs:element name="adjective" type="lexeme-content"/>
+  
+  <xs:element name="verb" type="lexeme-content"/>
 
   <xs:complexType name="lexeme-content">
     <xs:sequence>
@@ -52,6 +55,7 @@
     <xs:complexType>
       <xs:sequence>
         <xs:element name="orth" type="xs:token" minOccurs="1" maxOccurs="1"/>
+        <xs:element name="note" type="xs:token" minOccurs="0" maxOccurs="unbounded"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>

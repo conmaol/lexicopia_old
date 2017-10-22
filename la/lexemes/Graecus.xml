@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="Graecus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="Graecia"/>
+  <form>
+    <orth>Graecus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>Graece</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>Graecum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>Graeci</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>Graeco</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>Graecos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>Graecorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>Graecis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>Greek</trans>
+  <trans>inhabitant of Greece</trans>
+  <note>IPA: ['grajkus]</note>
+</masculine_noun>
+
+

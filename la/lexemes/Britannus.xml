@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="Britannus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Britannus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>Britanne</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>Britannum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>Britanni</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>Britanno</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>Britannos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>Britannorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>Britannis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>Briton</trans>
+  <note>IPA: [bri'tannus]</note>
+</masculine_noun>

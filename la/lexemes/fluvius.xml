@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="fluvius" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>fluvius</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>fluvie</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>fluvium</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>fluvii</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>fluvio</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>fluvios</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>fluviorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>fluviis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>river</trans>
+  <note>IPA: ['fluwjus]</note>
+</masculine_noun>
+

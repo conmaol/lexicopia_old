@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="pomum" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>pomum</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>pomi</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>pomo</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>poma</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>pomorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>pomis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>fruit</trans>
+  <note>IPA: ['po:mum]</note>
+</neuter_noun>
+

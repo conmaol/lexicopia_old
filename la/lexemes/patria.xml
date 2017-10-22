@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="patria" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>patria</orth>
+  </form>
+  <form>
+    <orth>patriam</orth>
+  </form>
+  <form>
+    <orth>patriae</orth>
+  </form>
+  <form>
+    <orth>patria</orth>
+  </form>
+  <form>
+    <orth>patrias</orth>
+  </form>
+  <form>
+    <orth>patriarum</orth>
+  </form>
+  <form>
+    <orth>patriis</orth>
+  </form>
+  <trans>native land</trans>
+  <note>IPA: ['patrja]</note>
+</feminine_noun>
+

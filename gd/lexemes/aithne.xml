@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="aithne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>aithne</orth>
+  </form>
+  <trans>acquaintance</trans>
+  <trans>knowledge</trans>
+  <trans>ken</trans>
+  <trans>discernment</trans>
+</ainmear_boireann>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="scalae" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>scalae</orth>
+  </form>
+  <form>
+    <orth>scalas</orth>
+  </form>
+  <form>
+    <orth>scalarum</orth>
+  </form>
+  <form>
+    <orth>scalis</orth>
+  </form>
+  <trans>ladder</trans>
+  <note>IPA: ['ska:laj]</note>
+</feminine_noun>
+
+

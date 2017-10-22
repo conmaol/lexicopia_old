@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="Poenus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Poenus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>Poene</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>Poenum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>Poeni</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>Poeno</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>Poenos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>Poenorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>Poenis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>Carthaginian</trans>
+  <trans>inhabitant of Carthage</trans>
+  <note>IPA: [po'enus]</note>
+</masculine_noun>

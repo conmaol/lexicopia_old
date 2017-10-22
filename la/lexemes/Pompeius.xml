@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="Pompeius" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Pompeius</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>Pompeie</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>Pompeium</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>Pompeii</orth>
+    <note>genitive singularl</note>
+  </form>
+  <form>
+    <orth>Pompeio</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <trans>Pompey</trans>
+  <note>IPA: [pom'pejus]</note>
+</masculine_noun>

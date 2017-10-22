@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="hortus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>hortus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>horte</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>hortum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>horti</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>horto</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>hortos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>hortorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>hortis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>garden</trans>
+  <note>IPA: ['hortus]</note>
+</masculine_noun>

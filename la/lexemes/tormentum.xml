@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="tormentum" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>tormentum</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>tormenti</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>tormento</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>tormenta</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>tormentorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>tormentis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>catapult</trans>
+  <note>IPA: [tor'mentum]</note>
+</neuter_noun>
+

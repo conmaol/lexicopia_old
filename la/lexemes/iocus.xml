@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="iocus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>iocus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>ioce</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>iocum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>ioci</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>ioco</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>iocos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>iocorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>iocis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>joke</trans>
+  <trans>jest</trans>
+  <note>IPA: ['jokus]</note>
+</masculine_noun>

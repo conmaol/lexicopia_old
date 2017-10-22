@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="regina" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>regina</orth>
+  </form>
+  <form>
+    <orth>reginam</orth>
+  </form>
+  <form>
+    <orth>reginae</orth>
+  </form>
+  <form>
+    <orth>regina</orth>
+  </form>
+  <form>
+    <orth>reginas</orth>
+  </form>
+  <form>
+    <orth>reginarum</orth>
+  </form>
+  <form>
+    <orth>reginis</orth>
+  </form>
+  <trans>queen</trans>
+  <note>IPA: [re:'gi:na]</note>
+</feminine_noun>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="borb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>borb</orth>
+  </form>
+  <form>
+    <orth>buirbe</orth>
+  </form>
+  <trans>barbaric</trans>
+  <trans>brutish</trans>
+  <trans>harsh</trans>
+  <trans>savage</trans>
+  <trans>rude</trans>
+  <trans>uncivil</trans>
+  <trans>uncivilised</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</buadhair>

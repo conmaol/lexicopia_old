@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="consilium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>consilium</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>consilii</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>consilio</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>consilia</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>consiliorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>consiliis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>plan</trans>
+  <trans>ability to plan</trans>
+  <trans>wisdom</trans>
+  <note>IPA: [kon'siljum]</note>
+</neuter_noun>

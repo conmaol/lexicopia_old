@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="statua" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>statua</orth>
+  </form>
+  <form>
+    <orth>statuam</orth>
+  </form>
+  <form>
+    <orth>statuae</orth>
+  </form>
+  <form>
+    <orth>statua</orth>
+  </form>
+  <form>
+    <orth>statuas</orth>
+  </form>
+  <form>
+    <orth>statuarum</orth>
+  </form>
+  <form>
+    <orth>statuis</orth>
+  </form>
+  <trans>statue</trans>
+  <note>IPA: ['statwa]</note>
+</feminine_noun>
+

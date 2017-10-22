@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="focus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>focus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>foce</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>focum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>foci</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>foco</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>focos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>focorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>focis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>hearth</trans>
+  <note>IPA: ['focus]</note>
+</masculine_noun>
+

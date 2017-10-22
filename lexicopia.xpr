@@ -4,18 +4,19 @@
         <filters directoryPatterns="" filePatterns="lexicopia.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
             <serialized version="18.0" xml:space="preserve">
-                <map>
+                <serializableOrderedMap>
                     <entry>
                         <String>enable.project.master.files.support</String>
                         <Boolean>true</Boolean>
                     </entry>
-                </map>
+                </serializableOrderedMap>
             </serialized>
         </options>
     </meta>
     <projectTree name="lexicopia.xpr">
         <folder masterFiles="true" name="Master Files">
             <file name="gd/lexicon.xml"/>
+            <file name="la/lexicon.xml"/>
         </folder>
         <folder path="."/>
     </projectTree>

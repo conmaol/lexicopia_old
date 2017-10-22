@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="vallum" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>vallum</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>valli</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>vallo</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>valla</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>vallorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>vallis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>wall</trans>
+  <note>IPA: ['wallum]</note>
+</neuter_noun>
+

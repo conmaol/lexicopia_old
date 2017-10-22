@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="titulus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>titulus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>titule</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>titulum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>tituli</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>titulo</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>titulos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>titulorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>titulis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>inscription</trans>
+  <note>IPA: ['titulus]</note>
+</masculine_noun>

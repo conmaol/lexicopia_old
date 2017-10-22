@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="proelium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>proelium</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>proelii</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>proelio</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>proelia</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>proeliorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>proeliis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>battle</trans>
+  <note>IPA: [pro'eljum]</note>
+</neuter_noun>
+

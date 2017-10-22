@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="deas-adjective" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>deas</orth>
+  </form>
+  <trans>accomplished</trans>
+  <trans>active</trans>
+  <trans>alert</trans>
+  <trans>apt</trans>
+  <trans>clever</trans>
+  <trans>deft</trans>
+  <trans>dextrous</trans>
+  <trans>expert</trans>
+  <trans>handy</trans>
+  <trans>prompt</trans>
+  <trans>quick</trans>
+  <trans>right</trans>
+  <trans>sharp</trans>
+  <trans>skillful</trans>
+  <trans>snappy</trans>
+  <trans>spruce</trans>
+  <trans>finished</trans>
+  <trans>ready</trans>
+  <trans>near</trans>
+  <trans>to hand</trans>
+</buadhair>

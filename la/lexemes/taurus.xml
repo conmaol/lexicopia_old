@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="taurus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>taurus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>taure</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>taurum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>tauri</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>tauro</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>tauros</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>taurorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>tauris</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>bull</trans>
+  <note>IPA: ['tawrus]</note>
+</masculine_noun>
+

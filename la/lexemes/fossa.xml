@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="fossa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>fossa</orth>
+  </form>
+  <form>
+    <orth>fossam</orth>
+  </form>
+  <form>
+    <orth>fossae</orth>
+  </form>
+  <form>
+    <orth>fossa</orth>
+  </form>
+  <form>
+    <orth>fossas</orth>
+  </form>
+  <form>
+    <orth>fossarum</orth>
+  </form>
+  <form>
+    <orth>fossis</orth>
+  </form>
+  <trans>ditch</trans>
+  <note>IPA: ['fossa]</note>
+</feminine_noun>
+
+

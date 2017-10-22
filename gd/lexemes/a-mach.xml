@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="a-mach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>a-mach</orth>
-    </form>
-    <trans>(to) outside</trans>
-    <trans>outside</trans>
-  </lexeme>
+  <part ref="do-preposition"/>
+  <part ref="mach"/>
+  <form>
+    <orth>a-mach</orth>
+  </form>
+  <trans>(to) outside</trans>
+  <trans>outside</trans>
+</lexeme>

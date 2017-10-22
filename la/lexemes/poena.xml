@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="poena" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>poena</orth>
+  </form>
+  <form>
+    <orth>poenam</orth>
+  </form>
+  <form>
+    <orth>poenae</orth>
+  </form>
+  <form>
+    <orth>poena</orth>
+  </form>
+  <form>
+    <orth>poenas</orth>
+  </form>
+  <form>
+    <orth>poenarum</orth>
+  </form>
+  <form>
+    <orth>poenis</orth>
+  </form>
+  <trans>punishment</trans>
+  <note>IPA: [po'ena]</note>
+</feminine_noun>
+

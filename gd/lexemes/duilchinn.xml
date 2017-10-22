@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="duilchinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="duilich"/>
+  <form>
+    <orth>duilchinn</orth>
+  </form>
+  <form>
+    <orth>duilchinnean</orth>
+  </form>
+  <form>
+    <orth>duilichinn</orth>
+  </form>
+  <trans>regret</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear_boireann>

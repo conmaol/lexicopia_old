@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="ira" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>ira</orth>
+  </form>
+  <form>
+    <orth>iram</orth>
+  </form>
+  <form>
+    <orth>irae</orth>
+  </form>
+  <form>
+    <orth>ira</orth>
+  </form>
+  <form>
+    <orth>iras</orth>
+  </form>
+  <form>
+    <orth>irarum</orth>
+  </form>
+  <form>
+    <orth>iris</orth>
+  </form>
+  <trans>anger</trans>
+  <note>IPA: ['i:ra]</note>
+</feminine_noun>

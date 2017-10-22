@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="periculum" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>periculum</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>periculi</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>periculo</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>pericula</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>periculorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>periculis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>danger</trans>
+  <note>IPA: [pe'ri:culum]</note>
+</neuter_noun>

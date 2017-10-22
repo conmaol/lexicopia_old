@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="natura" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>natura</orth>
+  </form>
+  <form>
+    <orth>naturam</orth>
+  </form>
+  <form>
+    <orth>naturae</orth>
+  </form>
+  <form>
+    <orth>natura</orth>
+  </form>
+  <form>
+    <orth>naturas</orth>
+  </form>
+  <form>
+    <orth>naturarum</orth>
+  </form>
+  <form>
+    <orth>naturis</orth>
+  </form>
+  <trans>nature</trans>
+  <note>IPA: [na:'tu:ra]</note>
+</feminine_noun>

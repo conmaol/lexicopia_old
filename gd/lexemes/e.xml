@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="e" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>e</orth>
+  </form>
+  <trans>he</trans>
+  <trans>him</trans>
+  <trans>it</trans>
+</lexeme>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear id="dad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>dad</orth>
+  </form>
+  <trans>thing</trans>
+  <trans>iota</trans>
+  <trans>jot</trans>
+</ainmear>

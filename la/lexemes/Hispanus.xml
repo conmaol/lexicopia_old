@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="Hispanus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="Hispania"/>
+  <form>
+    <orth>Hispanus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>Hispane</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>Hispanum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>Hispani</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>Hispano</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>Hispanos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>Hispanorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>Hispanis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>Spaniard</trans>
+  <trans>inhabitant of Spain</trans>
+  <note>IPA: [hi'spa:nus]</note>
+</masculine_noun>
+
+

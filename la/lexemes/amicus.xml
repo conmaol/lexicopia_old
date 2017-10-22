@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="amicus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>amicus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>amice</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>amicum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>amici</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>amico</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>amicos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>amicorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>amicis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>friend</trans>
+  <note>IPA: [a'mi:kus]</note>
+</masculine_noun>
+

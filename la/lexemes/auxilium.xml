@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="auxilium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>auxilium</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>auxilii</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>auxilio</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>auxilia</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>auxiliorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>auxiliis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>help</trans>
+  <note>IPA: [awk'siljum]</note>
+</neuter_noun>
+

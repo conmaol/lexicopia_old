@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="persona" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>persona</orth>
+  </form>
+  <form>
+    <orth>personam</orth>
+  </form>
+  <form>
+    <orth>personae</orth>
+  </form>
+  <form>
+    <orth>persona</orth>
+  </form>
+  <form>
+    <orth>personas</orth>
+  </form>
+  <form>
+    <orth>personarum</orth>
+  </form>
+  <form>
+    <orth>personis</orth>
+  </form>
+  <trans>mask</trans>
+  <note>IPA: [per'so:na]</note>
+</feminine_noun>

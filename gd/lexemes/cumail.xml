@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="cumail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>cumail</orth>
-    </form>
-    <trans>keeping</trans>
-  </lexeme>
+<ainmear id="cumail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="cùm"/>
+  <form>
+    <orth>cumail</orth>
+  </form>
+  <trans>keeping</trans>
+</ainmear>

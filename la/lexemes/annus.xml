@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="annus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>annus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>anne</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>annum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>anni</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>anno</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>annos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>annorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>annis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>year</trans>
+  <note>IPA: ['annus]</note>
+</masculine_noun>
+
+

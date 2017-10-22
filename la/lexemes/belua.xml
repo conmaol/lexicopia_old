@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="belua" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>belua</orth>
+  </form>
+  <form>
+    <orth>beluam</orth>
+  </form>
+  <form>
+    <orth>beluae</orth>
+  </form>
+  <form>
+    <orth>belua</orth>
+  </form>
+  <form>
+    <orth>beluas</orth>
+  </form>
+  <form>
+    <orth>beluarum</orth>
+  </form>
+  <form>
+    <orth>beluis</orth>
+  </form>
+  <trans>monster</trans>
+  <note>IPA: ['be:lwa]</note>
+</feminine_noun>

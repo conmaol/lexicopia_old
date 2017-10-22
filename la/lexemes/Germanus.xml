@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="Germanus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Germanus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>Germane</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>Germanum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>Germani</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>Germano</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>Germanos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>Germanorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>Germanis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>German</trans>
+  <trans>inhabitant of Germany</trans>
+  <note>IPA: [ger'ma:nus]</note>
+</masculine_noun>
+
+

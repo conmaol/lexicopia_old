@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="no" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>no</orth>
-    </form>
-    <trans>or</trans>
-  </lexeme>
+  <form>
+    <orth>no</orth>
+  </form>
+  <form>
+    <orth>neo</orth>
+  </form>
+  <form>
+    <orth>na</orth>
+  </form>
+  <trans>or</trans>
+</lexeme>

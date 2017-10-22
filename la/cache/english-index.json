@@ -1,6 +1,24 @@
 {
     "english_index": [
         {
+            "en": "ability to plan",
+            "gds": [
+                {
+                    "id": "consilium",
+                    "form": "consilium"
+                }
+            ]
+        },
+        {
+            "en": "act",
+            "gds": [
+                {
+                    "id": "actum",
+                    "form": "actum"
+                }
+            ]
+        },
+        {
             "en": "advantageous",
             "gds": [
                 {
@@ -10,11 +28,69 @@
             ]
         },
         {
+            "en": "alter",
+            "gds": [
+                {
+                    "id": "ara",
+                    "form": "ara"
+                }
+            ]
+        },
+        {
+            "en": "anger",
+            "gds": [
+                {
+                    "id": "ira",
+                    "form": "ira"
+                }
+            ]
+        },
+        {
             "en": "Appian Way",
             "gds": [
                 {
                     "id": "via_Appia",
                     "form": "via Appia"
+                }
+            ]
+        },
+        {
+            "en": "autumn",
+            "gds": [
+                {
+                    "id": "autumnus",
+                    "form": "autumnus"
+                }
+            ]
+        },
+        {
+            "en": "barbarian",
+            "gds": [
+                {
+                    "id": "barbarus",
+                    "form": "barbarus"
+                }
+            ]
+        },
+        {
+            "en": "battle",
+            "gds": [
+                {
+                    "id": "proelium",
+                    "form": "proelium"
+                },
+                {
+                    "id": "pugna",
+                    "form": "pugna"
+                }
+            ]
+        },
+        {
+            "en": "beginning",
+            "gds": [
+                {
+                    "id": "initium",
+                    "form": "initium"
                 }
             ]
         },
@@ -37,11 +113,191 @@
             ]
         },
         {
+            "en": "Briton",
+            "gds": [
+                {
+                    "id": "Britannus",
+                    "form": "Britannus"
+                }
+            ]
+        },
+        {
+            "en": "building",
+            "gds": [
+                {
+                    "id": "aedificium",
+                    "form": "aedificium"
+                }
+            ]
+        },
+        {
+            "en": "bull",
+            "gds": [
+                {
+                    "id": "taurus",
+                    "form": "taurus"
+                }
+            ]
+        },
+        {
+            "en": "Capitol",
+            "gds": [
+                {
+                    "id": "Capitolium",
+                    "form": "Capitolium"
+                }
+            ]
+        },
+        {
+            "en": "Carthaginian",
+            "gds": [
+                {
+                    "id": "Poenus",
+                    "form": "Poenus"
+                }
+            ]
+        },
+        {
+            "en": "catapult",
+            "gds": [
+                {
+                    "id": "tormentum",
+                    "form": "tormentum"
+                }
+            ]
+        },
+        {
+            "en": "Corinth",
+            "gds": [
+                {
+                    "id": "Corinthus",
+                    "form": "Corinthus"
+                }
+            ]
+        },
+        {
+            "en": "cypress",
+            "gds": [
+                {
+                    "id": "cupressus",
+                    "form": "cupressus"
+                }
+            ]
+        },
+        {
+            "en": "danger",
+            "gds": [
+                {
+                    "id": "periculum",
+                    "form": "periculum"
+                }
+            ]
+        },
+        {
             "en": "darkness",
             "gds": [
                 {
                     "id": "tenebrae",
                     "form": "tenebrae"
+                }
+            ]
+        },
+        {
+            "en": "dead man",
+            "gds": [
+                {
+                    "id": "mortuus",
+                    "form": "mortuus"
+                }
+            ]
+        },
+        {
+            "en": "deed",
+            "gds": [
+                {
+                    "id": "actum",
+                    "form": "actum"
+                }
+            ]
+        },
+        {
+            "en": "destruction",
+            "gds": [
+                {
+                    "id": "excidium",
+                    "form": "excidium"
+                }
+            ]
+        },
+        {
+            "en": "dinner",
+            "gds": [
+                {
+                    "id": "cena",
+                    "form": "cena"
+                }
+            ]
+        },
+        {
+            "en": "ditch",
+            "gds": [
+                {
+                    "id": "fossa",
+                    "form": "fossa"
+                }
+            ]
+        },
+        {
+            "en": "Egypt",
+            "gds": [
+                {
+                    "id": "Aegyptus",
+                    "form": "Aegyptus"
+                }
+            ]
+        },
+        {
+            "en": "elephant",
+            "gds": [
+                {
+                    "id": "elephantus",
+                    "form": "elephantus"
+                }
+            ]
+        },
+        {
+            "en": "enemy",
+            "gds": [
+                {
+                    "id": "inimicus",
+                    "form": "inimicus"
+                }
+            ]
+        },
+        {
+            "en": "envy",
+            "gds": [
+                {
+                    "id": "invidia",
+                    "form": "invidia"
+                }
+            ]
+        },
+        {
+            "en": "fame",
+            "gds": [
+                {
+                    "id": "fama",
+                    "form": "fama"
+                }
+            ]
+        },
+        {
+            "en": "farm",
+            "gds": [
+                {
+                    "id": "fundus",
+                    "form": "fundus"
                 }
             ]
         },
@@ -64,11 +320,47 @@
             ]
         },
         {
+            "en": "food",
+            "gds": [
+                {
+                    "id": "cibus",
+                    "form": "cibus"
+                }
+            ]
+        },
+        {
+            "en": "forest",
+            "gds": [
+                {
+                    "id": "silva",
+                    "form": "silva"
+                }
+            ]
+        },
+        {
             "en": "former",
             "gds": [
                 {
                     "id": "praeteritus",
                     "form": "praeteritus"
+                }
+            ]
+        },
+        {
+            "en": "fortune",
+            "gds": [
+                {
+                    "id": "fortuna",
+                    "form": "fortuna"
+                }
+            ]
+        },
+        {
+            "en": "friend",
+            "gds": [
+                {
+                    "id": "amicus",
+                    "form": "amicus"
                 }
             ]
         },
@@ -82,11 +374,60 @@
             ]
         },
         {
+            "en": "fruit",
+            "gds": [
+                {
+                    "id": "pomum",
+                    "form": "pomum"
+                }
+            ]
+        },
+        {
+            "en": "funeral pyre",
+            "gds": [
+                {
+                    "id": "rogus",
+                    "form": "rogus"
+                }
+            ]
+        },
+        {
+            "en": "garden",
+            "gds": [
+                {
+                    "id": "hortus",
+                    "form": "hortus"
+                }
+            ]
+        },
+        {
             "en": "Gaul",
             "gds": [
                 {
                     "id": "Gallia",
                     "form": "Gallia"
+                },
+                {
+                    "id": "Gallus",
+                    "form": "Gallus"
+                }
+            ]
+        },
+        {
+            "en": "German",
+            "gds": [
+                {
+                    "id": "Germanus",
+                    "form": "Germanus"
+                }
+            ]
+        },
+        {
+            "en": "gift",
+            "gds": [
+                {
+                    "id": "donum",
+                    "form": "donum"
                 }
             ]
         },
@@ -96,6 +437,24 @@
                 {
                     "id": "puella",
                     "form": "puella"
+                }
+            ]
+        },
+        {
+            "en": "glory",
+            "gds": [
+                {
+                    "id": "gloria",
+                    "form": "gloria"
+                }
+            ]
+        },
+        {
+            "en": "gold",
+            "gds": [
+                {
+                    "id": "aurum",
+                    "form": "aurum"
                 }
             ]
         },
@@ -118,11 +477,146 @@
             ]
         },
         {
+            "en": "Greek",
+            "gds": [
+                {
+                    "id": "Graecus",
+                    "form": "Graecus"
+                }
+            ]
+        },
+        {
+            "en": "hearth",
+            "gds": [
+                {
+                    "id": "focus",
+                    "form": "focus"
+                }
+            ]
+        },
+        {
+            "en": "heaven",
+            "gds": [
+                {
+                    "id": "caelum",
+                    "form": "caelum"
+                }
+            ]
+        },
+        {
+            "en": "help",
+            "gds": [
+                {
+                    "id": "auxilium",
+                    "form": "auxilium"
+                }
+            ]
+        },
+        {
+            "en": "Horace",
+            "gds": [
+                {
+                    "id": "Horatius",
+                    "form": "Horatius"
+                }
+            ]
+        },
+        {
+            "en": "horse",
+            "gds": [
+                {
+                    "id": "equus",
+                    "form": "equus"
+                }
+            ]
+        },
+        {
+            "en": "hour",
+            "gds": [
+                {
+                    "id": "hora",
+                    "form": "hora"
+                }
+            ]
+        },
+        {
             "en": "inhabitant",
             "gds": [
                 {
                     "id": "incola",
                     "form": "incola"
+                }
+            ]
+        },
+        {
+            "en": "inhabitant of Carthage",
+            "gds": [
+                {
+                    "id": "Poenus",
+                    "form": "Poenus"
+                }
+            ]
+        },
+        {
+            "en": "inhabitant of Gaul",
+            "gds": [
+                {
+                    "id": "Gallus",
+                    "form": "Gallus"
+                }
+            ]
+        },
+        {
+            "en": "inhabitant of Germany",
+            "gds": [
+                {
+                    "id": "Germanus",
+                    "form": "Germanus"
+                }
+            ]
+        },
+        {
+            "en": "inhabitant of Greece",
+            "gds": [
+                {
+                    "id": "Graecus",
+                    "form": "Graecus"
+                }
+            ]
+        },
+        {
+            "en": "inhabitant of Rome",
+            "gds": [
+                {
+                    "id": "Romanus",
+                    "form": "Romanus"
+                }
+            ]
+        },
+        {
+            "en": "inhabitant of Spain",
+            "gds": [
+                {
+                    "id": "Hispanus",
+                    "form": "Hispanus"
+                }
+            ]
+        },
+        {
+            "en": "inhabitant of Troy",
+            "gds": [
+                {
+                    "id": "Troianus",
+                    "form": "Troianus"
+                }
+            ]
+        },
+        {
+            "en": "inscription",
+            "gds": [
+                {
+                    "id": "titulus",
+                    "form": "titulus"
                 }
             ]
         },
@@ -145,11 +639,47 @@
             ]
         },
         {
+            "en": "jest",
+            "gds": [
+                {
+                    "id": "iocus",
+                    "form": "iocus"
+                }
+            ]
+        },
+        {
+            "en": "joke",
+            "gds": [
+                {
+                    "id": "iocus",
+                    "form": "iocus"
+                }
+            ]
+        },
+        {
             "en": "kind",
             "gds": [
                 {
                     "id": "bonus",
                     "form": "bonus"
+                }
+            ]
+        },
+        {
+            "en": "ladder",
+            "gds": [
+                {
+                    "id": "scalae",
+                    "form": "scalae"
+                }
+            ]
+        },
+        {
+            "en": "lamb",
+            "gds": [
+                {
+                    "id": "agnus",
+                    "form": "agnus"
                 }
             ]
         },
@@ -163,11 +693,51 @@
             ]
         },
         {
+            "en": "letter",
+            "gds": [
+                {
+                    "id": "epistula",
+                    "form": "epistula"
+                }
+            ]
+        },
+        {
             "en": "life",
             "gds": [
                 {
                     "id": "vita",
                     "form": "vita"
+                }
+            ]
+        },
+        {
+            "en": "love",
+            "gds": [
+                {
+                    "id": "amo",
+                    "form": "amo"
+                },
+                {
+                    "id": "audio",
+                    "form": "amo"
+                }
+            ]
+        },
+        {
+            "en": "madness",
+            "gds": [
+                {
+                    "id": "insania",
+                    "form": "insania"
+                }
+            ]
+        },
+        {
+            "en": "mask",
+            "gds": [
+                {
+                    "id": "persona",
+                    "form": "persona"
                 }
             ]
         },
@@ -181,11 +751,38 @@
             ]
         },
         {
+            "en": "mind",
+            "gds": [
+                {
+                    "id": "animus",
+                    "form": "animus"
+                }
+            ]
+        },
+        {
             "en": "money",
             "gds": [
                 {
                     "id": "pecunia",
                     "form": "pecunia"
+                }
+            ]
+        },
+        {
+            "en": "monster",
+            "gds": [
+                {
+                    "id": "belua",
+                    "form": "belua"
+                }
+            ]
+        },
+        {
+            "en": "monument",
+            "gds": [
+                {
+                    "id": "monumentum",
+                    "form": "monumentum"
                 }
             ]
         },
@@ -199,11 +796,74 @@
             ]
         },
         {
+            "en": "native land",
+            "gds": [
+                {
+                    "id": "patria",
+                    "form": "patria"
+                }
+            ]
+        },
+        {
+            "en": "nature",
+            "gds": [
+                {
+                    "id": "natura",
+                    "form": "natura"
+                }
+            ]
+        },
+        {
+            "en": "nose",
+            "gds": [
+                {
+                    "id": "nasus",
+                    "form": "nasus"
+                }
+            ]
+        },
+        {
             "en": "past",
             "gds": [
                 {
                     "id": "praeteritus",
                     "form": "praeteritus"
+                }
+            ]
+        },
+        {
+            "en": "people",
+            "gds": [
+                {
+                    "id": "populus",
+                    "form": "populus"
+                }
+            ]
+        },
+        {
+            "en": "philosopher",
+            "gds": [
+                {
+                    "id": "philosophus",
+                    "form": "philosophus"
+                }
+            ]
+        },
+        {
+            "en": "plan",
+            "gds": [
+                {
+                    "id": "consilium",
+                    "form": "consilium"
+                }
+            ]
+        },
+        {
+            "en": "plunder",
+            "gds": [
+                {
+                    "id": "spolium",
+                    "form": "spolium"
                 }
             ]
         },
@@ -217,6 +877,69 @@
             ]
         },
         {
+            "en": "Pompey",
+            "gds": [
+                {
+                    "id": "Pompeius",
+                    "form": "Pompeius"
+                }
+            ]
+        },
+        {
+            "en": "punishment",
+            "gds": [
+                {
+                    "id": "poena",
+                    "form": "poena"
+                }
+            ]
+        },
+        {
+            "en": "pyre",
+            "gds": [
+                {
+                    "id": "rogus",
+                    "form": "rogus"
+                }
+            ]
+        },
+        {
+            "en": "queen",
+            "gds": [
+                {
+                    "id": "regina",
+                    "form": "regina"
+                }
+            ]
+        },
+        {
+            "en": "Rhodes",
+            "gds": [
+                {
+                    "id": "Rhodus",
+                    "form": "Rhodus"
+                }
+            ]
+        },
+        {
+            "en": "riches",
+            "gds": [
+                {
+                    "id": "divitiae",
+                    "form": "divitiae"
+                }
+            ]
+        },
+        {
+            "en": "river",
+            "gds": [
+                {
+                    "id": "fluvius",
+                    "form": "fluvius"
+                }
+            ]
+        },
+        {
             "en": "road",
             "gds": [
                 {
@@ -226,11 +949,38 @@
             ]
         },
         {
+            "en": "Roman",
+            "gds": [
+                {
+                    "id": "Romanus",
+                    "form": "Romanus"
+                }
+            ]
+        },
+        {
             "en": "Rome",
             "gds": [
                 {
                     "id": "Roma",
                     "form": "Roma"
+                }
+            ]
+        },
+        {
+            "en": "rule",
+            "gds": [
+                {
+                    "id": "rego",
+                    "form": "rego"
+                }
+            ]
+        },
+        {
+            "en": "Sabine",
+            "gds": [
+                {
+                    "id": "Sabinus",
+                    "form": "Sabinus"
                 }
             ]
         },
@@ -253,11 +1003,65 @@
             ]
         },
         {
+            "en": "shade",
+            "gds": [
+                {
+                    "id": "umbra",
+                    "form": "umbra"
+                }
+            ]
+        },
+        {
+            "en": "shrine",
+            "gds": [
+                {
+                    "id": "fanum",
+                    "form": "fanum"
+                }
+            ]
+        },
+        {
             "en": "Sicily",
             "gds": [
                 {
                     "id": "Sicilia",
                     "form": "Sicilia"
+                }
+            ]
+        },
+        {
+            "en": "silver",
+            "gds": [
+                {
+                    "id": "argentum",
+                    "form": "argentum"
+                }
+            ]
+        },
+        {
+            "en": "sky",
+            "gds": [
+                {
+                    "id": "caelum",
+                    "form": "caelum"
+                }
+            ]
+        },
+        {
+            "en": "slave",
+            "gds": [
+                {
+                    "id": "servus",
+                    "form": "servus"
+                }
+            ]
+        },
+        {
+            "en": "sleep",
+            "gds": [
+                {
+                    "id": "somnus",
+                    "form": "somnus"
                 }
             ]
         },
@@ -280,6 +1084,15 @@
             ]
         },
         {
+            "en": "Spaniard",
+            "gds": [
+                {
+                    "id": "Hispanus",
+                    "form": "Hispanus"
+                }
+            ]
+        },
+        {
             "en": "spirit",
             "gds": [
                 {
@@ -289,11 +1102,33 @@
             ]
         },
         {
+            "en": "spoils",
+            "gds": [
+                {
+                    "id": "spolium",
+                    "form": "spolium"
+                }
+            ]
+        },
+        {
             "en": "star",
             "gds": [
                 {
+                    "id": "astrum",
+                    "form": "astrum"
+                },
+                {
                     "id": "stella",
                     "form": "stella"
+                }
+            ]
+        },
+        {
+            "en": "statue",
+            "gds": [
+                {
+                    "id": "statua",
+                    "form": "statua"
                 }
             ]
         },
@@ -325,11 +1160,65 @@
             ]
         },
         {
+            "en": "tax collector",
+            "gds": [
+                {
+                    "id": "publicanus",
+                    "form": "publicanus"
+                }
+            ]
+        },
+        {
+            "en": "temple",
+            "gds": [
+                {
+                    "id": "templum",
+                    "form": "templum"
+                }
+            ]
+        },
+        {
             "en": "the past is always well remembered",
             "gds": [
                 {
                     "id": "memoria_praeteritorum_bonorum",
                     "form": "memoria praeteritorum bonorum"
+                }
+            ]
+        },
+        {
+            "en": "tomb",
+            "gds": [
+                {
+                    "id": "sepulchrum",
+                    "form": "sepulchrum"
+                }
+            ]
+        },
+        {
+            "en": "town",
+            "gds": [
+                {
+                    "id": "oppidum",
+                    "form": "oppidum"
+                }
+            ]
+        },
+        {
+            "en": "town square",
+            "gds": [
+                {
+                    "id": "forum",
+                    "form": "forum"
+                }
+            ]
+        },
+        {
+            "en": "Trojan",
+            "gds": [
+                {
+                    "id": "Troianus",
+                    "form": "Troianus"
                 }
             ]
         },
@@ -352,11 +1241,51 @@
             ]
         },
         {
+            "en": "Virgil",
+            "gds": [
+                {
+                    "id": "Vergilius",
+                    "form": "Vergilius"
+                }
+            ]
+        },
+        {
             "en": "virtuous",
             "gds": [
                 {
                     "id": "bonus",
                     "form": "bonus"
+                }
+            ]
+        },
+        {
+            "en": "wall",
+            "gds": [
+                {
+                    "id": "murus",
+                    "form": "murus"
+                },
+                {
+                    "id": "vallum",
+                    "form": "vallum"
+                }
+            ]
+        },
+        {
+            "en": "war",
+            "gds": [
+                {
+                    "id": "bellum",
+                    "form": "bellum"
+                }
+            ]
+        },
+        {
+            "en": "warn",
+            "gds": [
+                {
+                    "id": "moneo",
+                    "form": "moneo"
                 }
             ]
         },
@@ -370,11 +1299,47 @@
             ]
         },
         {
+            "en": "wine",
+            "gds": [
+                {
+                    "id": "vinum",
+                    "form": "vinum"
+                }
+            ]
+        },
+        {
+            "en": "wisdom",
+            "gds": [
+                {
+                    "id": "consilium",
+                    "form": "consilium"
+                }
+            ]
+        },
+        {
             "en": "woman",
             "gds": [
                 {
                     "id": "femina",
                     "form": "femina"
+                }
+            ]
+        },
+        {
+            "en": "word",
+            "gds": [
+                {
+                    "id": "verbum",
+                    "form": "verbum"
+                }
+            ]
+        },
+        {
+            "en": "year",
+            "gds": [
+                {
+                    "id": "annus",
+                    "form": "annus"
                 }
             ]
         }

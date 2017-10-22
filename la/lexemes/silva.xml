@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="silva" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>silva</orth>
+  </form>
+  <form>
+    <orth>silvam</orth>
+  </form>
+  <form>
+    <orth>silvae</orth>
+  </form>
+  <form>
+    <orth>silva</orth>
+  </form>
+  <form>
+    <orth>silvas</orth>
+  </form>
+  <form>
+    <orth>silvarum</orth>
+  </form>
+  <form>
+    <orth>silvis</orth>
+  </form>
+  <trans>forest</trans>
+  <note>IPA: ['silwa]</note>
+</feminine_noun>
+

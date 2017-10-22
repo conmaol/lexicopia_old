@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="cibus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>cibus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>cibe</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>cibum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>cibi</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>cibo</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>cibos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>ciborum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>cibis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>food</trans>
+  <note>IPA: ['kibus]</note>
+</masculine_noun>

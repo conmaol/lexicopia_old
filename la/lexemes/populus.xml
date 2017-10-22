@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="populus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>populus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>popule</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>populum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>populi</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>populo</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>populos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>populorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>populis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>people</trans>
+  <note>IPA: ['populus]</note>
+</masculine_noun>

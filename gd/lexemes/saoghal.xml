@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="saoghal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>saoghal</orth>
-    </form>
-    <trans>world</trans>
-    <note>Listed in An Seotal: Geography.</note>
-    <note>world - saoghail poss cworlds - saoghalan plworlds - saoghail pl</note>
-  </ainmear_fireann>
+  <form>
+    <orth>saoghal</orth>
+  </form>
+  <form>
+    <orth>saoghail</orth>
+  </form>
+  <form>
+    <orth>saoghalan</orth>
+  </form>
+  <trans>world</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</ainmear_fireann>

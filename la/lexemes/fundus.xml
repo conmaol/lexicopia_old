@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="fundus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>fundus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>funde</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>fundum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>fundi</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>fundo</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>fundos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>fundorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>fundis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>farm</trans>
+  <note>IPA: ['fundus]</note>
+</masculine_noun>
+

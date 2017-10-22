@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <gnìomhair id="labhair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>labhair</orth>
-    </form>
-    <trans>chat</trans>
-    <note>Listed in An Seotal: Computing.</note>
-  </gnìomhair>
+  <form>
+    <orth>labhair</orth>
+  </form>
+  <trans>talk</trans>
+  <trans>chat</trans>
+  <note>Listed in An Seotal: Computing.</note>
+</gnìomhair>

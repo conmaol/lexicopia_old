@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="murus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>murus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>mure</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>murum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>muri</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>muro</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>muros</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>murorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>muris</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>wall</trans>
+  <note>IPA: ['mu:rus]</note>
+</masculine_noun>
+

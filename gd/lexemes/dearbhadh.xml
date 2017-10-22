@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="dearbhadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="dearbh-verb"/>
+  <form>
+    <orth>dearbhadh</orth>
+  </form>
+  <form>
+    <orth>dearbhaidh</orth>
+  </form>
+  <trans>proof</trans>
+  <trans>evidence</trans>
+  <trans>conviction</trans>
+</ainmear_fireann>

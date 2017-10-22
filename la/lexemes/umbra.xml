@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="umbra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>umbra</orth>
+  </form>
+  <form>
+    <orth>umbram</orth>
+  </form>
+  <form>
+    <orth>umbrae</orth>
+  </form>
+  <form>
+    <orth>umbra</orth>
+  </form>
+  <form>
+    <orth>umbras</orth>
+  </form>
+  <form>
+    <orth>umbrarum</orth>
+  </form>
+  <form>
+    <orth>umbris</orth>
+  </form>
+  <trans>shade</trans>
+  <note>IPA: ['umbra]</note>
+</feminine_noun>
+

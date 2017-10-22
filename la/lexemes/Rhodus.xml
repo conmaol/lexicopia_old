@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="Rhodus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Rhodus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>Rhode</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>Rhodum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>Rhodi</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>Rhodo</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <trans>Rhodes</trans>
+  <note>IPA: ['Rodus]</note>
+</feminine_noun>
+

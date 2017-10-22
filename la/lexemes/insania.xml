@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="insania" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>insania</orth>
+  </form>
+  <form>
+    <orth>insaniam</orth>
+  </form>
+  <form>
+    <orth>insaniae</orth>
+  </form>
+  <form>
+    <orth>insania</orth>
+  </form>
+  <form>
+    <orth>insanias</orth>
+  </form>
+  <form>
+    <orth>insaniarum</orth>
+  </form>
+  <form>
+    <orth>insaniis</orth>
+  </form>
+  <trans>madness</trans>
+  <note>IPA: [in'sa:nja]</note>
+</feminine_noun>

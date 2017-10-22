@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="cena" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>cena</orth>
+  </form>
+  <form>
+    <orth>cenam</orth>
+  </form>
+  <form>
+    <orth>cenae</orth>
+  </form>
+  <form>
+    <orth>cena</orth>
+  </form>
+  <form>
+    <orth>cenas</orth>
+  </form>
+  <form>
+    <orth>cenarum</orth>
+  </form>
+  <form>
+    <orth>cenis</orth>
+  </form>
+  <trans>dinner</trans>
+  <note>IPA: ['ke:na]</note>
+</feminine_noun>

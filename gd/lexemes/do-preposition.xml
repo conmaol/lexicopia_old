@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="do" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>do</orth>
+  </form>
+  <form>
+    <orth>don</orth>
+  </form>
+  <trans>to</trans>
+</lexeme>

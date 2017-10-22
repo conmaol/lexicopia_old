@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="tàireil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="tàire"/>
+  <form>
+    <orth>tàireil</orth>
+  </form>
+  <trans>mean</trans>
+  <trans>base</trans>
+  <trans>vile</trans>
+  <trans>contemptible</trans>
+  <trans>contemptuous</trans>
+  <trans>disdainful</trans>
+  <trans>scornful</trans>
+</buadhair>

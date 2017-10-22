@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="cupressus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>cupressus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>cupresse</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>cupressum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>cupressi</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>cupresso</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>cupressos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>cupressorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>cupressis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>cypress</trans>
+  <note>IPA: [ku'pressus]</note>
+</feminine_noun>

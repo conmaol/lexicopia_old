@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="epistula" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>epistula</orth>
+  </form>
+  <form>
+    <orth>epistulam</orth>
+  </form>
+  <form>
+    <orth>epistulae</orth>
+  </form>
+  <form>
+    <orth>epistula</orth>
+  </form>
+  <form>
+    <orth>epistulas</orth>
+  </form>
+  <form>
+    <orth>epistularum</orth>
+  </form>
+  <form>
+    <orth>epistulis</orth>
+  </form>
+  <trans>letter</trans>
+  <note>IPA: [e'pistula]</note>
+</feminine_noun>
+

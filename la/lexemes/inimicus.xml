@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="inimicus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>inimicus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>inimice</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>inimicum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>inimici</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>inimico</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>inimicos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>inimicorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>inimicis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>enemy</trans>
+  <note>IPA: [ini'mi:kus]</note>
+</masculine_noun>
+

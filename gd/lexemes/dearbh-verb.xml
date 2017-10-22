@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="dearbh-verb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="dearbh"/>
+  <form>
+    <orth>dearbh</orth>
+  </form>
+  <trans>prove</trans>
+  <trans>verify</trans>
+  <trans>affirm</trans>
+  <trans>assure</trans>
+  <trans>convict</trans>
+  <trans>convince</trans>
+  <trans>test</trans>
+  <trans>try</trans>
+  <trans>vindicate</trans>
+  <trans>vouch</trans>
+  <trans>check</trans>
+  <trans index="only">proof</trans>
+  <trans index="only">evidence</trans>
+  <trans index="only">conviction</trans>
+  <note>Listed in An Seotal: Computing.</note>
+  <note>check mark - comharra dearbhaidh poss ccheck box - bogsa-dearbhaidh pl</note>
+</gnìomhair>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="cuir_an_àite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-  <part ref="cuir-verb"/>
+  <part ref="cuir"/>
   <part ref="àite"/>
   <form>
     <orth>cuir an àite</orth>

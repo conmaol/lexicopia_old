@@ -1,5 +1,7 @@
 gd/cache/
 
+la/cache
+
 gd/lexicon.xml
 
 .DS_Store

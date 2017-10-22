@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="spolium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>spolium</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>spolii</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>spolio</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>spolia</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>spoliorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>spoliis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>spoils</trans>
+  <trans>plunder</trans>
+  <note>IPA: ['spoljum]</note>
+</neuter_noun>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="pugna" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>pugna</orth>
+  </form>
+  <form>
+    <orth>pugnam</orth>
+  </form>
+  <form>
+    <orth>pugnae</orth>
+  </form>
+  <form>
+    <orth>pugna</orth>
+  </form>
+  <form>
+    <orth>pugnas</orth>
+  </form>
+  <form>
+    <orth>pugnarum</orth>
+  </form>
+  <form>
+    <orth>pugnis</orth>
+  </form>
+  <trans>battle</trans>
+  <note>IPA: ['pugna]</note>
+</feminine_noun>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="ro-ràdh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="ro"/>
+  <part ref="ràdh"/>
+  <form>
+    <orth>ro-ràdh</orth>
+  </form>
+  <form>
+    <orth>roimhràdh</orth>
+  </form>
+  <trans>preface</trans>
+  <trans>preamble</trans>
+  <trans>foreward</trans>
+  <trans>prologue</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear_fireann>

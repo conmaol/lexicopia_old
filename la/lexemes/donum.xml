@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="donum" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>donum</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>doni</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>dono</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>dona</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>donorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>donis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>gift</trans>
+  <note>IPA: ['do:num]</note>
+</neuter_noun>
+

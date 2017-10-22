@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="bho" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>bho</orth>
+  </form>
+  <form>
+    <orth>bhon</orth>
+  </form>
+  <form>
+    <orth>o</orth>
+  </form>
+  <form>
+    <orth>on</orth>
+  </form>
+  <trans>from</trans>
+</lexeme>

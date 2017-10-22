@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="servus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>servus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>serve</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>servum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>servi</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>servo</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>servos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>servorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>servis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>slave</trans>
+  <note>IPA: ['serwus]</note>
+</masculine_noun>
+

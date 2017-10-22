@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="somnus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>somnus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>somne</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>somnum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>somni</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>somno</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>somnos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>somnorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>somnis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>sleep</trans>
+  <note>IPA: ['somnus]</note>
+</masculine_noun>

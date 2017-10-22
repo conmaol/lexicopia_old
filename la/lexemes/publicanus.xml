@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="publicanus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>publicanus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>publicane</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>publicanum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>publicani</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>publicano</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>publicanos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>publicanorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>publicanis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>tax collector</trans>
+  <note>IPA: [pu:bli'ka:nus]</note>
+</masculine_noun>
+

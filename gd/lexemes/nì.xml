@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="nì" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>nì</orth>
-    </form>
-    <trans>item</trans>
-    <note>Listed in An Seotal: Computing.</note>
-    <note>item - nì poss citems - nithean pl</note>
-  </ainmear_fireann>
+  <form>
+    <orth>nì</orth>
+  </form>
+  <form>
+    <orth>nithean</orth>
+  </form>
+  <trans>item</trans>
+  <trans>point</trans>
+  <trans>thing</trans>
+  <note>Listed in An Seotal: Computing.</note>
+</ainmear_fireann>

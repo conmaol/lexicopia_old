@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="air" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>air</orth>
+  </form>
+  <form>
+    <orth>orm</orth>
+  </form>
+  <form>
+    <orth>ort</orth>
+  </form>
+  <form>
+    <orth>air</orth>
+  </form>
+  <form>
+    <orth>oirre</orth>
+  </form>
+  <form>
+    <orth>oirnn</orth>
+  </form>
+  <form>
+    <orth>oirbh</orth>
+  </form>
+  <form>
+    <orth>orra</orth>
+  </form>
+  <form>
+    <orth>ormsa</orth>
+  </form>
+  <form>
+    <orth>ortsa</orth>
+  </form>
+  <form>
+    <orth>airsan</orth>
+  </form>
+  <form>
+    <orth>oirrese</orth>
+  </form>
+  <form>
+    <orth>oirnne</orth>
+  </form>
+  <form>
+    <orth>oirbhse</orth>
+  </form>
+  <form>
+    <orth>orrasan</orth>
+  </form>
+  <trans>on</trans>
+</lexeme>

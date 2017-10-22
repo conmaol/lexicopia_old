@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="invidia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>invidia</orth>
+  </form>
+  <form>
+    <orth>invidiam</orth>
+  </form>
+  <form>
+    <orth>invidiae</orth>
+  </form>
+  <form>
+    <orth>invidia</orth>
+  </form>
+  <form>
+    <orth>invidias</orth>
+  </form>
+  <form>
+    <orth>invidiarum</orth>
+  </form>
+  <form>
+    <orth>invidiis</orth>
+  </form>
+  <trans>envy</trans>
+  <note>IPA: [in'widja]</note>
+</feminine_noun>

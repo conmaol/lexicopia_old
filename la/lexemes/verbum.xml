@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="verbum" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>verbum</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>verbi</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>verbo</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>verba</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>verborum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>verbis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>word</trans>
+  <note>IPA: ['werbum]</note>
+</neuter_noun>

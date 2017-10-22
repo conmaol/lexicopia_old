@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="aedificium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>aedificium</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>aedificii</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>aedificio</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>aedificia</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>aedificiorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>aedificiis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>building</trans>
+  <note>IPA: ['ajdi'fikjum]</note>
+</neuter_noun>
+
+
+

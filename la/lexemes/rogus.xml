@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="rogus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>rogus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>roge</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>rogum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>rogi</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>rogo</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>rogos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>rogorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>rogis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>funeral pyre</trans>
+  <trans index="only">pyre</trans>
+  <note>IPA: ['rogus]</note>
+</masculine_noun>
+

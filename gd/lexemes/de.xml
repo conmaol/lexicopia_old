@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="de" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>de</orth>
+  </form>
+  <form>
+    <orth>den</orth>
+  </form>
+  <trans>of</trans>
+</lexeme>

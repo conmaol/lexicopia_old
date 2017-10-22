@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="divitiae" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>divitiae</orth>
+  </form>
+  <form>
+    <orth>divitias</orth>
+  </form>
+  <form>
+    <orth>divitiarum</orth>
+  </form>
+  <form>
+    <orth>divitiis</orth>
+  </form>
+  <trans>riches</trans>
+  <note>IPA: [di:'witjaj]</note>
+</feminine_noun>
+

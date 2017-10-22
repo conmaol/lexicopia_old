@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="agnus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>agnus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>agne</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>agnum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>agni</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>agno</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>agnos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>agnorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>agnis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>lamb</trans>
+  <note>IPA: ['agnus]</note>
+</masculine_noun>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="nasus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>nasus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>nase</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>nasum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>nasi</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>naso</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>nasos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>nasorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>nasis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>nose</trans>
+  <note>IPA: ['na:sus]</note>
+</masculine_noun>

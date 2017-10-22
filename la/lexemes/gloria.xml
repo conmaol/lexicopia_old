@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="gloria" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>gloria</orth>
+  </form>
+  <form>
+    <orth>gloriam</orth>
+  </form>
+  <form>
+    <orth>gloriae</orth>
+  </form>
+  <form>
+    <orth>gloria</orth>
+  </form>
+  <form>
+    <orth>glorias</orth>
+  </form>
+  <form>
+    <orth>gloriarum</orth>
+  </form>
+  <form>
+    <orth>gloriis</orth>
+  </form>
+  <trans>glory</trans>
+  <note>IPA: ['glo:rja]</note>
+</feminine_noun>
+

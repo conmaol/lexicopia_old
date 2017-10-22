@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="barbarus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>barbarus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>barbare</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>barbarum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>barbari</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>barbaro</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>barbaros</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>barbarorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>barbaris</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>barbarian</trans>
+  <note>IPA: ['barbarus]</note>
+</masculine_noun>

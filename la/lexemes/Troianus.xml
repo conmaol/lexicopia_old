@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="Troianus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="Troia"/>
+  <form>
+    <orth>Troianus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>Troiane</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>Troianum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>Troiani</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>Troiano</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>Troianos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>Troianorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>Troianis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>Trojan</trans>
+  <trans>inhabitant of Troy</trans>
+  <note>IPA: [tro'ja:nus]</note>
+</masculine_noun>
+
+

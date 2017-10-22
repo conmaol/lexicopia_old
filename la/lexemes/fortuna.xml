@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="fortuna" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>fortuna</orth>
+  </form>
+  <form>
+    <orth>fortunam</orth>
+  </form>
+  <form>
+    <orth>fortunae</orth>
+  </form>
+  <form>
+    <orth>fortuna</orth>
+  </form>
+  <form>
+    <orth>fortunas</orth>
+  </form>
+  <form>
+    <orth>fortunarum</orth>
+  </form>
+  <form>
+    <orth>fortunis</orth>
+  </form>
+  <trans>fortune</trans>
+  <note>IPA: [for'tu:na]</note>
+</feminine_noun>
+

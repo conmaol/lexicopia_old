@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="oppidum" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>oppidum</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>oppidi</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>oppido</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>oppida</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>oppidorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>oppidis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>town</trans>
+  <note>IPA: ['opidum]</note>
+</neuter_noun>
+

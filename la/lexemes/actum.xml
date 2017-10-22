@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="actum" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>actum</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>acti</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>acto</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>acta</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>actorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>actis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>act</trans>
+  <trans>deed</trans>
+  <note>IPA: ['aktum]</note>
+</neuter_noun>

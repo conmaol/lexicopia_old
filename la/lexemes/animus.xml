@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="animus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>animus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>anime</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>animum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>animi</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>animo</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>animos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>animorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>animis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>mind</trans>
+  <note>IPA: ['animus]</note>
+</masculine_noun>
+

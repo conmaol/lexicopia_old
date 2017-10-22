@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="duilich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>duilich</orth>
+  </form>
+  <form>
+    <orth>duilghe</orth>
+  </form>
+  <form>
+    <orth>dorra</orth>
+  </form>
+  <trans>difficult</trans>
+  <trans>sad</trans>
+  <trans>sorry</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</buadhair>
+

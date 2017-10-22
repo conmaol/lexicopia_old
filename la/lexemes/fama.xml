@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<feminine_noun id="fama" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>fama</orth>
+  </form>
+  <form>
+    <orth>famam</orth>
+  </form>
+  <form>
+    <orth>famae</orth>
+  </form>
+  <form>
+    <orth>fama</orth>
+  </form>
+  <form>
+    <orth>famas</orth>
+  </form>
+  <form>
+    <orth>famarum</orth>
+  </form>
+  <form>
+    <orth>famis</orth>
+  </form>
+  <trans>fame</trans>
+  <note>IPA: ['fa:ma]</note>
+</feminine_noun>

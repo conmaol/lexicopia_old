@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<masculine_noun id="Romanus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="Roma"/>
+  <form>
+    <orth>Romanus</orth>
+    <note>nominative singular</note>
+  </form>
+  <form>
+    <orth>Romane</orth>
+    <note>vocative singular</note>
+  </form>
+  <form>
+    <orth>Romanum</orth>
+    <note>accusative singular</note>
+  </form>
+  <form>
+    <orth>Romani</orth>
+    <note>genitive singular, or nominative/vocative plural</note>
+  </form>
+  <form>
+    <orth>Romano</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>Romanos</orth>
+    <note>accusative plural</note>
+  </form>
+  <form>
+    <orth>Romanorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>Romanis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>Roman</trans>
+  <trans>inhabitant of Rome</trans>
+  <note>IPA: [ro:'ma:nus]</note>
+</masculine_noun>

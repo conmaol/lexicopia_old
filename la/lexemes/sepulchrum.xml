@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="sepulchrum" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>sepulchrum</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>sepulchri</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>sepulchro</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>sepulchra</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>sepulchrorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>sepulchris</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>tomb</trans>
+  <note>IPA: [se'pulKrum]</note>
+</neuter_noun>

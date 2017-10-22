@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="Capitolium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>Capitolium</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>Capitolii</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>Capitolio</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>Capitolia</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>Capitoliorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>Capitoliis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans index="no">the Capitol</trans>
+  <trans index="only">Capitol</trans>
+  <note>IPA: [kapi'to:ljum]</note>
+  <note>Hill on the south-west side of the Roman Forum.</note>
+</neuter_noun>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="dearbh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>dearbh</orth>
+  </form>
+  <trans>actual</trans>
+  <trans>decisive</trans>
+  <trans>identical</trans>
+  <trans>very</trans>
+  <trans>very same</trans>
+  <trans>absolute</trans>
+  <note>Listed in An Seotal: Science.</note>
+</buadhair>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<neuter_noun id="argentum" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>argentum</orth>
+    <note>nominative/vocative/accusative singular</note>
+  </form>
+  <form>
+    <orth>argenti</orth>
+    <note>genitive singular</note>
+  </form>
+  <form>
+    <orth>argento</orth>
+    <note>dative/ablative singular</note>
+  </form>
+  <form>
+    <orth>argenta</orth>
+    <note>nominative/vocative/accusative plural</note>
+  </form>
+  <form>
+    <orth>argentorum</orth>
+    <note>genitive plural</note>
+  </form>
+  <form>
+    <orth>argentis</orth>
+    <note>dative/ablative plural</note>
+  </form>
+  <trans>silver</trans>
+  <note>IPA: [ar'gentum]</note>
+</neuter_noun>
+
