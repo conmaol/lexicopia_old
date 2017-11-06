@@ -13,22 +13,24 @@ $lexeme = new SimpleXMLElement("../../" . $lang . "/lexemes/" . $id . ".xml", 0,
 
 echo "<div class=\"lexicopia-entry\">";
 // header:
-echo "<div class=\"lexicopia-entry-header\">";
-echo "<span class=\"lexicopia-headword\">" . $lexeme->form[0]->orth . "</span>";
+echo "<h1>";
+echo $lexeme->form[0]->orth . " ";
+echo "<span>";
 $pos = str_replace('_',' ',$lexeme->getName());
 if ($pos != 'lexeme'){
-    echo " <a class=\"lexicopia-link\" href=\"#\" id=\"pos-plus\" style=\"display:inline\" onclick=\"showPOS(); return false;\" title=\"" . $pos . "\">[+gnè]</a>";
-    echo "<a class=\"lexicopia-link\" href=\"#\" id=\"pos-minus\" style=\"display:none\" onclick=\"hidePOS(); return false;\">[-gnè]</a>";
-    echo "<span class=\"en-span\" id=\"pos-text\" style=\"display:none;\"> " . $pos . "</span>";
+    echo " <a href=\"#\" id=\"pos-plus\" onclick=\"showPOS(); return false;\" title=\"" . $pos . "\">[+gnè]</a>";
+    echo "<a href=\"#\" id=\"pos-minus\" onclick=\"hidePOS(); return false;\">[-gnè]</a>";
+    echo "<span id=\"pos-text\"> " . $pos . "</span>";
 
 }
 if ($lexeme->trans) {
     $enstr = makeEnglishString($lexeme);
-    echo " <a class=\"lexicopia-link\" href=\"#\" id=\"en-plus\" style=\"display:inline\" onclick=\"showEnglish(); return false;\" title=\"" . $enstr . "\">[+beurla]</a>";
-    echo "<a class=\"lexicopia-link\" href=\"#\" id=\"en-minus\" style=\"display:none\" onclick=\"hideEnglish(); return false;\">[-beurla]</a>";
-    echo "<span class=\"en-span\" id=\"en-text\" style=\"display:none;\"> " . $enstr . "</span>";
+    echo "<a href=\"#\" id=\"en-plus\" title=\"" . $enstr . "\">[+beurla]</a>";
+    echo "<a href=\"#\" id=\"en-minus\" onclick=\"hideEnglish(); return false;\">[-beurla]</a>";
+    echo "<span id=\"en-text\"> " . $enstr . "</span>";
 }
-echo "</div>";
+echo "</span>";
+echo "</h1>";
 // below header:
 echo "<dl>";
 echo "<dt>Riochdan:</dt>";
@@ -42,7 +44,7 @@ if (file_exists($file)) {
 echo "</dl>";
 
 // notes:
-echo "<ul class=\"lexicopia-entry-notes\">";
+echo "<ul>";
 foreach ($lexeme->note as $nextnote) {
     echo "<li>";
     echo $nextnote;

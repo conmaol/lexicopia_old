@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="feadhainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>feadhainn</orth>
+  </form>
+  <form>
+    <orth>feadhna</orth>
+  </form>
+  <form>
+    <orth>feadhnach</orth>
+  </form>
+  <trans>people</trans>
+  <trans>folk</trans>
+</ainmear_boireann>

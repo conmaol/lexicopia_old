@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="cliùiteach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="cliù"/>
+  <form>
+    <orth>cliùiteach</orth>
+  </form>
+  <form>
+    <orth>cliùitiche</orth>
+  </form>
+  <trans index="no">of good character</trans>
+  <trans index="only">good character</trans>
+  <trans>renowned</trans>
+  <trans>distinguished</trans>
+  <trans>fames</trans>
+  <trans>reputable</trans>
+</buadhair>

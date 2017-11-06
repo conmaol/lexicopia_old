@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="spèis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>spèis</orth>
+  </form>
+  <form>
+    <orth>spèise</orth>
+  </form>
+  <trans>affection</trans>
+  <trans>liking</trans>
+  <trans>respect</trans>
+</ainmear_boireann>

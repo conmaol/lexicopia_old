@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="òirdheirc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>òirdheirc</orth>
+  </form>
+  <trans>distinguished</trans>
+  <trans>exquisite</trans>
+  <trans>magnificent</trans>
+  <trans>splendid</trans>
+  <trans>sublime</trans>
+  <trans>superb</trans>
+</buadhair>

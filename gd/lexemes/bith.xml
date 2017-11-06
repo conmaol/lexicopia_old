@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_breann id="bith" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<ainmear_boireann id="bith" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="bi"/>
   <form>
     <orth>bith</orth>
   </form>
   <trans>being</trans>
   <trans>existence</trans>
-</ainmear_breann>
+</ainmear_boireann>

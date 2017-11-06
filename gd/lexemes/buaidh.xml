@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="buaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>buaidh</orth>
+  </form>
+  <form>
+    <orth>buaidhe</orth>
+  </form>
+  <form>
+    <orth>buaidhean</orth>
+  </form>
+  <trans>success</trans>
+  <trans>mastery</trans>
+  <trans>predominance</trans>
+  <trans>conquest</trans>
+  <trans>victory</trans>
+  <trans>consequence</trans>
+  <trans>effect</trans>
+  <trans>influence</trans>
+</ainmear_boireann>

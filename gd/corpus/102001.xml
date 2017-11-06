@@ -387,7 +387,7 @@
               <pc>’</pc>
               <w lemma="bi">eil</w>
               <space/>
-              <w>speiseil</w>
+              <w lemma="spèiseil">speiseil</w>
               <space/>
               <w lemma="do-preposition">do</w>
               <space/>
@@ -410,11 +410,11 @@
               <space/>
               <w lemma="le">linne</w>
               <space/>
-              <w>a</w>
+              <w lemma="a-verbal-noun-particle">a</w>
               <space/>
-              <w lemma="bi">bhi</w>
+              <w lemma="bith">bhi</w>
               <space/>
-              <w>faicinn</w>
+              <w lemma="faicinn">faicinn</w>
               <space/>
               <w lemma="definite-article">nan</w>
               <space/>
@@ -457,17 +457,17 @@
               <space/>
               <w lemma="definite-article">an</w>
               <space/>
-              <w>aobhar</w>
+              <w lemma="adhbhar">aobhar</w>
               <space/>
               <w>sin</w>
               <space/>
-              <w>thug</w>
+              <w lemma="thoir">thug</w>
               <space/>
               <w>sinn</w>
               <space/>
               <w>an</w>
               <space/>
-              <w>oidheirp</w>
+              <w lemma="oidhirp">oidheirp</w>
               <space/>
               <w>air</w>
               <space/>
@@ -479,7 +479,7 @@
               <space/>
               <w>a</w>
               <space/>
-              <w>lheasachadh</w>
+              <w lemma="leasachadh">lheasachadh</w>
               <pc>,</pc>
               <space/>
               <w>le</w>
@@ -488,7 +488,7 @@
               <space/>
               <w>air</w>
               <space/>
-              <w lemma="cuir">cur</w>
+              <w lemma="cur">cur</w>
               <space/>
               <w>a</w>
               <space/>
@@ -1276,7 +1276,7 @@
             <s>
               <w>Thainig</w>
               <space/>
-              <w>ant</w>
+              <w lemma="definite-article">ant</w>
               <space/>
               <w>àm</w>
               <space/>
@@ -1303,9 +1303,9 @@
               <space/>
               <w>do</w>
               <space/>
-              <w>lhamhan</w>
+              <w lemma="làmh">lhamhan</w>
               <space/>
-              <w>dhaoine</w>
+              <w lemma="duine">dhaoine</w>
               <space/>
               <w>eile</w>
               <pc>,</pc>
@@ -1328,7 +1328,7 @@
               <space/>
               <w>a</w>
               <space/>
-              <w>Ghailig</w>
+              <w lemma="Gàidhlig">Ghailig</w>
               <pc>,</pc>
               <space/>
               <w>mar</w>
@@ -1405,7 +1405,7 @@
               <space/>
               <w>luchd</w>
               <pc>-</pc>
-              <w>leughaidh</w>
+              <w lemma="leughadh">leughaidh</w>
               <pc>.</pc>
             </s>
             <space/>
@@ -1980,14 +1980,361 @@
           </p>
         </div>
         <div>
-          <head>MU NA SEANN GHAIDHEIL.</head>
-          <head>I.</head>
-          <p> Tha na Gaidheil Albannach a’ creidsinn agus a ghnath a cumail a mach gur h-iad fein sliochd nan seann Ghael an dream iomachliuiteach oirdhearc sin a bha le buaidh a’ dion an ducha, o na
-            h-armailtibh Romanach a thug ionnsuidh air a toirt fo chis; agus ged a bha cinn- fheadhna ghaisgeil ’nan ceannardaibh air na h-armailtibh lionmhor treun ud, sheas na Gael ’nan aghaidh, gus
-            an do choisinn iad buaidh, agus am b’eigin do na Romanich teicheadh agus an cuid armailtean a tharruinn air falbh as an tir. Ach cha bhuin an onoir so do Ghaidheil an là an diugh, mur ’eil
-            e fior gur h-iad iarmad agus sliochd an t-sluaigh sin ris an abradh na seanachaidhean Romanach Caledonii agus an deigh sin Picti, ainm a bha air a chumail suas fad cheudan bliadhna leis an
-            luchd-Eachdraidh a sgriobh an Laidinn mu thimchioll luchd-aiteachaidh ceann tuath na h-Alba. </p>
-          <p> Tha a’ cheud chunntas firinneach againn mu Albainn agus a luchd- aiteachaidh anns an Eachdraidh a sgriobh Tacitus mu Bheatha agus mu chogadh athar-ceile Agricola ann am Breatuinn.
+          <head>
+            <w lemma="mu">MU</w>
+            <space/>
+            <w lemma="definite-article">NA</w>
+            <space/>
+            <w lemma="seann">SEANN</w>
+            <space/>
+            <w lemma="Gàidheal">GHAIDHEIL</w>
+            <pc>.</pc>
+          </head>
+          <head>
+            <w>I</w>
+            <pc>.</pc>
+          </head>
+          <p>
+            <s>
+              <w lemma="bi">Tha</w>
+              <space/>
+              <w lemma="definite-article">na</w>
+              <space/>
+              <w lemma="Gàidheal">Gaidheil</w>
+              <space/>
+              <w lemma="Albannach">Albannach</w>
+              <space/>
+              <w lemma="ag">a</w>
+              <pc>’</pc>
+              <space/>
+              <w lemma="creidsinn">creidsinn</w>
+              <space/>
+              <w lemma="agus">agus</w>
+              <space/>
+              <w>a</w>
+              <space/>
+              <w lemma="gnàth-noun">ghnath</w>
+              <space/>
+              <w lemma="ag">a</w>
+              <space/>
+              <w lemma="cumail">cumail</w>
+              <space/>
+              <w lemma="do-preposition">a</w>
+              <space/>
+              <w lemma="mach">mach</w>
+              <space/>
+              <w>gur</w>
+              <space/>
+              <w>h</w>
+              <pc>-</pc>
+              <w lemma="iad">iad</w>
+              <space/>
+              <w lemma="fèin">fein</w>
+              <space/>
+              <w lemma="sliochd">sliochd</w>
+              <space/>
+              <w lemma="definite-article">nan</w>
+              <space/>
+              <w lemma="seann">seann</w>
+              <space/>
+              <w lemma="Gàidheal">Ghael</w>
+              <space/>
+              <w lemma="definite-article">an</w>
+              <space/>
+              <w lemma="dream">dream</w>
+              <space/>
+              <w lemma="ioma-chliùiteach">iomachliuiteach</w>
+              <space/>
+              <w lemma="òirdheirc">oirdhearc</w>
+              <space/>
+              <w lemma="sin">sin</w>
+              <space/>
+              <w lemma="a-relative-pronoun">a</w>
+              <space/>
+              <w lemma="bi">bha</w>
+              <space/>
+              <w lemma="le">le</w>
+              <space/>
+              <w lemma="buaidh">buaidh</w>
+              <space/>
+              <w lemma="ag">a</w>
+              <pc>’</pc>
+              <space/>
+              <w lemma="dìon-noun">dion</w>
+              <space/>
+              <w lemma="definite-article">an</w>
+              <space/>
+              <w lemma="dùthaich">ducha</w>
+              <pc>,</pc>
+              <space/>
+              <w lemma="bho">o</w>
+              <space/>
+              <w lemma="definite-article">na</w>
+              <space/>
+              <w>h</w>
+              <pc>-</pc>
+              <w lemma="armailt">armailtibh</w>
+              <space/>
+              <w lemma="Ròmanach">Romanach</w>
+              <space/>
+              <w lemma="a-relative-pronoun">a</w>
+              <space/>
+              <w lemma="thoir">thug</w>
+              <space/>
+              <w lemma="ionnsaigh">ionnsuidh</w>
+              <space/>
+              <w lemma="air">air</w>
+              <space/>
+              <w>a</w>
+              <space/>
+              <w lemma="toirt">toirt</w>
+              <space/>
+              <w lemma="fo">fo</w>
+              <space/>
+              <w lemma="cìs">chis</w>
+              <pc>;</pc>
+            </s>
+            <space/>
+            <s>
+              <w lemma="agus">agus</w>
+              <space/>
+              <w lemma="ged">ged</w>
+              <space/>
+              <w lemma="a-relative-pronoun">a</w>
+              <space/>
+              <w lemma="bi">bha</w>
+              <space/>
+              <w lemma="ceann">cinn</w>
+              <pc>-</pc>
+              <space/>
+              <w lemma="feadhainn">fheadhna</w>
+              <space/>
+              <w lemma="gaisgeil">ghaisgeil</w>
+              <space/>
+              <pc>’</pc>
+              <w lemma="an-preposition">nan</w>
+              <space/>
+              <w lemma="ceannard">ceannardaibh</w>
+              <space/>
+              <w lemma="air">air</w>
+              <space/>
+              <w lemma="definite-article">na</w>
+              <space/>
+              <w>h</w>
+              <pc>-</pc>
+              <w lemma="armailt">armailtibh</w>
+              <space/>
+              <w lemma="lìonmhor">lionmhor</w>
+              <space/>
+              <w>treun</w>
+              <space/>
+              <w>ud</w>
+              <pc>,</pc>
+              <space/>
+              <w lemma="seas">sheas</w>
+              <space/>
+              <w lemma="definite-article">na</w>
+              <space/>
+              <w lemma="Gàidheal">Gael</w>
+              <space/>
+              <pc>’</pc>
+              <w>nan</w>
+              <space/>
+              <w>aghaidh</w>
+              <pc>,</pc>
+              <space/>
+              <w>gus</w>
+              <space/>
+              <w>an</w>
+              <space/>
+              <w>do</w>
+              <space/>
+              <w>choisinn</w>
+              <space/>
+              <w>iad</w>
+              <space/>
+              <w>buaidh</w>
+              <pc>,</pc>
+              <space/>
+              <w>agus</w>
+              <space/>
+              <w>am</w>
+              <space/>
+              <w>b</w>
+              <pc>’</pc>
+              <w>eigin</w>
+              <space/>
+              <w>do</w>
+              <space/>
+              <w lemma="definite-article">na</w>
+              <space/>
+              <w lemma="Ròmanach">Romanich</w>
+              <space/>
+              <w>teicheadh</w>
+              <space/>
+              <w lemma="agus">agus</w>
+              <space/>
+              <w lemma="an-possessive-article">an</w>
+              <space/>
+              <w>cuid</w>
+              <space/>
+              <w lemma="armailt">armailtean</w>
+              <space/>
+              <w>a</w>
+              <space/>
+              <w>tharruinn</w>
+              <space/>
+              <w lemma="air">air</w>
+              <space/>
+              <w>falbh</w>
+              <space/>
+              <w>as</w>
+              <space/>
+              <w>an</w>
+              <space/>
+              <w>tir</w>
+              <pc>.</pc>
+            </s>
+            <space/>
+            <s>
+              <w lemma="ach">Ach</w>
+              <space/>
+              <w>cha</w>
+              <space/>
+              <w>bhuin</w>
+              <space/>
+              <w>an</w>
+              <space/>
+              <w>onoir</w>
+              <space/>
+              <w>so</w>
+              <space/>
+              <w>do</w>
+              <space/>
+              <w>Ghaidheil</w>
+              <space/>
+              <w>an</w>
+              <space/>
+              <w>là</w>
+              <space/>
+              <w>an</w>
+              <space/>
+              <w>diugh</w>
+              <pc>,</pc>
+              <space/>
+              <w>mur</w>
+              <space/>
+              <pc>’</pc>
+              <w>eil</w>
+              <space/>
+              <w>e</w>
+              <space/>
+              <w>fior</w>
+              <space/>
+              <w>gur</w>
+              <space/>
+              <w>h</w>
+              <pc>-</pc>
+              <w>iad</w>
+              <space/>
+              <w>iarmad</w>
+              <space/>
+              <w>agus</w>
+              <space/>
+              <w>sliochd</w>
+              <space/>
+              <w>an</w>
+              <space/>
+              <w>t</w>
+              <pc>-</pc>
+              <w>sluaigh</w>
+              <space/>
+              <w>sin</w>
+              <space/>
+              <w>ris</w>
+              <space/>
+              <w>an</w>
+              <space/>
+              <w>abradh</w>
+              <space/>
+              <w>na</w>
+              <space/>
+              <w>seanachaidhean</w>
+              <space/>
+              <w>Romanach</w>
+              <space/>
+              <w>Caledonì</w>
+              <space/>
+              <w>agus</w>
+              <space/>
+              <w>an</w>
+              <space/>
+              <w>deigh</w>
+              <space/>
+              <w>sin</w>
+              <space/>
+              <w>Picti</w>
+              <pc>,</pc>
+              <space/>
+              <w>ainm</w>
+              <space/>
+              <w>a</w>
+              <space/>
+              <w>bha</w>
+              <space/>
+              <w>air</w>
+              <space/>
+              <w>a</w>
+              <space/>
+              <w>chumail</w>
+              <space/>
+              <w>suas</w>
+              <space/>
+              <w>fad</w>
+              <space/>
+              <w>cheudan</w>
+              <space/>
+              <w>bliadhna</w>
+              <space/>
+              <w>leis</w>
+              <space/>
+              <w>an</w>
+              <space/>
+              <w>luchd</w>
+              <pc>-</pc>
+              <w>Eachdraidh</w>
+              <space/>
+              <w>a</w>
+              <space/>
+              <w>sgriobh</w>
+              <space/>
+              <w>an</w>
+              <space/>
+              <w>Laidinn</w>
+              <space/>
+              <w>mu</w>
+              <space/>
+              <w>thimchioll</w>
+              <space/>
+              <w>luchd</w>
+              <pc>-</pc>
+              <w>aiteachaidh</w>
+              <space/>
+              <w>ceann</w>
+              <space/>
+              <w>tuath</w>
+              <space/>
+              <w>na</w>
+              <space/>
+              <w>h</w>
+              <pc>-</pc>
+              <w>Alba</w>
+              <pc>.</pc>
+            </s>
+          </p>
+          <p> 
+            
+            Tha a’ cheud chunntas firinneach againn mu Albainn agus a luchd- aiteachaidh anns an Eachdraidh a sgriobh Tacitus mu Bheatha agus mu chogadh athar-ceile Agricola ann am Breatuinn.
             Thoisich an cogadh so mu bhliadhna ar Tighearna 77, agus lhean e gus a’ bhliadhna 85. Air tus ghabh Agricola da bhliadhna a’ ceannsachadh nan Gael a bha anns na duchannaibh a tha gu deas
             air Struilea agus Cluaidh; air an treas bliadhna rainig e gu tuath cho fada ris an amhainn Tabha, agus chuir e suas tri campan anns a’ ghleann ris an abrar Srath-Eirinn ann an Siorramachd
             Pheairt; bha aon champ air Ardachaidh gu deas air Maothaill agus Craoibh, bha camp eile fagus do Chuimridh, agus an treas Camp dlu air an aite sin anns am bheil baile Pheairt ’na sheasamh.
@@ -1999,7 +2346,10 @@
             gaisgeach treun ud a reir an iomraidh a sgriobh Tacitus mu thimchioll. Chuireadh an cath so aig sliabh ris an canar leis an Eachdraiche Laidinn, Mons Grampius, ainm a dh- fhaodas a
             thighinn o’n fhocal Ghailig am “Monadh Garbh,” agus a tha ro fhreagarach mar ainm air na Garbh-bheantan sin a tha a’ toiseachadh am braighe Aber-adhain agus a’ sineadh a mach eadar
             Siorramachd Pheairt agus Siorramachd Inbhir-nis. Bha feachd Chaledonia mu thimchioll deich mile fichead saighdear a reir briathran “Thaichituis,” ni a tha dearbhadh dhuinn gun robh an tir
-            air a lionadh le luchd-aiteachaidh aig an am ud. Gum bu Ghaidhil iad tha sinn a lan-chreidsinn <pb n="3"/> agus gun do labhair iad Gailig mar a labhrar air an là an diugh le ’n sliochd ann
+            air a lionadh le luchd-aiteachaidh aig an am ud. Gum bu Ghaidhil iad tha sinn a lan-chreidsinn 
+            
+            
+            <pb n="3"/> agus gun do labhair iad Gailig mar a labhrar air an là an diugh le ’n sliochd ann
             an tir nam beann tha sinn ’a cumail a mach gu dana, agus bheir sinn oidhirp air a’ phuing so a dhearbhadh leis na hargumaidibh agus na comhdaichean a lheanas. </p>
           <p> Ged a bhuadhaich na Romanaich anns a’ chath a chuir iad ri feachd Chaledonia aig a’ Mhonadh Gharbh gidheadh cha robh an ni gu mor bhuannachd dhoibh; oir tha Tacitus ag radh gun do phill
             Agricola air ais le “triall mall” (eng>lento itinere gai>) a chum an armailt a chur ann an cairtealaibh-geamhraidh anns na campaibh a shuidhich e an Srath-eirin ann an siorramachd Pheairt.

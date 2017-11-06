@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="lìonmhor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>lìonmhor</orth>
+  </form>
+  <trans>abundant</trans>
+  <trans>copious</trans>
+  <trans>great</trans>
+  <trans>numerous</trans>
+  <trans>plentiful</trans>
+  <trans>prolific</trans>
+  <trans>rife</trans>
+</buadhair>
+

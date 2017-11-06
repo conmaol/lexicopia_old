@@ -1,26 +1,30 @@
-function showEnglish() {
-    document.getElementById("en-minus").style.display = "inline"; // display the [-eng]
-    document.getElementById("en-plus").style.display = "none"; // hide the [+eng]
-    document.getElementById("en-text").style.display = "inline"; // display the English text
-}
+$(document).on('click', '#en-plus', function() {
+    $('#en-minus').show();
+    $(this).hide();
+    $('#en-text').show();
+    return false;
+});
 
-function hideEnglish() {
-    document.getElementById("en-minus").style.display = "none"; // hide the [-eng]
-    document.getElementById("en-plus").style.display = "inline"; // show the [+eng]
-    document.getElementById("en-text").style.display = "none"; // hide the English text
-}
+$(document).on('click', '#en-minus', function() {
+    $('#en-plus').show();
+    $(this).hide();
+    $('#en-text').hide();
+    return false;
+});
 
-function showPOS() {
-    document.getElementById("pos-minus").style.display = "inline"; // display the [-eng]
-    document.getElementById("pos-plus").style.display = "none"; // hide the [+eng]
-    document.getElementById("pos-text").style.display = "inline"; // display the English text
-}
+$(document).on('click', '#pos-plus', function() {
+    $('#pos-minus').show();
+    $(this).hide();
+    $('#pos-text').show();
+    return false;
+});
 
-function hidePOS() {
-    document.getElementById("pos-minus").style.display = "none"; // hide the [-eng]
-    document.getElementById("pos-plus").style.display = "inline"; // show the [+eng]
-    document.getElementById("pos-text").style.display = "none"; // hide the English text
-}
+$(document).on('click', '#pos-minus', function() {
+    $('#pos-plus').show();
+    $(this).hide();
+    $('#pos-text').hide();
+    return false;
+});
 
 function goBack() {
     entryhistory.pop();

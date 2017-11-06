@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fillte id="craobh_challtainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <part ref="craobh"/>
-    <part ref="calltann"/>
-    <form>
-      <orth>craobh challtainn</orth>
-    </form>
-    <form>
-      <orth>craoibh challtainn</orth>
-    </form>
-    <form>
-      <orth>craoibhe calltainn</orth>
-    </form>
-    <form>
-      <orth>craobhan calltainn</orth>
-    </form>
-    <form>
-      <orth>chraobh challtainn</orth>
-    </form>
-    <form>
-      <orth>chraoibh challtainn</orth>
-    </form>
-    <form>
-      <orth>chraoibhe calltainn</orth>
-    </form>
-    <form>
-      <orth>chraobhan calltainn</orth>
-    </form>
-    <trans>hazel tree</trans>
-  </ainmear_fillte>
+  <part ref="craobh"/>
+  <part ref="calltann"/>
+  <form>
+    <orth>craobh challtainn</orth>
+  </form>
+  <form>
+    <orth>craoibh challtainn</orth>
+  </form>
+  <form>
+    <orth>craoibhe calltainn</orth>
+  </form>
+  <form>
+    <orth>craobhan calltainn</orth>
+  </form>
+  <form>
+    <orth>chraobh challtainn</orth>
+  </form>
+  <form>
+    <orth>chraoibh challtainn</orth>
+  </form>
+  <form>
+    <orth>chraoibhe calltainn</orth>
+  </form>
+  <form>
+    <orth>chraobhan calltainn</orth>
+  </form>
+  <trans>hazel tree</trans>
+</ainmear_fillte>

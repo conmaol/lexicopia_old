@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="iad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>iad</orth>
+  </form>
+  <form>
+    <orth>iadsan</orth>
+  </form>
+  <trans>they</trans>
+  <trans>them</trans>
+</lexeme>
+

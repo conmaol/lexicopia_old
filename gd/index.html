@@ -6,15 +6,8 @@
     <link href="../code/css/normalize.css" rel="stylesheet" />
     <link rel="stylesheet" type="text/css" href="../code/css/lexicopia.css" />
     <link rel="stylesheet" type="text/css" href="../code/css/lexicopia-entries.css" />
-    <script type="text/javascript" src="../code/js/lexicopia.js"></script>
-    <script type="text/javascript" src="../code/js/lexicopia-entries.js"></script>
-    <script type="text/javascript">
-            var lang = 'gd';
-            var defaultContent = 'Welcome to Lexicopia / GD! Get browsing.';
-            var entryhistory = [];
-        </script>
   </head>
-  <body onload="createIndices();document.getElementById('content-div-entry').innerHTML = defaultContent;">
+  <body onload="">
     <div id="banner-div">
       <!-- banner running along very top of page -->
       <span style="font-size: 18pt;">
@@ -46,5 +39,14 @@
       </div>
     </div>
     <script src="../code/js/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="../code/js/lexicopia.js"></script>
+    <script type="text/javascript" src="../code/js/lexicopia-entries.js"></script>
+    <script type="text/javascript">
+      var lang = 'gd';
+      var defaultContent = 'Welcome to Lexicopia / GD! Get browsing.';
+      var entryhistory = [];
+      createIndices();
+      document.getElementById('content-div-entry').innerHTML = defaultContent;
+    </script>
   </body>
 </html>

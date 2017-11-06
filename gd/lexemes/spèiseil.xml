@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="spèiseil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="spèis"/>
+  <form>
+    <orth>spèiseil</orth>
+  </form>
+  <trans>fond</trans>
+  <trans>loving</trans>
+  <trans>esteemed</trans>
+  <trans>estimable</trans>
+  <trans>endearing</trans>
+</buadhair>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_boireann id="cliù" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>cliù</orth>
+  </form>
+  <trans>reputation</trans>
+  <trans>character</trans>
+  <trans>commendation</trans>
+  <trans>credit</trans>
+  <trans>good name</trans>
+  <trans>distinction</trans>
+  <trans>fame</trans>
+  <trans>glory</trans>
+  <trans>name</trans>
+  <trans>praise</trans>
+  <trans>prestige</trans>
+  <trans>renown</trans>
+  <trans>repute</trans>
+</ainmear_boireann>

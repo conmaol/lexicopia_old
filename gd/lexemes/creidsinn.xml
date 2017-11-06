@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="creidsinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>creidsinn</orth>
-    </form>
-    <trans>believing</trans>
-  </lexeme>
+<ainmear id="creidsinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="creid"/>
+  <form>
+    <orth>creidsinn</orth>
+  </form>
+  <trans>believing</trans>
+</ainmear>

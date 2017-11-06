@@ -103,6 +103,7 @@ function resetpage() {
     document.getElementById('en-filterbox').value = ''; // reset top right filterbox to empty
     filterIndex('en'); // reset right index to default state
     document.getElementById("content-div-entry").innerHTML = defaultContent;
+    //getRandom();
     entryhistory = [];
 }
 

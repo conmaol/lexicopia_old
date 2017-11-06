@@ -1,93 +1,59 @@
 div.lexicopia-entry {
     padding: 20px;
     font-size: 12pt;
-    font-family: Helvetica, Verdana, sans-serif;
+    font-family: Helvetica, sans-serif;
     color: black;
-    /* border: thin solid; */
 }
 
-div.lexicopia-entry-header {
+div.lexicopia-entry > h1 {
     padding: 10px;
     background-color: lightgray;
-    /* border: thin solid; */
-}
-
-span.lexicopia-headword {
-    /* headwords which are not clickable are orange */
+    font-size: 20pt;
+    font-weight: normal;
     font-family: Verdana;
-    font-size: x-large;
 }
 
-table.lexicopia-structure {
-    margin-top: 30px;
-    /* border-left: solid 2px; */
+div.lexicopia-entry > h1 > span {
+    font-size: 12pt;
+    font-family: Helvetica, sans-serif;
 }
 
-td table.lexicopia-structure {
-    margin-top: 0px;
-}
-
-th.grammatical-relation {
-    padding-bottom: 10px;
-    padding-right: 10px;
-    float: left;
-    color: gray;
-    font-size: small;
-}
-
-td {
-    padding-bottom: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
-}
-
-a.lexicopia-link:link { /* everything clickable is blue; */
+div.lexicopia-entry a:link {
     color:#35979c;
     text-decoration: none;
 }
 
-a.lexicopia-link:visited {
+div.lexicopia-entry a:visited {
     color:#35979c;
     text-decoration: none;
 }
 
-a.lexicopia-link:hover {
+div.lexicopia-entry a:hover {
     text-decoration: underline;
 }
 
-div.lexicopia-pos {
-    padding-top: 10px;
-    font-style: italic;
-    /* border: thin solid; */
+#pos-text, #en-text, #pos-minus, #en-minus {
+    display: none;
 }
 
-dt {
-    /*border: thin solid;*/
+#pos-plus, #en-plus {
+    display: inline;
+}
+
+div.lexicopia-entry > dl > dt {
     padding-top: 10px;
     padding-bottom: 10px;
+    font-weight: normal;
+    color: dimgray;
 }
 
-dd {
-    /*border: thin solid;*/
+div.lexicopia-entry > dl > dd {
     padding-top: 0px;
     padding-bottom: 0px;
     font-family: Verdana;
 }
 
-dd.lexicopia-images {
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-img {
-    padding-left: 0px;
-    padding-right: 10px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-
-ul.lexicopia-entry-notes {
-    /* border: thin solid; */
+div.lexicopia-entry > ul {
     padding-top: 20px;
     font-size: small;
     padding-left: 20px;

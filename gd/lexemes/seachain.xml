@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="seachain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>seachain</orth>
+  </form>
+  <trans>avoid</trans>
+  <trans>dodge</trans>
+  <trans>elude</trans>
+  <trans>eschew</trans>
+  <trans>evade</trans>
+  <trans>miss</trans>
+  <trans>shirk</trans>
+  <trans>shun</trans>
+  <trans>spare</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</gnìomhair>
+

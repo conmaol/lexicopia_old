@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_boireann id="dùthaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>dùthaich</orth>
-    </form>
-    <form>
-      <orth>dùthcha</orth>
-    </form>
-    <form>
-      <orth>dùthchannan</orth>
-    </form>
-    <trans>country</trans>
-    <trans>land</trans>
-    <trans>countryside</trans>
-    <trans>nation</trans>
-    <note>Listed in An Seotal: Science, with meaning 'nation'.</note>
-    <note>Listed in An Seotal: Geography, as 'country'.</note>
-  </ainmear_boireann>
+  <form>
+    <orth>dùthaich</orth>
+  </form>
+  <form>
+    <orth>dùthcha</orth>
+  </form>
+  <form>
+    <orth>dùthchannan</orth>
+  </form>
+  <trans>country</trans>
+  <trans>land</trans>
+  <trans>countryside</trans>
+  <trans>nation</trans>
+  <note>Listed in An Seotal: Science, with meaning 'nation'.</note>
+  <note>Listed in An Seotal: Geography, as 'country'.</note>
+</ainmear_boireann>
