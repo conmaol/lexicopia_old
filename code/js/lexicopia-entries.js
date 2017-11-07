@@ -26,12 +26,6 @@ $(document).on('click', '#pos-minus', function() {
     return false;
 });
 
-function goBack() {
-    entryhistory.pop();
-    var newid = entryhistory.pop();
-    entryhistory.push(newid);
-    updateContent(newid);
-}
 
 
 

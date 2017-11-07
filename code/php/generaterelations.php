@@ -119,7 +119,8 @@ function get_dependent_refs($sign) {
 
 function makelink($lexeme) {
     $str = "";
-    $str .= "<a href=\"#\" onclick=\"entryhistory.push('" . $lexeme['id']. "'); updateContent('" . $lexeme['id'] . "');return false;\" title=\"" . makeEnglishString($lexeme) . "\">";
+    //$str .= "<a href=\"#\" onclick=\"entryhistory.push('" . $lexeme['id']. "'); updateContent('" . $lexeme['id'] . "');return false;\" title=\"" . makeEnglishString($lexeme) . "\">";
+    $str .= "<a href=\"#\" class=\"lexicopia-link\" data-id=\"" . $lexeme['id'] . "\" title=\"" . makeEnglishString($lexeme) . "\">";
     $str .= $lexeme->form[0]->orth;
     $str .= "</a>";
     return $str;

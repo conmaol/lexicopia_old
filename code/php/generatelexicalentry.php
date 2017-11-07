@@ -13,7 +13,7 @@ $lexeme = new SimpleXMLElement("../../" . $lang . "/lexemes/" . $id . ".xml", 0,
 
 echo "<div class=\"lexicopia-entry\">";
 // header:
-echo "<h1>";
+echo "<h1 class=\"lexicopia-headword\">";
 echo $lexeme->form[0]->orth . " ";
 echo "<span>";
 $pos = str_replace('_',' ',$lexeme->getName());
