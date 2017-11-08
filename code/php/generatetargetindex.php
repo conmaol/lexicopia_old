@@ -19,20 +19,20 @@
 
 $lang = $argv[1]; //get language code from command line
 $entries = array();
-$lexemes = 0;
-$parts = 0;
+$lexemecount = 0;
+$partcount = 0;
 foreach (scandir("../../" . $lang . "/lexemes") as $nextfile) {
     if (substr($nextfile,-4) === ".xml") {
         $lexeme = new SimpleXMLElement("../../" . $lang . "/lexemes/" . $nextfile, 0 , true);
-        $lexemes++;
+        $lexemecount++;
         foreach ($lexeme->part as $nextpart) {
-            $parts++;
+            $partcount++;
         }
         foreach ($lexeme->form as $nextform) {
             $entry = new entry;
             $entry->word = (string)$nextform->orth;
             $entry->id = (string)$lexeme['id'];
-            if ($nextform->trans) {
+            if ($nextform->trans) { // is this really necessary?
                 $entry->en = makeEnglishString($nextform);
             }
             else {
@@ -49,8 +49,8 @@ $output->target_index = $entries;
 $myfile = fopen("../../" . $lang . "/cache/target-index.json", "w");
 fwrite($myfile, json_encode($output, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 fclose($myfile);
-echo $lexemes . " lexemes\n";
-echo $parts . " parts\n";
+echo $lexemecount . " lexemes\n";
+echo $partcount . " parts\n";
 
 class entry {}
 

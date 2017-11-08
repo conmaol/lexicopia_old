@@ -8,8 +8,8 @@
 
 
 $lang = $argv[1]; //get language code from command line
-// create a list of unique English words from the lexicon
 
+// create a list of unique English words from the lexicon
 $english_words = array();
 $lexicalarray = array();
 foreach (scandir("../../" . $lang . "/lexemes") as $nextfile) {
