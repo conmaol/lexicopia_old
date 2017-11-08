@@ -26,6 +26,12 @@ $(document).on('click', '#pos-minus', function() {
     return false;
 });
 
+$(document).on("click", ".lexicopia-link", function() {
+    var id = $(this).attr("data-id");
+    updateContent(id);
+    return false;
+});
+
 
 
 

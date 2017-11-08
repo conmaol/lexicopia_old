@@ -79,12 +79,6 @@ $("#en-filterbox").on("keyup", function() {
     return false;
 });
 
-$(document).on("click", ".lexicopia-link", function() {
-    var id = $(this).attr("data-id");
-    updateContent(id);
-    return false;
-});
-
 $(document).on('click', '.en-index-link', function() {
     var ids = $(this).attr('data-id1').split(" ");
     var en = $(this).attr('data-id2');
