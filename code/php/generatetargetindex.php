@@ -1,21 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: mark
- * Date: 10/03/2017
- * Time: 18:55
- *
- * Creates a JSON target language index for use on Lexicopia systems, of format:
- *
- * { "target_index": [
- *      { "word": "-(a)ich",
- *        "id": "_ich-verb-deriving-suffix",
- *        "en": "[verb-deriving suffix]"
- *      },
- *      ...
- *     ]
- * }
- */
 
 $lang = $argv[1]; //get language code from command line
 $entries = array();
@@ -28,22 +11,19 @@ foreach (scandir("../../" . $lang . "/lexemes") as $nextfile) {
         foreach ($lexeme->part as $nextpart) {
             $partcount++;
         }
-        foreach ($lexeme->form as $nextform) {
+        foreach ($lexeme->form as $nextform) { // do for every form, not just headwords
             $entry = new entry;
             $entry->word = (string)$nextform->orth;
-            $entry->id = (string)$lexeme['id'];
-            if ($nextform->trans) { // is this really necessary?
-                $entry->en = makeEnglishString($nextform);
-            }
-            else {
-                $entry->en = makeEnglishString($lexeme);
-            }
+            $entry->id = substr($nextfile,0,strlen($nextfile)-4);
+            $entry->en = makeEnglishString($lexeme);
             $entries[] = $entry;
         }
     }
 }
 // sort the lexicon alphabetically, ignoring accents and case
-usort($entries,'cmp');
+usort($entries, function ($str1, $str2) {
+    return strcasecmp(stripAccents((string)$str1->word),stripAccents((string)$str2->word));
+});
 // write out JSON objects to file
 $output->target_index = $entries;
 $myfile = fopen("../../" . $lang . "/cache/target-index.json", "w");
@@ -54,24 +34,20 @@ echo $partcount . " parts\n";
 
 class entry {}
 
-function cmp($s, $t) {
-    $str1 = (string)$s->word;
-    $str2 = (string)$t->word;
+function stripAccents($string) {
     $accentedvowels = array('à','è','ì','ò','ù','À','È','Ì','Ò','Ù','ê','ŷ','ŵ','â');
     $unaccentedvowels = array('a','e','i','o','u','A','E','I','O','U','e','y','w','a');
-    $str3 = str_replace($accentedvowels,$unaccentedvowels,$str1);
-    $str4 = str_replace($accentedvowels,$unaccentedvowels,$str2);
-    return strcasecmp($str3,$str4);
+    return str_replace($accentedvowels, $unaccentedvowels, $string);
 }
 
 function makeEnglishString($thing) {
     $enstr = "";
     foreach ($thing->trans as $nexttrans) {
-        if ($nexttrans['index'] != 'only') {
+        if ($nexttrans["index"] != "only") {
             $enstr .= $nexttrans;
-            $enstr .= ', ';
+            $enstr .= ", ";
         }
     }
-    $enstr = trim($enstr,', ');
+    $enstr = trim($enstr,", ");
     return $enstr;
 }

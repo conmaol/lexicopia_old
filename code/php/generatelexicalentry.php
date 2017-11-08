@@ -50,6 +50,7 @@ foreach ($lexeme->note as $nextnote) {
     echo $nextnote;
     echo "</li>";
 }
+echo "<li>[ID: " . $id . "]</li>";
 echo "</ul>";
 echo "</div>";
 
@@ -75,3 +76,6 @@ function makelink($lexeme) {
     return $str;
 }
 */
+
+?>
+

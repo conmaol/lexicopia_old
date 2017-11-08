@@ -155,7 +155,7 @@ function filterIndex(type) {
 
 function updateContent(id) {
     entryhistory.push(id);
-    $('#content-div-entry').load("../code/php/generatelexicalentry.php?lang=" + lang + "&id=" + id);
+    $('#content-div-entry').load("../code/php/generateLexicalEntry.php?lang=" + lang + "&id=" + id);
     if (entryhistory.length > 1) {
         $('#backbutton').show();
     }
