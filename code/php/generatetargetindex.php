@@ -2,19 +2,19 @@
 
 $lang = $argv[1]; //get language code from command line
 $entries = array();
-$lexemecount = 0;
-$partcount = 0;
-foreach (scandir("../../" . $lang . "/lexemes") as $nextfile) {
-    if (substr($nextfile,-4) === ".xml") {
-        $lexeme = new SimpleXMLElement("../../" . $lang . "/lexemes/" . $nextfile, 0 , true);
-        $lexemecount++;
-        foreach ($lexeme->part as $nextpart) {
-            $partcount++;
+$lexemeCount = 0;
+$partCount = 0;
+foreach (scandir("../../" . $lang . "/lexemes") as $nextFile) {
+    if (substr($nextFile,-4) === ".xml") {
+        $lexeme = new SimpleXMLElement("../../" . $lang . "/lexemes/" . $nextFile, 0 , true);
+        $lexemeCount++;
+        foreach ($lexeme->part as $nextPart) {
+            $partCount++;
         }
-        foreach ($lexeme->form as $nextform) { // do for every form, not just headwords
+        foreach ($lexeme->form as $nextForm) { // do for every form, not just headwords
             $entry = new entry;
-            $entry->word = (string)$nextform->orth;
-            $entry->id = substr($nextfile,0,strlen($nextfile)-4);
+            $entry->word = (string)$nextForm->orth;
+            $entry->id = substr($nextFile,0,strlen($nextFile)-4);
             $entry->en = makeEnglishString($lexeme);
             $entries[] = $entry;
         }
@@ -26,28 +26,28 @@ usort($entries, function ($str1, $str2) {
 });
 // write out JSON objects to file
 $output->target_index = $entries;
-$myfile = fopen("../../" . $lang . "/cache/target-index.json", "w");
-fwrite($myfile, json_encode($output, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
-fclose($myfile);
-echo $lexemecount . " lexemes\n";
-echo $partcount . " parts\n";
+$myFile = fopen("../../" . $lang . "/cache/target-index.json", "w");
+fwrite($myFile, json_encode($output, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+fclose($myFile);
+echo $lexemeCount . " lexemes\n";
+echo $partCount . " parts\n";
 
 class entry {}
 
 function stripAccents($string) {
-    $accentedvowels = array('à','è','ì','ò','ù','À','È','Ì','Ò','Ù','ê','ŷ','ŵ','â');
-    $unaccentedvowels = array('a','e','i','o','u','A','E','I','O','U','e','y','w','a');
-    return str_replace($accentedvowels, $unaccentedvowels, $string);
+    $accentedVowels = array('à','è','ì','ò','ù','À','È','Ì','Ò','Ù','ê','ŷ','ŵ','â');
+    $unaccentedVowels = array('a','e','i','o','u','A','E','I','O','U','e','y','w','a');
+    return str_replace($accentedVowels, $unaccentedVowels, $string);
 }
 
-function makeEnglishString($thing) {
-    $enstr = "";
-    foreach ($thing->trans as $nexttrans) {
-        if ($nexttrans["index"] != "only") {
-            $enstr .= $nexttrans;
-            $enstr .= ", ";
+function makeEnglishString($lexeme) {
+    $enStr = "";
+    foreach ($lexeme->trans as $nextTrans) {
+        if ($nextTrans["index"] != "only") {
+            $enStr .= $nextTrans;
+            $enStr .= ", ";
         }
     }
-    $enstr = trim($enstr,", ");
-    return $enstr;
+    $enStr = trim($enStr,", ");
+    return $enStr;
 }
