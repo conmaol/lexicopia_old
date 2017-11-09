@@ -1,5 +1,4 @@
-var lang = "gd";
-var defaultContent = "Welcome to Lexicopia / GD! Get browsing.";
+var defaultContent = "Welcome to Lexicopia! Get browsing.";
 var entryhistory = [];
 // create target index
 $.getJSON("cache/target-index.json", function(data) {
