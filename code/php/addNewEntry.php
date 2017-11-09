@@ -3,23 +3,23 @@
 $lang = "gd";
 $LEXICOPIA_PATH = "../../" . $lang . "/";
 
-$id = "qqq-" . str_replace(" ", "_", $_POST["gd"]) . "-" . time();
+$id = "qqq-" . str_replace(" ", "_", $_POST["target"]) . "-" . time();
 file_put_contents($LEXICOPIA_PATH . "lexemes/" . $id . ".xml", getEntryXml($_POST, $id));
 //updateTargetJSONFile($lang, $_POST, $id);
 $targetIndexJSON = json_decode(file_get_contents($LEXICOPIA_PATH . "cache/target-index.json"), true);
-array_push($targetIndexJSON["target_index"], getTargetEntry($_POST["gd"], $_POST["en"], $id));
+array_push($targetIndexJSON["target_index"], getTargetEntry($_POST["target"], $_POST["en"], $id));
 file_put_contents($LEXICOPIA_PATH . "cache/target-index.json", json_encode($targetIndexJSON, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT), LOCK_EX);
 //updateEnglishJSONFile($lang, $_POST, $id);
 $found = false;
 $englishIndexJSON = json_decode(file_get_contents($LEXICOPIA_PATH . "cache/english-index.json"), true);
 foreach ($englishIndexJSON["english_index"] as $key => $entry) {
     if ($entry["en"] == $_POST["en"]) {      //existing English entry found so add new Gaelic form
-        array_push($englishIndexJSON["english_index"][$key]["gds"], array("id" => "{$id}", "form" => "{$_POST["gd"]}"));
+        array_push($englishIndexJSON["english_index"][$key]["gds"], array("id" => "{$id}", "form" => "{$_POST["target"]}"));
         $found = true;
     }
 }
 if (!$found) {    //entry not found so add a new one
-    array_push($englishIndexJSON["english_index"], getEnglishEntry($_POST["gd"], $_POST["en"], $id));
+    array_push($englishIndexJSON["english_index"], getEnglishEntry($_POST["target"], $_POST["en"], $id));
 }
 file_put_contents($LEXICOPIA_PATH . "cache/english-index.json", json_encode($englishIndexJSON, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT), LOCK_EX);
 
@@ -28,7 +28,7 @@ function getEntryXml($fields, $id) {
     $xml = <<<XML
     <lexeme id="{$id}" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
       <form>
-        <orth>{$fields["gd"]}</orth>
+        <orth>{$fields["target"]}</orth>
       </form>
       <trans>{$fields["en"]}</trans>
       <note>Related forms: {$fields["related"]}</note>
