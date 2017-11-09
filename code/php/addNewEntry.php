@@ -1,33 +1,27 @@
 <?php
 
 $lang = "gd";
+$LEXICOPIA_PATH = "../../" . $lang . "/";
 
-$id = str_replace(" ", "_", $_POST["gd"]);
-$id = $id . "-" . time();
-$lexeme = getEntryXml($_POST, $id);
-$fileName = "../../" . $lang . "/lexemes/" . $id . ".xml";
-file_put_contents($fileName, $lexeme);
+$id = "qqq-" . str_replace(" ", "_", $_POST["gd"]) . "-" . time();
+file_put_contents($LEXICOPIA_PATH . "lexemes/" . $id . ".xml", getEntryXml($_POST, $id));
 //updateTargetJSONFile($lang, $_POST, $id);
-$targetFile = file_get_contents("../../" . $lang . "/cache/target-index.json");
-$targetJson = json_decode($targetFile);
-$targetJSONArray = json_decode($targetFile, true); // WHAT?
-array_push($targetJSONArray["target_index"], getTargetEntry($_POST["gd"], $_POST["en"], $id));
-$targetJson = $targetJSONArray;
-file_put_contents("../../" . $lang . "/cache/target-index.json", json_encode($targetJson, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT), LOCK_EX);
+$targetIndexJSON = json_decode(file_get_contents($LEXICOPIA_PATH . "cache/target-index.json"), true);
+array_push($targetIndexJSON["target_index"], getTargetEntry($_POST["gd"], $_POST["en"], $id));
+file_put_contents($LEXICOPIA_PATH . "cache/target-index.json", json_encode($targetIndexJSON, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT), LOCK_EX);
 //updateEnglishJSONFile($lang, $_POST, $id);
 $found = false;
-$englishFile = file_get_contents("../../" . $lang . "/cache/english-index.json");
-$englishJson = json_decode($englishFile, true);
-foreach ($englishJson["english_index"] as $key => $entry) {
+$englishIndexJSON = json_decode(file_get_contents($LEXICOPIA_PATH . "cache/english-index.json"), true);
+foreach ($englishIndexJSON["english_index"] as $key => $entry) {
     if ($entry["en"] == $_POST["en"]) {      //existing English entry found so add new Gaelic form
-        array_push($englishJson["english_index"][$key]["gds"], array("id" => "{$id}", "form" => "{$_POST["gd"]}"));
+        array_push($englishIndexJSON["english_index"][$key]["gds"], array("id" => "{$id}", "form" => "{$_POST["gd"]}"));
         $found = true;
     }
 }
 if (!$found) {    //entry not found so add a new one
-    array_push($englishJson["english_index"], getEnglishEntry($_POST["gd"], $_POST["en"], $id));
+    array_push($englishIndexJSON["english_index"], getEnglishEntry($_POST["gd"], $_POST["en"], $id));
 }
-file_put_contents("../../" . $lang . "/cache/english-index.json", json_encode($englishJson, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT), LOCK_EX);
+file_put_contents($LEXICOPIA_PATH . "cache/english-index.json", json_encode($englishIndexJSON, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT), LOCK_EX);
 
 function getEntryXml($fields, $id) {
     $timestamp = time();
@@ -85,11 +79,5 @@ function updateEnglishJSONFile($lang, $fields, $id) {
     file_put_contents("../lexicopia/" . $lang . "/cache/english-index.json", json_encode($englishJson, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT), LOCK_EX);
 }
 */
-
-
-
-
-
-
 
 ?>
