@@ -18,15 +18,15 @@ echo $lexeme->form[0]->orth . " ";
 echo "<span>";
 $pos = str_replace('_',' ',$lexeme->getName());
 if ($pos != 'lexeme'){
-    echo " <a href=\"#\" id=\"pos-plus\" onclick=\"showPOS(); return false;\" title=\"" . $pos . "\">[+gnè]</a>";
-    echo "<a href=\"#\" id=\"pos-minus\" onclick=\"hidePOS(); return false;\">[-gnè]</a>";
+    echo " <a href=\"#\" id=\"pos-plus\" title=\"" . $pos . "\">[+gnè]</a>";
+    echo "<a href=\"#\" id=\"pos-minus\">[-gnè]</a>";
     echo "<span id=\"pos-text\"> " . $pos . "</span>";
 
 }
 if ($lexeme->trans) {
     $enstr = makeEnglishString($lexeme);
     echo "<a href=\"#\" id=\"en-plus\" title=\"" . $enstr . "\">[+beurla]</a>";
-    echo "<a href=\"#\" id=\"en-minus\" onclick=\"hideEnglish(); return false;\">[-beurla]</a>";
+    echo "<a href=\"#\" id=\"en-minus\">[-beurla]</a>";
     echo "<span id=\"en-text\"> " . $enstr . "</span>";
 }
 echo "</span>";
