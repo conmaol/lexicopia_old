@@ -2,8 +2,8 @@
 
 class AddNewEntry {
 
-    public static function addEntry($fieldData) {
-        define("LEXICOPIA_PATH", "../lexicopia/" . $fieldData["lang"] . "/");
+    public static function addEntry($fieldData,$path) {
+        define("LEXICOPIA_PATH", $path);
         $id = "qqq-" . str_replace(" ", "_", $fieldData["target"]) . "-" . time();
         file_put_contents(LEXICOPIA_PATH . "lexemes/" . $id . ".xml", self::getEntryXml($fieldData, $id));
         //updateTargetJSONFile($lang, $_POST, $id);
