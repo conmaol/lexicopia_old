@@ -1,6 +1,6 @@
 <?php
 
-class AddNewEntry {
+class NewEntry {
 
     public static function addEntry($fieldData,$path) {
         define("LEXICOPIA_PATH", $path);
