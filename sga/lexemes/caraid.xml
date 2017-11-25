@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<verb id="caraid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>caraid</orth>
+    <pron>[karəjð]</pron>
+    <gram>indicative present: third person singular independent; or second person plural dependent</gram>
+  </form>
+  <form>
+    <orth>caraim(m)</orth>
+    <pron>[karəjm]</pron>
+    <gram>indicative present first person singular</gram>
+  </form>
+  <form>
+    <orth>carai</orth>
+    <pron>[kari]</pron>
+    <gram>indicative present second person singular</gram>
+  </form>
+  <form>
+    <orth>carm(m)ai</orth>
+    <pron>[karmi]</pron>
+    <gram>indicative present first person plural independent</gram>
+  </form>
+  <form>
+    <orth>carthae</orth>
+    <pron>[karθe]</pron>
+    <gram>indicative present second person plural independent</gram>
+  </form>
+  <form>
+    <orth>carait</orth>
+    <pron>[karəjd]</pron>
+    <gram>indicative present third person plural independent</gram>
+  </form>
+  <form>
+    <orth>cara</orth>
+    <pron>[kara]</pron>
+    <gram>indicative present third person singular dependent</gram>
+  </form>
+  <form>
+    <orth>caram</orth>
+    <pron>[karəv]</pron>
+    <gram>indicative present first person plural dependent</gram>
+  </form>
+  <form>
+    <orth>carat</orth>
+    <pron>[karəd]</pron>
+    <gram>indicative present third person plural dependent</gram>
+  </form>
+  <trans>love</trans>
+</verb>
+

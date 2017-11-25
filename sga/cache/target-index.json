@@ -51,6 +51,51 @@
             "en": "bee"
         },
         {
+            "word": "berra",
+            "id": "berraid",
+            "en": "shear, shave"
+        },
+        {
+            "word": "berrai",
+            "id": "berraid",
+            "en": "shear, shave"
+        },
+        {
+            "word": "berraid",
+            "id": "berraid",
+            "en": "shear, shave"
+        },
+        {
+            "word": "berraim(m)",
+            "id": "berraid",
+            "en": "shear, shave"
+        },
+        {
+            "word": "berrait",
+            "id": "berraid",
+            "en": "shear, shave"
+        },
+        {
+            "word": "berram",
+            "id": "berraid",
+            "en": "shear, shave"
+        },
+        {
+            "word": "berrat",
+            "id": "berraid",
+            "en": "shear, shave"
+        },
+        {
+            "word": "berrm(m)ai",
+            "id": "berraid",
+            "en": "shear, shave"
+        },
+        {
+            "word": "berrthae",
+            "id": "berraid",
+            "en": "shear, shave"
+        },
+        {
             "word": "beuch",
             "id": "bech",
             "en": "bee"
@@ -77,37 +122,37 @@
         },
         {
             "word": "bél",
-            "id": "bél",
+            "id": "bél",
             "en": "lip"
         },
         {
             "word": "bélaib",
-            "id": "bél",
+            "id": "bél",
             "en": "lip"
         },
         {
             "word": "béoil",
-            "id": "bél",
+            "id": "bél",
             "en": "lip"
         },
         {
             "word": "béol",
-            "id": "bél",
+            "id": "bél",
             "en": "lip"
         },
         {
             "word": "béuil",
-            "id": "bél",
+            "id": "bél",
             "en": "lip"
         },
         {
             "word": "béul",
-            "id": "bél",
+            "id": "bél",
             "en": "lip"
         },
         {
             "word": "béulu",
-            "id": "bél",
+            "id": "bél",
             "en": "lip"
         },
         {
@@ -119,6 +164,46 @@
             "word": "cairptiu",
             "id": "carpat",
             "en": "chariot"
+        },
+        {
+            "word": "cara",
+            "id": "caraid",
+            "en": "love"
+        },
+        {
+            "word": "carai",
+            "id": "caraid",
+            "en": "love"
+        },
+        {
+            "word": "caraid",
+            "id": "caraid",
+            "en": "love"
+        },
+        {
+            "word": "caraim(m)",
+            "id": "caraid",
+            "en": "love"
+        },
+        {
+            "word": "carait",
+            "id": "caraid",
+            "en": "love"
+        },
+        {
+            "word": "caram",
+            "id": "caraid",
+            "en": "love"
+        },
+        {
+            "word": "carat",
+            "id": "caraid",
+            "en": "love"
+        },
+        {
+            "word": "carm(m)ai",
+            "id": "caraid",
+            "en": "love"
         },
         {
             "word": "carpait",
@@ -134,6 +219,11 @@
             "word": "carput",
             "id": "carpat",
             "en": "chariot"
+        },
+        {
+            "word": "carthae",
+            "id": "caraid",
+            "en": "love"
         },
         {
             "word": "claidbib",
@@ -276,18 +366,108 @@
             "en": "raven"
         },
         {
+            "word": "glana",
+            "id": "glanaid",
+            "en": "clean"
+        },
+        {
+            "word": "glanai",
+            "id": "glanaid",
+            "en": "clean"
+        },
+        {
+            "word": "glanaid",
+            "id": "glanaid",
+            "en": "clean"
+        },
+        {
+            "word": "glanaim(m)",
+            "id": "glanaid",
+            "en": "clean"
+        },
+        {
+            "word": "glanait",
+            "id": "glanaid",
+            "en": "clean"
+        },
+        {
+            "word": "glanam",
+            "id": "glanaid",
+            "en": "clean"
+        },
+        {
+            "word": "glanat",
+            "id": "glanaid",
+            "en": "clean"
+        },
+        {
+            "word": "glanm(m)ai",
+            "id": "glanaid",
+            "en": "clean"
+        },
+        {
+            "word": "glantae",
+            "id": "glanaid",
+            "en": "clean"
+        },
+        {
             "word": "loích",
-            "id": "lóech",
+            "id": "lóech",
             "en": "warrior"
         },
         {
             "word": "láech",
-            "id": "lóech",
+            "id": "lóech",
             "en": "warrior"
         },
         {
+            "word": "léga",
+            "id": "légaid",
+            "en": "read"
+        },
+        {
+            "word": "légai",
+            "id": "légaid",
+            "en": "read"
+        },
+        {
+            "word": "légaid",
+            "id": "légaid",
+            "en": "read"
+        },
+        {
+            "word": "légaim(m)",
+            "id": "légaid",
+            "en": "read"
+        },
+        {
+            "word": "légait",
+            "id": "légaid",
+            "en": "read"
+        },
+        {
+            "word": "légam",
+            "id": "légaid",
+            "en": "read"
+        },
+        {
+            "word": "légat",
+            "id": "légaid",
+            "en": "read"
+        },
+        {
+            "word": "légm(m)ai",
+            "id": "légaid",
+            "en": "read"
+        },
+        {
+            "word": "légthae",
+            "id": "légaid",
+            "en": "read"
+        },
+        {
             "word": "lóech",
-            "id": "lóech",
+            "id": "lóech",
             "en": "warrior"
         },
         {
@@ -311,53 +491,143 @@
             "en": "son, boy"
         },
         {
+            "word": "marba",
+            "id": "marbaid",
+            "en": "kill"
+        },
+        {
+            "word": "marbai",
+            "id": "marbaid",
+            "en": "kill"
+        },
+        {
+            "word": "marbaid",
+            "id": "marbaid",
+            "en": "kill"
+        },
+        {
+            "word": "marbaim(m)",
+            "id": "marbaid",
+            "en": "kill"
+        },
+        {
+            "word": "marbait",
+            "id": "marbaid",
+            "en": "kill"
+        },
+        {
+            "word": "marbam",
+            "id": "marbaid",
+            "en": "kill"
+        },
+        {
+            "word": "marbat",
+            "id": "marbaid",
+            "en": "kill"
+        },
+        {
+            "word": "marbm(m)ai",
+            "id": "marbaid",
+            "en": "kill"
+        },
+        {
+            "word": "marbthae",
+            "id": "marbaid",
+            "en": "kill"
+        },
+        {
+            "word": "móra",
+            "id": "móraid",
+            "en": "praise"
+        },
+        {
+            "word": "mórai",
+            "id": "móraid",
+            "en": "praise"
+        },
+        {
+            "word": "móraid",
+            "id": "móraid",
+            "en": "praise"
+        },
+        {
+            "word": "móraim(m)",
+            "id": "móraid",
+            "en": "praise"
+        },
+        {
+            "word": "mórait",
+            "id": "móraid",
+            "en": "praise"
+        },
+        {
+            "word": "móram",
+            "id": "móraid",
+            "en": "praise"
+        },
+        {
+            "word": "mórat",
+            "id": "móraid",
+            "en": "praise"
+        },
+        {
+            "word": "mórm(m)ai",
+            "id": "móraid",
+            "en": "praise"
+        },
+        {
+            "word": "mórthae",
+            "id": "móraid",
+            "en": "praise"
+        },
+        {
             "word": "múir",
-            "id": "múr",
+            "id": "múr",
             "en": "wall"
         },
         {
             "word": "múr",
-            "id": "múr",
+            "id": "múr",
             "en": "wall"
         },
         {
             "word": "múraib",
-            "id": "múr",
+            "id": "múr",
             "en": "wall"
         },
         {
             "word": "múru",
-            "id": "múr",
+            "id": "múr",
             "en": "wall"
         },
         {
             "word": "nél",
-            "id": "nél",
+            "id": "nél",
             "en": "cloud"
         },
         {
             "word": "nélaib",
-            "id": "nél",
+            "id": "nél",
             "en": "cloud"
         },
         {
             "word": "néul",
-            "id": "nél",
+            "id": "nél",
             "en": "cloud"
         },
         {
             "word": "níuil",
-            "id": "nél",
+            "id": "nél",
             "en": "cloud"
         },
         {
             "word": "níul",
-            "id": "nél",
+            "id": "nél",
             "en": "cloud"
         },
         {
             "word": "níulu",
-            "id": "nél",
+            "id": "nél",
             "en": "cloud"
         },
         {
@@ -387,22 +657,22 @@
         },
         {
             "word": "réin",
-            "id": "rían",
+            "id": "rían",
             "en": "ocean, sea"
         },
         {
             "word": "rían",
-            "id": "rían",
+            "id": "rían",
             "en": "ocean, sea"
         },
         {
             "word": "ríanaib",
-            "id": "rían",
+            "id": "rían",
             "en": "ocean, sea"
         },
         {
             "word": "ríanu",
-            "id": "rían",
+            "id": "rían",
             "en": "ocean, sea"
         },
         {
@@ -432,32 +702,77 @@
         },
         {
             "word": "saír",
-            "id": "sáer",
+            "id": "sáer",
             "en": "carpenter, craftsman, artisan"
         },
         {
+            "word": "scríba",
+            "id": "scríbaid",
+            "en": "write"
+        },
+        {
+            "word": "scríbai",
+            "id": "scríbaid",
+            "en": "write"
+        },
+        {
+            "word": "scríbaid",
+            "id": "scríbaid",
+            "en": "write"
+        },
+        {
+            "word": "scríbaim(m)",
+            "id": "scríbaid",
+            "en": "write"
+        },
+        {
+            "word": "scríbait",
+            "id": "scríbaid",
+            "en": "write"
+        },
+        {
+            "word": "scríbam",
+            "id": "scríbaid",
+            "en": "write"
+        },
+        {
+            "word": "scríbat",
+            "id": "scríbaid",
+            "en": "write"
+        },
+        {
+            "word": "scríbm(m)ai",
+            "id": "scríbaid",
+            "en": "write"
+        },
+        {
+            "word": "scríbthae",
+            "id": "scríbaid",
+            "en": "write"
+        },
+        {
             "word": "slóg",
-            "id": "slóg",
+            "id": "slóg",
             "en": "host, army, crowd, group"
         },
         {
             "word": "slógaib",
-            "id": "slóg",
+            "id": "slóg",
             "en": "host, army, crowd, group"
         },
         {
             "word": "slógu",
-            "id": "slóg",
+            "id": "slóg",
             "en": "host, army, crowd, group"
         },
         {
             "word": "slóig",
-            "id": "slóg",
+            "id": "slóg",
             "en": "host, army, crowd, group"
         },
         {
             "word": "slúag",
-            "id": "slóg",
+            "id": "slóg",
             "en": "host, army, crowd, group"
         },
         {
@@ -512,42 +827,42 @@
         },
         {
             "word": "sáer",
-            "id": "sáer",
+            "id": "sáer",
             "en": "carpenter, craftsman, artisan"
         },
         {
             "word": "sáeraib",
-            "id": "sáer",
+            "id": "sáer",
             "en": "carpenter, craftsman, artisan"
         },
         {
             "word": "sáeru",
-            "id": "sáer",
+            "id": "sáer",
             "en": "carpenter, craftsman, artisan"
         },
         {
             "word": "én",
-            "id": "én",
+            "id": "én",
             "en": "bird"
         },
         {
             "word": "énaib",
-            "id": "én",
+            "id": "én",
             "en": "bird"
         },
         {
             "word": "éuin",
-            "id": "én",
+            "id": "én",
             "en": "bird"
         },
         {
             "word": "éun",
-            "id": "én",
+            "id": "én",
             "en": "bird"
         },
         {
             "word": "éunu",
-            "id": "én",
+            "id": "én",
             "en": "bird"
         }
     ]

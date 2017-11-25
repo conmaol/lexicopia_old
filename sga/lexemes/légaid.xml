@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<verb id="légaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>légaid</orth>
+    <pron>[Lje:ɣəjð]</pron>
+    <gram>indicative present: third person singular independent; or second person plural dependent</gram>
+  </form>
+  <form>
+    <orth>légaim(m)</orth>
+    <pron>[Lje:ɣəjm]</pron>
+    <gram>indicative present first person singular</gram>
+  </form>
+  <form>
+    <orth>légai</orth>
+    <pron>[Lje:ɣi]</pron>
+    <gram>indicative present second person singular</gram>
+  </form>
+  <form>
+    <orth>légm(m)ai</orth>
+    <pron>[Lje:ɣmi]</pron>
+    <gram>indicative present first person plural independent</gram>
+  </form>
+  <form>
+    <orth>légthae</orth>
+    <pron>[Lje:ɣθe]</pron>
+    <gram>indicative present second person plural independent</gram>
+  </form>
+  <form>
+    <orth>légait</orth>
+    <pron>[Lje:ɣəjd]</pron>
+    <gram>indicative present third person plural independent</gram>
+  </form>
+  <form>
+    <orth>léga</orth>
+    <pron>[Lje:ɣa]</pron>
+    <gram>indicative present third person singular dependent</gram>
+  </form>
+  <form>
+    <orth>légam</orth>
+    <pron>[Lje:ɣəv]</pron>
+    <gram>indicative present first person plural dependent</gram>
+  </form>
+  <form>
+    <orth>légat</orth>
+    <pron>[Lje:ɣəd]</pron>
+    <gram>indicative present third person plural dependent</gram>
+  </form>
+  <trans>read</trans>
+</verb>
+

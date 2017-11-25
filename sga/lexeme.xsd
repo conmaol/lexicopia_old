@@ -15,7 +15,7 @@
           <xs:element ref="ainmear_fillte"/>
           <xs:element ref="iar-leasachan"/>
           <xs:element ref="buadhair"/>
-          <xs:element ref="gnìomhair"/>
+          <xs:element ref="verb"/>
           <xs:element ref="example"/>
         </xs:choice>
       </xs:sequence>
@@ -36,7 +36,7 @@
   
   <xs:element name="buadhair" type="lexeme-content"/>
   
-  <xs:element name="gnìomhair" type="lexeme-content"/>
+  <xs:element name="verb" type="lexeme-content"/>
   
   <xs:element name="example" type="lexeme-content"/>
 
@@ -61,6 +61,8 @@
     <xs:complexType>
       <xs:sequence>
         <xs:element name="orth" type="xs:token" minOccurs="1" maxOccurs="1"/>
+        <xs:element name="phon" type="xs:token" minOccurs="0" maxOccurs="1"/>
+        <xs:element name="gram" type="xs:token" minOccurs="0" maxOccurs="1"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>

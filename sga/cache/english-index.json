@@ -4,7 +4,7 @@
             "en": "army",
             "gds": [
                 {
-                    "id": "slóg",
+                    "id": "slóg",
                     "form": "slóg"
                 }
             ]
@@ -13,7 +13,7 @@
             "en": "artisan",
             "gds": [
                 {
-                    "id": "sáer",
+                    "id": "sáer",
                     "form": "sáer"
                 }
             ]
@@ -31,7 +31,7 @@
             "en": "bird",
             "gds": [
                 {
-                    "id": "én",
+                    "id": "én",
                     "form": "én"
                 }
             ]
@@ -67,7 +67,7 @@
             "en": "carpenter",
             "gds": [
                 {
-                    "id": "sáer",
+                    "id": "sáer",
                     "form": "sáer"
                 }
             ]
@@ -82,10 +82,19 @@
             ]
         },
         {
+            "en": "clean",
+            "gds": [
+                {
+                    "id": "glanaid",
+                    "form": "glanaid"
+                }
+            ]
+        },
+        {
             "en": "cloud",
             "gds": [
                 {
-                    "id": "nél",
+                    "id": "nél",
                     "form": "nél"
                 }
             ]
@@ -94,7 +103,7 @@
             "en": "craftsman",
             "gds": [
                 {
-                    "id": "sáer",
+                    "id": "sáer",
                     "form": "sáer"
                 }
             ]
@@ -103,7 +112,7 @@
             "en": "crowd",
             "gds": [
                 {
-                    "id": "slóg",
+                    "id": "slóg",
                     "form": "slóg"
                 }
             ]
@@ -112,7 +121,7 @@
             "en": "group",
             "gds": [
                 {
-                    "id": "slóg",
+                    "id": "slóg",
                     "form": "slóg"
                 }
             ]
@@ -130,8 +139,17 @@
             "en": "host",
             "gds": [
                 {
-                    "id": "slóg",
+                    "id": "slóg",
                     "form": "slóg"
+                }
+            ]
+        },
+        {
+            "en": "kill",
+            "gds": [
+                {
+                    "id": "marbaid",
+                    "form": "marbaid"
                 }
             ]
         },
@@ -157,8 +175,17 @@
             "en": "lip",
             "gds": [
                 {
-                    "id": "bél",
+                    "id": "bél",
                     "form": "bél"
+                }
+            ]
+        },
+        {
+            "en": "love",
+            "gds": [
+                {
+                    "id": "caraid",
+                    "form": "caraid"
                 }
             ]
         },
@@ -184,7 +211,7 @@
             "en": "ocean",
             "gds": [
                 {
-                    "id": "rían",
+                    "id": "rían",
                     "form": "rían"
                 }
             ]
@@ -195,6 +222,15 @@
                 {
                     "id": "sorn",
                     "form": "sorn"
+                }
+            ]
+        },
+        {
+            "en": "praise",
+            "gds": [
+                {
+                    "id": "móraid",
+                    "form": "móraid"
                 }
             ]
         },
@@ -217,6 +253,15 @@
             ]
         },
         {
+            "en": "read",
+            "gds": [
+                {
+                    "id": "légaid",
+                    "form": "légaid"
+                }
+            ]
+        },
+        {
             "en": "salt",
             "gds": [
                 {
@@ -229,8 +274,26 @@
             "en": "sea",
             "gds": [
                 {
-                    "id": "rían",
+                    "id": "rían",
                     "form": "rían"
+                }
+            ]
+        },
+        {
+            "en": "shave",
+            "gds": [
+                {
+                    "id": "berraid",
+                    "form": "berraid"
+                }
+            ]
+        },
+        {
+            "en": "shear",
+            "gds": [
+                {
+                    "id": "berraid",
+                    "form": "berraid"
                 }
             ]
         },
@@ -274,7 +337,7 @@
             "en": "wall",
             "gds": [
                 {
-                    "id": "múr",
+                    "id": "múr",
                     "form": "múr"
                 }
             ]
@@ -283,7 +346,7 @@
             "en": "warrior",
             "gds": [
                 {
-                    "id": "lóech",
+                    "id": "lóech",
                     "form": "lóech"
                 }
             ]
@@ -294,6 +357,15 @@
                 {
                     "id": "roth",
                     "form": "roth"
+                }
+            ]
+        },
+        {
+            "en": "write",
+            "gds": [
+                {
+                    "id": "scríbaid",
+                    "form": "scríbaid"
                 }
             ]
         }

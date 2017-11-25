@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<verb id="marbaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>marbaid</orth>
+    <pron>[maRvəjð]</pron>
+    <gram>indicative present: third person singular independent; or second person plural dependent</gram>
+  </form>
+  <form>
+    <orth>marbaim(m)</orth>
+    <pron>[maRvəjm]</pron>
+    <gram>indicative present first person singular</gram>
+  </form>
+  <form>
+    <orth>marbai</orth>
+    <pron>[maRvi]</pron>
+    <gram>indicative present second person singular</gram>
+  </form>
+  <form>
+    <orth>marbm(m)ai</orth>
+    <pron>[maRvmi]</pron>
+    <gram>indicative present first person plural independent</gram>
+  </form>
+  <form>
+    <orth>marbthae</orth>
+    <pron>[maRvθe]</pron>
+    <gram>indicative present second person plural independent</gram>
+  </form>
+  <form>
+    <orth>marbait</orth>
+    <pron>[maRvəjd]</pron>
+    <gram>indicative present third person plural independent</gram>
+  </form>
+  <form>
+    <orth>marba</orth>
+    <pron>[maRva]</pron>
+    <gram>indicative present third person singular dependent</gram>
+  </form>
+  <form>
+    <orth>marbam</orth>
+    <pron>[maRvəv]</pron>
+    <gram>indicative present first person plural dependent</gram>
+  </form>
+  <form>
+    <orth>marbat</orth>
+    <pron>[maRvəd]</pron>
+    <gram>indicative present third person plural dependent</gram>
+  </form>
+  <trans>kill</trans>
+</verb>
+

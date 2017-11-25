@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<verb id="glanaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>glanaid</orth>
+    <pron>[gLanəjð]</pron>
+    <gram>indicative present: third person singular independent; or second person plural dependent</gram>
+  </form>
+  <form>
+    <orth>glanaim(m)</orth>
+    <pron>[gLanəjm]</pron>
+    <gram>indicative present first person singular</gram>
+  </form>
+  <form>
+    <orth>glanai</orth>
+    <pron>[gLani]</pron>
+    <gram>indicative present second person singular</gram>
+  </form>
+  <form>
+    <orth>glanm(m)ai</orth>
+    <pron>[gLanmi]</pron>
+    <gram>indicative present first person plural independent</gram>
+  </form>
+  <form>
+    <orth>glantae</orth>
+    <pron>[gLante]</pron>
+    <gram>indicative present second person plural independent</gram>
+  </form>
+  <form>
+    <orth>glanait</orth>
+    <pron>[gLanəjd]</pron>
+    <gram>indicative present third person plural independent</gram>
+  </form>
+  <form>
+    <orth>glana</orth>
+    <pron>[gLana]</pron>
+    <gram>indicative present third person singular dependent</gram>
+  </form>
+  <form>
+    <orth>glanam</orth>
+    <pron>[gLanəv]</pron>
+    <gram>indicative present first person plural dependent</gram>
+  </form>
+  <form>
+    <orth>glanat</orth>
+    <pron>[gLanəd]</pron>
+    <gram>indicative present third person plural dependent</gram>
+  </form>
+  <trans>clean</trans>
+</verb>

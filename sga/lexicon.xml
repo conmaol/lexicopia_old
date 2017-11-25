@@ -25,5 +25,12 @@
   <xi:include href="lexemes/lóech.xml"/>
   <xi:include href="lexemes/sacart.xml"/>
   <xi:include href="lexemes/bél.xml"/>
+  <xi:include href="lexemes/caraid.xml"/>
+  <xi:include href="lexemes/marbaid.xml"/>
+  <xi:include href="lexemes/móraid.xml"/>
+  <xi:include href="lexemes/scríbaid.xml"/>
+  <xi:include href="lexemes/légaid.xml"/>
+  <xi:include href="lexemes/glanaid.xml"/>
+  <xi:include href="lexemes/berraid.xml"/>
   
 </lexicon>

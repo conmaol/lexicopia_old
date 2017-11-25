@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<verb id="berraid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>berraid</orth>
+    <pron>[bjeRəjð]</pron>
+    <gram>indicative present: third person singular independent; or second person plural dependent</gram>
+  </form>
+  <form>
+    <orth>berraim(m)</orth>
+    <pron>[bjeRəjm]</pron>
+    <gram>indicative present first person singular</gram>
+  </form>
+  <form>
+    <orth>berrai</orth>
+    <pron>[bjeRi]</pron>
+    <gram>indicative present second person singular</gram>
+  </form>
+  <form>
+    <orth>berrm(m)ai</orth>
+    <pron>[bjeRmi]</pron>
+    <gram>indicative present first person plural independent</gram>
+  </form>
+  <form>
+    <orth>berrthae</orth>
+    <pron>[bjeRθe]</pron>
+    <gram>indicative present second person plural independent</gram>
+  </form>
+  <form>
+    <orth>berrait</orth>
+    <pron>[bjeRəjd]</pron>
+    <gram>indicative present third person plural independent</gram>
+  </form>
+  <form>
+    <orth>berra</orth>
+    <pron>[bjeRa]</pron>
+    <gram>indicative present third person singular dependent</gram>
+  </form>
+  <form>
+    <orth>berram</orth>
+    <pron>[bjeRəv]</pron>
+    <gram>indicative present first person plural dependent</gram>
+  </form>
+  <form>
+    <orth>berrat</orth>
+    <pron>[bjeRəd]</pron>
+    <gram>indicative present third person plural dependent</gram>
+  </form>
+  <trans>shear</trans>
+  <trans>shave</trans>
+</verb>

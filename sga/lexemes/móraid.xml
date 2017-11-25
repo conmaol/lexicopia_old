@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<verb id="móraid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>móraid</orth>
+    <pron>[mo:rəjð]</pron>
+    <gram>indicative present: third person singular independent; or second person plural dependent</gram>
+  </form>
+  <form>
+    <orth>móraim(m)</orth>
+    <pron>[mo:rəjm]</pron>
+    <gram>indicative present first person singular</gram>
+  </form>
+  <form>
+    <orth>mórai</orth>
+    <pron>[mo:ri]</pron>
+    <gram>indicative present second person singular</gram>
+  </form>
+  <form>
+    <orth>mórm(m)ai</orth>
+    <pron>[mo:rmi]</pron>
+    <gram>indicative present first person plural independent</gram>
+  </form>
+  <form>
+    <orth>mórthae</orth>
+    <pron>[mo:rθe]</pron>
+    <gram>indicative present second person plural independent</gram>
+  </form>
+  <form>
+    <orth>mórait</orth>
+    <pron>[mo:rəjd]</pron>
+    <gram>indicative present third person plural independent</gram>
+  </form>
+  <form>
+    <orth>móra</orth>
+    <pron>[mo:ra]</pron>
+    <gram>indicative present third person singular dependent</gram>
+  </form>
+  <form>
+    <orth>móram</orth>
+    <pron>[mo:rəv]</pron>
+    <gram>indicative present first person plural dependent</gram>
+  </form>
+  <form>
+    <orth>mórat</orth>
+    <pron>[mo:rəd]</pron>
+    <gram>indicative present third person plural dependent</gram>
+  </form>
+  <trans>praise</trans>
+</verb>

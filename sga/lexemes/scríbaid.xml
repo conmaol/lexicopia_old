@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<verb id="scríbaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>scríbaid</orth>
+    <pron>[ʃkRi:vəjð]</pron>
+    <gram>indicative present: third person singular independent; or second person plural dependent</gram>
+  </form>
+  <form>
+    <orth>scríbaim(m)</orth>
+    <pron>[ʃkRi:vəjm]</pron>
+    <gram>indicative present first person singular</gram>
+  </form>
+  <form>
+    <orth>scríbai</orth>
+    <pron>[ʃkRi:vi]</pron>
+    <gram>indicative present second person singular</gram>
+  </form>
+  <form>
+    <orth>scríbm(m)ai</orth>
+    <pron>[ʃkRi:vmi]</pron>
+    <gram>indicative present first person plural independent</gram>
+  </form>
+  <form>
+    <orth>scríbthae</orth>
+    <pron>[ʃkRi:vθe]</pron>
+    <gram>indicative present second person plural independent</gram>
+  </form>
+  <form>
+    <orth>scríbait</orth>
+    <pron>[ʃkRi:vəjd]</pron>
+    <gram>indicative present third person plural independent</gram>
+  </form>
+  <form>
+    <orth>scríba</orth>
+    <pron>[ʃkRi:va]</pron>
+    <gram>indicative present third person singular dependent</gram>
+  </form>
+  <form>
+    <orth>scríbam</orth>
+    <pron>[ʃkRi:vəv]</pron>
+    <gram>indicative present first person plural dependent</gram>
+  </form>
+  <form>
+    <orth>scríbat</orth>
+    <pron>[ʃkRi:vəd]</pron>
+    <gram>indicative present third person plural dependent</gram>
+  </form>
+  <trans>write</trans>
+</verb>
+
