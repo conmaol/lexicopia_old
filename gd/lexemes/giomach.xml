@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="giomach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>giomach</orth>
+  </form>
+  <form>
+    <orth>giomaich</orth>
+  </form>
+  <trans>lobster</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear_fireann>
+
