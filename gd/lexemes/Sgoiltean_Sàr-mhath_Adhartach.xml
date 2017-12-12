@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="Sgoiltean_Sàr-mhath_Adhartach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Sgoiltean Sàr-mhath Adhartach</orth>
-    </form>
-    <trans>Ambitious Excellent Schòls</trans>
-    <note>Listed in An Seotal: General.</note>
-  </lexeme>
+<lexeme id="sgoiltean_sàr-mhath_adhartach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="sgoil"/>
+  <part ref="sàr-mhath"/>
+  <part ref="adhartach"/>
+  <form>
+    <orth>sgoiltean sàr-mhath adhartach</orth>
+  </form>
+  <trans>ambitious excellent schools</trans>
+  <note>Listed in An Seotal: General.</note>
+  <note>Presumably CfE jargon.</note>
+</lexeme>

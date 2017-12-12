@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="adhart" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>adhart</orth>
+  </form>
+  <form>
+    <orth>adhairt</orth>
+  </form>
+  <trans>progress</trans>
+  <trans>advance</trans>
+  <note>Listed in Colin Mark’s dictionary, but described as archaic except in idioms.</note>
+</ainmear_fireann>
+

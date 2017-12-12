@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="miannach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="miann"/>
+  <form>
+    <orth>miannach</orth>
+  </form>
+  <trans>wishful</trans>
+  <trans>desirous</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</buadhair>

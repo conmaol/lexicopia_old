@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="pròiseact_àrd_amasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="pròiseact"/>
+  <part ref="àrd_amasach"/>
+  <form>
+    <orth>pròiseact àrd amasach</orth>
+  </form>
+  <trans>ambitious project</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</lexeme>

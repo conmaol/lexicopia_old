@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="pròiseact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>pròiseact</orth>
-    </form>
-    <trans>project</trans>
-    <note>Listed in An Seotal: General.</note>
-    <note>project - pròiseict poss cprojects - pròiseactan pl</note>
-  </ainmear_fireann>
+  <form>
+    <orth>pròiseact</orth>
+  </form>
+  <form>
+    <orth>pròiseict</orth>
+  </form>
+  <form>
+    <orth>pròiseactan</orth>
+  </form>
+  <trans>project</trans>
+  <note>Listed in An Seotal: General.</note>
+</ainmear_fireann>

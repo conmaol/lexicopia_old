@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="miann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>miann</orth>
-    </form>
-    <trans>desire</trans>
-  </lexeme>
+<ainmear id="miann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>miann</orth>
+  </form>
+  <form>
+    <orth>miannan</orth>
+  </form>
+  <form>
+    <orth>mianntan</orth>
+  </form>
+  <trans>desire</trans>
+  <trans>longing</trans>
+  <trans>wish</trans>
+  <trans>appetite</trans>
+  <trans>craving</trans>
+  <trans>itch</trans>
+  <note>Listed in Colin Mark’s dictionary, as having uncertain gender.</note>
+</ainmear>

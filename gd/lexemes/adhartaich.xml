@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="adhartaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="adhart"/>
+  <form>
+    <orth>adhartaich</orth>
+  </form>
+  <form>
+    <orth>adhartachadh</orth>
+  </form>
+  <trans>advance</trans>
+  <trans>promote</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</gnìomhair>
+

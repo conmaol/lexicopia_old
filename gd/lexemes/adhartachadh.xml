@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="adhartachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>adhartachadh</orth>
-    </form>
-    <trans>development</trans>
-    <note>Listed in An Seotal: Music.</note>
-    <note>development - adhartachaidh poss cdevelopments - adhartachaidhean pl</note>
-  </ainmear_fireann>
+  <part ref="adhartaich"/>
+  <form>
+    <orth>adhartachadh</orth>
+  </form>
+  <form>
+    <orth>adhartachaidh</orth>
+  </form>
+  <form>
+    <orth>adhartachaidhean</orth>
+  </form>
+  <trans>promotion</trans>
+  <trans index="only">promotional</trans>
+  <trans>development</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+  <note>Listed in An Seotal: Music.</note>
+</ainmear_fireann>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="àrd_amasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="àrd"/>
+  <part ref="amas"/>
+  <form>
+    <orth>àrd amasach</orth>
+  </form>
+  <trans>ambitious</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</buadhair>
+

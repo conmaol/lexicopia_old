@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="adhartach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="adhart"/>
+  <form>
+    <orth>adhartach</orth>
+  </form>
+  <form>
+    <orth>adhartaiche</orth>
+  </form>
+  <trans>advanced</trans>
+  <trans>progressive</trans>
+  <trans>pushing</trans>
+  <trans>pushy</trans>
+  <trans>ambitious</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</buadhair>
+

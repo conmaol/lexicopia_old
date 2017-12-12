@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="adhartas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>adhartas</orth>
-    </form>
-    <trans>progression</trans>
-    <note>Listed in An Seotal: General.</note>
-    <note>progression - adhartais poss c</note>
-  </ainmear_fireann>
+  <part ref="adhart"/>
+  <form>
+    <orth>adhartas</orth>
+  </form>
+  <form>
+    <orth>adhartais</orth>
+  </form>
+  <form>
+    <orth>adhartasan</orth>
+  </form>
+  <trans>progress</trans>
+  <trans>headway</trans>
+  <trans>advance</trans>
+  <trans>progression</trans>
+  <note>Listed in An Seotal: General.</note>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear_fireann>
