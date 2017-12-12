@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fireann id="sracadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="srac"/>
+  <form>
+    <orth>sracadh</orth>
+  </form>
+  <form>
+    <orth>sracaidh</orth>
+  </form>
+  <trans>tear</trans>
+  <trans>rip</trans>
+  <trans>laceration</trans>
+  <trans>rent</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear_fireann>

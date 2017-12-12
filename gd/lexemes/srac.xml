@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="srac" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>srac</orth>
+  </form>
+  <trans>tear</trans>
+  <trans>rip</trans>
+  <trans>lacerate</trans>
+  <trans>mangle</trans>
+  <trans>rend</trans>
+  <trans>tatter</trans>
+  <trans>yank</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+  <note>e.g. shrac e an t-seic na pìosan.</note>
+</gnìomhair>

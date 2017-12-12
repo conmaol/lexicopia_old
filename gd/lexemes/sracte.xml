@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="sracte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="srac"/>
+  <form>
+    <orth>sracte</orth>
+  </form>
+  <trans>torn</trans>
+  <trans>ripped</trans>
+  <trans>rent</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</buadhair>
+
