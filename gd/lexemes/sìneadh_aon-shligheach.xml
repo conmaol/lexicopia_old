@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="sìneadh_aon-shligheach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>sìneadh aon-shligheach</orth>
-    </form>
-    <trans>one-way stretch</trans>
-    <note>Listed in An Seotal: Maths.</note>
-  </lexeme>
+  <part ref="sìneadh"/>
+  <part ref="shligheach"/>
+  <form>
+    <orth>sìneadh aon-shligheach</orth>
+  </form>
+  <trans>one-way stretch</trans>
+  <note>Listed in An Seotal: Maths.</note>
+</lexeme>

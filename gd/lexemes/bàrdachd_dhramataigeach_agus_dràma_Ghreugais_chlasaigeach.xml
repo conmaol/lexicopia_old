@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="bàrdachd_dhramataigeach_agus_dràma_Ghreugais_chlasaigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>bàrdachd dhramataigeach agus dràma Ghreugais chlasaigeach</orth>
-    </form>
-    <trans>classical Grèk dramatic poetry and drama</trans>
-    <note>Listed in An Seotal: General.</note>
-  </lexeme>
+  <part ref="bàrdachd_dhramataigeach"/>
+  <part ref="dràma"/>
+  <part ref="Greugais_chlasaigeach"/>
+  <form>
+    <orth>bàrdachd dhramataigeach agus dràma Ghreugais chlasaigeach</orth>
+  </form>
+  <trans>classical Greek dramatic poetry and drama</trans>
+  <note>Listed in An Seotal: General.</note>
+</lexeme>

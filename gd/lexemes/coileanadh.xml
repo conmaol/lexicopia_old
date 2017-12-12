@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fireann id="coileanadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>coileanadh</orth>
-    </form>
-    <trans>achievement</trans>
-    <note>Listed in An Seotal: General.</note>
-    <note>achievement - coileanaidh poss c achievements - coileanaidhean pl</note>
-  </ainmear_fireann>
+  <part ref="coilean"/>
+  <form>
+    <orth>coileanadh</orth>
+  </form>
+  <form>
+    <orth>coileanaidh</orth>
+  </form>
+  <form>
+    <orth>coileanaidhean</orth>
+  </form>
+  <trans>achievement</trans>
+  <note>Listed in An Seotal: General.</note>
+</ainmear_fireann>

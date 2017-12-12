@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_fillte id="ceann_latha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="ceann"/>
+  <part ref="latha"/>
   <form>
     <orth>ceann latha</orth>
   </form>
@@ -8,5 +10,8 @@
     <orth>cinn latha</orth>
   </form>
   <trans>date</trans>
+  <trans>closing date</trans>
+  <trans>deadline</trans>
   <note>Listed in An Seotal: General.</note>
+  <note>Listed in Colin Mark’s dictionary.</note>
 </ainmear_fillte>

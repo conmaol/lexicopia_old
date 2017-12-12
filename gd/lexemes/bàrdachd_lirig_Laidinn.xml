@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="bàrdachd_lirig_Laidinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>bàrdachd lirig Laidinn</orth>
-    </form>
-    <trans>Latin lyric poetry</trans>
-    <note>Listed in An Seotal: Language.</note>
-  </lexeme>
+  <part ref="bàrdachd_lirig"/>
+  <part ref="Laideann"/>
+  <form>
+    <orth>bàrdachd lirig Laidinn</orth>
+  </form>
+  <trans>Latin lyric poetry</trans>
+  <note>Listed in An Seotal: Language, also as ‘bàrdachd lirid na Laidinn’.</note>
+</lexeme>

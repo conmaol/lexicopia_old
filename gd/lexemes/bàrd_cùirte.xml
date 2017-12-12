@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="bàrd_cùirte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="bàrd"/>
+  <part ref="cùirt"/>
+  <form>
+    <orth>bàrd cùirte</orth>
+  </form>
+  <form>
+    <orth>bàird chùirte</orth>
+  </form>
+  <trans>poet laureate</trans>
+  <trans index="only">laureate</trans>
+  <note>Listed in Colin Mark’s dictionary, as ‘bàrd cùirt’.</note>
+</ainmear_fillte>

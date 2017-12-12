@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="falbh_ceann_ama_air" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="falbh"/>
+  <part ref="ceann_ama"/>
+  <form>
+    <orth>falbh ceann ama air</orth>
+  </form>
+  <trans>miss a deadline</trans>
+  <note>e.g. Dh’fhalbh an ceann ama orm.</note>
+</lexeme>

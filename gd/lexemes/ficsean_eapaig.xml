@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="ficsean_eapaig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="ficsean"/>
+  <part ref="eapaig"/>
+  <form>
+    <orth>ficsean eapaig</orth>
+  </form>
+  <trans>epic fiction</trans>
+</ainmear_fillte>

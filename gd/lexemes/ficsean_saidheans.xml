@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="ficsean_saidheans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="ficsean"/>
+  <part ref="saidheans"/>
+  <form>
+    <orth>ficsean saidheans</orth>
+  </form>
+  <trans>science fiction</trans>
+</ainmear_fillte>
+

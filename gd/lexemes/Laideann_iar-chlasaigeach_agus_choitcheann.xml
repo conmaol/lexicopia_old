@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="Laideann_iar-chlasaigeach_agus_choitcheann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Laideann iar-chlasaigeach agus choitcheann</orth>
-    </form>
-    <trans>postclassical and vulgar Latin</trans>
-    <note>Listed in An Seotal: Language.</note>
-  </lexeme>
+  <part ref="Laideann_iar-chlasaigeach"/>
+  <part ref="Laideann_choitcheann"/>
+  <form>
+    <orth>Laideann iar-chlasaigeach agus choitcheann</orth>
+  </form>
+  <trans>postclassical and vulgar Latin</trans>
+  <note>Listed in An Seotal: Language.</note>
+</lexeme>

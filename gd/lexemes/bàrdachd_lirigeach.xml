@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="bàrdachd_lirigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="bàrdachd"/>
+  <part ref="lirigeach"/>
+  <form>
+    <orth>bàrdachd lirigeach</orth>
+  </form>
+  <trans>lyrical poetry</trans>
+  <note>Listed in Colin Mark’s dictionary, as ‘bàrdachd liriceach’.</note>
+</ainmear_fillte>

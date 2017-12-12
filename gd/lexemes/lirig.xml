@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_boireann id="lirig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>lirig</orth>
-    </form>
-    <trans>lyric</trans>
-    <note>Listed in An Seotal: Music.</note>
-    <note>lyric - lirig(e) poss clyrics - lirigean pl</note>
-  </ainmear_boireann>
+  <form>
+    <orth>lirig</orth>
+  </form>
+  <form>
+    <orth>lirige</orth>
+  </form>
+  <form>
+    <orth>lirigean</orth>
+  </form>
+  <form>
+    <orth>liric</orth>
+  </form>
+  <form>
+    <orth>lirice</orth>
+  </form>
+  <form>
+    <orth>liricean</orth>
+  </form>
+  <trans>lyric</trans>
+  <note>Listed in An Seotal: Music.</note>
+  <note>Listed in Colin Mark's (2004) Gaelic-English dictionary, as ‘liric’.</note>
+</ainmear_boireann>

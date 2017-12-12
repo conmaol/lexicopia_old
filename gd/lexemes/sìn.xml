@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="siin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>sìn</orth>
+  </form>
+  <trans>stretch</trans>
+  <trans>lengthen</trans>
+  <trans>rest on</trans>
+  <note>Listed in An Seotal: Maths, as 'stretch'.</note>
+  <note>Listed in An Seotal: Music, as 'lengthen', 'rest on'.</note>
+</gnìomhair>

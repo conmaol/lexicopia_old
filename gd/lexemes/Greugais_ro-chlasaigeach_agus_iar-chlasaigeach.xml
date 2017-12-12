@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="Greugais_ro-chlasaigeach_agus_iar-chlasaigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Greugais ro-chlasaigeach agus iar-chlasaigeach</orth>
-    </form>
-    <trans>preclassical and postclassical Grèk</trans>
-    <note>Listed in An Seotal: General.</note>
-  </lexeme>
+  <part ref="Greugais_ro-chlasaigeach"/>
+  <part ref="Greugais_iar-chlasaigeach"/>
+  <form>
+    <orth>Greugais ro-chlasaigeach agus iar-chlasaigeach</orth>
+  </form>
+  <trans>pre-classical and post-classical Greek</trans>
+  <note>Listed in An Seotal: General.</note>
+</lexeme>

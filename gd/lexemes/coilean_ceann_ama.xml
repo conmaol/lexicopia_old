@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="coilean_ceann_ama" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="coilean"/>
+  <part ref="ceann_ama"/>
+  <form>
+    <orth>coilean ceann ama</orth>
+  </form>
+  <trans>meet a deadline</trans>
+  <trans>hit a deadline</trans>
+</lexeme>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="bàrdachd_mholaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="bàrdachd"/>
+  <part ref="moladh"/>
+  <form>
+    <orth>bàrdachd mholaidh</orth>
+  </form>
+  <trans>panegyric</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</ainmear_fillte>

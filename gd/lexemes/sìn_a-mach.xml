@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="sìn_a-mach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="sìn"/>
+  <part ref="a-mach"/>
+  <form>
+    <orth>sìn a-mach</orth>
+  </form>
+  <trans>extend</trans>
+  <trans>stretch out</trans>
+</lexeme>
+

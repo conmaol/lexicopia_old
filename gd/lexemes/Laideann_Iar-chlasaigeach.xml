@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<lexeme id="Laideann_Iar-chlasaigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>Laideann Iar-chlasaigeach</orth>
-    </form>
-    <trans>postclassical Latin</trans>
-    <note>Listed in An Seotal: Language.</note>
-  </lexeme>
+<lexeme id="Laideann_iar-chlasaigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="Laideann"/>
+  <part ref="iar-chlasaigeach"/>
+  <form>
+    <orth>Laideann iar-chlasaigeach</orth>
+  </form>
+  <trans>post-classical Latin</trans>
+  <note>Listed in An Seotal: Language.</note>
+</lexeme>

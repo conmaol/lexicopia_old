@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<buadhair id="tuairisgeulach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>tuairisgeulach</orth>
+  </form>
+  <trans>descriptive</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</buadhair>
+

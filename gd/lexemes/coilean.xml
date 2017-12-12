@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="coilean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>coilean</orth>
+  </form>
+  <form>
+    <orth>coilion</orth>
+  </form>
+  <trans>achieve</trans>
+  <trans>accomplish</trans>
+  <trans>complete</trans>
+  <trans>consumate</trans>
+  <trans>discharge</trans>
+  <trans>enact</trans>
+  <trans>fulfil</trans>
+  <trans>perform</trans>
+  <note>Listed in Colin Mark’s dictionary as ‘coilion’.</note>
+</gnìomhair>
+

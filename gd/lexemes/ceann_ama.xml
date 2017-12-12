@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ainmear_fillte id="ceann_ama" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="ceann"/>
+  <part ref="àm"/>
+  <form>
+    <orth>ceann ama</orth>
+  </form>
+  <form>
+    <orth>cinn ama</orth>
+  </form>
+  <trans>deadline</trans>
+</ainmear_fillte>

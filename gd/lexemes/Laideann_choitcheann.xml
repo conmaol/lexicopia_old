@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lexeme id="Laideann_choitcheann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <part ref="Laideann"/>
+  <part ref="coitcheann"/>
+  <form>
+    <orth>Laideann choitcheann</orth>
+  </form>
+  <trans>vulgar Latin</trans>
+</lexeme>
+

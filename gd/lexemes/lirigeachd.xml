@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <ainmear_boireann id="lirigeachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>lirigeachd</orth>
-    </form>
-    <trans>lyricism</trans>
-    <note>Listed in An Seotal: Music.</note>
-    <note>lyricism - lirigeachd poss clyricisms - lirigeachdan pl</note>
-  </ainmear_boireann>
+  <part ref="lirigeach"/>
+  <form>
+    <orth>lirigeachd</orth>
+  </form>
+  <form>
+    <orth>lirigeachdan</orth>
+  </form>
+  <trans>lyricism</trans>
+  <note>Listed in An Seotal: Music.</note>
+</ainmear_boireann>

@@ -2,6 +2,7 @@
 
 <lexeme id="bàrdachd_thuairisgeulach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="bàrdachd"/>
+  <part ref="tuairisgeulach"/>
   <form>
     <orth>bàrdachd thuairisgeulach</orth>
   </form>
