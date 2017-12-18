@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <lexeme id="siubhal_ann_an_Afraga" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
-    <form>
-      <orth>siubhal ann an Afraga</orth>
-    </form>
-    <trans>travel in Africa</trans>
-    <note>Listed in An Seotal: Geography.</note>
-  </lexeme>
+  <part ref="siubhal"/>
+  <part ref="Afraga"/>
+  <form>
+    <orth>siubhal ann an Afraga</orth>
+  </form>
+  <trans>travel in Africa</trans>
+  <note>Listed in An Seotal: Geography.</note>
+</lexeme>

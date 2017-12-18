@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gnìomhair id="siubhail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>siubhail</orth>
+  </form>
+  <trans>travel</trans>
+  <trans>roam</trans>
+  <trans>stroll</trans>
+  <trans>traverse</trans>
+  <trans>die</trans>
+  <trans>search</trans>
+  <trans>look for</trans>
+  <trans>travel</trans>
+  <note>Listed in Colin Mark’s dictionary.</note>
+</gnìomhair>
