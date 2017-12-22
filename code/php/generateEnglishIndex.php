@@ -2,51 +2,52 @@
 
 $lang = $argv[1]; //get language code from command line
 // create a list of unique English words from the lexicon
-$english_words = array();
-$lexicalarray = array();
-foreach (scandir("../../" . $lang . "/lexemes") as $nextfile) {
-    if (substr($nextfile, -4) === ".xml") {
-        $nextlexeme = new SimpleXMLElement("../../" . $lang . "/lexemes/" . $nextfile, 0, true);
-        $lexicalarray[substr($nextfile,0,strlen($nextfile)-4)] = $nextlexeme;
-        foreach ($nextlexeme->trans as $nexttrans) {
-            if ($nexttrans["index"] != "no") {
-                $english_words[] = $nexttrans;
+$englishWords = array();
+$lexicalArray = array();
+foreach (scandir("../../" . $lang . "/lexemes") as $nextFile) {
+    if (substr($nextFile, -4) === ".xml") {
+        $nextLexeme = new SimpleXMLElement("../../" . $lang . "/lexemes/" . $nextFile, 0, true);
+        //$lexicalArray[substr($nextFile,0,strlen($nextFile)-4)] = $nextLexeme;
+        $lexicalArray[(string)$nextLexeme["id"]] = $nextLexeme;
+        foreach ($nextLexeme->trans as $nextTrans) {
+            if ($nextTrans["index"] != "no") {
+                $englishWords[] = $nextTrans;
             }
         }
     }
 }
-$newarray = array_unique($english_words); // remove duplicates
-$english_words = $newarray;
-natcasesort($english_words); // sort it alphabetically
+$newArray = array_unique($englishWords); // remove duplicates
+$englishWords = $newArray;
+natcasesort($englishWords); // sort it alphabetically
 // populate the array with appropriate PHP objects:
 $entries = array();
-foreach ($english_words as $nexten) {
+foreach ($englishWords as $nextEn) {
     $entry = new entry;
-    $entry->en = (string)$nexten;
-    $gds = array();
-    foreach ($lexicalarray as $id=>$lexeme) {
-        if (hasEn($lexeme, $nexten)) {
-            $gd = new gd;
-            $gd->id = $id;
-            $gd->form = (string)$lexeme->form[0]->orth;
-            $gds[] = $gd;
+    $entry->en = (string)$nextEn;
+    $targets = array();
+    foreach ($lexicalArray as $nextId=>$nextLexeme) {
+        if (hasEn($nextLexeme, $nextEn)) {
+            $target = new target;
+            $target->id = $nextId;
+            $target->form = (string)$nextLexeme->form[0]->orth;
+            $targets[] = $target;
         }
     }
-    $entry->gds = $gds;
+    $entry->targets = $targets;
     $entries[] = $entry;
 }
-$output->english_index = $entries;
-$myfile = fopen("../../" . $lang . "/cache/english-index.json", "w");
-fwrite($myfile, json_encode($output, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
-fclose($myfile);
+$output->englishIndex = $entries;
+$myFile = fopen("../../" . $lang . "/cache/englishIndex.json", "w");
+fwrite($myFile, json_encode($output, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
+fclose($myFile);
 
 class entry {}
 
-class gd {}
+class target {}
 
 function hasEn($lexeme,$en) {
-    foreach ($lexeme->trans as $nexttrans) {
-        if ((string)$nexttrans == $en) {
+    foreach ($lexeme->trans as $nextTrans) {
+        if ((string)$nextTrans == $en) {
             return TRUE;
         }
     }

@@ -13,8 +13,9 @@ foreach (scandir("../../" . $lang . "/lexemes") as $nextFile) {
         }
         foreach ($lexeme->form as $nextForm) { // do for every form, not just headwords
             $entry = new entry;
-            $entry->word = (string)$nextForm->orth;
-            $entry->id = substr($nextFile,0,strlen($nextFile)-4);
+            $entry->target = (string)$nextForm->orth;
+            //$entry->id = substr($nextFile,0,strlen($nextFile)-4);
+            $entry->id = (string)$lexeme["id"];
             $entry->en = makeEnglishString($lexeme);
             $entries[] = $entry;
         }
@@ -22,11 +23,11 @@ foreach (scandir("../../" . $lang . "/lexemes") as $nextFile) {
 }
 // sort the lexicon alphabetically, ignoring accents and case
 usort($entries, function ($str1, $str2) {
-    return strcasecmp(stripAccents((string)$str1->word),stripAccents((string)$str2->word));
+    return strcasecmp(stripAccents((string)$str1->target),stripAccents((string)$str2->target));
 });
 // write out JSON objects to file
-$output->target_index = $entries;
-$myFile = fopen("../../" . $lang . "/cache/target-index.json", "w");
+$output->targetIndex = $entries;
+$myFile = fopen("../../" . $lang . "/cache/targetIndex.json", "w");
 fwrite($myFile, json_encode($output, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT));
 fclose($myFile);
 echo $lexemeCount . " lexemes\n";

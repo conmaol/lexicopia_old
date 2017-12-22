@@ -1,98 +1,84 @@
+/* GLOBAL VARIABLES */
+
 var defaultContent = "Welcome to Lexicopia! Get browsing.";
-var entryhistory = [];
-// create target index
-$.getJSON("cache/target-index.json", function(data) {
-    var target_index = data.target_index;
-    var targetindexdiv = document.getElementById("trg-index");
-    for (var i = 0; i < target_index.length; i++) {
-        var item = target_index[i];
-        //create a div with class indexitem and add it within trg-index
-        var newdiv = document.createElement("div");
-        newdiv.setAttribute("class", "indexitem");
-        var newa = document.createElement("a");
-        newa.setAttribute("href", "#");
-        newa.setAttribute("data-id", item.id);
-        newa.setAttribute("class", "lexicopia-link");
-        newa.setAttribute('title', item.en);
-        newa.innerText = item.word;
-        newdiv.appendChild(newa);
-        targetindexdiv.appendChild(newdiv);
+var entryHistory = [];
+
+/* STUFF TO DO ON LOADING THE PAGE */
+
+// create and display target index
+$.getJSON("cache/targetIndex.json", function(data) {
+    var targetIndex = data.targetIndex;
+    for (var i = 0; i < targetIndex.length; i++) {
+        var item = targetIndex[i];
+        var link = "<a href='#' data-id='" + item.id + "' class='lexicopiaLink' title='" + item.en + "'>" + item.target + "</a>";
+        var div = "<div class='indexItem'>" + link + "</div>";
+        $("#trgIndex").append(div);
     }
 });
-// create English index
-$.getJSON("cache/english-index.json", function(data) {
-    var english_index = data.english_index;
-    var englishindexdiv = document.getElementById('en-index');
-    for (i = 0; i < english_index.length; i++) {
-        item = english_index[i];
-        //create a div with class indexitem and add it within en-index
-        var newdiv = document.createElement('div');
-        newdiv.setAttribute('class', 'indexitem');
-        var newa = document.createElement("a");
-        newa.setAttribute("href", "#");
-        newa.setAttribute("class", "en-index-link");
+// create and display English index
+$.getJSON("cache/englishIndex.json", function(data) {
+    var englishIndex = data.englishIndex;
+    for (i = 0; i < englishIndex.length; i++) {
+        item = englishIndex[i];
         var str = "";
-        for (var j = 0; j < item.gds.length; j++) {
-            str = str + item.gds[j].id;
-            if (j < (item.gds.length - 1)) {
+        for (var j = 0; j < item.targets.length; j++) {
+            str = str + item.targets[j].id;
+            if (j < (item.targets.length - 1)) {
                 str = str + ' ';
             }
         }
-        newa.setAttribute("data-id1", str);
-        newa.setAttribute("data-id2", item.en);
-        //newa.setAttribute('onclick', 'entryhistory=[]; filterTrgIndexFromEn([' + str + '],\'' + item.en + '\')');
-        newa.innerText = item.en;
-        newdiv.appendChild(newa);
-        englishindexdiv.appendChild(newdiv);
+        var link = "<a href='#' data-id1='" + str + "' data-id2='" + item.en + "' class='enIndexLink'>" + item.en + "</a>";
+        var div = "<div class='indexItem'>" + link + "</div>";
+        $("#enIndex").append(div);
     }
 });
-$("#content-div-entry").html(defaultContent);
+$("#contentDivEntry").html(defaultContent);
 
 /* EVENT HANDLERS */
 
-$("#resetPage").on('click', function() {
+$("#resetPage").on("click", function() {
     resetIndices();
-    entryhistory = [];
-    $("#content-div-entry").html(defaultContent);
-    $("#backbutton").hide();
+    entryHistory = [];
+    $("#contentDivEntry").html(defaultContent);
+    $("#backButton").hide();
     return false;
 });
 
-$('#randomEntry').on('click', function() {
+$("#randomEntry").on("click", function() {
     resetIndices();
-    $.getJSON("cache/target-index.json", function(data) {
-        var target_index = data.target_index;
-        var randomid = target_index[Math.floor(Math.random()*target_index.length)].id;
-        updateContent(randomid);
+    $.getJSON("cache/targetIndex.json", function(data) {
+        var targetIndex = data.targetIndex;
+        var randomId = targetIndex[Math.floor(Math.random()*targetIndex.length)].id;
+        updateContent(randomId);
     });
     return false;
 });
 
-$("#trg-filterbox").on("keyup", function() {
+$("#trgFilterBox").on("keyup", function() {
     filterIndex("trg");
     return false;
 });
 
-$("#en-filterbox").on("keyup", function() {
+$("#enFilterBox").on("keyup", function() {
     filterIndex("en");
     return false;
 });
 
-$(document).on('click', '.en-index-link', function() {
-    var ids = $(this).attr('data-id1').split(" ");
-    var en = $(this).attr('data-id2');
-    entryhistory=[];
-    var indexDiv = document.getElementById('trg-index');
+$(document).on("click", ".enIndexLink", function() {
+    var ids = $(this).attr("data-id1").split(" ");
+    var en = $(this).attr("data-id2");
+    entryHistory=[];
+    var indexDiv = document.getElementById("trgIndex"); // $("trgIndex")
     var divs = indexDiv.childNodes;
     for (var i = 1; i < divs.length; i++) {
         var div = divs[i];
         try {
             var a = div.childNodes[0];
-            var id = a.getAttribute('data-id');
+            var id = a.getAttribute("data-id");
             if (ids.indexOf(id) > -1) {
-                div.style.display = 'block';
+                div.style.display = "block";
             } else {
-                div.style.display = 'none';
+                div.style.display = "none";
             }
         }
         catch (exc) {
@@ -102,25 +88,26 @@ $(document).on('click', '.en-index-link', function() {
         updateContent(ids[0]);
     }
     else {
-        document.getElementById("content-div-entry").innerHTML = "<p>Look at the index on the left for all the words that mean \'" + en + "\'.</p><p>Click on each of them for further information.</p>";
+        $("#contentDivEntry").html("<p>Look at the index on the left for all the words that mean \'" + en + "\'.</p><p>Click on each of them for further information.</p>");
+        //document.getElementById("contentDivEntry").innerHTML = "<p>Look at the index on the left for all the words that mean \'" + en + "\'.</p><p>Click on each of them for further information.</p>";
     }
     return false;
 });
 
-$("#backbutton a").on("click", function() {
-    entryhistory.pop();
-    var newid = entryhistory.pop();
-    entryhistory.push(newid);
-    updateContent(newid);
+$("#backButton a").on("click", function() {
+    entryHistory.pop();
+    var newId = entryHistory.pop();
+    entryHistory.push(newId);
+    updateContent(newId);
     return false;
 });
 
 /* HELPER FUNCTIONS */
 
 function resetIndices() {
-    document.getElementById("trg-filterbox").value = ""; // reset top left filterbox to empty
+    $("#trgFilterBox").val("");
     filterIndex("trg"); // reset left index to default state
-    document.getElementById("en-filterbox").value = ""; // reset top right filterbox to empty
+    $("#enFilterBox").val("");
     filterIndex("en"); // reset right index to default state
     return false;
 }
@@ -133,17 +120,17 @@ if (typeof String.prototype.startsWith != 'function') {
 
 function filterIndex(type) {
     /* when one of the filterboxes is altered (or when the reset button is clicked, or when the page is first loaded), this function changes the relevant index to suit */
-    var str = document.getElementById(type + '-filterbox').value.toLowerCase();
-    var indexDiv = document.getElementById(type + '-index');
+    var str = document.getElementById(type + "FilterBox").value.toLowerCase();
+    var indexDiv = document.getElementById(type + "Index");
     var divs = indexDiv.childNodes;
     for (var i = 1; i < divs.length; i++) {
         var e = divs[i];
         try {
             var f = e.firstChild.textContent.toLowerCase();
             if (f.startsWith(str)) {
-                e.style.display = 'block';
+                e.style.display = "block";
             } else {
-                e.style.display = 'none';
+                e.style.display = "none";
             }
         }
         catch (exc) {
@@ -153,13 +140,13 @@ function filterIndex(type) {
 }
 
 function updateContent(id) {
-    entryhistory.push(id);
-    $('#content-div-entry').load("../code/php/generateLexicalEntry.php?lang=" + lang + "&id=" + id);
-    if (entryhistory.length > 1) {
-        $('#backbutton').show();
+    entryHistory.push(id);
+    $("#contentDivEntry").load("../code/php/generateLexicalEntry.php?lang=" + lang + "&id=" + id);
+    if (entryHistory.length > 1) {
+        $("#backButton").show();
     }
     else {
-        $('#backbutton').hide();
+        $("#backButton").hide();
     }
     return false;
 }

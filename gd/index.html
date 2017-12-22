@@ -3,44 +3,48 @@
   <head>
     <meta charset="UTF-8" />
     <title>Lexicopia / GD</title>
-    <link href="../code/css/normalize.css" rel="stylesheet" />
+    <link rel="stylesheet" href="../code/css/normalize.css" />
     <link rel="stylesheet" type="text/css" href="../code/css/lexicopia.css" />
-    <link rel="stylesheet" type="text/css" href="../code/css/lexicopia-entries.css" />
+    <link rel="stylesheet" type="text/css" href="../code/css/lexicopiaEntries.css" />
   </head>
   <body>
-    <div id="banner-div">
+    <div id="bannerDiv">
       <!-- banner running along very top of page -->
       <span id="logo">
         Lexicopia / GD
       </span>
       (<a href="#" id="resetPage">reset</a>) (<a href="#" id="randomEntry">random</a>)
     </div>
-    <div id="container-div">
-      <div id="trg-sidebar">
+    <div id="containerDiv">
+      <div id="trgSidebar">
         <!-- container div for target language index and filterbox, on left -->
         <form autocomplete="off">
           <!-- target language filter box, at top left -->
-          <input title="trg-search" type="text" id="trg-filterbox"/>
+          <input title="trgSearch" type="text" id="trgFilterBox"/>
         </form>
-        <div id="trg-index">
+        <div id="trgIndex">
           <!-- the target language index itself -->
         </div>
       </div>
-      <div id="en-sidebar">
+      <div id="enSidebar">
         <!-- container div for English index and filterbox, typically on right -->
         <form autocomplete="off">
-          <input title="en-search" type="text" id="en-filterbox"/>
+          <input title="enSearch" type="text" id="enFilterBox"/>
         </form>
-        <div id="en-index"> </div>
+        <div id="enIndex">
+          <!-- the English index itself -->
+        </div>
       </div>
-      <div id="content-div">
-        <div id="content-div-entry"></div>
-        <div id="backbutton"><a href="#"> &lt; BACK </a></div>
+      <div id="contentDiv">
+        <div id="contentDivEntry">
+          <!-- where the content goes -->
+        </div>
+        <div id="backButton"><a href="#"> &lt; BACK </a></div>
       </div>
     </div>
-    <script src="../code/js/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="../code/js/jquery-3.1.1.min.js"></script>
     <script type="text/javascript" src="../code/js/lexicopia.js"></script>
-    <script type="text/javascript" src="../code/js/lexicopia-entries.js"></script>
+    <script type="text/javascript" src="../code/js/lexicopiaEntries.js"></script>
     <script type="text/javascript">
       var lang = "gd";
     </script>

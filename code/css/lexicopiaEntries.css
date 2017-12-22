@@ -1,11 +1,11 @@
-div.lexicopia-entry {
+div.lexicopiaEntry {
     padding: 20px;
     font-size: 12pt;
     font-family: Helvetica, sans-serif;
     color: black;
 }
 
-div.lexicopia-entry > h1 {
+div.lexicopiaEntry > h1 {
     padding: 10px;
     background-color: lightgray;
     font-size: 20pt;
@@ -15,47 +15,47 @@ div.lexicopia-entry > h1 {
     display: block;
 }
 
-div.lexicopia-entry > h1 > span {
+div.lexicopiaEntry > h1 > span#enLink {
     font-size: 12pt;
     font-family: Helvetica, sans-serif;
 }
 
-div.lexicopia-entry a:link {
+div.lexicopiaEntry a:link {
     color:#35979c;
     text-decoration: none;
 }
 
-div.lexicopia-entry a:visited {
+div.lexicopiaEntry a:visited {
     color:#35979c;
     text-decoration: none;
 }
 
-div.lexicopia-entry a:hover {
+div.lexicopiaEntry a:hover {
     text-decoration: underline;
 }
 
-#pos-text, #en-text, #pos-minus, #en-minus {
+#posText, #enText, #posMinus, #enMinus {
     display: none;
 }
 
-#pos-plus, #en-plus {
+#posPlus, #enPlus {
     display: inline;
 }
 
-div.lexicopia-entry > dl > dt {
+div.lexicopiaEntry > dl > dt {
     padding-top: 10px;
     padding-bottom: 10px;
     font-weight: normal;
     color: dimgray;
 }
 
-div.lexicopia-entry > dl > dd {
+div.lexicopiaEntry > dl > dd {
     padding-top: 0px;
     padding-bottom: 0px;
     font-family: Verdana;
 }
 
-div.lexicopia-entry > ul {
+div.lexicopiaEntry > ul {
     padding-top: 20px;
     font-size: small;
     padding-left: 20px;
