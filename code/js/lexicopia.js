@@ -36,6 +36,14 @@ $("#contentDivEntry").html(defaultContent);
 
 /* EVENT HANDLERS */
 
+$("#addEntry").on("click", function() {
+    var formData = {lang: "gd", userEmail: "rosamcco@gmail.com", id: "qqq-fadalachd-1517011746", trans: "tediousness" };
+    $.post("../code/php/addEntry.php", formData, function (data) {
+        console.log(data);
+    });
+    return false;
+});
+
 $("#resetPage").on("click", function() {
     resetIndices();
     entryHistory = [];

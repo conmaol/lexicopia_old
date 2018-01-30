@@ -15,7 +15,7 @@ div.lexicopiaEntry > h1 {
     display: block;
 }
 
-div.lexicopiaEntry > h1 > span#enLink {
+div.lexicopiaEntry > h1 > span.lexicopiaEnglish {
     font-size: 12pt;
     font-family: Helvetica, sans-serif;
 }

@@ -33,8 +33,8 @@ foreach ($lexicalArray as $nextId=>$nextLexeme) {
         }
     }
     $compounds = getCompounds($nextId,$lexicalArray);
-    fwrite($myFile, "<p>" . count($compounds) . "compounds</p>");
     if (count($compounds)>0) {
+        fwrite($myFile, "<dt>Compounds:</dt>");
         foreach ($compounds as $nextCompound) {
             fwrite($myFile, "<dd>");
             fwrite($myFile, makeLink($nextCompound, $lexicalArray));

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<lexeme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="qqq-fadalachd-1517011746" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+  <form>
+    <orth>fadalachd</orth>
+  </form>
+  <trans resp="markmcco@gmail.com rosamcco@gmail.com">lateness</trans>
+  <note>Related forms: a</note>
+  <note>Note: b</note>
+  <note>Contributed by user markmcco@gmail.com at 1517011746.</note>
+  <trans resp="rosamcco@gmail.com">tediousness</trans>
+  <form><orth resp="markmcco@gmail.com">fadalachdan</orth></form>
+  <note>Form [fadalachdan] contributed by user markmcco@gmail.com at 1517084815</note>
+</lexeme>

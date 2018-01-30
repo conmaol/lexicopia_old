@@ -13,8 +13,8 @@ $lexeme = new SimpleXMLElement("../../" . $lang . "/lexemes/" . $id . ".xml", 0,
 
 echo "<div class=\"lexicopiaEntry\">";
 // header:
-echo "<h1 class=\"lexicopiaHeadWord\"><span id=\"headWordProper\">";
-echo $lexeme->form[0]->orth . "</span> <span id=\"enLink\">";
+echo "<h1><span class=\"lexicopiaHeadWord\">";
+echo $lexeme->form[0]->orth . "</span> <span class=\"lexicopiaEnglish\">";
 /*
 $pos = str_replace('_',' ',$lexeme->getName());
 if ($pos != 'lexeme'){
@@ -28,7 +28,13 @@ if ($lexeme->trans) {
     $enStr = makeEnglishString($lexeme);
     echo "<a href=\"#\" id=\"enPlus\" title=\"" . $enStr . "\">[+en]</a>";
     echo "<a href=\"#\" id=\"enMinus\">[-en]</a>";
-    echo "<span id=\"enText\"> " . $enStr . "</span>";
+    echo "<span id=\"enText\"> ";
+    foreach ($lexeme->trans as $nextTrans) {
+        echo "<span title=\"Authorised by: " . $nextTrans["resp"] . " \">";
+        echo $nextTrans . ", ";
+        echo "</span>";
+    }
+    echo "</span>";
 }
 echo "</span>";
 echo "</h1>";
