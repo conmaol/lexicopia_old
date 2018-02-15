@@ -25,6 +25,12 @@ class NewEntry {
         file_put_contents(LEXICOPIA_PATH . "cache/englishIndex.json", json_encode($englishIndexJSON, JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT), LOCK_EX);
     }
 
+    public static function mmAddEntry($lang) {
+
+
+
+    }
+
     private static function getEntryXml($fields, $id) {
         $timestamp = time();
         $xml = <<<XML
