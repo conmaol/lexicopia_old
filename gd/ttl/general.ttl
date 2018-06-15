@@ -3577,7 +3577,7 @@
   :orthography "cùil" ;
   :formOf :cùl.n .
 
-:cùiltean.nnp 
+:cùiltean.nnp    # repeat?
   a :NominativePlural ;
   :orthography "cùiltean" ;
   :formOf :cùl.n .  

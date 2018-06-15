@@ -561,404 +561,86 @@
   :hasForm :còta.n.nms , :còta.n.gms , :còtaichean.n.np .
    
 :crann.n 
-  a :MasculineNoun ;
-  :en "mast" .
-
-:crann.nns 
-  a :NominativeSingular ;
-  :orthography "crann" ;
-  :formOf :crann.n .
-  
-:crainn.ngs 
-  a :GenitiveSingular ;
-  :orthography "crainn" ;
-  :formOf :crann.n . 
-
-:croinn.ngs 
-  a :GenitiveSingular ;
-  :orthography "croinn" ;
-  :formOf :crann.n .
-
-:croinn.nnp 
-  a :NominativePlural ;
-  :orthography "croinn" ;
-  :formOf :crann.n .
-
+  :en "mast" ;
+  :hasForm :crann.n.nms , :crainn.n.gms , :croinn.n.gms , :croinn.n.np . 
 
 :craobh.n 
-  a :FeminineNoun ;
-  :en "tree" .
-
-:craobh.nns 
-  a :NominativeSingular ;
-  :orthography "craobh" ; 
-  :formOf :craobh.n .
-
-:craoibhe.ngs 
-  a :GenitiveSingular ; 
-  :orthography "craoibhe" ; 
-  :formOf :craobh.n .
-
-:craobhan.nnp 
-  a :NominativePlural ; 
-  :orthography "craobhan" ; 
-  :formOf :craobh.n .
-
+  :en "tree" ;
+  :hasForm :craobh.n.nfs , :craoibhe.n.gfs , :craobhan.n.np .
 
 :creag.n 
-  a :FeminineNoun ;
-  :en "rock" .
-
-:creag.nns 
-  a :NominativeSingular ;
-  :orthography "creag" ;
-  :formOf :creag.n .
-  
-:creige.ngs 
-  a :GenitiveSingular ;
-  :orthography "creige" ;
-  :formOf :creag.n .
-
-:creagan.nnp 
-  a :NominativePlural ;
-  :orthography "creagan" ;
-  :formOf :creag.n .   
-
+  :en "rock" ;
+  :hasForm :creag.n.nfs , :creige.n.gfs , :creagan.n.np .
 
 :creideamh.n 
-  a :MasculineNoun ;
-  :en "faith" , "belief" .
-
-:creideamh.nns 
-  a :NominativeSingular ;
-  :orthography "creideamh" ;
-  :formOf :creideamh.n .
-  
-:creideimh.ngs 
-  a :GenitiveSingular ;
-  :orthography "creideimh" ;
-  :formOf :creideamh.n .
-  
+  :en "faith" , "belief" ;
+  :hasForm :creideamh.n.nms , :creideimh.n.gms .
 
 :cridhe.n 
-  a :MasculineNoun ;
-  :en "heart" .
-
-:cridhe.nns 
-  a :NominativeSingular ;
-  :orthography "cridhe" ;
-  :formOf :cridhe.n .
-
-:cridhe.ngs 
-  a :GenitiveSingular ;
-  :orthography "cridhe" ;
-  :formOf :cridhe.n .
-
-:cridheachan.nnp 
-  a :NominativePlural ;
-  :orthography "cridheachan" ;
-  :formOf :cridhe.n .  
-  
+  :en "heart" ;
+  :hasForm :cridhe.n.nms , :cridhe.n.gms , :cridheachan.n.np .
 
 :crìoch.n 
-  a :FeminineNoun ;
-  :en "boundary" , "end" .
-
-:crìoch.nns 
-  a :NominativeSingular ;
-  :orthography "crìoch" ;
-  :formOf :crìoch.n .
-  
-:crìche.ngs 
-  a :GenitiveSingular ;
-  :orthography "crìche" ;
-  :formOf :crìoch.n .
-
-:crìochan.nnp 
-  a :NominativePlural ;
-  :orthography "crìochan" ;
-  :formOf :crìoch.n .  
-    
+  :en "boundary" , "end" ;
+  :hasForm :crìoch.n.nfs , :crìche.n.gfs , :crìochan.n.np .
 
 :crò.n 
-  a :MasculineNoun ;
-  :en "fold" , "pen" , "eye (of needle)" .
-
-:crò.nns 
-  a :NominativeSingular ;
-  :orthography "crò" ;
-  :formOf :crò.n .
-  
-:crò.ngs 
-  a :GenitiveSingular ;
-  :orthography "crò" ;
-  :formOf :crò.n .
-
-:cròtha.ngs 
-  a :GenitiveSingular ;
-  :orthography "cròtha" ;
-  :formOf :crò.n .
-
-:cròithean.nnp 
-  a :NominativePlural ;
-  :orthography "cròithean" ;
-  :formOf :crò.n .
-
+  :en "fold" , "pen" , "eye (of needle)" ;
+  :hasForm :crò.n.nms , :crò.n.gms , :cròtha.n.gms , :cròithean.n.np .
 
 :crodh.n 
-  a :MasculineNoun ;
-  :en "cattle" .
-
-:crodh.nns 
-  a :NominativeSingular ;
-  :orthography "crodh" ;
-  :formOf :crodh.n .
-  
-:cruidh.ngs 
-  a :GenitiveSingular ;
-  :orthography "cruidh" ;
-  :formOf :crodh.n .
-
+  :en "cattle" ;
+  :hasForm :crodh.n.nms , :cruidh.n.gms .
 
 :croic.n 
-  a :FeminineNoun ;
-  :en "antlers" .
-
-:croic.nns 
-  a :NominativeSingular ;
-  :orthography "croic" ;
-  :formOf :croic.n .
-  
-:croice.ngs 
-  a :GenitiveSingular ;
-  :orthography "croice" ;
-  :formOf :croic.n .
-
-:croicean.nnp 
-  a :NominativePlural ;
-  :orthography "croicean" ;
-  :formOf :croic.n .
-
+  :en "antlers" ;
+  :hasForm :croic.n.nfs , :croice.n.gfs , :croicean.n.np .
 
 :cruach.n 
-  a :FeminineNoun ;
-  :en "stack" .
-
-:cruach.nns 
-  a :NominativeSingular ;
-  :orthography "cruach" ;
-  :formOf :cruach.n .
-  
-:cruaiche.ngs 
-  a :GenitiveSingular ;
-  :orthography "cruaiche" ;
-  :formOf :cruach.n .
-
-:cruachan.nnp 
-  a :NominativePlural ;
-  :orthography "cruachan" ;
-  :formOf :cruach.n .
-
+  :en "stack" ;
+  :hasForm :cruach.n.nfs , :cruaiche.n.gfs , :cruachan.n.np .
 
 :cù.n 
-  a :MasculineNoun ;
-  :en "dog" .
-
-:cù.nns 
-  a :NominativeSingular ;
-  :orthography "cù" ;
-  :formOf :cù.n .
-  
-:coin.ngs 
-  a :GenitiveSingular ;
-  :orthography "coin" ;
-  :formOf :cù.n .
-
-:coin.nnp 
-  a :NominativePlural ;
-  :orthography "coin" ;
-  :formOf :cù.n .  
-  
+  :en "dog" ;
+  :hasForm :cù.n.nms , :coin.n.gms , :coin.n.np .
 
 :cuan.n 
-  a :MasculineNoun ;
-  :en "ocean" .
-
-:cuan.nns 
-  a :NominativeSingular ;
-  :orthography "cuan" ;
-  :formOf :cuan.n .
-  
-:cuain.ngs 
-  a :GenitiveSingular ;
-  :orthography "cuain" ;
-  :formOf :cuan.n .
-
-:cuantan.nnp 
-  a :NominativePlural ;
-  :orthography "cuantan" ;
-  :formOf :cuan.n .  
-  
+  :en "ocean" ;
+  :hasForm :cuan.n.nms , :cuain.n.gms , :cuantan.n.np .
 
 :cùil.n 
-  a :FeminineNoun ;
-  :en "corner" , "nook" .
-
-:cùil.nns 
-  a :NominativeSingular ;
-  :orthography "cùil" ;
-  :formOf :cùil.n .
-
-:cùil.ngs 
-  a :GenitiveSingular ;
-  :orthography "cùil" ;
-  :formOf :cùil.n .
-
-:cùiltean.nnp 
-  a :NominativePlural ;
-  :orthography "cùiltean" ;
-  :formOf :cùil.n .      
-
+  :en "corner" , "nook" ;
+  :hasForm :cùil.n.nfs , :cùil.n.gfs , :cùiltean.n.np .
 
 :cuileag.n 
-  a :FeminineNoun ;
-  :en "fly" .
-
-:cuileag.nns 
-  a :NominativeSingular ;
-  :orthography "cuileag" ;
-  :formOf :cuileag.n .
-  
-:cuileige.ngs 
-  a :GenitiveSingular ;
-  :orthography "cuileige" ;
-  :formOf :cuileag.n .
-
-:cuileagan.nnp 
-  a :NominativePlural ;
-  :orthography "cuileagan" ;
-  :formOf :cuileag.n .   
-
+  :en "fly" ;
+  :hasForm :cuileag.n.nfs , :cuileige.n.gfs , :cuileagan.n.np .
 
 :cùis.n 
-  a :FeminineNoun ;
-  :en "business" , "affair" .
-
-:cùis.nns 
-  a :NominativeSingular ;
-  :orthography "cùis" ;
-  :formOf :cùis.n .
-  
-:cùise.ngs 
-  a :GenitiveSingular ;
-  :orthography "cùise" ;
-  :formOf :cùis.n .
-
-:cùisean.nnp 
-  a :NominativePlural ;
-  :orthography "cùisean" ;
-  :formOf :cùis.n .
-
+  :en "business" , "affair" ;
+  :hasForm :cùis.n.nfs , :cùise.n.gfs , :cùisean.n.np .
 
 :cùl.n 
-  a :MasculineNoun ;
-  :en "back (side)" , "rear" .
-
-:cùl.nns 
-  a :NominativeSingular ;
-  :orthography "cùl" ;
-  :formOf :cùl.n .
-  
-:cùil.ngs 
-  a :GenitiveSingular ;
-  :orthography "cùil" ;
-  :formOf :cùl.n .
-
-:cùiltean.nnp 
-  a :NominativePlural ;
-  :orthography "cùiltean" ;
-  :formOf :cùl.n .  
-
+  :en "back (side)" , "rear" ;
+  :hasForm :cùl.n.nms , :cùil.n.gms , :cùiltean.n.np .
 
 :cuman.n 
-  a :MasculineNoun ;
-  :en "bucket" , "pail" , "milking-pail" .
-
-:cuman.nns 
-  a :NominativeSingular ;
-  :orthography "cuman" ;
-  :formOf :cuman.n .
-  
-:cumain.ngs 
-  a :GenitiveSingular ;
-  :orthography "cumain" ;
-  :formOf :cuman.n .
-
-:cumain.nnp 
-  a :NominativePlural ;
-  :orthography "cumain" ;
-  :formOf :cuman.n .  
-
+  :en "bucket" , "pail" , "milking-pail" ;
+  :hasForm :cuman.n.nms , :cumain.n.gms , :cumain.n.np .
 
 :cumhachd.n 
-  a :MasculineNoun ;
-  :en "power" .
-
-:cumhachd.nns 
-  a :NominativeSingular ;
-  :orthography "cumhachd" ;
-  :formOf :cumhachd.n .
-  
-:cumhachdan.nnp 
-  a :NominativePlural ;
-  :orthography "cumhachdan" ;
-  :formOf :cumhachd.n .
-
+  :en "power" ;
+  :hasForm :cumhachd.n.nms , :cumhachd.n.gms , :cumhachdan.n.np .
 
 :cunnart.n 
-  a :MasculineNoun ;
-  :en "danger" .
-
-:cunnart.nns 
-  a :NominativeSingular ;
-  :orthography "cunnart" ;
-  :formOf :cunnart.n .
-  
-:cunnairt.ngs 
-  a :GenitiveSingular ;
-  :orthography "cunnairt" ;
-  :formOf :cunnart.n .
-
-:cunnartan.nnp 
-  a :NominativePlural ;
-  :orthography "cunnartan" ;
-  :formOf :cunnart.n .   
-
+  :en "danger" ;
+  :hasForm :cunnart.n.nms , :cunnairt.n.gms , :cunnartan.n.np .
 
 :cupa.n 
-  a :MasculineNoun ;
-  :en "cup" .
+  :en "cup" ;
+  :hasForm :cupa.n.nms , :cupa.n.gms , :cupannan.n.np , :cupaichean.n.np .
 
-:cupa.nns 
-  a :NominativeSingular ;
-  :orthography "cupa" ;
-  :formOf :cupa.n .
-  
-:cupa.ngs 
-  a :GenitiveSingular ;
-  :orthography "cupa" ;
-  :formOf :cupa.n .
 
-:cupannan.nnp 
-  a :NominativePlural ;
-  :orthography "cupannan" ;
-  :formOf :cupa.n .
-
-:cupaichean.nnp 
-  a :NominativePlural ;
-  :orthography "cupaichean" ;
-  :formOf :cupa.n .
- 
   
   
 
