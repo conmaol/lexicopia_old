@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="teirm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="teirm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>teirm</orth>
     </form>
     <trans>term</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>term - teirm(e) poss cterms - teirmean pl</note>
-  </ainmear_boireann>
+  </lexeme>

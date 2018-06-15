@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gobha_uisge" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gobha_uisge" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gobha uisge</orth>
     </form>
@@ -13,4 +13,4 @@
     <note>Plurals: gobhachan-uisge</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/gobhlachan-uisge.mp3</note>
     <note>Listed in CM.</note>
-  </ainmear_fireann>
+  </lexeme>

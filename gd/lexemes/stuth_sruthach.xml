@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="stuth_sruthach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="stuth_sruthach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>stuth sruthach</orth>
     </form>
     <trans>fluid</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>fluid - stuth sruthach scfluids - stuthan sruthach iom</note>
-  </ainmear_fireann>
+  </lexeme>

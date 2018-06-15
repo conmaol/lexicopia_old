@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="An_Wash" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="An_Wash" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>An Wash</orth>
     </form>
     <trans>The Wash</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>The Wash - a' Wash poss c</note>
-  </ainmear_fireann>
+  </lexeme>

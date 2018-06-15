@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="post-d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="post-d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>post-d</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: Computing.</note>
     <note>e-mail - puist-d poss ce-mails - puist-d pl</note>
     <note>mail - puist-d poss cmail - puist-d pl</note>
-  </ainmear_fireann>
+  </lexeme>

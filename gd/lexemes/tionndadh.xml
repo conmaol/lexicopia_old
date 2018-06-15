@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tionndadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tionndadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="tionndaidh"/>
   <form>
     <orth>tionndadh</orth>
@@ -17,4 +17,4 @@
   <trans>turning</trans>
   <note>Listed in An Seotal: General, as 'revolution'.</note>
   <note>Listed in An Seotal: Maths, as 'inversion', 'translation', 'turning'.</note>
-</ainmear_fireann>
+</lexeme>

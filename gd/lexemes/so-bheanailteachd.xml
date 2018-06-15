@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="so-bheanailteachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="so-bheanailteachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>so-bheanailteachd</orth>
     </form>
     <trans>palpability</trans>
     <note>Listed in Dwelly.</note>
-  </ainmear_boireann>
+  </lexeme>

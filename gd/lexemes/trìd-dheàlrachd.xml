@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="trìd-dheàlrachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="trìd-dheàlrachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>trìd-dheàlrachd</orth>
     </form>
     <trans>translucency</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>translucency - trìd-dheàlrachd sc</note>
-  </ainmear_boireann>
+  </lexeme>

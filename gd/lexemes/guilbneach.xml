@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="guilbneach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="guilbneach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>guilbneach</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Latin: (Numenius arquata)</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/corra liod.mp3, guilbneach.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

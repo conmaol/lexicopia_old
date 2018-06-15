@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="làmh-choille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="làmh-choille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>làmh-choille</orth>
     </form>
     <trans>cubit</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>cubit - làimhe-coille poss ccubits - làmhan-coille pl</note>
-  </ainmear_boireann>
+  </lexeme>

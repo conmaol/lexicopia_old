@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="riaghaltas_na_h-alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="riaghaltas_na_h-alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Riaghaltas na h-Alba</orth>
     </form>
     <trans index="no">the Scottish Government</trans>
     <trans index="only">Scottish Government</trans>
     <note>Listed in An Seotal: Modern Studies</note>
-  </ainmear_fireann>
+  </lexeme>

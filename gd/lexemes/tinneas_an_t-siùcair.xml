@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tinneas_an_t-siùcair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tinneas_an_t-siùcair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tinneas an t-siùcair</orth>
     </form>
     <trans>diabetes</trans>
     <note>Listed in An Seotal: General.</note>
     <note>diabetes - tinneas an t-siùcair poss c</note>
-  </ainmear_fireann>
+  </lexeme>

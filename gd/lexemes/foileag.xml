@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="foileag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="foileag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>foileag</orth>
     </form>
     <trans>pancake</trans>
     <note>Listed in An Seotal: Home economics.</note>
     <note>pancake - foileig poss cpancakes - foileagan pl</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="fiodh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fiodh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fiodh</orth>
     </form>
@@ -10,4 +10,4 @@
     <trans>wood</trans>
     <trans>lumber</trans>
     <note>Listed in An Seotal: Technology, as 'wood', 'lumber'.</note>
-  </ainmear_fireann>
+  </lexeme>

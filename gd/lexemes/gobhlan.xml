@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gobhlan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gobhlan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gobhlan</orth>
     </form>
     <trans>small fork</trans>
     <trans>swallow</trans>
     <trans>Hirundinidae spp.</trans>
-  </ainmear_fireann>
+  </lexeme>

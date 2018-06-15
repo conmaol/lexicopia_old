@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="liosta_sheoolaidhean_puist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="liosta_sheoolaidhean_puist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>liosta sheòlaidhean puist</orth>
     </form>
     <trans>list of shipping addresses</trans>
     <note>Listed in An Seotal: Computing.</note>
-  </ainmear_boireann>
+  </lexeme>

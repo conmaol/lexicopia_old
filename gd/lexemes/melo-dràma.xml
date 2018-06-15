@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="melo-dràma" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="melo-dràma" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>melo-dràma</orth>
     </form>
     <trans>melodrama</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>melodrama - melo-dràma poss cmelodramas - melo-dràmathan pl</note>
-  </ainmear_boireann>
+  </lexeme>

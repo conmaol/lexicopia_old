@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="smàrag_umha-dhathte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="smàrag_umha-dhathte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>smàrag umha-dhathte</orth>
     </form>
@@ -8,4 +8,4 @@
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Plural: smàragan umha-dhàthte</note>
     <note>Latin: Cordulia aenea</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bodach_oidhche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bodach_oidhche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bodach oidhche</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Info: Usually cailleach-oidhche as few people will tell the genders apart.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/bodach-oidhche.mp3</note>
-  </ainmear_fireann>
+  </lexeme>

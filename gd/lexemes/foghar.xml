@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="foghar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="foghar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>foghar</orth>
     </form>
@@ -8,4 +8,4 @@
     <note>Listed in An Seotal: General.</note>
     <note>autumn - foghair poss c autumns - foghair pl</note>
     <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
-  </ainmear_fireann>
+  </lexeme>

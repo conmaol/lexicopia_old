@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="buidheag_bhealaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="buidheag_bhealaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>buidheag bhealaidh</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Info: According to Dwelly's Gaelic dictionary 'A beautiful bird but of very evil repute in Highland superstitions.'</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/buidheag.mp3</note>
     <note>Listed in CM.</note>
-  </ainmear_boireann>
+  </lexeme>

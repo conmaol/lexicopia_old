@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="luachair_coille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="luachair_coille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>luachair coille</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Plurals: luachairean coille</note>
     <note>Latin: (Luzula sylvatica)</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/luachair coille.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

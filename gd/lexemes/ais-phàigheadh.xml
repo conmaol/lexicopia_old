@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ais-phàigheadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ais-phàigheadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ais-phàigheadh</orth>
     </form>
     <trans>repayment</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>repayment - ais-phàighidh poss crepayments - ais-phàighidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

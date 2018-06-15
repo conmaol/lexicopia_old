@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="rèiteachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="rèiteachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>rèiteachadh</orth>
     </form>
     <trans>adjustment</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>adjustment - rèiteachaidh poss cadjustments - rèiteachaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

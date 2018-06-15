@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bogsa_a-steach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bogsa_a-steach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bogsa a-steach</orth>
     </form>
     <trans>inbox</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>inbox - bogsa a-steach poss cinboxes - bogsaichean a-steach pl</note>
-  </ainmear_fireann>
+  </lexeme>

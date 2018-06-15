@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="buaidh_astair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="buaidh_astair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="astar"/>
   <form>
     <orth>buaidh astair</orth>
@@ -8,4 +8,4 @@
   <trans>perspective</trans>
   <note>Listed in An Seotal: Technology.</note>
   <note>perspective - buaidh-astair poss cperspectives - buaidh-astairean pl</note>
-</ainmear_boireann>
+</lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gaos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gaos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gaos</orth>
     </form>
     <trans>wisdom</trans>
     <trans>prudence</trans>
     <note>Also: gaois, gàis.</note>
-  </ainmear_fireann>
+  </lexeme>

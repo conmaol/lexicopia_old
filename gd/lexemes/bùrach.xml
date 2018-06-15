@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bùrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bùrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>bùrach</orth>
   </form>
@@ -10,5 +10,5 @@
   <trans>confusion</trans>
   <trans>disorder</trans>
   <trans>shambles</trans>
-</ainmear_fireann>
+</lexeme>
 

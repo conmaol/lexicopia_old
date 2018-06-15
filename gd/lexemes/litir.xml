@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="litir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="litir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>litir</orth>
     </form>
@@ -14,4 +14,4 @@
     <trans>epistle</trans>
     <note>Listed in An Seotal: Religious and Moral, as 'epistle'.</note>
     <note>Listed in An Seotal: Language, as 'letter'.</note>
-  </ainmear_boireann>
+  </lexeme>

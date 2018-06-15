@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="inneal-atharrachaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="inneal-atharrachaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>inneal-atharrachaidh</orth>
     </form>
     <trans>adjuster</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>adjuster - inneil-atharrachaidh scadjusters - innealan-atharrachaidh iom</note>
-  </ainmear_fireann>
+  </lexeme>

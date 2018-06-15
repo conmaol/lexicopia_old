@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gèam" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gèam" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gèam</orth>
     </form>
     <trans>game</trans>
     <note>Listed in An Seotal: Physical Education.</note>
     <note>game - geama poss cgames - geamannan plgames - geamachan plgames - geamaichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

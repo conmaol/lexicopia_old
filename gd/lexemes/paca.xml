@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="paca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="paca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>paca</orth>
     </form>
     <trans>pack</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>pack - paca poss cpacks - pacan plpacks - pacaichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

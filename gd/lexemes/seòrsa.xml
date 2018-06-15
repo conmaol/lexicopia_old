@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="seòrsa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="seòrsa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>seòrsa</orth>
     </form>
@@ -13,4 +13,4 @@
     <note>sort - seòrsa poss c sorts - seòrsaichean pl</note>
     <note>Listed in An Seotal: Computing, as 'class'.</note>
     <note>class - seòrsa poss cclasses - seòrsaichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="staid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="staid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>staid</orth>
     </form>
     <trans>state</trans>
     <note>Listed in An Seotal: General.</note>
     <note>state - staide poss cstates - staidean pl</note>
-  </ainmear_boireann>
+  </lexeme>

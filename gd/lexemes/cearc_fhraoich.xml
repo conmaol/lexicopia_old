@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cearc_fhraoich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cearc_fhraoich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cearc fhraoich</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Listed in An Seotal: Science, as 'grouse'.</note>
     <note>grouse - circe-fraoich sc grouse(s) - cearcan-fraoich iom</note>
-  </ainmear_boireann>
+  </lexeme>

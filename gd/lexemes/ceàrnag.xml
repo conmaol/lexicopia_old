@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ceàrnag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ceàrnag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ceàrnag</orth>
     </form>
     <trans>square</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>square - ceàrnaig(e) poss csquares - ceàrnagan pl</note>
-  </ainmear_boireann>
+  </lexeme>

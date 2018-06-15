@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="earbsa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="earbsa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>earbsa</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>faith</trans>
     <trans>trust</trans>
     <trans>reliance</trans>
-  </ainmear_boireann>
+  </lexeme>

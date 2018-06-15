@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="neo-chuidead" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="neo-chuidead" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>neo-chuidead</orth>
     </form>
     <trans>non-proportionality</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>non-proportionality - neo-chuideid poss c</note>
-  </ainmear_fireann>
+  </lexeme>

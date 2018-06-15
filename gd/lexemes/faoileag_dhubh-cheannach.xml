@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="faoileag_dhubh-cheannach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="faoileag_dhubh-cheannach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>faoileag dhubh-cheannach</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Plurals: faoileagan dubh-cheannach, cinn-dubhan</note>
     <note>Latin: Chroicocephalus ridibundus (Larus ridibundus)</note>
     <note>Listed in CM.</note>
-  </ainmear_boireann>
+  </lexeme>

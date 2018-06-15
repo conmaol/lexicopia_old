@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tarbh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tarbh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tarbh</orth>
     </form>
@@ -8,4 +8,4 @@
       <orth>tairbh</orth>
     </form>
     <trans>bull</trans>
-  </ainmear_fireann>
+  </lexeme>

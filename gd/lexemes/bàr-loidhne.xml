@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="bàr-loidhne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bàr-loidhne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bàr-loidhne</orth>
     </form>
     <trans>bar line</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>bar line - bàr-loidhne poss cbar lines - bàr-loidhnichean pl</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="spruis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="spruis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>spruis</orth>
   </form>
@@ -9,5 +9,5 @@
   </form>
   <trans>imp</trans>
   <note>Listed in Colin Mark’s dictionary.</note>
-</ainmear_boireann>
+</lexeme>
 

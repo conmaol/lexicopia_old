@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eucoireach-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eucoireach-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eucoireach</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans sources="cmark">malefactor</trans>
     <note>Listed in An Seotal: General, as ‘eucorach’.</note>
     <note>criminal - eucoraich poss ccriminals - eucoraich pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="iuchair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="iuchair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>iuchair</orth>
     </form>
     <trans>key</trans>
     <note>Listed in An Seotal: Music, Computing.</note>
     <note>key - iuchrach poss ckeys - iuchraichean pl</note>
-  </ainmear_boireann>
+  </lexeme>

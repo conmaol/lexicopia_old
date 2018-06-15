@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="croitear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="croitear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <part ref="croit"/>
     <part ref="_ar-suffix"/>
     <form>
       <orth>croitear</orth>
     </form>
     <trans>crofter</trans>
-  </ainmear_fireann>
+  </lexeme>

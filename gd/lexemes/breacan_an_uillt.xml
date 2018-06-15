@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="breacan_an_uillt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="breacan_an_uillt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>breacan an uillt</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>Motacilla cinerea</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>breacain an uillt</note>
-  </ainmear_fireann>
+  </lexeme>

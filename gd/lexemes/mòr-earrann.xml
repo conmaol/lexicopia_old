@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="mòr-earrann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="mòr-earrann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>mòr-earrann</orth>
     </form>
     <trans>passage</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>passage - mòr-earrainn poss cpassages - mòr-earrannan pl</note>
-  </ainmear_boireann>
+  </lexeme>

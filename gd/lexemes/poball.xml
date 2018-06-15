@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="poball" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="poball" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>poball</orth>
     </form>
@@ -13,4 +13,4 @@
     <trans>folk</trans>
     <trans>congregation</trans>
     <note>Listed in An Seotal: General, as 'public'.</note>
-  </ainmear_fireann>
+  </lexeme>

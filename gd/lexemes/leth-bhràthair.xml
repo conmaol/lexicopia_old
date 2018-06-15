@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leth-bhràthair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leth-bhràthair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="leth"/>
   <part ref="bràthair"/>
   <form>
@@ -8,4 +8,4 @@
   </form>
   <trans>stepbrother</trans>
   <note>Oxford Children's Scottish Gaelic Visual Dictionary, p. 11.</note>
-</ainmear_fireann>
+</lexeme>

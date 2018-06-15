@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="lutetium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lutetium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>lutetium</orth>
     </form>
     <trans>lutetium</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>lutetium - lutetium sc</note>
-  </ainmear_fireann>
+  </lexeme>

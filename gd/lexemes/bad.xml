@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bad</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>place</trans>
     <trans>cluster</trans>
     <trans>clump</trans>
-  </ainmear_fireann>
+  </lexeme>

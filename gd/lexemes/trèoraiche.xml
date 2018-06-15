@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="trèoraiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="trèoraiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>trèoraiche</orth>
     </form>
     <trans>mentor</trans>
     <note>Listed in An Seotal: General.</note>
     <note>mentor - treòraiche poss cmentors - treòraichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

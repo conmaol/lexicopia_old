@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="iall" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="iall" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>iall</orth>
     </form>
     <trans>strand</trans>
     <note>Listed in An Seotal: General.</note>
     <note>strand - èill poss cstrands - iallan pl</note>
-  </ainmear_boireann>
+  </lexeme>

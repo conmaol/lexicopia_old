@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="amaideachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="amaideachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>amaideachd</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Listed in CM.</note>
     <note>EDIL: ammaitecht n [ā, f.] (a) profession or activity of an ammait; witchcraft, evil influence, etc. (b) foolishness.</note>
     <note>Dwelly: amaideachd sf ind Foolishness, folly, silliness.</note>
-  </ainmear_boireann>
+  </lexeme>

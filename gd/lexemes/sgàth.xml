@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sgàth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sgàth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sgàth</orth>
     </form>
@@ -9,4 +9,4 @@
     <trans>dread</trans>
     <trans>apprehension</trans>
     <note>Listed in CM.</note>
-  </ainmear_fireann>
+  </lexeme>

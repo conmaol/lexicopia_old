@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="iubhar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="iubhar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>iubhar</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/iubhar.mp3</note>
     <note>Proto-Celtic: *eburos. Early Irish: ibar.</note>
-  </ainmear_fireann>
+  </lexeme>

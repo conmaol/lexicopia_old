@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="co-ghniiomhair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="co-ghniiomhair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>co-ghnìomhair</orth>
     </form>
     <trans>adverb</trans>
     <note>Listed in An Seotal: Language.</note>
-  </ainmear_fireann>
+  </lexeme>

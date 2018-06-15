@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ainmear_boireann xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="craobh" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="craobh" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>craobh</orth>
     </form>
@@ -29,4 +29,5 @@
     <note>Listed in An Seotal: Science, meaning 'tree'.</note>
     <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/craobh.mp3</note>
-  <note>xxx [markmcco@gmail.com: 1517016726].</note></ainmear_boireann>
+  <note>xxx [markmcco@gmail.com: 1517016726].</note>
+</lexeme>

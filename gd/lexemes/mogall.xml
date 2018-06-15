@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="mogall" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="mogall" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>mogall</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>interstice</trans>
     <trans>space in a net</trans>
     <note>Listed in CM.</note>
-  </ainmear_fireann>
+  </lexeme>

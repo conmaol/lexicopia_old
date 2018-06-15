@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="coimisean_na_croitearachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="coimisean_na_croitearachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Coimisean na Croitearachd</orth>
     </form>
     <trans>Crofting Commission</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Info: Formerly Crofters' Commission / Coimisean nan Croitearan</note>
-  </ainmear_fireann>
+  </lexeme>

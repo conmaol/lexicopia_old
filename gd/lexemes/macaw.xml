@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="macaw" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="macaw" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>macaw</orth>
     </form>
     <trans>macaw</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>macaw - macaw scmacaws - macawan iom</note>
-  </ainmear_fireann>
+  </lexeme>

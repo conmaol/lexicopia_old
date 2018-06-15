@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="St_Vincent_agus_Na_Grenadines" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="St_Vincent_agus_Na_Grenadines" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>St. Vincent agus Na Grenadines</orth>
     </form>
     <trans>St. Vincent and The Grenadines</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>St. Vincent and The Grenadines - St. Vincent agus Na Grenadines poss c</note>
-  </ainmear_fireann>
+  </lexeme>

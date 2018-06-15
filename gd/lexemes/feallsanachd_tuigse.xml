@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="feallsanachd_tuigse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="feallsanachd_tuigse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>feallsanachd tuigse</orth>
     </form>
     <trans>deduction</trans>
     <note>Listed in An Seotal: General.</note>
-  </ainmear_fireann>
+  </lexeme>

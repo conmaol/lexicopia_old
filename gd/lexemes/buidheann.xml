@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="buidheann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="buidheann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>buidheann</orth>
     </form>
@@ -28,4 +28,4 @@
     <trans>staff</trans>
     <trans>troop</trans>
     <note>Listed in An Seotal: General, as 'group', 'organisation'.</note>
-  </ainmear_boireann>
+  </lexeme>

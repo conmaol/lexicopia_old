@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="anagram" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="anagram" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>anagram</orth>
     </form>
     <trans>anagram</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>anagram - anagram poss canagrams - anagraman pl</note>
-  </ainmear_fireann>
+  </lexeme>

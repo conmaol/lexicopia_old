@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tràth-oideachaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tràth-oideachaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tràth-oideachaidh</orth>
     </form>
     <trans>tutorial</trans>
     <note>Listed in An Seotal: General.</note>
     <note>tutorial - tràth-oideachaidh poss ctutorials - tràthan-oideachaidh pl</note>
-  </ainmear_fireann>
+  </lexeme>

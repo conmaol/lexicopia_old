@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eun_grunnachaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eun_grunnachaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eun grunnachaidh</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>wader</trans>
     <trans>Charadriidae|Scolopacidae|Recurvirostridae|Haematopodidae|Ardeidae spp.</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-  </ainmear_fireann>
+  </lexeme>

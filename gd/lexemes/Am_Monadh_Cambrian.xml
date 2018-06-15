@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Am_Monadh_Cambrian" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Am_Monadh_Cambrian" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Am Monadh Cambrian</orth>
     </form>
     <trans>Cambrian Mountains</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Cambrian Mountains - A' Mhonaidh Chambrian poss c</note>
-  </ainmear_fireann>
+  </lexeme>

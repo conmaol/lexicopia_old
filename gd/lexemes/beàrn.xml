@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="beàrn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="beàrn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>beàrn</orth>
     </form>
     <trans>interval</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>interval - beàirn poss cintervals - beàrnan pl</note>
-  </ainmear_fireann>
+  </lexeme>

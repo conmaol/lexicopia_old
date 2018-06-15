@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="solas_an_latha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="solas_an_latha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>solas an latha</orth>
     </form>
     <trans>daylight</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>daylight - solas an latha sc</note>
-  </ainmear_fireann>
+  </lexeme>

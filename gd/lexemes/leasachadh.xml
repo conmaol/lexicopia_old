@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leasachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leasachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>leasachadh</orth>
     </form>
@@ -9,4 +9,4 @@
     <trans>developing</trans>
     <trans>development</trans>
     <note>Listed in An Seotal: Maths, as 'improvement'.</note>
-  </ainmear_fireann>
+  </lexeme>

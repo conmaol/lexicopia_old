@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cinnidheachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cinnidheachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cinnidheachd</orth>
     </form>
     <trans>ethnicity</trans>
     <note>Listed in An Seotal: General.</note>
     <note>ethnicity - cinnidheachd poss cethnicities - cinnidheachdan pl</note>
-  </ainmear_boireann>
+  </lexeme>

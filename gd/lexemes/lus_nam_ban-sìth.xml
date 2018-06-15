@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="lus_nam_ban-sìth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lus_nam_ban-sìth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>lus nam ban-sìth</orth>
     </form>
     <trans>foxglove</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>foxglove - lus nam ban-sìth scfoxgloves - lusan nam ban-sìth iom</note>
-  </ainmear_fireann>
+  </lexeme>

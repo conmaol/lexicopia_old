@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="dùblachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dùblachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dùblachadh</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: Maths.</note>
     <note>double - dùblachaidh poss cdoubles - dùblaichean pl</note>
     <note>doubling - dùblachaidh poss cdoublings - dùblaichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

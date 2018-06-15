@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gineòm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gineòm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gineòm</orth>
     </form>
     <trans>genome</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>genome - gineòm scgenomes - gineòman iom</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="malairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="malairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>malairt</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: General.</note>
     <note>commerce - malairt poss c</note>
     <note>trade - malairt poss c</note>
-  </ainmear_boireann>
+  </lexeme>

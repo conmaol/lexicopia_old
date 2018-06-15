@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="meall_an_sgòrnain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="meall_an_sgòrnain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>meall an sgòrnain</orth>
     </form>
     <trans>adam’s apple</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>adam’s apple - meall an sgòrnain scadam’s apples - meallan sgòrnain iom</note>
-  </ainmear_fireann>
+  </lexeme>

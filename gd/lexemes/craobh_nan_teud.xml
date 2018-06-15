@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="craobh_nan_teud" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="craobh_nan_teud" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="craobh"/>
   <part ref="teud"/>
   <form>
@@ -9,4 +9,4 @@
   <trans index="no">the harp</trans>
   <trans index="only">harp</trans>
   <note>Poetic usage, from Sorley MacLean.</note>
-</ainmear_boireann>
+</lexeme>

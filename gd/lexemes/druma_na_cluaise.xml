@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="druma_na_cluaise" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="druma_na_cluaise" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>druma na cluaise</orth>
     </form>
     <trans>eardrum</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>eardrum - druma na cluaise sceardrums - drumaichean nan cluasan iom</note>
-  </ainmear_fireann>
+  </lexeme>

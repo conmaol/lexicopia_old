@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sracadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sracadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="srac"/>
   <form>
     <orth>sracadh</orth>
@@ -13,4 +13,4 @@
   <trans>laceration</trans>
   <trans>rent</trans>
   <note>Listed in Colin Mark’s dictionary.</note>
-</ainmear_fireann>
+</lexeme>

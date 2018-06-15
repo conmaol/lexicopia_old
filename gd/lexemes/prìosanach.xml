@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="prìosanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="prìosanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>prìosanach</orth>
     </form>
     <trans>prisoner</trans>
     <note>Listed in An Seotal: General.</note>
     <note>prisoner - prìosanaich poss cprisoners - prìosanaich pl</note>
-  </ainmear_fireann>
+  </lexeme>

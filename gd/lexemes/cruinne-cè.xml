@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cruinne-cè" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cruinne-cè" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cruinne-cè</orth>
     </form>
     <trans>universe</trans>
     <note>Listed in An Seotal: Science.</note>
-  </ainmear_fireann>
+  </lexeme>

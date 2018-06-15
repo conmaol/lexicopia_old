@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="lìonra_sòisealta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lìonra_sòisealta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>lìonra sòisealta</orth>
     </form>
     <trans>social network</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>social network - lìonra shòisealta poss csocial networks - lìonraidhean sòisealta pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ubag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ubag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ubag</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>enchantment</trans>
     <trans>incantation</trans>
     <note>Listed in CM.</note>
-  </ainmear_boireann>
+  </lexeme>

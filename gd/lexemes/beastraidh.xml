@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="beastraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="beastraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>beastraidh</orth>
   </form>
@@ -13,4 +13,4 @@
   <sense ref="buildings church"/>
   <trans>vestry</trans>
   <note>Listed in the DASG Fieldwork Archive.</note>
-</ainmear_boireann>
+</lexeme>

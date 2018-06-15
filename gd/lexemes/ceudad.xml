@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ceudad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ceudad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ceudad</orth>
     </form>
     <trans>percentage</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>percentage - ceudaid poss cpercentages - ceudadan pl</note>
-  </ainmear_fireann>
+  </lexeme>

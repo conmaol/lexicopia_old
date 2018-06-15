@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gniiomhair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gniiomhair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gnìomhair</orth>
     </form>
     <trans>verb</trans>
     <note>Listed in An Seotal: Language.</note>
     <note>verb - gnìomhair poss cverbs - gnìomhairean pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tòimhseachan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tòimhseachan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tòimhseachan</orth>
     </form>
     <trans>puzzle</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>puzzle - tòimhseachain poss cpuzzles - tòimhseachain pl</note>
-  </ainmear_fireann>
+  </lexeme>

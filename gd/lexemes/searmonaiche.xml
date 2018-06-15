@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="searmonaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="searmonaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>searmonaiche</orth>
     </form>
     <trans>preacher</trans>
     <note>Listed in An Seotal: Religious and Moral.</note>
     <note>preacher - searmonaiche scpreachers - searmonaichean iom</note>
-  </ainmear_fireann>
+  </lexeme>

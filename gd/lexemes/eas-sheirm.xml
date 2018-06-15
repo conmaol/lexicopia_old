@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="eas-sheirm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eas-sheirm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eas-sheirm</orth>
     </form>
     <trans>discord</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>discord - eas-sheirme poss cdiscords - eas-sheirmean pl</note>
-  </ainmear_boireann>
+  </lexeme>

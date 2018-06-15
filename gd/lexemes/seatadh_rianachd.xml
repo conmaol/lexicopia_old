@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="seatadh_rianachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="seatadh_rianachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>seatadh rianachd</orth>
     </form>
     <trans>administrative setup</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>administrative setups - seataidhean rianachd pl</note>
-  </ainmear_fireann>
+  </lexeme>

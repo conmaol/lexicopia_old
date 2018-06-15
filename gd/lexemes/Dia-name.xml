@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Dia-name" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Dia-name" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <part ref="dia-noun"/>
     <form>
       <orth>Dia</orth>
@@ -9,4 +9,4 @@
       <orth>Dè</orth>
     </form>
     <trans>God</trans>
-  </ainmear_fireann>
+  </lexeme>

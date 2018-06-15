@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gineadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gineadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gineadh</orth>
     </form>
     <trans>reproduction</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>reproduction - ginidh screproductions - ginidhean iom</note>
-  </ainmear_fireann>
+  </lexeme>

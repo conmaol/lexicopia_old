@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="pàipear-clèithe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="pàipear-clèithe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>pàipear-clèithe</orth>
     </form>
     <trans>manuscript paper</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>manuscript paper - pàipeir-clèithe poss cmanuscript papers - pàipearan-clèithe pl</note>
-  </ainmear_fireann>
+  </lexeme>

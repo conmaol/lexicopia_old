@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tràth-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tràth-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tràth</orth>
     </form>
     <trans>period</trans>
     <note>Listed in An Seotal: General.</note>
     <note>period - tràtha poss cperiod - tràith poss cperiods - tràthan pl</note>
-  </ainmear_fireann>
+  </lexeme>

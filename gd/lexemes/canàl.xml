@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="canàl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="canàl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>canàl</orth>
     </form>
     <trans>canal</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>canal - canàil poss ccanals - canàlaichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

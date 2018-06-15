@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="artropod" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="artropod" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>artropod</orth>
     </form>
     <trans>arthropod</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>arthropod - artropoid scarthropods - artropodan iom</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="domhan-fhad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="domhan-fhad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>domhan-fhad</orth>
     </form>
     <trans>longitude</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>longitude - domhan-fhaid poss clongitudes - domhan-fhaid pl</note>
-  </ainmear_fireann>
+  </lexeme>

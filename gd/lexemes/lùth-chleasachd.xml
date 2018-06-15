@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="lùth-chleasachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lùth-chleasachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>lùth-chleasachd</orth>
     </form>
     <trans>athletics</trans>
     <note>Listed in An Seotal: Physical Education.</note>
     <note>athletics - lùth-chleasachd poss c</note>
-  </ainmear_boireann>
+  </lexeme>

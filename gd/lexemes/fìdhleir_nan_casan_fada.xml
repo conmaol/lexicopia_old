@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="fìdhleir_nan_casan_fada" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fìdhleir_nan_casan_fada" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fìdhleir nan casan fada</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Plurals: fidhlearan nan casan fada</note>
     <note>Latin: Tipulidae spp.</note>
-  </ainmear_fireann>
+  </lexeme>

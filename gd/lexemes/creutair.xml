@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="creutair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="creutair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>creutair</orth>
     </form>
     <trans>being</trans>
     <note>Listed in An Seotal: Religious and Moral.</note>
     <note>being - creutair scbeings - creutairean iom</note>
-  </ainmear_fireann>
+  </lexeme>

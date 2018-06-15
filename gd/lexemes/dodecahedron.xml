@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="dodecahedron" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dodecahedron" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dodecahedron</orth>
     </form>
     <trans>dodecahedron</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>dodecahedron - dodecahedron poss cdodecahedrons - dodecahedronan pl</note>
-  </ainmear_fireann>
+  </lexeme>

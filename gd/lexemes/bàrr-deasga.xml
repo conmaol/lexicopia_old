@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bàrr-deasga" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bàrr-deasga" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bàrr-deasga</orth>
     </form>
     <trans>desktop</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>desktop - bàrr-deasga poss c</note>
-  </ainmear_fireann>
+  </lexeme>

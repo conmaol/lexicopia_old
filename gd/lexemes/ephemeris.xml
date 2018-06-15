@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ephemeris" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ephemeris" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ephemeris</orth>
     </form>
     <trans>ephemeris</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>ephemeris - ephemeris scephemerides - ephemerides iom</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cotyledon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cotyledon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cotyledon</orth>
     </form>
     <trans>cotyledon</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>cotyledon - cotyledon sccotyledons - cotyledonan iom</note>
-  </ainmear_fireann>
+  </lexeme>

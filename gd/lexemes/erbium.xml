@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="erbium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="erbium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>erbium</orth>
     </form>
     <trans>erbium</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>erbium - erbium sc</note>
-  </ainmear_fireann>
+  </lexeme>

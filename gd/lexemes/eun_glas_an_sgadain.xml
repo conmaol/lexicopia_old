@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eun_glas_an_sgadain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eun_glas_an_sgadain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eun glas an sgadain</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>Gavia immer</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Plurals: eòin ghlas an sgadain</note>
-  </ainmear_fireann>
+  </lexeme>

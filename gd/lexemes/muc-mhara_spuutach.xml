@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="muc-mhara_spuutach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="muc-mhara_spuutach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>muc-mhara spùtach</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Plurals: mucan-mara spùtach</note>
     <note>Latin: (Physeter macrocephalus)</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/muc-mhara sputach.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

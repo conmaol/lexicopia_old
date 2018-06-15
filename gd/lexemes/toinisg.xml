@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="toinisg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="toinisg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>toinisg</orth>
     </form>
     <trans>intuitionism</trans>
     <note>Listed in An Seotal: General.</note>
     <note>intuitionism - toinisg(e) poss c</note>
-  </ainmear_boireann>
+  </lexeme>

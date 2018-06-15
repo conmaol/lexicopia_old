@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="feursann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="feursann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>feursann</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Plural: feursannan</note>
     <note>Latin: Hydrophoria lancifer</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/feursnanan.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bàr-innealan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bàr-innealan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bàr-innealan</orth>
     </form>
     <trans>toolbar</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>toolbar - bàir-innealan poss ctoolbars - bàir-innealan pl</note>
-  </ainmear_fireann>
+  </lexeme>

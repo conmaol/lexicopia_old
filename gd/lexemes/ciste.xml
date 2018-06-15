@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ciste" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ciste" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>ciste</orth>
   </form>
@@ -19,5 +19,5 @@
   <trans>trunk</trans>
   <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
   <note>Listed in Colin Mark’s Dictionary.</note>
-</ainmear_boireann>
+</lexeme>
 

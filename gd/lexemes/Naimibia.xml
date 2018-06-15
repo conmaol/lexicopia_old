@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Naimibia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Naimibia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Naimibia</orth>
     </form>
     <trans>Namibia</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Namibia - Naimibia poss c</note>
-  </ainmear_fireann>
+  </lexeme>

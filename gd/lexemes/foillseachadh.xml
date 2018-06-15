@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="foillseachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="foillseachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>foillseachadh</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>publishing - foillseachaidh poss c</note>
     <note>Listed in An Seotal: Computing, as 'publication'.</note>
     <note>publication - foillseachaidh poss cpublications - foillseachaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

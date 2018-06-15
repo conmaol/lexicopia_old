@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Beinn_na_Faoghla" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Beinn_na_Faoghla" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Beinn na Faoghla</orth>
     </form>
     <trans>Benbecula</trans>
     <note>Listed in An Seotal: Geography.</note>
-  </ainmear_boireann>
+  </lexeme>

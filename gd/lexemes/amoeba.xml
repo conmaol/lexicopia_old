@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="amoeba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="amoeba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>amoeba</orth>
     </form>
     <trans>amoeba</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>amoeba - amoeba scamoeba - amoebathan iom</note>
-  </ainmear_boireann>
+  </lexeme>

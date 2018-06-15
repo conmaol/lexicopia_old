@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Carghas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Carghas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Carghas</orth>
     </form>
     <trans>Lent</trans>
     <note>Derived from Latin 'quadragesima' (fortieth), starting on the 40th day before Easter.</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="aodann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="aodann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>aodann</orth>
     </form>
@@ -12,4 +12,4 @@
     </form>
     <trans>face</trans>
     <note>Listed in An Seotal: Maths, as 'face'.</note>
-  </ainmear_fireann>
+  </lexeme>

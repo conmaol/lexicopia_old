@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="comhachag_dhonn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="comhachag_dhonn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>comhachag dhonn</orth>
     </form>
     <trans>tawny owl</trans>
     <trans>Strix aluco</trans>
     <note>Listed in CM.</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="comann_riioghail_diion_nan_eun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="comann_riioghail_diion_nan_eun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Comann Rìoghail Dìon nan Eun</orth>
     </form>
     <trans>The Royal Society for the Protection of Birds (RSPB)</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-  </ainmear_fireann>
+  </lexeme>

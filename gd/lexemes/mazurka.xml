@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="mazurka" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="mazurka" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>mazurka</orth>
     </form>
     <trans>mazurka</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>mazurka - mazurka poss cmazurkas - mazurkathan pl</note>
-  </ainmear_boireann>
+  </lexeme>

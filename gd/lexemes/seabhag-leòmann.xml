@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="seabhag-leòmann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="seabhag-leòmann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="seabhag"/>
   <part ref="leòmann"/>
   <form>
@@ -11,4 +11,4 @@
   <note>Plural: seabhagan-leòmann</note>
   <note>Latin: Sphingidae (Family) spp.</note>
   <note>Audio: http://www.snh.org.uk/gaidhlig/audio/seabhag-leomann.mp3</note>
-</ainmear_boireann>
+</lexeme>

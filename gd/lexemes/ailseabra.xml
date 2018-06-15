@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ailseabra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ailseabra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ailseabra</orth>
     </form>
     <trans>algebra</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>algebra - ailseabra poss c</note>
-  </ainmear_fireann>
+  </lexeme>

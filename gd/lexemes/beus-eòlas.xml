@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="beus-eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="beus-eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>beus-eòlas</orth>
     </form>
     <trans>ethics</trans>
     <note>Listed in An Seotal: General.</note>
     <note>ethics - beus-eòlais poss cethics - beus-eòlasan pl</note>
-  </ainmear_fireann>
+  </lexeme>

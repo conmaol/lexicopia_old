@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="monadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="monadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>monadh</orth>
     </form>
@@ -12,4 +12,4 @@
     <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Plurals: monaidhean</note>
     <note>Info: The common Gaelic word monadh 'mountain, range' originated in Pictish. It has a cognate in the Welsh mynydd.</note>
-  </ainmear_fireann>
+  </lexeme>

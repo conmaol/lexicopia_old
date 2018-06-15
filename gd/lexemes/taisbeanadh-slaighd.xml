@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="taisbeanadh-slaighd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="taisbeanadh-slaighd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>taisbeanadh-slaighd</orth>
     </form>
     <trans>slideshow</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>slideshow - taisbeanaidh-shlaighd poss cslideshows - taisbeanaidhean-slaighd pl</note>
-  </ainmear_fireann>
+  </lexeme>

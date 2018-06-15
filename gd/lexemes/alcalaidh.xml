@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="alcalaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="alcalaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>alcalaidh</orth>
     </form>
     <trans>alkali</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>alkali - alcalaidh sc alkalis - alcalaidhean iom</note>
-  </ainmear_boireann>
+  </lexeme>

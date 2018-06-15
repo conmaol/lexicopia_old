@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="el_salbhador" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="el_salbhador" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>El Salbhador</orth>
     </form>
     <trans>El Salvador</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>El Salvador - El Shalbhador poss c</note>
-  </ainmear_fireann>
+  </lexeme>

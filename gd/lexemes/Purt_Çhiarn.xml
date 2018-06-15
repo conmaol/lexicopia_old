@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Purt_Çhiarn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Purt_Çhiarn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Purt Çhiarn</orth>
     </form>
     <trans>Port Erin</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Port Erin - Purt Çhiarn poss c</note>
-  </ainmear_fireann>
+  </lexeme>

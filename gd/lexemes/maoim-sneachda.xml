@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="maoim-sneachda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="maoim-sneachda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>maoim-sneachda</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Plural: maoimean-sneachda</note>
     <note>Info: Whereas English adopted a French word 'avalanche', there is a native Gaelic word for the same phenomenon - maoim-sneachda 'gushing forth of snow' - reflecting the fact that avalanches
       have always been part of life in the Scottish mountains.</note>
-  </ainmear_boireann>
+  </lexeme>

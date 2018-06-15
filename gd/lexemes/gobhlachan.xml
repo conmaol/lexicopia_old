@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gobhlachan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gobhlachan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gobhlachan</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>From Scottish Natural Heritage's Faclan Nàdair, as both 'great crested grebe' and 'turnstone'.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/gobhlachan.mp3</note>
     <note>Listed in CM.</note>
-  </ainmear_fireann>
+  </lexeme>

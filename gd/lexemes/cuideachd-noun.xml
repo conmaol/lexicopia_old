@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cuideachd-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cuideachd-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cuideachd</orth>
     </form>
@@ -10,4 +10,4 @@
     <trans>body</trans>
     <trans>society</trans>
     <trans>train</trans>
-  </ainmear_boireann>
+  </lexeme>

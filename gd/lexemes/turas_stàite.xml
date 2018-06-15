@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="turas_stàite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="turas_stàite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="turas"/>
   <part ref="stàit"/>
   <form>
@@ -8,4 +8,4 @@
   </form>
   <trans>state visit</trans>
   <note>From BBC RnaG news, 14/2/2017.</note>
-</ainmear_fireann>
+</lexeme>

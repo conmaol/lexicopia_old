@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="àrd-chlàr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="àrd-chlàr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>àrd-chlàr</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: Geography.</note>
     <note>plateau - àrd-chlàir poss cplateaux - àrd-chlàran pl</note>
     <note>tableland - àrd-chlàir poss ctablelands - àrd-chlàran pl</note>
-  </ainmear_fireann>
+  </lexeme>

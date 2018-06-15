@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="menu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="menu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>menu</orth>
     </form>
     <trans>menu</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>menu - menu poss cmenus - menuthan pl</note>
-  </ainmear_fireann>
+  </lexeme>

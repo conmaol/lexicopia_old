@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cantàta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cantàta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cantàta</orth>
     </form>
     <trans>cantata</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>cantata - cantàta poss c cantatas - cantàtathan pl</note>
-  </ainmear_boireann>
+  </lexeme>

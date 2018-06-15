@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="armailt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="armailt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>armailt</orth>
   </form>
@@ -10,4 +10,4 @@
   <trans>army</trans>
   <note>Listed in An Seotal: General.</note>
   <note>army - armailt(e) poss carmies - armailtean pl</note>
-</ainmear_fireann>
+</lexeme>

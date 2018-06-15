@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ainm-loga" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ainm-loga" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ainm-loga</orth>
     </form>
     <trans>login</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>login - ainm-loga poss clogins - ainmean-loga pl</note>
-  </ainmear_fireann>
+  </lexeme>

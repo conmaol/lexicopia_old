@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="bliadhna" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bliadhna" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bliadhna</orth>
     </form>
@@ -9,4 +9,4 @@
     </form>
     <trans>year</trans>
     <note>Listed in An Seotal: Science, meaning 'year'.</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="sgrath_mhoor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sgrath_mhoor" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sgrath mhòr</orth>
     </form>
     <trans>grey heron</trans>
     <trans>Ardea cinerea</trans>
     <note>DASG Fieldwork Archive: Tummel and Rannoch.</note>
-  </ainmear_boireann>
+  </lexeme>

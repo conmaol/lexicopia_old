@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="lach_a_bhlàir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lach_a_bhlàir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="lach"/>
   <part ref="blàr"/>
   <form>
@@ -14,4 +14,4 @@
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
   <note>Info: Lach a' bhlàir means 'the duck of the battle'.</note>
   <note>Audio: http://www.snh.org.uk/gaidhlig/audio/lach a bhlair.mp3</note>
-</ainmear_boireann>
+</lexeme>

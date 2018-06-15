@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Monadh_Rois" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Monadh_Rois" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Monadh Rois</orth>
     </form>
     <trans>Montrose</trans>
     <note>Listed in An Seotal: Geography.</note>
-  </ainmear_fireann>
+  </lexeme>

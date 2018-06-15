@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="milemeatair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="milemeatair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>milemeatair</orth>
     </form>
     <trans>millimetre</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>millimetre - milemeatair poss cmillimetres - milemeatairean pl</note>
-  </ainmear_fireann>
+  </lexeme>

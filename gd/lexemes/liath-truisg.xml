@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="liath-truisg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="liath-truisg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>liath-truisg</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>Turdus pilaris</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/liath-ruisg.mp3</note>
-  </ainmear_fireann>
+  </lexeme>

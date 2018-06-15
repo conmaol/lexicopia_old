@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="An_Dàmhair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="An_Dàmhair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>An Dàmhair</orth>
     </form>
@@ -8,4 +8,4 @@
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Info: D�mhair is also the Gaelic for the deer rutting season which occurs in October.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/An Damhair.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

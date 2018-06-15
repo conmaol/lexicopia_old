@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="feallsanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="feallsanach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>feallsanach</orth>
     </form>
     <trans>philosopher</trans>
     <note> Listed in SMO as a Gaelic equivalent of English 'philosopher'. Listed in Alexander MacBain's (1911) 'Etymological Dictionary' as deriving from Old Irish 'felsub', itself from Latin
       'philosophus'. Listed in Dwelly's dictionary as a pejorative term - 'sophist, quack, false philosopher'. </note>
-  </ainmear_fireann>
+  </lexeme>

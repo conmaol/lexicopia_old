@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="spacebar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="spacebar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>spacebar</orth>
     </form>
     <trans>spacebar</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>spacebar - spacebar poss c</note>
-  </ainmear_fireann>
+  </lexeme>

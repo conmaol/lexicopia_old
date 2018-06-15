@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="steàrnan_dubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="steàrnan_dubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="dubh"/>
   <form>
     <orth>steàrnan dubh</orth>
@@ -8,4 +8,4 @@
   <trans>black tern</trans>
   <trans>Chlidonias niger</trans>
   <note>Listed in CM.</note>
-</ainmear_fireann>
+</lexeme>

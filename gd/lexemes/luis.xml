@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="luis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="luis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>luis</orth>
     </form>
@@ -12,4 +12,4 @@
     <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Info: Luis is the letter 'l' in the Gaelic alphabet.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/luis.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

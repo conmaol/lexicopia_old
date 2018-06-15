@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="lobhageolair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lobhageolair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>lobhageolair</orth>
     </form>
     <trans>bacteriologist</trans>
     <note>Listed in Paterson's 'The Gaels have a word for it!'.</note>
-  </ainmear_fireann>
+  </lexeme>

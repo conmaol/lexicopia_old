@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="faisg-dhùblachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="faisg-dhùblachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>faisg-dhùblachadh</orth>
     </form>
     <trans>near-double</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>near-double - faisg-dhùblachaidh poss cnear-doubles - faisg-dhùblaichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

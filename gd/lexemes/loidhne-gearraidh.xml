@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="loidhne-gearraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="loidhne-gearraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>loidhne-gearraidh</orth>
     </form>
     <trans>cutting plane</trans>
     <note>Listed in An Seotal: Technology.</note>
     <note>cutting plane - loidhne-gearraidh poss ccutting planes - loidhnichean-gearraidh pl</note>
-  </ainmear_boireann>
+  </lexeme>

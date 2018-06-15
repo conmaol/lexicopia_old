@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="adhaltan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="adhaltan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <part ref="adhall"/>
     <form>
       <orth>adhaltan</orth>
     </form>
     <trans>simpleton</trans>
     <note>Dwelly: adhaltan -ain, sm Simpleton, dull stupid fellow.</note>
-  </ainmear_fireann>
+  </lexeme>

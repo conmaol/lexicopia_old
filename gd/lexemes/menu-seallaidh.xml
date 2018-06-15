@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="menu-seallaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="menu-seallaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>menu-seallaidh</orth>
     </form>
     <trans>view menu</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>view menu - menu-sheallaidh poss cview menus - menuthan-seallaidh pl</note>
-  </ainmear_fireann>
+  </lexeme>

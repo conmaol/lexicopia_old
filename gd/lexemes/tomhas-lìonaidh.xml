@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tomhas-lìonaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tomhas-lìonaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tomhas-lìonaidh</orth>
     </form>
     <trans>volume</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>volume - tomhais-lìonaidh poss cvolumes - tomhasan-lìonaidh pl</note>
-  </ainmear_fireann>
+  </lexeme>

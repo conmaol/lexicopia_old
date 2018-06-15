@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="co-rèiteachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="co-rèiteachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>co-rèiteachd</orth>
     </form>
     <trans>equal temperament</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>equal temperament - co-rèiteachd poss cequal temperaments - co-rèiteachdan pl</note>
-  </ainmear_boireann>
+  </lexeme>

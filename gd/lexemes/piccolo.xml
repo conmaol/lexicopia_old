@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="piccolo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="piccolo" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>piccolo</orth>
     </form>
     <trans>piccolo</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>piccolo - piccolo poss cpiccolos - piccolothan pl</note>
-  </ainmear_fireann>
+  </lexeme>

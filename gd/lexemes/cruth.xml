@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cruth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cruth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cruth</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>shape - 3D - crutha poss cshapes - 3D - cruthan pl</note>
     <note>Listed in An Seotal: Music, as 'form'.</note>
     <note>form - cruth(a) poss cforms - cruthan pl</note>
-  </ainmear_fireann>
+  </lexeme>

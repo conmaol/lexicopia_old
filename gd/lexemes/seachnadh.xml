@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="seachnadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="seachnadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="seachain"/>
   <form>
     <orth>seachnadh</orth>
@@ -8,4 +8,4 @@
   <trans>avoidance</trans>
   <trans>evasion</trans>
   <note>Listed in Colin Mark’s dictionary.</note>
-</ainmear_fireann>
+</lexeme>

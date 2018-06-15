@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Libiria" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Libiria" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Libiria</orth>
     </form>
     <trans>Liberia</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Liberia - Libiria poss c</note>
-  </ainmear_fireann>
+  </lexeme>

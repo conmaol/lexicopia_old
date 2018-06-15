@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="bloigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bloigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bloigh</orth>
     </form>
     <trans>fraction</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>fraction - bloighe poss cfractions - bloighean pl</note>
-  </ainmear_boireann>
+  </lexeme>

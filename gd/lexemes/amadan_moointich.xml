@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="amadan_moointich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="amadan_moointich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>amadan mòintich</orth>
     </form>
@@ -12,4 +12,4 @@
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/amadan-mointich.mp3</note>
     <note>Listed in CM.</note>
     <note>Dwelly: amadan-mòintich ¶ sm Dotterel (charadrius morinellus). 2 Wigeon (anas penelope). 3(AF) Snipe (gallinago gallinago). 4(AF) Ringed plover (charadrius hiaticula).</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Urànas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Urànas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Urànas</orth>
     </form>
     <trans>Uranus</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>Uranus - Urànais sc</note>
-  </ainmear_fireann>
+  </lexeme>

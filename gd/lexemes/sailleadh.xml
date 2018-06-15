@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sailleadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sailleadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sailleadh</orth>
     </form>
     <trans>salting</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>salting - saillidh sc</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ceàrnaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ceàrnaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ceàrnaidh</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>area - ceàrnaidh poss careas - ceàrnaidhean pl</note>
     <note>Listed in An Seotal: Computing, as 'locale'.</note>
     <note>locale - ceàrnaidhean poss clocales - ceàrnaidh pl</note>
-  </ainmear_boireann>
+  </lexeme>

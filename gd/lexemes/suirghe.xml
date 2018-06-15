@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="suirghe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="suirghe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>suirghe</orth>
     </form>
     <trans>dating</trans>
     <note>Listed in An Seotal: Personal and Social Education.</note>
     <note>dating - suirghe poss c</note>
-  </ainmear_boireann>
+  </lexeme>

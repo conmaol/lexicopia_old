@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="matamataig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="matamataig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>matamataig</orth>
     </form>
     <trans>mathematics</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>mathematics - matamataig poss c</note>
-  </ainmear_fireann>
+  </lexeme>

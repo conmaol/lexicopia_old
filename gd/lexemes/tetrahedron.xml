@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tetrahedron" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tetrahedron" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tetrahedron</orth>
     </form>
     <trans>tetrahedron</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>tetrahedron - tetrahedron poss ctetrahedrons - tetrahedronan pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Bridgford_an_Iar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Bridgford_an_Iar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Bridgford an Iar</orth>
     </form>
     <trans>West Bridgford</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>West Bridgford - Bhridgford an Iar poss c</note>
-  </ainmear_fireann>
+  </lexeme>

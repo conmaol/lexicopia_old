@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leathar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leathar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>leathar</orth>
     </form>
@@ -13,4 +13,4 @@
     <note>leathar-fèidh = buckskin, a' cartadh leathrach = tanning leather</note>
     <note>Listed in An Seotal: General.</note>
     <note>leather - leathair poss c</note>
-  </ainmear_fireann>
+  </lexeme>

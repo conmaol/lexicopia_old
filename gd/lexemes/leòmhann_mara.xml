@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leòmhann_mara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leòmhann_mara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>leòmhann mara</orth>
   </form>
@@ -9,4 +9,4 @@
   </form>
   <trans>sea lion</trans>
   <note>Listed in An Seotal: Science.</note>
-</ainmear_fireann>
+</lexeme>

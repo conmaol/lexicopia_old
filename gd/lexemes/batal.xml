@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="batal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="batal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>batal </orth>
     </form>
     <trans>battle</trans>
     <note>Listed in An Seotal: General.</note>
     <note>battle - batail poss cbattles - batail pl</note>
-  </ainmear_fireann>
+  </lexeme>

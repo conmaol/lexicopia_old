@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="deigh_phacte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="deigh_phacte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="deigh"/>
   <form>
     <orth>deigh phacte</orth>
@@ -10,4 +10,4 @@
   </form>
   <trans>pack ice</trans>
   <note>Listed in An Seotal: Geography.</note>
-</ainmear_boireann>
+</lexeme>

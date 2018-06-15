@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="còn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="còn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>còn</orth>
     </form>
     <trans>cone</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>cone - còn poss c cones - cònaichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

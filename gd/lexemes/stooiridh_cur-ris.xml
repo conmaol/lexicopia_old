@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="stooiridh_cur-ris" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="stooiridh_cur-ris" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>stòiridh cur-ris</orth>
     </form>
     <trans>addition story</trans>
     <note>Listed in An Seotal: Maths.</note>
-  </ainmear_boireann>
+  </lexeme>

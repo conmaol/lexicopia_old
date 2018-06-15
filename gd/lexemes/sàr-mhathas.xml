@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sàr-mhathas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sàr-mhathas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sàr-mhathas</orth>
     </form>
     <trans>excellence</trans>
     <note>Listed in An Seotal: General.</note>
     <note>excellence - sàr-mhathais poss c</note>
-  </ainmear_fireann>
+  </lexeme>

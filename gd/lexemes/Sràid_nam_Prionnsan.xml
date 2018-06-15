@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Sràid_nam_Prionnsan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Sràid_nam_Prionnsan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Sràid nam Prionnsan</orth>
     </form>
     <trans>Princes' Street</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Princes' Street - Sràid nam Prionnsan poss c</note>
-  </ainmear_boireann>
+  </lexeme>

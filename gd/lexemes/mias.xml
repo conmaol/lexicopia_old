@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="mias" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="mias" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>mias</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: Technology.</note>
     <note>basin - mias poss cbasin - mèise poss cbasins - miasan pl</note>
     <note>wash basin - mias poss cwash basin - mèise poss cwash basins - miasan pl</note>
-  </ainmear_boireann>
+  </lexeme>

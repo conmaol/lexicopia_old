@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="muile-mhàg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="muile-mhàg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>muile-mhàg</orth>
     </form>
@@ -8,4 +8,4 @@
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Plural: muileacha-màg</note>
     <note>Latin: Bufo bufo</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bith-eòlaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bith-eòlaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bith-eòlaiche</orth>
     </form>
     <trans>biologist</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>biologist - bith-eòlaiche scbiologists - bith-eòlaichean iom</note>
-  </ainmear_fireann>
+  </lexeme>

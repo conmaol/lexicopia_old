@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ughlann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ughlann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ughlann</orth>
     </form>
     <trans>ovary</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>Listed in CM as 'ugh-lann'.</note>
-  </ainmear_boireann>
+  </lexeme>

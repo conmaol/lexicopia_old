@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sgeama_àiteachais-àrainneachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sgeama_àiteachais-àrainneachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="àiteachas"/>
   <part ref="àrainneachd"/>
   <form>
@@ -11,4 +11,4 @@
   </form>
   <trans>agri-environment scheme</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-</ainmear_fireann>
+</lexeme>

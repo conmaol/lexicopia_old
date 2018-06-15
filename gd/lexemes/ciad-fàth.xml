@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ciad-fàth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ciad-fàth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ciad-fàth</orth>
     </form>
     <trans>sense</trans>
     <note>Listed in An Seotal: General.</note>
     <note>sense - ciad-fàth poss csenses - ciad-fàthan pl</note>
-  </ainmear_boireann>
+  </lexeme>

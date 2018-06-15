@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="meur-chlàr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="meur-chlàr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>meur-chlàr</orth>
     </form>
     <trans>keyboard</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>keyboard - meur-chlàir poss ckeyboards - meòir-chlàr pl</note>
-  </ainmear_fireann>
+  </lexeme>

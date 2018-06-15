@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="iùl-lann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="iùl-lann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>iùl-lann</orth>
     </form>
     <trans>directory</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>directory - iùil-lainn poss cdirectories - iùl-lannan pl</note>
-  </ainmear_fireann>
+  </lexeme>

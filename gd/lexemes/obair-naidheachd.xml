@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="obair-naidheachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="obair-naidheachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>obair-naidheachd</orth>
     </form>
     <trans>journalism</trans>
     <note>Listed in An Seotal: General.</note>
     <note>journalism - obair-naidheachd poss c</note>
-  </ainmear_boireann>
+  </lexeme>

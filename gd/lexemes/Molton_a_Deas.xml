@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Molton_a_Deas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Molton_a_Deas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Molton a Deas</orth>
     </form>
     <trans>South Molton</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>South Molton - Mholton a Deas poss c</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="lorg_slighe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lorg_slighe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>lorg slighe</orth>
     </form>
     <trans>breadcrumb</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>breadcrumb - lorg slighe poss cbreadcrumbs - lorgan slighe pl</note>
-  </ainmear_boireann>
+  </lexeme>

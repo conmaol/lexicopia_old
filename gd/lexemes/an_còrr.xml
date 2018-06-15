@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="an_còrr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="an_còrr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>an còrr</orth>
     </form>
     <trans>remainder</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>remainder - corra poss cremainders - corran pl</note>
-  </ainmear_fireann>
+  </lexeme>

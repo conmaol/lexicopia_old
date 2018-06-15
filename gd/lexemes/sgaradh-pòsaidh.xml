@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sgaradh-pòsaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sgaradh-pòsaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sgaradh-pòsaidh</orth>
     </form>
     <trans>divorce</trans>
     <note>Listed in An Seotal: Personal and Social Education.</note>
     <note>divorce - sgaraidh-pòsaidh poss cdivorces - sgaraidhean-pòsaidh pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="graf_bhogsaichean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="graf_bhogsaichean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="graf"/>
   <part ref="bogsa"/>
   <form>
@@ -13,4 +13,4 @@
   <trans>box plot</trans>
   <trans>box plot graph</trans>
   <note>Listed in An Seotal: Maths.</note>
-</ainmear_fireann>
+</lexeme>

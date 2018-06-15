@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="lùghdachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lùghdachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>lùghdachadh</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>decrease - lùghdachaidh poss cdecreases - lùghdachaidhean pl</note>
     <note>discount - lùghdachaidh poss cdiscounts - lùghdachaidhean pl</note>
     <note>reduction - lùghdachaidh poss creductions - lùghdachaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

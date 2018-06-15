@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Rubha_na_h-Aoidhe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Rubha_na_h-Aoidhe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Rubha na h-Aoidhe</orth>
     </form>
     <trans>Eye Peninsula</trans>
     <note>Listed in An Seotal: Geography.</note>
-  </ainmear_fireann>
+  </lexeme>

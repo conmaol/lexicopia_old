@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="àireamhair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="àireamhair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>àireamhair</orth>
     </form>
     <trans>calculator</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>calculator - àireamhair poss ccalculators - àireamhairean pl</note>
-  </ainmear_fireann>
+  </lexeme>

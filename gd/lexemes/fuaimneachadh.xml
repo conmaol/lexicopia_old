@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="fuaimneachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fuaimneachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fuaimneachadh</orth>
     </form>
     <trans>pronounciation</trans>
     <note>Listed in An Seotal: Language.</note>
     <note>pronounciation - fuaimneachaidh poss cpronounciations - fuaimneachaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

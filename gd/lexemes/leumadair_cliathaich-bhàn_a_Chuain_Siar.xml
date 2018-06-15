@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leumadair_cliathaich-bhàn_a_Chuain_Siar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leumadair_cliathaich-bhàn_a_Chuain_Siar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>leumadair cliathaich-bhàn a' Chuain Siar</orth>
     </form>
@@ -8,4 +8,4 @@
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Plurals: leumadairean cliathaich-bhàn a' Chuain Siar</note>
     <note>Latin: Lagenorhynchus acutus</note>
-  </ainmear_fireann>
+  </lexeme>

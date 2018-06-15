@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="clòraid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="clòraid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>clòraid</orth>
     </form>
     <trans>chloride</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>chloride - clòraid scchlorides - clòraidean iom</note>
-  </ainmear_fireann>
+  </lexeme>

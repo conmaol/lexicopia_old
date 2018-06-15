@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="nota" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="nota" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>nota</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>pound (£) - nota poss cpounds (£) - notaichean pl</note>
     <note>Listed in An Seotal: Music, as 'note'.</note>
     <note>note - nota poss cnotes - notaichean pl</note>
-  </ainmear_boireann>
+  </lexeme>

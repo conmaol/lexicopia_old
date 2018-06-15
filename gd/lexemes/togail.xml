@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="togail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="togail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>togail</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>building</trans>
     <note>Listed in An Seotal: General, as 'building'.</note>
     <note>building - togail poss c</note>
-  </ainmear_boireann>
+  </lexeme>

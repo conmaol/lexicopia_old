@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="slat-tomhais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="slat-tomhais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>slat-tomhais</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>criterion - slait-thomhais poss ccriteria - slatan-tomhais pl</note>
     <note>Listed in An Seotal: Maths, as 'standard'.</note>
     <note>standard - slait-thomhais poss cstandards - slatan-tomhais pl</note>
-  </ainmear_boireann>
+  </lexeme>

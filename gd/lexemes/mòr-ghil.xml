@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="mòr-ghil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="mòr-ghil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>mòr-ghil</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>ravine</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Plurals: mòr-ghilean</note>
-  </ainmear_boireann>
+  </lexeme>

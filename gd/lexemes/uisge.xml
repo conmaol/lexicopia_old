@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="uisge" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="uisge" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>uisge</orth>
     </form>
@@ -15,4 +15,4 @@
     <trans>river</trans>
     <note>MM: In the Co-op supermarket in Brodick (July 2015), I found a bilingual product section sign above an aisle 'water / uisge' denoting bottled drinking water. </note>
     <note>Listed in An Seotal: Geography, as 'river', 'water'.</note>
-  </ainmear_fireann>
+  </lexeme>

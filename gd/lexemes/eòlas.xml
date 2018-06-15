@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eòlas</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: General.</note>
     <note>experience - eòlais poss cexperiences - eòlasan pl</note>
     <note>knowledge - eòlais poss cknowledge - eòlasan pl</note>
-  </ainmear_fireann>
+  </lexeme>

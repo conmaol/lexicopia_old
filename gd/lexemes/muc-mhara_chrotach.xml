@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="muc-mhara_chrotach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="muc-mhara_chrotach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>muc-mhara chrotach</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Synonyms: muc-chrotach</note>
     <note>Plurals: mucan-mara crotach</note>
     <note>Latin: (Megaptera novaeangliae)</note>
-  </ainmear_boireann>
+  </lexeme>

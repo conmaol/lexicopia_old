@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="dealan-dè_roinne_stiallach_corcarach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dealan-dè_roinne_stiallach_corcarach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dealan-dè roinne stiallach corcarach</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Plural: dealanan-dè roinne stiallach corcarach</note>
     <note>Latin: Neozephyrus quercus</note>
     <note>Info: Plural of dealan-dè can be dealanan-dè or dealain-dè.</note>
-  </ainmear_fireann>
+  </lexeme>

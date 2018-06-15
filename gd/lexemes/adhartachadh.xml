@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="adhartachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="adhartachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="adhartaich"/>
   <form>
     <orth>adhartachadh</orth>
@@ -16,4 +16,4 @@
   <trans>development</trans>
   <note>Listed in Colin Mark’s dictionary.</note>
   <note>Listed in An Seotal: Music.</note>
-</ainmear_fireann>
+</lexeme>

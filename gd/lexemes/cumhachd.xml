@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cumhachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cumhachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cumhachd</orth>
     </form>
     <trans>power</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>power - cumhachd poss cpowers - cumhachdan pl</note>
-  </ainmear_fireann>
+  </lexeme>

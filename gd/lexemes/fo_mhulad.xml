@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="fo_mhulad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fo_mhulad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fo mhulad</orth>
     </form>
     <trans>the blues</trans>
     <note>Listed in An Seotal: Personal and Social Education.</note>
-  </ainmear_fireann>
+  </lexeme>

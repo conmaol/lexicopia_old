@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="peisteal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="peisteal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>peisteal</orth>
     </form>
     <trans>pestle</trans>
     <note>Listed in An Seotal: Home economics.</note>
     <note>pestle - peisteil poss cpestles - peistealan pl</note>
-  </ainmear_fireann>
+  </lexeme>

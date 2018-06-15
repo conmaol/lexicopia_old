@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="dealbh_peant" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dealbh_peant" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dealbh peant</orth>
     </form>
     <trans>painting</trans>
     <note>Listed in An Seotal: Art.</note>
     <note>painting - dealbh-peant poss cpainting - deilbh-peant poss cpaintings - dealbhan-peant pl</note>
-  </ainmear_fireann>
+  </lexeme>

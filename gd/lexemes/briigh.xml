@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="briigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="briigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>brìgh</orth>
     </form>
@@ -23,4 +23,4 @@
     <trans>tenor</trans>
     <trans>significance</trans>
     <note>Listed in CM.</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="dreag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dreag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dreag</orth>
     </form>
     <trans>meteor</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>meteor - dreige scmeteors - dreagan iom</note>
-  </ainmear_boireann>
+  </lexeme>

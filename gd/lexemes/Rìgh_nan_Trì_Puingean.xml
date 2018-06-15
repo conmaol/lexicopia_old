@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Rìgh_nan_Trì_Puingean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Rìgh_nan_Trì_Puingean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Rìgh nan Trì Puingean</orth>
     </form>
     <trans>Three point King</trans>
     <note>Listed in An Seotal: Physical Education.</note>
     <note>Three point King - Rìgh nan Trì Puingean poss c</note>
-  </ainmear_fireann>
+  </lexeme>

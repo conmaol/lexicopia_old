@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tarbh_nathrach_uachdarair_dìreach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tarbh_nathrach_uachdarair_dìreach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="tarbh_nathrach"/>
   <part ref="uachdar"/>
   <part ref="dìreach"/>
@@ -13,4 +13,4 @@
   <trans>keeled skimmer dragonfly</trans>
   <trans>Orthetrum coerulescens</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-</ainmear_fireann>
+</lexeme>

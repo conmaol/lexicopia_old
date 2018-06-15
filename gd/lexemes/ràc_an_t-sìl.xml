@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ràc_an_t-sìl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ràc_an_t-sìl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>ràc an t-sìl</orth>
   </form>
@@ -8,4 +8,4 @@
   <trans>Crex crex</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
   <note>Plurals: ràcain an t-sìl</note>
-</ainmear_fireann>
+</lexeme>

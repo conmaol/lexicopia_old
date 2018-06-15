@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="alcaileachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="alcaileachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>alcaileachd</orth>
     </form>
     <trans>alkalinity</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>alkalinity - alcaileachd scalkalinities - alcaileachdan iom</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="mèinnir-eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="mèinnir-eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>mèinnir-eòlas</orth>
     </form>
     <trans>mineralogy</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>mineralogy - mèinnir-eòlais sc</note>
-  </ainmear_fireann>
+  </lexeme>

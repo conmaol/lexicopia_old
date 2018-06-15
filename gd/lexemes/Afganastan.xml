@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Afganastan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Afganastan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Afganastan</orth>
     </form>
     <trans>Afghanistan</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Afghanistan - Afganastain poss c</note>
-  </ainmear_fireann>
+  </lexeme>

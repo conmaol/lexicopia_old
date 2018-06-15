@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="fungas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fungas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fungas</orth>
     </form>
     <trans>fungus</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>fungus - fungas scfungi - fungasan iom</note>
-  </ainmear_fireann>
+  </lexeme>

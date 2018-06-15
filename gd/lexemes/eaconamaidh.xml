@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eaconamaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eaconamaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eaconamaidh</orth>
     </form>
     <trans>economy</trans>
     <note>Listed in An Seotal: General.</note>
     <note>economy - eaconamaidh poss ceconomies - eaconamaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

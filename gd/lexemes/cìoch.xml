@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cìoch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cìoch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>cìoch</orth>
   </form>
@@ -13,4 +13,4 @@
   <trans>breast</trans>
   <trans>boob</trans>
   <note>Listed in An Seotal: Personal and Social Education.</note>
-</ainmear_boireann>
+</lexeme>

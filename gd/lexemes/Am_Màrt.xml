@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Am_Màrt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Am_Màrt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Am Màrt</orth>
     </form>
     <trans>March</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-  </ainmear_fireann>
+  </lexeme>

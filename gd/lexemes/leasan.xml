@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leasan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leasan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>leasan</orth>
     </form>
@@ -15,4 +15,4 @@
     <note>Listed in Colin Mark's (2004) Gaelic-English dictionary.</note>
     <note>Listed in Boyd Robertson &amp; Ian MacDonald's (2004) 'Teach Yourself' dictionary.</note>
     <note>Listed in An Seotal: General, as 'tutorial'.</note>
-  </ainmear_fireann>
+  </lexeme>

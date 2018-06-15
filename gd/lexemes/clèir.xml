@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="clèir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="clèir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>clèir</orth>
   </form>
@@ -15,4 +15,4 @@
   <trans>presbytery</trans>
   <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
   <note>Listed in Colin Mark’s Dictionary.</note>
-</ainmear_boireann>
+</lexeme>

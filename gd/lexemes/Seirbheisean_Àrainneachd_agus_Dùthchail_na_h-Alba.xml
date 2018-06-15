@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Seirbheisean_Àrainneachd_agus_Dùthchail_na_h-Alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Seirbheisean_Àrainneachd_agus_Dùthchail_na_h-Alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="seirbheis"/>
   <part ref="àrainneachd"/>
   <part ref="dùthchail"/>
@@ -10,4 +10,4 @@
   <trans>Scottish Environmental and Rural Services</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
   <note>Audio: http://www.snh.org.uk/gaidhlig/audio/SEARS.mp3</note>
-</ainmear_boireann>
+</lexeme>

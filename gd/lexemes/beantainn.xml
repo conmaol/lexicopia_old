@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="beantainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="beantainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>beantainn</orth>
     </form>
     <trans>touching</trans>
     <note>Listed in CM.</note>
     <note>Listed in TYGD.</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Loch_Mòr_an_t-Salainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Loch_Mòr_an_t-Salainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Loch Mòr an t-Salainn</orth>
     </form>
     <trans>Great Salt Lake</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Great Salt Lake - Loch Mòr an t-Salainn poss c</note>
-  </ainmear_fireann>
+  </lexeme>

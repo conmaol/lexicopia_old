@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="chile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="chile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Chile</orth>
     </form>
     <trans>Chile</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Chile - Chile poss c</note>
-  </ainmear_fireann>
+  </lexeme>

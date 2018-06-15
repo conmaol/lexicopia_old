@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="unnsa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="unnsa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>unnsa</orth>
     </form>
     <trans>ounce</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>ounce - unnsa poss counces - unnsachan plounces - unnsaichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

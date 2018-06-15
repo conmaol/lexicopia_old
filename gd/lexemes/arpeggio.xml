@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="arpeggio" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="arpeggio" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>arpeggio</orth>
     </form>
     <trans>arpeggio</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>arpeggio - arpeggio poss carpeggios - arpeggiothan pl</note>
-  </ainmear_fireann>
+  </lexeme>

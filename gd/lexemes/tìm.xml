@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="tìm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tìm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tìm</orth>
     </form>
     <trans>time</trans>
     <note>Listed in An Seotal: General, Music.</note>
     <note>time - tìme poss ctimes - tìmean pl</note>
-  </ainmear_boireann>
+  </lexeme>

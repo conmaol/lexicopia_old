@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="imrich_eadar-nàiseanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="imrich_eadar-nàiseanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="imrich-noun"/>
   <part ref="eadar-nàiseanta"/>
   <form>
@@ -8,4 +8,4 @@
   </form>
   <trans>international migration</trans>
   <note>Listed in An Seotal: Modern Studies</note>
-</ainmear_boireann>
+</lexeme>

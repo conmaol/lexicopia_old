@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Pòlainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Pòlainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>Pòlainn</orth>
   </form>
   <trans>Poland</trans>
   <note>Listed in An Seotal: Geography.</note>
   <note>Used with definite article: a’ Phòlainn, na Pòlainn.</note>
-</ainmear_boireann>
+</lexeme>

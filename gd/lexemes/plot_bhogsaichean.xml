@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="plot_bhogsaichean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="plot_bhogsaichean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="bogsa"/>
   <form>
     <orth>plot bhogsaichean</orth>
   </form>
   <trans>box plot</trans>
   <note>From BBC website (written with hyphen): http://www.bbc.co.uk/education/guides/z8b92nb/revision</note>
-</ainmear_fireann>
+</lexeme>
 

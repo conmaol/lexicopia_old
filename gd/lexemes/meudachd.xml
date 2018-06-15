@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="meudachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="meudachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>meudachd</orth>
     </form>
     <trans>amplitude</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>amplitude - meudachd scamplitudes - meudachdan iom</note>
-  </ainmear_boireann>
+  </lexeme>

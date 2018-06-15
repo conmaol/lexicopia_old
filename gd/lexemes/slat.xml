@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="slat" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="slat" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>slat</orth>
     </form>
     <trans>yard</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>yard - slait  poss cyards - slatan pl</note>
-  </ainmear_boireann>
+  </lexeme>

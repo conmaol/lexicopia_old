@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="seillean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="seillean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>seillean</orth>
   </form>
@@ -14,4 +14,4 @@
   <trans>Apoidea spp.</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
   <note>Audio: http://www.snh.org.uk/gaidhlig/audio/seillean.mp3</note>
-</ainmear_fireann>
+</lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gob-adhairce" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gob-adhairce" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gob-adhairce</orth>
     </form>
     <trans>hornbill</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>hornbill - guib-adhairce schornbills - goban-adhairce iomhornbills - guib-adhairce iom</note>
-  </ainmear_fireann>
+  </lexeme>

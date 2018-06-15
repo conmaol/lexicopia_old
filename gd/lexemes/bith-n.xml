@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="bith-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bith-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bith</orth>
     </form>
     <trans>existence</trans>
     <note>Listed in An Seotal: Religious and Moral.</note>
     <note>existence - bith scexistences - bithean iom</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="An_t-Iuchar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="An_t-Iuchar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>An t-Iuchar</orth>
     </form>
@@ -8,4 +8,4 @@
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Synonyms: Am Mìos Buidhe m</note>
     <note>Info: Am Mìos Buidhe is 'the yellow month'.</note>
-  </ainmear_fireann>
+  </lexeme>

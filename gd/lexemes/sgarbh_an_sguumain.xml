@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sgarbh_an_sguumain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sgarbh_an_sguumain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sgarbh an sgùmain</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Synonyms: cailleach dhubh f</note>
     <note>Plurals: cailleachan dubha</note>
     <note>Info: The Gaelic name means 'cormorant of the hair-crest'.</note>
-  </ainmear_fireann>
+  </lexeme>

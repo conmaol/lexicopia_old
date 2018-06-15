@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sgeadachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sgeadachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sgeadachadh</orth>
     </form>
     <trans>accessory</trans>
     <note>Listed in An Seotal: Home economics.</note>
     <note>accessory - sgeadachaidh poss c</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="iuchair_ESC" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="iuchair_ESC" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>iuchair ESC</orth>
     </form>
     <trans>ESC key</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>ESC key - iuchrach ESC poss cESC keys - iuchraichean ESC pl</note>
-  </ainmear_boireann>
+  </lexeme>

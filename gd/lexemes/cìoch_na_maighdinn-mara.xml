@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cìoch_na_maighdinn-mara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cìoch_na_maighdinn-mara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="cìoch"/>
   <form>
     <orth>cìoch na maighdinn-mara</orth>
@@ -10,4 +10,4 @@
   <note>Plural: cìochan na maighdinn-mara</note>
   <note>Latin: Actiniaria spp.</note>
   <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cioch na maighdinn mara.mp3</note>
-</ainmear_boireann>
+</lexeme>

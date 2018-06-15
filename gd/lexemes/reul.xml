@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="reul" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="reul" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>reul</orth>
     </form>
     <trans>star</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>star - reula scstar - rèil scstars - reultan iom</note>
-  </ainmear_boireann>
+  </lexeme>

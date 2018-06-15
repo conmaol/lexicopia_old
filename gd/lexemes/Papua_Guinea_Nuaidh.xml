@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Papua_Guinea_Nuaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Papua_Guinea_Nuaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Papua Guinea Nuaidh</orth>
     </form>
     <trans>Papua New Guinea</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Papua New Guinea - Phapua Guinea Nuaidh poss c</note>
-  </ainmear_fireann>
+  </lexeme>

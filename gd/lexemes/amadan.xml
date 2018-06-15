@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="amadan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="amadan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>amadan</orth>
     </form>
@@ -15,4 +15,4 @@
     <note>EDIL: ammatán n o, m. fool, simpleton.</note>
     <note>Dwelly: amadan -ain, n pl -ain, &amp; -ana, sm Fool. Cha tuig an t-amadan seo, the fool shall not understand this; nì e amadain, he will make fools. 2 Shaft or connecting rod between the
       treadle and crank of the driving-wheel, converting reciprocal into circular motion. Illustration see cuidheall-shnìomha. Skye and West of Ross.</note>
-  </ainmear_fireann>
+  </lexeme>

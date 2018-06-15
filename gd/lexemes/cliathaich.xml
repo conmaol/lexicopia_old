@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cliathaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cliathaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cliatha(i)ch</orth>
     </form>
     <trans>side</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>side - cliathaich poss csides - cliathaichean pl</note>
-  </ainmear_boireann>
+  </lexeme>

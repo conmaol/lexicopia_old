@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eeirigh_na_greeine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eeirigh_na_greeine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>èirigh na grèine</orth>
     </form>
     <trans>sunrise</trans>
     <note>Listed in An Seotal: Science.</note>
-  </ainmear_fireann>
+  </lexeme>

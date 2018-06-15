@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cueadsal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cueadsal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cueadsal</orth>
     </form>
     <trans>quetzal</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>quetzal - cueadsail scquetzals - cueadsalan iom</note>
-  </ainmear_fireann>
+  </lexeme>

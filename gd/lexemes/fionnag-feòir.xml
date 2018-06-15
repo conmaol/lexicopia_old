@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="fionnag-feòir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fionnag-feòir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fionnag-feòir</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Plurals: fionnagan-feòir, fiolanan-feòir</note>
     <note>Latin: Sorex minutus</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/fional feoir.mp3, fionnag feoir.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="fo-cheann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fo-cheann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fo-cheann</orth>
     </form>
     <trans>sub heading</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>sub heading - fo-chinn poss csub headings - fo-chinn pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="caolas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="caolas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>caolas</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>channel - caolais poss cchannels - caolais pl</note>
     <note>sound - caolais poss csounds - caolais pl</note>
     <note>strait - caolais poss cstraits - caolais pl</note>
-  </ainmear_fireann>
+  </lexeme>

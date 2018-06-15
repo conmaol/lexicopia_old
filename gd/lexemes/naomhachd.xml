@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="naomhachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="naomhachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>naomhachd</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>saintliness</trans>
     <trans>sanctity</trans>
     <note>Listed in TYGD.</note>
-  </ainmear_boireann>
+  </lexeme>

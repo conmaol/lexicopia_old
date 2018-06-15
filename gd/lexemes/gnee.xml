@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="gnee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gnee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gnè</orth>
     </form>
@@ -23,4 +23,4 @@
     <trans>temper</trans>
     <trans>vein</trans>
     <note>Listed in CM</note>
-  </ainmear_boireann>
+  </lexeme>

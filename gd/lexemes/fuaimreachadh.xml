@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="fuaimreachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fuaimreachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fuaimreachadh</orth>
     </form>
     <trans>reverberation</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>reverberation - fuaimreachaidh screverberations - fuaimreachaidhean iom</note>
-  </ainmear_fireann>
+  </lexeme>

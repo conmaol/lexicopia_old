@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bàgh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bàgh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bàgh</orth>
     </form>
@@ -16,4 +16,4 @@
     <trans>bay</trans>
     <trans>cove</trans>
     <note>Listed in An Seotal: Geography, as 'bay'.</note>
-  </ainmear_fireann>
+  </lexeme>

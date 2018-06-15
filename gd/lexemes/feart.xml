@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="feart" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="feart" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>feart</orth>
     </form>
@@ -18,4 +18,4 @@
     <note>Listed in An Seotal: Maths, as 'property'.</note>
     <note>Listed in An Seotal: Computing, as 'property'.</note>
     <note>property - fearta poss cproperties - feartan pl</note>
-  </ainmear_boireann>
+  </lexeme>

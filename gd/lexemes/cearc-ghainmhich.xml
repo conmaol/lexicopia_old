@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cearc-ghainmhich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cearc-ghainmhich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cearc-ghainmhich</orth>
     </form>
     <trans>sandgrouse</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>sandgrouse - circe-gainmhich sc sandgrouse - cearcan-gainmhich iom</note>
-  </ainmear_boireann>
+  </lexeme>

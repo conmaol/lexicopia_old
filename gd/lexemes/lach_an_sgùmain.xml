@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="lach_an_sgùmain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lach_an_sgùmain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="lach"/>
   <form>
     <orth>lach an sgùmain</orth>
@@ -8,4 +8,4 @@
   <trans>tufted duck</trans>
   <trans>Aythya fuligula</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-</ainmear_boireann>
+</lexeme>

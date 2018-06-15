@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ball-basgaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ball-basgaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ball-basgaid</orth>
     </form>
     <trans>basketball</trans>
     <note>Listed in An Seotal: Physical Education.</note>
     <note>basketball - ball-basgaid poss c</note>
-  </ainmear_fireann>
+  </lexeme>

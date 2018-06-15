@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="dachaigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dachaigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dachaigh</orth>
     </form>
     <trans>home</trans>
     <note>Listed in An Seotal: General, Computing.</note>
     <note>home - dachaigh(e) poss chomes - dachaighean pl</note>
-  </ainmear_boireann>
+  </lexeme>

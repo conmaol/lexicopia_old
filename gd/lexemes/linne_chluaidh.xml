@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="linne_chluaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="linne_chluaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Linne Chluaidh</orth>
     </form>
     <trans index="no">the Firth of Clyde</trans>
     <trans index="only">Firth of Clyde</trans>
     <note>Listed in An Seotal: Geography.</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="glac-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="glac-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="glac-verb"/>
   <form>
     <orth>glac</orth>
@@ -13,4 +13,4 @@
   <trans>narrow valley</trans>
   <trans>bend</trans>
   <note>Denotes the bend of a ‘dubhan’ (fish hook).</note>
-</ainmear_boireann>
+</lexeme>

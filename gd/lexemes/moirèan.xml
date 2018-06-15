@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="moirèan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="moirèan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>moirèan</orth>
     </form>
     <trans>moraine</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Plurals: moirèanan</note>
-  </ainmear_fireann>
+  </lexeme>

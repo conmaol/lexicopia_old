@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cuilean_sionnaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cuilean_sionnaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cuilean sionnaich</orth>
     </form>
     <trans>fox cub</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>fox cub - cuilein-sionnaich scfox cubs - cuileanan sionnaich iom</note>
-  </ainmear_fireann>
+  </lexeme>

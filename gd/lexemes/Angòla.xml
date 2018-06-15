@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Angòla" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Angòla" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Angòla</orth>
     </form>
     <trans>Angola</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Angola - Angòla poss c</note>
-  </ainmear_boireann>
+  </lexeme>

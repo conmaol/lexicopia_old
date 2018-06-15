@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leughadair_sgrion" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leughadair_sgrion" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="leughadair"/>
   <form>
     <orth>leughadair sgrion</orth>
@@ -8,4 +8,4 @@
   <trans>screen reader</trans>
   <note>Listed in An Seotal: Computing.</note>
   <note>screen reader - leughadair sgrion poss cscreen readers - leughadairean sgrion pl</note>
-</ainmear_fireann>
+</lexeme>

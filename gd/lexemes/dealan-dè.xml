@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="dealan-dè" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dealan-dè" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dealan-dè</orth>
     </form>
@@ -12,4 +12,4 @@
     <note>Latin: Lepidoptera (Order) spp.)</note>
     <note>Info: Means 'God's fire'. Plural of dealan-dè can be dealanan-dè or dealain-dè.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/dealan de.mp3</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Kyrgyzstan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Kyrgyzstan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Kyrgyzstan</orth>
     </form>
     <trans>Kyrgyzstan</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Kyrgyzstan - Kyrgyzstan poss c</note>
-  </ainmear_fireann>
+  </lexeme>

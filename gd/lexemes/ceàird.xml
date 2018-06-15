@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ceàird" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ceàird" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ceàird</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: General.</note>
     <note>craft - ceàirde poss ccrafts - ceàirdean pl</note>
     <note>trade (craft) - ceàirde poss ctrades (crafts) - ceàirdean pl</note>
-  </ainmear_boireann>
+  </lexeme>

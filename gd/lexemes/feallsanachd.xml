@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="feallsanachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="feallsanachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="feallsanach"/>
   <form>
     <orth>feallsanachd</orth>
@@ -10,4 +10,4 @@
   </form>
   <trans>philosophy</trans>
   <note>Listed in An Seotal: General.</note>
-</ainmear_boireann>
+</lexeme>

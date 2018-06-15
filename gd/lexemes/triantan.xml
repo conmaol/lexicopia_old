@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="triantan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="triantan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>triantan</orth>
     </form>
     <trans>triangle</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>triangle - triantain poss ctriangles - triantain pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sòrnan-dealain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sòrnan-dealain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sòrnan-dealain</orth>
     </form>
     <trans>electric ray</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>electric ray - sòrnan-dealain scelectric rays - sòrnain-dealain iom</note>
-  </ainmear_fireann>
+  </lexeme>

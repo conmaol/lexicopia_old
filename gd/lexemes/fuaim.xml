@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="fuaim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fuaim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fuaim</orth>
     </form>
     <trans>sound</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>sound - fuaim scsounds - fuaimean iom</note>
-  </ainmear_fireann>
+  </lexeme>

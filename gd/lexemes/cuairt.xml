@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cuairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cuairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cuairt</orth>
     </form>
@@ -14,4 +14,4 @@
     <note>rotation - cuairte poss crotations - cuairtean pl</note>
     <note>turn - cuairt(e) poss cturns - cuairtean pl</note>
     <note>revolution - cuairte poss crevolutions - cuairtean pl</note>
-  </ainmear_boireann>
+  </lexeme>

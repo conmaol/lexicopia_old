@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="glaisean_seilich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="glaisean_seilich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>glaisean seilich</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>Motacilla alba</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/glaisean-seilich.mp3</note>
-  </ainmear_fireann>
+  </lexeme>

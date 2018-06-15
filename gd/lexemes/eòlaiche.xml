@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eòlaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eòlaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eòlaiche</orth>
     </form>
     <trans>specialist</trans>
     <note>Listed in An Seotal: General.</note>
     <note>specialist - eòlaiche poss cspecialists - eòlaichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

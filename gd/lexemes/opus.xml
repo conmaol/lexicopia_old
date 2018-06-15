@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="opus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="opus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>opus</orth>
     </form>
     <trans>opus</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>opus - opus poss copuses - opusan pl</note>
-  </ainmear_boireann>
+  </lexeme>

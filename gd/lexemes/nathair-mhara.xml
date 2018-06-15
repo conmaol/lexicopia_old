@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="nathair-mhara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="nathair-mhara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>nathair-mhara</orth>
     </form>
     <trans>sea snake</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>sea snake - nathrach-mara scsea snakes - nathraichean-mara iom</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cunntasair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cunntasair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cunntasair</orth>
     </form>
     <trans>accountant</trans>
     <note>Listed in An Seotal: General.</note>
     <note>accountant - cunntasair poss c accountant - cunntasairean pl</note>
-  </ainmear_fireann>
+  </lexeme>

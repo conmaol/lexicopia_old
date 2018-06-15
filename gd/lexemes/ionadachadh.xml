@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ionadachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ionadachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ionadachadh</orth>
     </form>
     <trans>substitution</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>substitution - ionadachaidh poss csubstitutions - ionadachaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

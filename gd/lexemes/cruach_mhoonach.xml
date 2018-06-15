@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cruach_mhoonach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cruach_mhoonach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cruach mhònach</orth>
     </form>
     <trans>peatstack</trans>
     <note>Listed in CM.</note>
     <note>Listed in Dwelly as cruach mòna.</note>
-  </ainmear_boireann>
+  </lexeme>

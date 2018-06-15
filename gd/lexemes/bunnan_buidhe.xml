@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bunnan_buidhe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bunnan_buidhe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bunnan buidhe</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>Ardeidae spp.</trans>
     <note>Listed in Dwelly, as 'heron'.</note>
     <note>Listed in Stòr-dàta as 'heron'.</note>
-  </ainmear_fireann>
+  </lexeme>

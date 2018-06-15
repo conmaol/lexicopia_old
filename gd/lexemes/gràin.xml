@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="gràin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gràin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gràin</orth>
     </form>
@@ -10,4 +10,4 @@
     <trans>detestation</trans>
     <trans>disgust</trans>
     <trans>hate</trans>
-  </ainmear_boireann>
+  </lexeme>

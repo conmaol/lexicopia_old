@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eucoir-saidhbear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eucoir-saidhbear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eucoir-saidhbear</orth>
     </form>
     <trans>cybercrime</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>cyber-crime - eucoir-saidhbear poss ccyber-crimes - eucoirean-saidhbear pl</note>
-  </ainmear_fireann>
+  </lexeme>

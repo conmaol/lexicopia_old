@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cruinne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cruinne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cruinne</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>globe - cruinne poss c globes - cruinnean pl</note>
     <note>Listed in An Seotal: Maths, as 'sphere'.</note>
     <note>sphere - cruinne poss cspheres - cruinnean pl</note>
-  </ainmear_fireann>
+  </lexeme>

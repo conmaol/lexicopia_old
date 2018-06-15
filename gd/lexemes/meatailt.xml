@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="meatailt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="meatailt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>meatailt</orth>
     </form>
     <trans>metal</trans>
     <note>Listed in An Seotal: Science, Art.</note>
     <note>metal - meatailt(e) sc metals - meatailtean iom</note>
-  </ainmear_boireann>
+  </lexeme>

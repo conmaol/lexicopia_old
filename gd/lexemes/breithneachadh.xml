@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="breithneachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="breithneachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>breithneachadh</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: General, as 'critical thinking'.</note>
     <note>Listed in An Seotal: Language, as 'criticism'.</note>
     <note>criticism - breithneachaidh poss c</note>
-  </ainmear_fireann>
+  </lexeme>

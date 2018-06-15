@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tuathanachas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tuathanachas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tuathanachas</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>agriculture - tuathanachais poss c</note>
     <note>farming - tuathanachais poss c</note>
     <note>husbandry - tuathanachais poss c</note>
-  </ainmear_fireann>
+  </lexeme>

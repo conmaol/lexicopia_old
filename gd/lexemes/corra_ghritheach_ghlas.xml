@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="corra_ghritheach_ghlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="corra_ghritheach_ghlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>corra ghritheach ghlas</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>Ardea cinerea</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Plurals: corrachan-gritheach glasa</note>
-  </ainmear_boireann>
+  </lexeme>

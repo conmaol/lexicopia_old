@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="seirbheis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="seirbheis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>seirbheis</orth>
     </form>
     <trans>service</trans>
     <note>Listed in An Seotal: General.</note>
     <note>service - seirbheis poss cservices - seirbheisean pl</note>
-  </ainmear_boireann>
+  </lexeme>

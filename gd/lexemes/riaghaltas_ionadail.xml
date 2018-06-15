@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="riaghaltas_ionadail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="riaghaltas_ionadail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>riaghaltas ionadail</orth>
     </form>
     <trans>local government</trans>
     <note>Listed in An Seotal: Modern Studies</note>
-  </ainmear_fireann>
+  </lexeme>

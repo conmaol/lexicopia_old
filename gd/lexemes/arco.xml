@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="arco" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="arco" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>arco</orth>
     </form>
     <trans>arco</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>arco - arco poss carcos - arcothan pl</note>
-  </ainmear_fireann>
+  </lexeme>

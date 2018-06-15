@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Poblachd_Iemein" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Poblachd_Iemein" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="poblachd"/>
   <form>
     <orth>Poblachd Iemein</orth>
   </form>
   <trans>Yemen Republic</trans>
   <note>Listed in An Seotal: Geography.</note>
-</ainmear_boireann>
+</lexeme>

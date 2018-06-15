@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="facaltaidh_gnothachais_agus_chur-seachadan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="facaltaidh_gnothachais_agus_chur-seachadan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Facaltaidh Gnothachais agus Chur-seachadan</orth>
     </form>
     <trans index="only">Faculty of Business and Leisure</trans>
     <trans index="no">the Faculty of Business and Leisure</trans>
     <note>Listed in An Seotal: General.</note>
-  </ainmear_boireann>
+  </lexeme>

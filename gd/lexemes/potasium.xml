@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="potasium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="potasium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>potasium</orth>
     </form>
     <trans>potassium</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>potassium - potasium sc</note>
-  </ainmear_fireann>
+  </lexeme>

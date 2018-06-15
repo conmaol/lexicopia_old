@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="fear_bhoisdeil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fear_bhoisdeil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Fear Bhoisdeil</orth>
     </form>
     <trans index="no">the Man of Boisdale</trans>
-  </ainmear_fireann>
+  </lexeme>

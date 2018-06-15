@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="uiread" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="uiread" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>uiread</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: Maths.</note>
     <note>quantity - uiread poss cquantities - uiread pl</note>
     <note>times - uiread poss c times - uireadean pl</note>
-  </ainmear_boireann>
+  </lexeme>

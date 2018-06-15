@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="comhachag_bheag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="comhachag_bheag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>comhachag bheag</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>Athene noctua</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/comhachag bheag.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

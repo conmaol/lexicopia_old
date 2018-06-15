@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="blogaire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="blogaire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="blog-noun"/>
   <form>
     <orth>blogaire</orth>
@@ -10,4 +10,4 @@
   </form>
   <trans>blogger</trans>
   <note>Listed in An Seotal: Computing.</note>
-</ainmear_fireann>
+</lexeme>

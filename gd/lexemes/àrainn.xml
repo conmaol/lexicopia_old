@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="àrainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="àrainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>àrainn</orth>
     </form>
     <trans>zone</trans>
     <note>Listed in An Seotal: General.</note>
     <note>zone - àrainn(e) poss c zones - àrainnean pl</note>
-  </ainmear_boireann>
+  </lexeme>

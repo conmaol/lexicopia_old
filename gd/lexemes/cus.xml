@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cus</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>glut</trans>
     <trans>surfeit</trans>
     <trans>superfluity</trans>
-  </ainmear_fireann>
+  </lexeme>

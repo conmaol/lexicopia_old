@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="meanbh-fhrìde" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="meanbh-fhrìde" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>meanbh-fhrìde</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>insect - meanbh-fhrìde sc insect - meanbh-fhrìdean iom</note>
     <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Plurals: meanbh-fhrìdean</note>
-  </ainmear_boireann>
+  </lexeme>

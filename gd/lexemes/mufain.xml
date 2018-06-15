@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="mufain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="mufain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>mufain</orth>
     </form>
     <trans>muffin</trans>
     <note>Listed in An Seotal: Home economics.</note>
     <note>muffin - mufain poss cmuffins - mufainean pl</note>
-  </ainmear_fireann>
+  </lexeme>

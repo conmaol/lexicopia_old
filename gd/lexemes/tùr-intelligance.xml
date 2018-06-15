@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tùr-intelligance" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tùr-intelligance" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tùr</orth>
     </form>
     <trans>intelligence</trans>
     <note>Listed in An Seotal: General.</note>
     <note>intelligence - tùir poss c</note>
-  </ainmear_fireann>
+  </lexeme>

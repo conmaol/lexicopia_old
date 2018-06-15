@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="croatia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="croatia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Croatia</orth>
     </form>
     <trans>Croatia</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Croatia - Chroatia poss c</note>
-  </ainmear_fireann>
+  </lexeme>

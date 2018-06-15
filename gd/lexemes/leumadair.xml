@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leumadair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leumadair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>leumadair</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Synonyms: deilf</note>
     <note>Plurals: leumadairean, deilf</note>
     <note>Latin: Delphinus delphis</note>
-  </ainmear_fireann>
+  </lexeme>

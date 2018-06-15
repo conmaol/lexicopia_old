@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Coiria_a_Deas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Coiria_a_Deas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Coiria a Deas</orth>
     </form>
     <trans>South Korea</trans>
     <note>Listed in An Seotal: Geography.</note>
-  </ainmear_fireann>
+  </lexeme>

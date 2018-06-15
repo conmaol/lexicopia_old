@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sliabh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sliabh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sliabh</orth>
     </form>
@@ -13,4 +13,4 @@
     <trans>mount</trans>
     <trans>wetland (Tiree)</trans>
     <note>Listed in Scottish Natural Heritage's Faclan Nàdair, as 'wetland (Tiree)'.</note>
-  </ainmear_fireann>
+  </lexeme>

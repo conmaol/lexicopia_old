@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="amas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="amas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>amas</orth>
   </form>
@@ -15,5 +15,5 @@
   <trans>chance</trans>
   <trans>assonance</trans>
   <note>Listed in Colin Mark’s dictionary.</note>
-</ainmear_fireann>
+</lexeme>
 

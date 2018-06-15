@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cìoch_dheàlrach_na_maighdinn-mhara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cìoch_dheàlrach_na_maighdinn-mhara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="cìoch"/>
   <form>
     <orth>cìoch dheàlrach na maighdinn-mhara</orth>
@@ -9,4 +9,4 @@
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
   <note>Plural: cìochan deàlrach na maighdinn-mhara</note>
   <note>Latin: Pachycerianthus multiplicatus</note>
-</ainmear_boireann>
+</lexeme>

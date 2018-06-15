@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="nàmhaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="nàmhaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>nàmhaid</orth>
   </form>
   <trans>enemy</trans>
   <trans>foe</trans>
   <note>Listed in TYGD.</note>
-</ainmear_fireann>
+</lexeme>

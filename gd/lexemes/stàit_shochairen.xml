@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="stàit_shochairen" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="stàit_shochairen" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="stàit"/>
   <part ref="sochair"/>
   <form>
@@ -8,4 +8,4 @@
   </form>
   <trans>welfare state</trans>
   <note>Listed in An Seotal: General.</note>
-</ainmear_boireann>
+</lexeme>

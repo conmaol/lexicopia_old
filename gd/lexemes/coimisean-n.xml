@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="coimisean-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="coimisean-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>coimisean</orth>
     </form>
@@ -8,4 +8,4 @@
     <note>Listed in CM. Examples: tha iad air coimisean a thoirt dha 'they have given him a commission / they have commissioned him'; seo na co-dhùnaidhean chun an tàinig an coimisean 'here are the
       conclusions which the commission reached / came to'.</note>
     <note>Listed in TYGD.</note>
-  </ainmear_fireann>
+  </lexeme>

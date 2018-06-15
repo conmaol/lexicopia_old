@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gèadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gèadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>gèadh</orth>
   </form>
@@ -8,4 +8,4 @@
   <trans>Anser|Branta spp.</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
   <note>Audio: http://www.snh.org.uk/gaidhlig/audio/geadh.mp3</note>
-</ainmear_fireann>
+</lexeme>

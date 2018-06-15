@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cathair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cathair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cathair</orth>
     </form>
@@ -13,4 +13,4 @@
     <trans>city</trans>
     <trans>chair</trans>
     <note>Listed in An Seotal: General, as 'chair'.</note>
-  </ainmear_boireann>
+  </lexeme>

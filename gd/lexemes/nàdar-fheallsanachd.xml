@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="nàdar-fheallsanachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="nàdar-fheallsanachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>nàdar-fheallsanachd</orth>
     </form>
     <trans>physics</trans>
     <note>Listed in CM.</note>
-  </ainmear_boireann>
+  </lexeme>

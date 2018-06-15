@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="comharra-gleus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="comharra-gleus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>comharra-gleus</orth>
     </form>
     <trans>key signature</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>key signature - comharra-gleus poss ckey signatures - comharran-gleus pl</note>
-  </ainmear_fireann>
+  </lexeme>

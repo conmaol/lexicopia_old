@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="caochladair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="caochladair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>caochladair</orth>
     </form>
     <trans>variable</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>variable - caochladair poss cvariables - caochladairean pl</note>
-  </ainmear_fireann>
+  </lexeme>

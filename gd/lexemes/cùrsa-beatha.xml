@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cùrsa-beatha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cùrsa-beatha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cùrsa-beatha</orth>
     </form>
     <trans>carèr</trans>
     <note>Listed in An Seotal: General.</note>
     <note>carèr - cùrsa-beatha poss ccarèrs - cùrsaichean-beatha pl</note>
-  </ainmear_fireann>
+  </lexeme>

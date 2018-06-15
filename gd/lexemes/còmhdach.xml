@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="còmhdach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="còmhdach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>còmhdach</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>binding - còmhdaich poss cbindings - còmhdaich pl</note>
     <note>coating - còmhdaich poss c</note>
     <note>covering - còmhdaich poss ccoverings - còmhdaichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

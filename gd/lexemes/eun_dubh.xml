@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eun_dubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eun_dubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eun dubh</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>Turdus merula</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Plurals: eòin dubha </note>
-  </ainmear_fireann>
+  </lexeme>

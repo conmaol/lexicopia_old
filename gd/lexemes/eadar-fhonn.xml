@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eadar-fhonn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eadar-fhonn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eadar-fhonn</orth>
     </form>
     <trans>episode</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>episode - eadar-fhuinn poss cepisodes - eadar-fhuinn pl</note>
-  </ainmear_fireann>
+  </lexeme>

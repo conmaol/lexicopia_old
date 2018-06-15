@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="meud" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="meud" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>meud</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>amount - meud poss camounts - meudan pl</note>
     <note>dimension - meud poss cdimensions - meudan pl</note>
     <note>size - meud poss csizes - meudan pl</note>
-  </ainmear_fireann>
+  </lexeme>

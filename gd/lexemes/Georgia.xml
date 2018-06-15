@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Georgia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Georgia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Georgia</orth>
     </form>
     <trans>Georgia</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Georgia - Georgia poss c</note>
-  </ainmear_fireann>
+  </lexeme>

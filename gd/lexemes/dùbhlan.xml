@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="dùbhlan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dùbhlan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dùbhlan</orth>
     </form>
     <trans>challenge</trans>
     <note>Listed in An Seotal: General.</note>
     <note>challenge - dùbhlain poss cchallenges - dùbhlain pl</note>
-  </ainmear_fireann>
+  </lexeme>

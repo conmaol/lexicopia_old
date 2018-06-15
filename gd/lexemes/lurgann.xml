@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="lurgann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lurgann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>lurgann</orth>
     </form>
     <trans>shin</trans>
     <note>Oxford Children's Scottish Gaelic Visual Dictionary, p. 14.</note>
-  </ainmear_boireann>
+  </lexeme>

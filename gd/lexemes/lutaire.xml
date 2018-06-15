@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="lutaire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lutaire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>lutaire</orth>
     </form>
     <trans>lutanist</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>lutanist - lutaire poss clutanists - lutairean pl</note>
-  </ainmear_fireann>
+  </lexeme>

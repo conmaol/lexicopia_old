@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="muir-bhuachaille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="muir-bhuachaille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>muir-bhuachaille</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Plurals: muir-bhuachaillean</note>
     <note>Info: The Gaelic means 'sea shepherd'.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/muir-bhuachaill.mp3</note>
-  </ainmear_fireann>
+  </lexeme>

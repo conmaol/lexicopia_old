@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="seillean_mòr_na_cuthaig_achaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="seillean_mòr_na_cuthaig_achaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="seillean_mòr_na_cuthaige"/>
   <part ref="achadh"/>
   <form>
@@ -12,4 +12,4 @@
   <trans>field cuckoo bumblebee</trans>
   <trans>Bombus (Psithyrus) campestris</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-</ainmear_fireann>
+</lexeme>

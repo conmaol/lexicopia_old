@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="uile-dheatachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="uile-dheatachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>uile-dheatachadh</orth>
     </form>
     <trans>sublimation</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>sublimation - uile-dheatachaidh scsublimations - uile-dheatachaidhean iom</note>
-  </ainmear_fireann>
+  </lexeme>

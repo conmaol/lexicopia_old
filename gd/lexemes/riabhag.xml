@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="riabhag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="riabhag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>riabhag</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>Synonyms: donnag f</note>
     <note>Plurals: , donnagan</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/riabhag.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

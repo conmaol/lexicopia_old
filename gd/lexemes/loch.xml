@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="loch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="loch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>loch</orth>
     </form>
@@ -13,4 +13,4 @@
     <trans>lake</trans>
     <trans>loch</trans>
     <note>Listed in An Seotal: Geography.</note>
-  </ainmear_fireann>
+  </lexeme>

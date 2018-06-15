@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sinnsear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sinnsear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sinnsear</orth>
     </form>
     <trans>ancestor</trans>
     <note>Also: 'a forefather'; 'ancestors' (collective noun). Mascuine noun.</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="nathair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="nathair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>nathair</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>Latin: Serpentes (Suborder) spp.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/nathair.mp3</note>
     <note>Listed in TYGD.</note>
-  </ainmear_boireann>
+  </lexeme>

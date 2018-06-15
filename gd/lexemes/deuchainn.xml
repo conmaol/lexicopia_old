@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="deuchainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="deuchainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>deuchainn</orth>
     </form>
@@ -13,4 +13,4 @@
     <note>experiment - deuchainn(e) scexperiment result - toradh deuchainn scexperiments - deuchainnean iom</note>
     <note>exam - deuchainn(e) poss cexams - deuchainnean pl</note>
     <note>examination - deuchainn(e) poss cexaminations - deuchainnean pl</note>
-  </ainmear_boireann>
+  </lexeme>

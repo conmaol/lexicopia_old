@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="pàis-dhràma" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="pàis-dhràma" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>pàis-dhràma</orth>
     </form>
     <trans>passion-play</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>passion-play - pàis-dhràma poss cpassion-plays - pàisean-dràma pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="suidheachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="suidheachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>suidheachadh</orth>
     </form>
@@ -16,4 +16,4 @@
     <note>position - suidheachaidh poss cpositions - suidheachaidhean pl</note>
     <note>Listed in An Seotal: Computing, as 'setting'.</note>
     <note>setting - suidheachaidh poss csettings - suidheachaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

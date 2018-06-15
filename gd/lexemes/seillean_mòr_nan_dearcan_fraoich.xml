@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="seillean_mòr_nan_dearcan_fraoich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="seillean_mòr_nan_dearcan_fraoich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="seillean_mòr"/>
   <part ref="dearc"/>
   <part ref="fraoch"/>
@@ -13,4 +13,4 @@
   <trans>bilberry bumblebee</trans>
   <trans>Bombus monticola</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-</ainmear_fireann>
+</lexeme>

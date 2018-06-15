@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Antigua_agus_Barbuda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Antigua_agus_Barbuda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Antigua agus Barbuda</orth>
     </form>
     <trans>Antigua and Barbuda</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Antigua and Barbuda - Antigua agus Barbuda poss c</note>
-  </ainmear_boireann>
+  </lexeme>

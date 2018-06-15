@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="làraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="làraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>làraidh</orth>
     </form>
@@ -13,4 +13,4 @@
     <note>Listed in Boyd Robertson &amp; Ian MacDonald's (2004) 'Teach Yourself' dictionary.</note>
     <note>CM: làraidh-fhuighlich = refuse lorry/cart, làraidh-tobhaidh = breakdown lorry</note>
     <note>TYGD: làraidh an sgùdail = the bin/refuse lorry</note>
-  </ainmear_boireann>
+  </lexeme>

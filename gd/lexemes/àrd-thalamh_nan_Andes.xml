@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="àrd-thalamh_nan_Andes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="àrd-thalamh_nan_Andes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>àrd-thalamh nan Andes</orth>
   </form>
   <trans index="no">the highlands of the Andes</trans>
   <trans index="only">highlands of the Andes</trans>
   <note>Listed in An Seotal: Geography.</note>
-</ainmear_fireann>
+</lexeme>

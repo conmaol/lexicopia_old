@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="radius" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="radius" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>radius</orth>
     </form>
     <trans>radius</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>radius - radius poss cradii - radii pl</note>
-  </ainmear_fireann>
+  </lexeme>

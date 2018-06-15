@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="breac_an-t-sìl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="breac_an-t-sìl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>breac an-t-sìl</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>Motacilla alba</trans>
     <note>Listed in CM as 'pied wagtail, chaffinch'.</note>
     <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
-  </ainmear_fireann>
+  </lexeme>

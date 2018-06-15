@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sèideadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sèideadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sèideadh</orth>
     </form>
     <trans>blowing</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>blowing - sèididh poss cblowings - sèididhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

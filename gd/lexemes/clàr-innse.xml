@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="clàr-innse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="clàr-innse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>clàr-innse</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>table of contents</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>table of contents - clàir-innse poss ctables of contents - clàran-innse pl</note>
-  </ainmear_fireann>
+  </lexeme>

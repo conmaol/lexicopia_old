@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Gàidhealtachd_na_h-Alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Gàidhealtachd_na_h-Alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="Gàidhealtachd"/>
   <form>
     <orth>Gàidhealtachd na h-Alba</orth>
@@ -8,4 +8,4 @@
   <trans index="no">the Scottish Highlands</trans>
   <trans index="only">Highlands</trans>
   <trans>Scottish Gaeldom</trans>
-</ainmear_boireann>
+</lexeme>

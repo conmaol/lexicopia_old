@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="eucail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eucail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eucail</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans sources="cmark">infirmity</trans>
     <trans sources="cmark">malady</trans>
     <trans sources="cmark">affection</trans>
-  </ainmear_boireann>
+  </lexeme>

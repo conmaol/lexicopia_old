@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="àiria" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="àiria" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>àiria</orth>
     </form>
     <trans>aria</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>aria - àiria poss carias - àiriathan pl</note>
-  </ainmear_boireann>
+  </lexeme>

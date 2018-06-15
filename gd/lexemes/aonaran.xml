@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="aonaran" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="aonaran" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>aonaran</orth>
     </form>
     <trans>loner</trans>
     <note>Listed in An Seotal: Personal and Social Education.</note>
     <note>loner - aonarain poss cloners - aonarain pl</note>
-  </ainmear_fireann>
+  </lexeme>

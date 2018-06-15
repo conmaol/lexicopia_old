@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="àite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="àite" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>àite</orth>
     </form>
@@ -25,4 +25,4 @@
     <trans>stead</trans>
     <note>Listed in An Seotal: General.</note>
     <note>Listed in An Seotal: Computing, as 'location'.</note>
-  </ainmear_fireann>
+  </lexeme>

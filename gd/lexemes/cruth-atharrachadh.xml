@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cruth-atharrachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cruth-atharrachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cruth-atharrachadh</orth>
     </form>
     <trans>transformation</trans>
     <note>Listed in An Seotal: General.</note>
     <note>transformation - cruth-atharrachaidh poss ctransformations - cruth-atharrachaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="fras" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fras" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fras</orth>
     </form>
     <trans>shower</trans>
     <note>Listed in An Seotal: General.</note>
     <note>shower - froise poss cshowers - frasan pl</note>
-  </ainmear_boireann>
+  </lexeme>

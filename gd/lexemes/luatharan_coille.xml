@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="luatharan_coille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="luatharan_coille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>luatharan coille</orth>
     </form>
     <trans>wood sandpiper</trans>
     <trans>Tringa glareola</trans>
     <note>Listed in CM.</note>
-  </ainmear_fireann>
+  </lexeme>

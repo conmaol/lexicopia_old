@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Mòinteach_Iorc_a_Tuath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Mòinteach_Iorc_a_Tuath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Mòinteach Iorc a Tuath</orth>
     </form>
     <trans>North York Moors</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>North York Moors - Mòinteach Iorc a Tuath poss c</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="passacaglia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="passacaglia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>passacaglia</orth>
     </form>
     <trans>passacaglia</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>passacaglia - passacaglia poss cpassacaglias - passacagliathan pl</note>
-  </ainmear_fireann>
+  </lexeme>

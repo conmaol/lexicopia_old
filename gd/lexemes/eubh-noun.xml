@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="eubh-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eubh-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eubh</orth>
     </form>
     <trans sources="cmark">shout</trans>
     <trans sources="cmark">cry</trans>
     <note>cf. èigh</note>
-  </ainmear_boireann>
+  </lexeme>

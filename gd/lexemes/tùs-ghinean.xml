@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tùs-ghinean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tùs-ghinean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tùs-ghinean</orth>
     </form>
     <trans>embryo</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>embryo - tùs-ghinein scembryos - tùs-ghineanan iom</note>
-  </ainmear_fireann>
+  </lexeme>

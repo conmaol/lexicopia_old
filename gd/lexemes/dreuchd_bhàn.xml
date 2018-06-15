@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="dreuchd_bhàn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dreuchd_bhàn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dreuchd bhàn</orth>
     </form>
     <trans>vacancy</trans>
     <note>Listed in An Seotal: General.</note>
     <note>vacancy - dreuchd bhàin poss cvacancies - dreuchdan bàna pl</note>
-  </ainmear_boireann>
+  </lexeme>

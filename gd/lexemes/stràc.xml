@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="stràc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="stràc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>stràc</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>stroke - stràic poss cstrokes - stràcan pl</note>
     <note>Listed in An Seotal: Computing, as 'slash'.</note>
     <note>slash - stràic poss cslashes - stràcan pl</note>
-  </ainmear_boireann>
+  </lexeme>

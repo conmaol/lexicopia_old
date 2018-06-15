@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cearc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cearc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cearc</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>hen - circe sc hens - cearcan iom</note>
     <note>Listed in An Seotal: Home economics.</note>
     <note>chicken - circe poss c</note>
-  </ainmear_boireann>
+  </lexeme>

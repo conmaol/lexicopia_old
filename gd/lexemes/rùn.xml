@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="rùn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="rùn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>rùn</orth>
     </form>
     <trans>rune</trans>
     <note>Listed in An Seotal: History.</note>
     <note>rune - rùin scrunes - rùnaichean iom</note>
-  </ainmear_fireann>
+  </lexeme>

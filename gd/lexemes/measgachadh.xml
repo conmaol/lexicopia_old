@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="measgachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="measgachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>measgachadh</orth>
     </form>
     <trans>miscellany</trans>
     <note>Listed in An Seotal: General.</note>
     <note>miscellany - measgachaidh poss cmiscellanies - measgachaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

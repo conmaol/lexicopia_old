@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="beul_a_chaolain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="beul_a_chaolain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>beul a' chaolain</orth>
     </form>
     <trans>duodenum</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>duodenum - beul a' chaolain scduodenums - beòil nan caolan iom</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="margaidh_nan_earrannan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="margaidh_nan_earrannan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>margaidh nan earrannan</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>stock market</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>stock exchange - margaidh nan earrannan poss cstock exchanges - margaidhean nan earrannan pl</note>
-  </ainmear_fireann>
+  </lexeme>

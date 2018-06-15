@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="port_adhair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="port_adhair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>port adhair</orth>
     </form>
     <trans>airport</trans>
     <note>Listed in An Seotal: General.</note>
     <note>airport - puirt-adhair poss c airports - puirt-adhair pl</note>
-  </ainmear_fireann>
+  </lexeme>

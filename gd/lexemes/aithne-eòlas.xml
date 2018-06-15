@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="aithne-eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="aithne-eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>aithne-eòlas</orth>
     </form>
     <trans>epistemology</trans>
     <note>Listed in An Seotal: General.</note>
     <note>epistemology - aithne-eòlais poss c</note>
-  </ainmear_fireann>
+  </lexeme>

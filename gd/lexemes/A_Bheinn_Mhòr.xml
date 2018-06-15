@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="A_Bheinn_Mhòr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="A_Bheinn_Mhòr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>A' Bheinn Mhòr</orth>
     </form>
     <trans>Ben More</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Ben More - na Beinne Mòire poss c</note>
-  </ainmear_boireann>
+  </lexeme>

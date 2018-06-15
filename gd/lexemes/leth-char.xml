@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leth-char" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leth-char" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>leth-char</orth>
     </form>
     <trans>half-turn</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>half-turn - leth-chuir poss chalf-turns - leth-charan pl</note>
-  </ainmear_fireann>
+  </lexeme>

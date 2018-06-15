@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="paleo-ainmh-eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="paleo-ainmh-eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>paleo-ainmh-eòlas</orth>
     </form>
     <trans>paleozoology</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>paleozoology - paleo-ainmh-eòlais sc</note>
-  </ainmear_fireann>
+  </lexeme>

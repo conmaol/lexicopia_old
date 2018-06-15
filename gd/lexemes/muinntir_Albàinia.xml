@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="muinntir_Albàinia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="muinntir_Albàinia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>muinntir Albàinia</orth>
     </form>
     <trans>the people of Albania</trans>
     <note>Listed in An Seotal: Geography.</note>
-  </ainmear_boireann>
+  </lexeme>

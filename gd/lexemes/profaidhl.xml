@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="profaidhl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="profaidhl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>profaidhl</orth>
     </form>
     <trans>profile</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>profile - profaidhl poss cprofiles - profaidhlean pl</note>
-  </ainmear_fireann>
+  </lexeme>

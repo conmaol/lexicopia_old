@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="dùnadh_sìos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dùnadh_sìos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dùnadh sìos</orth>
     </form>
     <trans>shutdown</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>shutdown - dùnaidh sìos poss cshutdowns - dùnaidhean sìos pl</note>
-  </ainmear_fireann>
+  </lexeme>

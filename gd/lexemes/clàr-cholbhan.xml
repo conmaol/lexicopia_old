@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="clàr-cholbhan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="clàr-cholbhan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>clàr-cholbhan</orth>
     </form>
     <trans>bar chart</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>bar chart - clàir-cholbhan poss cbar charts - clàir-cholbhan pl</note>
-  </ainmear_fireann>
+  </lexeme>

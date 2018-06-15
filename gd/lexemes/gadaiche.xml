@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gadaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gadaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>gadaiche</orth>
   </form>
@@ -8,5 +8,5 @@
     <orth>gadaichean</orth>
   </form>
   <trans>thief</trans>
-</ainmear_fireann>
+</lexeme>
 

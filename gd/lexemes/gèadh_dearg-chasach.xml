@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gèadh_dearg-chasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gèadh_dearg-chasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="gèadh"/>
   <part ref="dearg-chasach"/>
   <form>
@@ -13,4 +13,4 @@
   <trans>Anser brachyrhynchus</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
   <note>Audio: http://www.snh.org.uk/gaidhlig/audio/geadh dearg-chasach.mp3</note>
-</ainmear_fireann>
+</lexeme>

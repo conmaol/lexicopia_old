@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="inbheach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="inbheach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>inbheach</orth>
     </form>
     <trans>adult</trans>
     <note>Listed in An Seotal: General.</note>
     <note>adult - inbhich poss c adults - inbhich pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ochdad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ochdad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ochdad</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: Maths, as 'eighty'.</note>
     <note>Listed in An Seotal: Music, as 'octave'.</note>
     <note>octave - ochdaid poss coctaves - ochdadan pl</note>
-  </ainmear_fireann>
+  </lexeme>

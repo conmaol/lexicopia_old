@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tasgadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tasgadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tasgadh</orth>
     </form>
     <trans>investment</trans>
     <note>Listed in An Seotal: Maths, as 'investment'.</note>
     <note>investment - tasgaidh poss c investments - tasgaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

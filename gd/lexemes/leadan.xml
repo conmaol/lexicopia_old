@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leadan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leadan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>leadan</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>Latin: (Branta leucopsis)</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cathan.mp3</note>
     <note>Listed in CM.</note>
-  </ainmear_fireann>
+  </lexeme>

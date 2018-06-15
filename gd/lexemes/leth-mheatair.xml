@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leth-mheatair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leth-mheatair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>leth-mheatair</orth>
     </form>
     <trans>half-metre</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>half-metre - leth-mheatair poss chalf-metres - leth-mheatairean pl</note>
-  </ainmear_fireann>
+  </lexeme>

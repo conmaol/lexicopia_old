@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="tuairmse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tuairmse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tuairmse</orth>
     </form>
@@ -13,4 +13,4 @@
     <note>estimate - tuairmse poss cestimates - tuairmsean pl</note>
     <note>estimation - tuairmse poss cestimations - tuairmsean pl</note>
     <note>guess - tuairmse poss cguesses - tuairmsean pl</note>
-  </ainmear_boireann>
+  </lexeme>

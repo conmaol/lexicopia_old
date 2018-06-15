@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="earrann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="earrann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>earrann</orth>
     </form>
@@ -12,4 +12,4 @@
     <note>Listed in An Seotal: Music, as 'excerpt', 'phrase'.</note>
     <note>excerpt - earrainn poss cexcerpt - earrannan pl</note>
     <note>phrase - earrainn poss cphrases - earrannan pl</note>
-  </ainmear_boireann>
+  </lexeme>

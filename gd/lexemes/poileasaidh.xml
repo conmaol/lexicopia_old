@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="poileasaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="poileasaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>poileasaidh</orth>
     </form>
     <trans>policy</trans>
     <note>Listed in An Seotal: General.</note>
     <note>policy - poileasaidh poss cpolicies - poileasaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="clàr-bìdh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="clàr-bìdh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>clàr-bìdh</orth>
     </form>
     <trans>menu</trans>
     <note>Listed in An Seotal: General.</note>
     <note>menu - clàir-bìdh poss cmenus - clàran-bìdh pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="òigheag_bhrèagha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="òigheag_bhrèagha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>òigheag bhrèagha</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Latin: Calopteryx virgo</note>
     <note>Info: Its Gaelic name means 'the beautiful small young one'.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/oigheag bhreagha.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

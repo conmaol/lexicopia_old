@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="arofoidhl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="arofoidhl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>arofoidhl</orth>
     </form>
     <trans>aerofoil</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>aerofoil - arofoidhle scaerofoils - arofoidhlean iomaerofoils - arofoidhlichean iom</note>
-  </ainmear_boireann>
+  </lexeme>

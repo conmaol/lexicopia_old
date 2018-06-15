@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="clach_atharrachail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="clach_atharrachail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>clach atharrachail</orth>
     </form>
     <trans>metamorphic rock</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>metamorphic rock - cloiche atharrachail scmetamorphic rocks - clachan atharrachail iom</note>
-  </ainmear_boireann>
+  </lexeme>

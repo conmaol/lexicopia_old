@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="neach-tionnsgain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="neach-tionnsgain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>neach-tionnsgain</orth>
     </form>
     <trans>entrepreneur</trans>
     <note>Listed in An Seotal: General.</note>
     <note>entrepreneur - neach-tionnsgain poss centrepreneurs - luchd-tionnsgain pl</note>
-  </ainmear_fireann>
+  </lexeme>

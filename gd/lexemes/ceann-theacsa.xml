@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ceann-theacsa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ceann-theacsa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ceann-theacsa</orth>
     </form>
     <trans>header</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>header - ceann-theacsa poss cheaders - ceann-teacsaichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

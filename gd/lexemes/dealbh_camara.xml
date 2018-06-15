@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="dealbh_camara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dealbh_camara" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="dealbh"/>
   <form>
     <orth>dealbh camara</orth>
@@ -15,4 +15,4 @@
   <trans>photo</trans>
   <note>Listed in An Seotal: Art, as 'photograph'.</note>
   <note>Listed in An Seotal: General, as 'photo'.</note>
-</ainmear_fireann>
+</lexeme>

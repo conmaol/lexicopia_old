@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="oisean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="oisean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>oisean</orth>
     </form>
     <trans>corner</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>corner - oisein poss ccorners - oiseanan pl</note>
-  </ainmear_fireann>
+  </lexeme>

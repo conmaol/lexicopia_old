@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leth-liotair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leth-liotair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>leth-liotair</orth>
     </form>
     <trans>half-litre</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>half-litre - leth-liotair poss chalf-litres - leth-liotairean pl</note>
-  </ainmear_fireann>
+  </lexeme>

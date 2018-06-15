@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="càirdineal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="càirdineal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>càirdineal</orth>
   </form>
@@ -21,5 +21,5 @@
   <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
   <note>Listed in Colin Mark’s Dictionary.</note>
   <note>A senior bishop.</note>
-</ainmear_fireann>
+</lexeme>
 

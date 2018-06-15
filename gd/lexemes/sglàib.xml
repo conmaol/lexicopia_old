@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="sglàib" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sglàib" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sglàib</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>render - sglàib poss crender - sglàibean pl</note>
     <note>Listed in An Seotal: Technology.</note>
     <note>plaster - sglàib poss c plaster - sglàibean pl</note>
-  </ainmear_boireann>
+  </lexeme>

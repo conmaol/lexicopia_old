@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ceàrd-dubhan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ceàrd-dubhan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ceàrd-dubhan</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Plurals: ceàrd-dubhain </note>
     <note>Latin: Aphodius lapponum</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/ceard-dubhan.mp3</note>
-  </ainmear_fireann>
+  </lexeme>

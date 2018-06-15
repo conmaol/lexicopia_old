@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="botal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="botal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>botal </orth>
     </form>
     <trans>bottle</trans>
     <note>Listed in An Seotal: Home economics.</note>
     <note>bottle - botail poss cbottles - botail pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Astràilianach-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Astràilianach-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Astràilianach</orth>
     </form>
     <trans>Australian</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Australian - Astràilianaich poss cAustralians - Astràilianaich pl</note>
-  </ainmear_fireann>
+  </lexeme>

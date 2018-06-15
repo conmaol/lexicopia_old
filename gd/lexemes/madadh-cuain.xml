@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="madadh-cuain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="madadh-cuain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>madadh-cuain</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>From Scottish Natural Heritage's Faclan Nàdair, as 'orca (killer whale)'.</note>
     <note>Latin: Orcinus orca</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/madadh-cuain.mp3</note>
-  </ainmear_fireann>
+  </lexeme>

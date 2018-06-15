@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="harmonaig-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="harmonaig-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>harmonaig</orth>
     </form>
     <trans>harmonic</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>harmonic - harmonaig poss charmonics - harmonaigean pl</note>
-  </ainmear_boireann>
+  </lexeme>

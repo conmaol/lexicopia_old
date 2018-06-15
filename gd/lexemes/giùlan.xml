@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="giùlan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="giùlan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>giùlan</orth>
     </form>
     <trans>behaviour</trans>
     <note>Listed in An Seotal: General.</note>
     <note>behaviour - giùlain poss cbehaviours - giùlanan pl</note>
-  </ainmear_fireann>
+  </lexeme>

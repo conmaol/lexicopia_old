@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="gith" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gith" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gith</orth>
     </form>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Plural: githean</note>
     <note>Latin: Diptera (Order) spp.</note>
-  </ainmear_boireann>
+  </lexeme>

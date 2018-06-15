@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="corra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="corra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>corra</orth>
     </form>
@@ -9,4 +9,4 @@
     <trans>crane</trans>
     <note>Listed in Dwelly, as 'heron, stork, crane'.</note>
     <note>Listed in Stòr-dàta as 'còrr: heron'.</note>
-  </ainmear_boireann>
+  </lexeme>

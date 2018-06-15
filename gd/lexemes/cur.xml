@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cur" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cur" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="cuir"/>
   <form>
     <orth>cur</orth>
@@ -9,5 +9,5 @@
     <orth>cuir</orth>
   </form>
   <trans>sending</trans>
-</ainmear_fireann>
+</lexeme>
 

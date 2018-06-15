@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="dol_air_ais_na_gealaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dol_air_ais_na_gealaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dol air ais na gealaich</orth>
     </form>
     <trans>wane</trans>
     <trans>wane of the moon</trans>
     <note>Listed in An Seotal: Science.</note>
-  </ainmear_fireann>
+  </lexeme>

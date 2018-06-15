@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="dannsa-cruinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dannsa-cruinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dannsa-cruinn</orth>
     </form>
     <trans>jig</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>jig - dannsa-cruinn poss cjigs - dannsaichean-cruinne pl</note>
-  </ainmear_fireann>
+  </lexeme>

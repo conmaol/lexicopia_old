@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="compàirteachas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="compàirteachas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>compàirteachas</orth>
     </form>
     <trans>partnership</trans>
     <note>Listed in An Seotal: General.</note>
     <note>partnership - compàirteachais poss cpartnerships - compàirteachasan pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="saoranach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="saoranach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>saoranach</orth>
     </form>
     <trans>citizen</trans>
     <note>Listed in An Seotal: General.</note>
     <note>citizen - saoranaich poss ccitizens - saoranaich pl</note>
-  </ainmear_fireann>
+  </lexeme>

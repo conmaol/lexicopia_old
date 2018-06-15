@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="foneataig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="foneataig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>foneataig</orth>
     </form>
     <trans>phonetic</trans>
     <note>Listed in An Seotal: Language.</note>
     <note>phonetic - foneataig poss cphonetics - foneataigean pl</note>
-  </ainmear_boireann>
+  </lexeme>

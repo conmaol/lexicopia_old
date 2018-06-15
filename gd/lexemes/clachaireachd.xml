@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="clachaireachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="clachaireachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>clachaireachd</orth>
     </form>
     <trans>stonework</trans>
     <note>Listed in An Seotal: Technology.</note>
     <note>stonework - clachaireachd poss c</note>
-  </ainmear_boireann>
+  </lexeme>

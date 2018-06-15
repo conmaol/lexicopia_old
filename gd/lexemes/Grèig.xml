@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Grèig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Grèig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>Grèig</orth>
   </form>
@@ -10,4 +10,4 @@
   <trans>Greece</trans>
   <note>Listed in An Seotal: Geography.</note>
   <note>Used with definite article: a’ Ghrèig, na Grèige.</note>
-</ainmear_boireann>
+</lexeme>

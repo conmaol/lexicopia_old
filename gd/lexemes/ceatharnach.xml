@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ceatharnach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ceatharnach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ceatharnach</orth>
     </form>
     <trans>tough guy</trans>
     <note>Listed in An Seotal: General.</note>
     <note>tough guy - ceatharnaich poss ctough guys - ceatharnaich pl</note>
-  </ainmear_fireann>
+  </lexeme>

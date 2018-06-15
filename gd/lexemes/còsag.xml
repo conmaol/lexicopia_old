@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="còsag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="còsag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>còsag</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: Science.</note>
     <note>air sac - còsaig(e) scair sacs - còsagan iom</note>
     <note>alveolus - còsaig(e) scalveoli - còsagan iom</note>
-  </ainmear_boireann>
+  </lexeme>

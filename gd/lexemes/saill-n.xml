@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="saill-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="saill-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>saill</orth>
     </form>
@@ -9,4 +9,4 @@
     <trans>adipose fat</trans>
     <note>Listed in An Seotal: Science, with meanings 'fat', 'adipose', 'adipose fat'.</note>
     <note>adipose - saille sc</note>
-  </ainmear_boireann>
+  </lexeme>

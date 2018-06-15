@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Guiana" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Guiana" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Guiana</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: Geography.</note>
     <note>Guiana - Ghuiana poss c</note>
     <note>Guyana - Ghuiana poss c</note>
-  </ainmear_boireann>
+  </lexeme>

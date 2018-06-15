@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="chorale" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="chorale" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>chorale</orth>
     </form>
     <trans>chorale</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>chorale - chorale poss cchorales - choraleathan pl</note>
-  </ainmear_fireann>
+  </lexeme>

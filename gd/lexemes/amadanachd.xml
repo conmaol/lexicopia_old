@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="amadanachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="amadanachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>amadanachd</orth>
     </form>
     <trans>foolishness</trans>
     <note>Dwelly: amadanachd sf ind Foolishness, conduct of a fool.</note>
-  </ainmear_boireann>
+  </lexeme>

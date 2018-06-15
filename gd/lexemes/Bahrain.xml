@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Bahrain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Bahrain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Bahrain</orth>
     </form>
     <trans>Bahrain</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Bahrain - Bhahrain poss c</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="surfactant" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="surfactant" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>surfactant</orth>
     </form>
     <trans>surfactant</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>surfactant - surfactant scsurfactants - surfactantan iom</note>
-  </ainmear_fireann>
+  </lexeme>

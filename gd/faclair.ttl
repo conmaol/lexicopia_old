@@ -1,0 +1,3559 @@
+@prefix : <http://faclair.ac.uk/> .
+
+# The Gaelic-English glossary from MacKinnon's Teach Yourself Gaelic
+
+:abhainn.n 
+  a :FeminineNoun ;
+  :sense :abhainn.river .
+
+:abhainn.nns 
+  a :NominativeSingular ;
+  :orthography "abhainn" ; 
+  :formOf :abhainn.n .
+
+:aibhne.ngs 
+  a :GenitiveSingular ; 
+  :orthography "aibhne" ; 
+  :formOf :abhainn.n .
+
+:aibhnichean.nnp 
+  a :NominativePlural ; 
+  :orthography "aibhnichean" ; 
+  :formOf :aibhne.n .
+
+:abhainn.river
+  a :Concrete ;
+  :en "river" .
+
+
+:acair.n 
+  a :FeminineNoun ;
+  :sense :acair.anchor .
+
+:acair.nns 
+  a :NominativeSingular ;
+  :orthography "acair" ; 
+  :formOf :acair.n .
+
+:acrach.ngs 
+  a :GenitiveSingular ; 
+  :orthography "acrach" ; 
+  :formOf :acair.n .
+
+:acraichean.nnp 
+  a :NominativePlural ; 
+  :orthography "acraichean" ; 
+  :formOf :acair.n .
+
+:acair.anchor
+  a :Concrete ;
+  :en "anchor" .
+  
+
+:bòrd.n 
+  a :MasculineNoun ;
+  :sense :bòrd.table .
+
+:bòrd.nns 
+  a :NominativeSingular ;
+  :orthography "bòrd" ;
+  :formOf :bòrd.n .
+  
+:bùird.ngs 
+  a :GenitiveSingular ;
+  :orthography "bùird" ;
+  :formOf :bòrd.n .
+
+:bùird.nnp 
+  a :NominativePlural ;
+  :orthography "bùird" ;
+  :formOf :bòrd.n .
+
+:bòrd.ngp 
+  a :GenitivePlural ;
+  :orthography "bòrd" ;
+  :formOf :bòrd.n .
+
+:bòrd.table
+  a :Concrete ;
+  :en "table" .
+
+
+:achadh.n 
+  a :MasculineNoun ;
+  :sense :achadh.field .
+
+:achadh.nns 
+  a :NominativeSingular ;
+  :orthography "achadh" ; 
+  :formOf :achadh.n .
+
+:achaidh.ngs 
+  a :GenitiveSingular ; 
+  :orthography "achaidh" ; 
+  :formOf :achadh.n .
+
+:achaidhean.nnp 
+  a :NominativePlural ; 
+  :orthography "achaidhean" ; 
+  :formOf :achadh.n .
+
+:achadh.field
+  a :Concrete ;
+  :en "field" .
+  
+  
+:acras.n 
+  a :MasculineNoun ;
+  :sense :acras.hunger .
+
+:acras.nns 
+  a :NominativeSingular ;
+  :orthography "acras" ; 
+  :formOf :acras.n .
+
+:acrais.ngs 
+  a :GenitiveSingular ; 
+  :orthography "acrais" ; 
+  :formOf :acras.n .  
+
+:acras.hunger
+  a :Abstract ;
+  :en "hunger" .
+
+
+:ad.n 
+  a :FeminineNoun ;
+  :sense :ad.hat .
+
+:ad.nns 
+  a :NominativeSingular ;
+  :orthography "ad" ; 
+  :formOf :ad.n .
+
+:aide.ngs 
+  a :GenitiveSingular ; 
+  :orthography "aide" ; 
+  :formOf :ad.n .
+
+:adaichean.nnp 
+  a :NominativePlural ; 
+  :orthography "adaichean" ; 
+  :formOf :ad.n .
+
+:ad.hat
+  a :Concrete ;
+  :en "hat" .
+
+
+:adhar.n 
+  a :MasculineNoun ;
+  :sense :adhar.sky .
+
+:adhar.nns 
+  a :NominativeSingular ;
+  :orthography "adhar" ; 
+  :formOf :adhar.n .
+
+:adhair.ngs 
+  a :GenitiveSingular ; 
+  :orthography "adhair" ; 
+  :formOf :adhar.n .  
+
+:adhar.sky
+  a :Concrete ;
+  :en "sky" .
+
+
+:adharc.n 
+  a :FeminineNoun ;
+  :sense :adharc.horn .
+
+:adharc.nns 
+  a :NominativeSingular ;
+  :orthography "adharc" ; 
+  :formOf :adharc.n .
+
+:adhairce.ngs 
+  a :GenitiveSingular ; 
+  :orthography "adhairce" ; 
+  :formOf :adharc.n .
+
+:adhaircean.nnp 
+  a :NominativePlural ; 
+  :orthography "adhaircean" ; 
+  :formOf :adharc.n .
+
+:adharc.horn
+  a :Concrete ;
+  :en "horn" .
+  
+
+:aghaidh.n 
+  a :FeminineNoun ;
+  :sense :aghaidh.face .
+
+:aghaidh.nns 
+  a :NominativeSingular ;
+  :orthography "aghaidh" ; 
+  :formOf :aghaidh.n .
+
+:aghaidhe.ngs 
+  a :GenitiveSingular ; 
+  :orthography "aghaidhe" ; 
+  :formOf :aghaidh.n .
+
+:aghaidhean.nnp 
+  a :NominativePlural ; 
+  :orthography "aghaidhean" ; 
+  :formOf :aghaidh.n .
+
+:aghaidh.face
+  a :Concrete ;
+  :en "face" .
+
+
+:aibidil.n 
+  a :FeminineNoun ;
+  :sense :aibidil.alphabet .
+
+:aibidil.nns 
+  a :NominativeSingular ;
+  :orthography "aibidil" ; 
+  :formOf :aibidil.n .
+
+:aibidile.ngs 
+  a :GenitiveSingular ; 
+  :orthography "aibidile" ; 
+  :formOf :aibidil.n .
+
+:aibidilean.nnp 
+  a :NominativePlural ; 
+  :orthography "aibidilean" ; 
+  :formOf :aibidil.n .
+
+:aibidil.alphabet
+  a :Abstract ;
+  :en "alphabet" .
+
+
+:ailm.n 
+  a :FeminineNoun ;
+  :sense :ailm.helm .
+
+:ailm.nns 
+  a :NominativeSingular ;
+  :orthography "ailm" ; 
+  :formOf :ailm.n .
+
+:ailme.ngs 
+  a :GenitiveSingular ; 
+  :orthography "ailme" ; 
+  :formOf :ailm.n .
+
+:ailmean.nnp 
+  a :NominativePlural ; 
+  :orthography "ailmean" ; 
+  :formOf :ailm.n .
+  
+:ailm.helm
+  a :Concrete ;
+  :en "helm" .
+  
+  
+:aimsir.n 
+  a :FeminineNoun ;
+  :sense :aimsir.weather .
+
+:aimsir.nns 
+  a :NominativeSingular ;
+  :orthography "aimsir" ; 
+  :formOf :aimsir.n .
+
+:aimsire.ngs 
+  a :GenitiveSingular ; 
+  :orthography "aimsire" ; 
+  :formOf :aimsir.n .
+
+:aimsir.weather
+  a :Abstract ;
+  :en "weather" .
+  
+
+:ainm.n 
+  a :MasculineNoun ;
+  :sense :ainm.name .
+
+:ainm.nns 
+  a :NominativeSingular ;
+  :orthography "ainm" ; 
+  :formOf :ainm.n .
+
+:ainme.ngs 
+  a :GenitiveSingular ; 
+  :orthography "ainme" ; 
+  :formOf :ainm.n .
+
+:ainmean.nnp 
+  a :NominativePlural ; 
+  :orthography "ainmean" ; 
+  :formOf :ainm.n .
+
+:ainm.name
+  a :Abstract ;
+  :en "name" .
+  
+
+:airgead.n 
+  a :MasculineNoun ;
+  :sense :airgead.silver , :airgead.money .
+
+:airgead.nns 
+  a :NominativeSingular ;
+  :orthography "airgead" ; 
+  :formOf :airgead.n .
+
+:airgid.ngs 
+  a :GenitiveSingular ; 
+  :orthography "airgid" ; 
+  :formOf :airgead.n .
+
+:airgead.silver
+  a :Concrete ;
+  :en "silver" .
+
+:airgead.money
+  a :Abstract ;
+  :en "money" .
+
+
+:àite.n 
+  a :MasculineNoun ;
+  :sense :àite.place .
+
+:àite.nns 
+  a :NominativeSingular ;
+  :orthography "àite" ; 
+  :formOf :àite.n .
+
+:àite.ngs 
+  a :GenitiveSingular ;
+  :orthography "àite" ; 
+  :formOf :àite.n .
+
+:àitean.nnp 
+  a :NominativePlural ; 
+  :orthography "àitean" ; 
+  :formOf :àite.n .
+
+:àiteachan.nnp 
+  a :NominativePlural ; 
+  :orthography "àiteachan" ; 
+  :formOf :àite.n .
+  
+:àite.place
+  a :Abstract ;
+  :en "place" .
+    
+  
+:aithne.n 
+  a :FeminineNoun ;
+  :sense :aithne.knowledge .
+
+:aithne.nns 
+  a :NominativeSingular ;
+  :orthography "aithne" ; 
+  :formOf :aithne.n .  
+
+:aithne.knowledge
+  a :Abstract ;
+  :en "knowledge, acquaintance" .
+
+
+:allt.n 
+  a :MasculineNoun ;
+  :sense :allt.stream .
+
+:allt.nns 
+  a :NominativeSingular ;
+  :orthography "allt" ; 
+  :formOf :allt.n .
+
+:uillt.ngs 
+  a :GenitiveSingular ;
+  :orthography "uillt" ; 
+  :formOf :allt.n .
+
+:uillt.nnp 
+  a :NominativePlural ; 
+  :orthography "uillt" ; 
+  :formOf :allt.n .
+
+:allt.ngp 
+  a :GenitivePlural ; 
+  :orthography "allt" ; 
+  :formOf :allt.n .  
+
+:allt.stream
+  a :Concrete ;
+  :en "stream" .   # diminutive of :abhainn.river
+
+
+:àm.n 
+  a :MasculineNoun ;
+  :sense :àm.time .
+
+:àm.nns 
+  a :NominativeSingular ;
+  :orthography "àm" ; 
+  :formOf :àm.n .
+
+:ama.ngs 
+  a :GenitiveSingular ;
+  :orthography "ama" ; 
+  :formOf :àm.n .
+
+:amannan.nnp 
+  a :NominativePlural ; 
+  :orthography "amannan" ; 
+  :formOf :àm.n .
+
+:àm.time
+  a :Abstract ;
+  :en "time" .  
+
+
+:anail.n 
+  a :FeminineNoun ;
+  :sense :anail.breath , :anail.rest .
+
+:anail.nns 
+  a :NominativeSingular ;
+  :orthography "anail" ; 
+  :formOf :anail.n .
+
+:analach.ngs 
+  a :GenitiveSingular ;
+  :orthography "analach" ; 
+  :formOf :anail.n .
+
+:anailean.nnp 
+  a :NominativePlural ; 
+  :orthography "anailean" ; 
+  :formOf :anail.n .
+
+:anail.breath
+  a :Abstract ;
+  :en "breath" .  
+  
+:anail.rest
+  a :Abstract ;
+  :en "rest" .   
+  
+
+:aodann.n 
+  a :MasculineNoun ;
+  :sense :aodann.face .
+
+:aodann.nns 
+  a :NominativeSingular ;
+  :orthography "aodann" ; 
+  :formOf :aodann.n .
+
+:aodainn.ngs
+  a :GenitiveSingular ;
+  :orthography "aodainn" ; 
+  :formOf :aodann.n .
+
+:aodainnean.nnp 
+  a :NominativePlural ; 
+  :orthography "aodainnean" ; 
+  :formOf :aodann.n .
+
+:aodann.face
+  a :Concrete ;
+  :en "face" .   cf. synonym of :aghaidh.face ?
+
+
+:aois.n 
+  a :FeminineNoun ;
+  :sense :aois.age .
+
+:aois.nns 
+  a :NominativeSingular ;
+  :orthography "aois" ; 
+  :formOf :aois.n .
+
+:aoise.ngs 
+  a :GenitiveSingular ;
+  :orthography "aoise" ; 
+  :formOf :aoise.n .
+
+:aoisean.nnp 
+  a :NominativePlural ; 
+  :orthography "aoisean" ; 
+  :formOf :aois.n .
+
+:aois.age
+  a :Abstract ;
+  :en "age" .  
+
+
+:aran.n 
+  a :MasculineNoun ;
+  :sense :aran.bread .
+
+:aran.nns 
+  a :NominativeSingular ;
+  :orthography "aran" ; 
+  :formOf :aran.n .
+
+:arain.ngs 
+  a :GenitiveSingular ;
+  :orthography "arain" ; 
+  :formOf :aran.n .
+
+:aran.bread
+  a :Concrete ;
+  :en "bread" .
+  
+
+:arbhar.n 
+  a :MasculineNoun ;
+  :sense :arbhar.corn .
+
+:arbhar.nns 
+  a :NominativeSingular ;
+  :orthography "arbhar" ; 
+  :formOf :arbhar.n .
+
+:arbhair.ngs 
+  a :GenitiveSingular ;
+  :orthography "arbhair" ; 
+  :formOf :arbhar.n .
+
+:arbhar.corn
+  a :Concrete ;
+  :en "corn" .
+
+
+:arm.n 
+  a :MasculineNoun ;
+  :sense :arm.army .
+
+:arm.nns 
+  a :NominativeSingular ;
+  :orthography "arm" ; 
+  :formOf :arm.n .
+
+:airm.ngs 
+  a :GenitiveSingular ;
+  :orthography "airm" ; 
+  :formOf :arm.n .
+
+:airm.nnp 
+  a :NominativePlural ;
+  :orthography "airm" ; 
+  :formOf :arm.n .
+
+:arm.ngs 
+  a :GenitivePlural ;
+  :orthography "arm" ; 
+  :formOf :arm.n .
+
+:arm.army
+  a :Concrete ;
+  :en "army" ;
+  :senseOf :arm.n .
+
+
+:astar.n 
+  a :MasculineNoun ;
+  :sense :astar.distance , :astar.speed .
+
+:astar.nns 
+  a :NominativeSingular ;
+  :orthography "astar" ; 
+  :formOf :astar.n .
+
+:astair.ngs 
+  a :GenitiveSingular ;
+  :orthography "astair" ; 
+  :formOf :astar.n .
+
+:astaran.nnp 
+  a :NominativePlural ;
+  :orthography "astaran" ; 
+  :formOf :astar.n .
+
+:astar.distance
+  a :Abstract ;
+  :en "distance" .   
+  
+:astar.speed
+  a :Abstract ;
+  :en "speed" .   
+
+
+:bàgh.n 
+  a :MasculineNoun ;
+  :sense :bàgh.bay .
+
+:bàgh.nns 
+  a :NominativeSingular ;
+  :orthography "bàgh" ; 
+  :formOf :bàgh.n .
+
+:bàigh.ngs 
+  a :GenitiveSingular ;
+  :orthography "bàigh" ; 
+  :formOf :bàgh.n .
+
+:bàghan.nnp 
+  a :NominativePlural ;
+  :orthography "bàghan" ; 
+  :formOf :bàgh.n .
+
+:bàgh.bay
+  a :Concrete ;
+  :en "bay" .   
+      
+
+:baile.n 
+  a :MasculineNoun ;
+  :sense :baile.town .
+
+:baile.nns 
+  a :NominativeSingular ;
+  :orthography "baile" ; 
+  :formOf :baile.n .
+
+:baile.ngs 
+  a :GenitiveSingular ;
+  :orthography "baile" ; 
+  :formOf :baile.n .
+
+:bailtean.nnp 
+  a :NominativePlural ;
+  :orthography "bailtean" ; 
+  :formOf :baile.n .
+
+:baile.town
+  a :Concrete ;
+  :en "town" .   
+
+
+:bainne.n 
+  a :MasculineNoun ;
+  :sense :bainne.milk .
+
+:bainne.nns 
+  a :NominativeSingular ;
+  :orthography "bainne" ; 
+  :formOf :bainne.n .
+
+:bainne.ngs 
+  a :GenitiveSingular ;
+  :orthography "bainne" ; 
+  :formOf :bainne.n .
+
+:bainne.milk
+  a :Concrete ;
+  :en "milk" .   
+
+
+:balach.n 
+  a :MasculineNoun ;
+  :sense :balach.boy .
+
+:balach.nns 
+  a :NominativeSingular ;
+  :orthography "balach" ; 
+  :formOf :balach.n .
+
+:balaich.ngs 
+  a :GenitiveSingular ;
+  :orthography "balaich" ; 
+  :formOf :balach.n .
+
+:balaich.nnp 
+  a :NominativePlural ;
+  :orthography "balaich" ; 
+  :formOf :balach.n .
+
+:balach.ngp 
+  a :GenitivePlural ;
+  :orthography "balach" ; 
+  :formOf :balach.n .
+
+:balach.boy
+  a :Concrete ;
+  :en "boy" .
+
+
+:balla.n 
+  a :MasculineNoun ;
+  :sense :balla.wall .
+
+:balla.nns 
+  a :NominativeSingular ;
+  :orthography "balla" ; 
+  :formOf :balla.n .
+
+:balla.ngs 
+  a :GenitiveSingular ;
+  :orthography "balla" ; 
+  :formOf :balla.n .
+
+:ballachan.nnp 
+  a :NominativePlural ;
+  :orthography "ballachan" ; 
+  :formOf :balla.n .
+
+:balla.wall
+  a :Concrete ;
+  :en "wall" .   
+
+
+:banais.n 
+  a :FeminineNoun ;
+  :sense :banais.wedding .
+
+:banais.nns 
+  a :NominativeSingular ;
+  :orthography "banais" ; 
+  :formOf :banais.n .
+
+:bainnse.ngs 
+  a :GenitiveSingular ;
+  :orthography "bainnse" ; 
+  :formOf :banais.n .
+
+:bainnsean.nnp 
+  a :NominativePlural ;
+  :orthography "bainnsean" ; 
+  :formOf :banais.n .
+
+:banais.wedding
+  a :Abstract ;
+  :en "wedding" .   
+
+
+:bann.n 
+  a :MasculineNoun ;
+  :sense :bann.hinge .
+
+:bann.nns 
+  a :NominativeSingular ;
+  :orthography "bann" ; 
+  :formOf :bann.n .
+
+:banna.ngs 
+  a :GenitiveSingular ;
+  :orthography "banna" ; 
+  :formOf :bann.n .
+
+:bannan.nnp 
+  a :NominativePlural ;
+  :orthography "bannan" ; 
+  :formOf :bann.n .
+
+:banntan.nnp 
+  a :NominativePlural ;
+  :orthography "banntan" ; 
+  :formOf :bann.n .
+
+:bann.hinge
+  a :Concrete ;
+  :en "hinge" .   
+
+
+:barail.n 
+  a :FeminineNoun ;
+  :sense :barail.opinion .
+
+:barail.nns 
+  a :NominativeSingular ;
+  :orthography "barail" ; 
+  :formOf :barail.n .
+
+:baralach.ngs 
+  a :GenitiveSingular ;
+  :orthography "baralach" ; 
+  :formOf :barail.n .
+
+:baralaichean.nnp 
+  a :NominativePlural ;
+  :orthography "baralaichean" ; 
+  :formOf :barail.n .
+
+:barailean.nnp 
+  a :NominativePlural ;
+  :orthography "barailean" ; 
+  :formOf :barail.n .
+
+:barail.opinion
+  a :Abstract ;
+  :en "opinion" .   
+
+
+:bàrd.n 
+  a :MasculineNoun ;
+  :sense :bàrd.poet .
+
+:bàrd.nns 
+  a :NominativeSingular ;
+  :orthography "bàrd" ; 
+  :formOf :bàrd.n .
+
+:bàird.ngs 
+  a :GenitiveSingular ;
+  :orthography "bàird" ; 
+  :formOf :bàrd.n .
+
+:bàird.nnp 
+  a :NominativePlural ;
+  :orthography "bàird" ; 
+  :formOf :bàrd.n .
+
+:bàrd.ngp 
+  a :GenitivePlural ;
+  :orthography "bàrd" ; 
+  :formOf :bàrd.n .
+
+:bàrd.poet
+  a :Concrete ;
+  :en "poet" .
+
+
+:bàrr.n 
+  a :MasculineNoun ;
+  :sense :bàrr.top .
+
+:bàrr.nns 
+  a :NominativeSingular ;
+  :orthography "bàrr" ; 
+  :formOf :bàrr.n .
+
+:barra.ngs 
+  a :GenitiveSingular ;
+  :orthography "barra" ; 
+  :formOf :bàrr.n .
+
+:barran.nnp 
+  a :NominativePlural ;
+  :orthography "barran" ; 
+  :formOf :bàrr.n .
+
+:bàrr.top
+  a :Abstract ;
+  :en "top, crest" .
+
+
+:barrall.n 
+  a :FeminineNoun ;
+  :sense :barrall.shoelace .
+
+:barrall.nns 
+  a :NominativeSingular ;
+  :orthography "barrall" ; 
+  :formOf :barrall.n .
+
+:barraill.ngs 
+  a :GenitiveSingular ;
+  :orthography "barraill" ; 
+  :formOf :barrall.n .
+
+:barraillean.nnp 
+  a :NominativePlural ;
+  :orthography "barraillean" ; 
+  :formOf :barrall.n .
+
+:barrall.shoelace
+  a :Concrete ;
+  :en "shoelace" .
+
+
+:bas.n 
+  a :FeminineNoun ;
+  :sense :bas.palm .
+
+:bas.nns 
+  a :NominativeSingular ;
+  :orthography "bas" ; 
+  :formOf :bas.n .
+
+:boise.ngs 
+  a :GenitiveSingular ;
+  :orthography "boise" ; 
+  :formOf :bas.n .
+
+:basan.nnp 
+  a :NominativePlural ;
+  :orthography "basan" ; 
+  :formOf :bas.n .
+
+:bas.palm
+  a :Concrete ;
+  :en "palm (of hand)" .  # cf. làmh
+  
+  
+:bascaid.n 
+  a :FeminineNoun ;
+  :sense :bascaid.basket .
+
+:bascaid.nns 
+  a :NominativeSingular ;
+  :orthography "bascaid" ; 
+  :formOf :bascaid.n .
+
+:bascaide.ngs 
+  a :GenitiveSingular ;
+  :orthography "bascaide" ; 
+  :formOf :bascaid.n .
+
+:bascaidean.nnp 
+  a :NominativePlural ;
+  :orthography "bascaidean" ; 
+  :formOf :bascaid.n .
+
+:bascaid.basket
+  a :Concrete ;
+  :en "basket" .
+
+    
+:bàta.n 
+  a :MasculineNoun ;
+  :sense :bàta.boat.
+
+:bàta.nns 
+  a :NominativeSingular ;
+  :orthography "bàta" ; 
+  :formOf :bàta.n .
+
+:bàta.ngs 
+  a :GenitiveSingular ;
+  :orthography "bàta" ; 
+  :formOf :bàta.n .
+
+:bàtaichean.nnp 
+  a :NominativePlural ;
+  :orthography "bàtaichean" ; 
+  :formOf :bàta.n .
+
+:bàta.boat
+  a :Concrete ;
+  :en "boat" .        
+
+  
+:bata.n 
+  a :MasculineNoun ;
+  :sense :bata.walking_stick .
+
+:bata.nns 
+  a :NominativeSingular ;
+  :orthography "bata" ; 
+  :formOf :bata.n .
+
+:bata.ngs 
+  a :GenitiveSingular ;
+  :orthography "bata" ; 
+  :formOf :bata.n .
+
+:bataichean.nnp 
+  a :NominativePlural ;
+  :orthography "bataichean" ; 
+  :formOf :bata.n .
+
+:bata.walking_stick
+  a :Concrete ;
+  :en "walking stick" .        
+
+
+:bàthach.n 
+  a :FeminineNoun ;
+  :sense :bàthach.byre .
+
+:bàthach.nns 
+  a :NominativeSingular ;
+  :orthography "bàthach" ; 
+  :formOf :bàthach.n .
+
+:bàthcha.ngs 
+  a :GenitiveSingular ;
+  :orthography "bàthach" ; 
+  :formOf :bàthach.n .
+
+:bàthchannan.nnp 
+  a :NominativePlural ;
+  :orthography "bàthchannan" ; 
+  :formOf :bàthach.n .
+
+:bàthaichean.nnp 
+  a :NominativePlural ;
+  :orthography "bàthaichean" ; 
+  :formOf :bàthach.n .
+
+:bàthach.byre
+  a :Concrete ;
+  :en "byre" .       
+
+
+:beachd.n 
+  a :MasculineNoun ;
+  :sense :beachd.opinion .
+
+:beachd.nns 
+  a :NominativeSingular ;
+  :orthography "beachd" ; 
+  :formOf :beachd.n .
+
+:beachd.ngs 
+  a :GenitiveSingular ;
+  :orthography "beachd" ; 
+  :formOf :beachd.n .
+
+:beachdan.nnp 
+  a :NominativePlural ;
+  :orthography "beachdan" ; 
+  :formOf :beachd.n .
+
+:beachd.opinion 
+  a :Abstract ;
+  :en "opinion" .    # cf. barail
+
+
+:bean.n 
+  a :FeminineNoun ;
+  :sense :bean.woman .
+
+:bean.nns 
+  a :NominativeSingular ;
+  :orthography "bean" ; 
+  :formOf :bean.n .
+
+:mnatha.ngs 
+  a :GenitiveSingular ;
+  :orthography "mnatha" ; 
+  :formOf :bean.n .
+
+:mnathan.nnp 
+  a :NominativePlural ;
+  :orthography "mnathan" ; 
+  :formOf :bean.n .
+
+:ban.ngp 
+  a :GenitivePlural ;
+  :orthography "ban" ; 
+  :formOf :bean.n .  
+
+:woman.i
+  a :Concrete ;
+  :en "woman" .       
+
+
+:beannachd.n 
+  a :FeminineNoun ;
+  :sense :beannachd.blessing .
+
+:beannachd.nns 
+  a :NominativeSingular ;
+  :orthography "beannachd" ; 
+  :formOf :beannachd.n .
+
+:beannachd.ngs 
+  a :GenitiveSingular ;
+  :orthography "beannachd" ; 
+  :formOf :beannachd.n .
+
+:beannachdan.nnp 
+  a :NominativePlural ;
+  :orthography "beannachdan" ; 
+  :formOf :beannachd.n .    
+  
+:beannachd.blessing
+  a :Abstract ;
+  :en "blessing" .       
+  
+  
+:beinn.n 
+  a :FeminineNoun ;
+  :sense :beinn.mountain .
+
+:beinn.nns 
+  a :NominativeSingular ;
+  :orthography "beinn" ; 
+  :formOf :beinn.n .
+
+:beinne.ngs 
+  a :GenitiveSingular ;
+  :orthography "beinne" ; 
+  :formOf :beinn.n .
+
+:beanntan.nnp 
+  a :NominativePlural ;
+  :orthography "beanntan" ; 
+  :formOf :beinn.n .    
+  
+:beinn.mountain
+  a :Concrete ;
+  :en "mountain" .
+  
+  
+:beul.n 
+  a :MasculineNoun ;
+  :sense :beul.mouth .
+
+:beul.nns 
+  a :NominativeSingular ;
+  :orthography "beul" ;
+  :formOf :beul.n .
+  
+:beòil.ngs 
+  a :GenitiveSingular ;
+  :orthography "beòil" ;
+  :formOf :beul.n .
+
+:beòil.nnp 
+  a :NominativePlural ;
+  :orthography "beòil" ;
+  :formOf :beul.n .
+
+:beul.ngp 
+  a :GenitivePlural ;
+  :orthography "beul" ;
+  :formOf :beul.n .
+
+:beul.mouth
+  a :Concrete ;
+  :en "mouth" .
+
+
+:beum.n 
+  a :MasculineNoun ;
+  :sense :beum.blow .
+
+:beum.nns 
+  a :NominativeSingular ;
+  :orthography "beum" ; 
+  :formOf :beum.n .
+
+:beuma.ngs 
+  a :GenitiveSingular ;
+  :orthography "beuma" ; 
+  :formOf :beum.n .
+
+:beumannan.nnp 
+  a :NominativePlural ;
+  :orthography "beumannan" ; 
+  :formOf :beum.n .    
+  
+:beum.blow
+  a :Abstract ;
+  :en "blow" .  
+
+
+:biadh.n 
+  a :MasculineNoun ;
+  :sense :biadh.food .
+
+:biadh.nns 
+  a :NominativeSingular ;
+  :orthography "biadh" ; 
+  :formOf :biadh.n .
+
+:bìdh.ngs 
+  a :GenitiveSingular ;
+  :orthography "bìdh" ; 
+  :formOf :biadh.n .  
+  
+:biadh.food
+  a :Concrete ;
+  :en "food" .
+  
+
+:bìoball.n 
+  a :MasculineNoun ;
+  :sense :bìoball.bible .
+
+:bìoball.nns 
+  a :NominativeSingular ;
+  :orthography "bìoball" ;
+  :formOf :bìoball.n .
+  
+:bìobaill.ngs 
+  a :GenitiveSingular ;
+  :orthography "bìobaill" ;
+  :formOf :bìoball.n .
+
+:bìobaill.nnp 
+  a :NominativePlural ;
+  :orthography "bìobaill" ;
+  :formOf :bìoball.n .
+
+:bìoball.ngp 
+  a :GenitivePlural ;
+  :orthography "bìoball" ;
+  :formOf :bìoball.n .
+
+:bìobull.nns 
+  a :NominativeSingular ;
+  :orthography "bìobull" ;
+  :formOf :bìoball.n .
+  
+:bìobuill.ngs 
+  a :GenitiveSingular ;
+  :orthography "bìobuill" ;
+  :formOf :bìoball.n .
+
+:bìobuill.nnp 
+  a :NominativePlural ;
+  :orthography "bìobuill" ;
+  :formOf :bìoball.n .
+
+:bìobull.ngp 
+  a :GenitivePlural ;
+  :orthography "bìobull" ;
+  :formOf :bìoball.n .
+
+:bìoball.bible
+  a :Concrete ;
+  :en "bible" .
+
+
+:blas.n 
+  a :MasculineNoun ;
+  :sense :blas.taste .
+
+:blas.nns 
+  a :NominativeSingular ;
+  :orthography "blas" ;
+  :formOf :blas.n .
+  
+:blais.ngs 
+  a :GenitiveSingular ;
+  :orthography "blais" ;
+  :formOf :blas.n .  
+
+:blas.taste
+  a :Abstract ;
+  :en "taste" .
+  
+
+:bliadhna.n 
+  a :FeminineNoun ;
+  :sense :bliadhna.year .
+
+:bliadhna.nns 
+  a :NominativeSingular ;
+  :orthography "bliadhna" ; 
+  :formOf :bliadhna.n .
+
+:bliadhna.ngs 
+  a :GenitiveSingular ;
+  :orthography "bliadhna" ; 
+  :formOf :bliadhna.n .
+
+:bliadhnachan.nnp 
+  a :NominativePlural ;
+  :orthography "bliadhnachan" ; 
+  :formOf :bliadhna.n .    
+  
+:bliadhna.year
+  a :Abstract ;
+  :en "year" .    
+
+
+:bò.n 
+  a :FeminineNoun ;
+  :sense :bò.cow .
+
+:bò.nns 
+  a :NominativeSingular ;
+  :orthography "bò" ; 
+  :formOf :bò.n .
+
+:bà.ngs 
+  a :GenitiveSingular ;
+  :orthography "bà" ; 
+  :formOf :bò.n .
+
+:bà.nnp 
+  a :NominativePlural ;
+  :orthography "bà" ; 
+  :formOf :bò.n .    
+  
+:bó.nns 
+  a :NominativeSingular ;
+  :orthography "bó" ; 
+  :formOf :bò.n .  
+  
+:bò.cow
+  a :Concrete ;
+  :en "cow" .    
+
+
+:bocsa.n 
+  a :MasculineNoun ;
+  :sense :bocsa.box .
+
+:bocsa.nns 
+  a :NominativeSingular ;
+  :orthography "bocsa" ; 
+  :formOf :bocsa.n .
+
+:bocsa.ngs 
+  a :GenitiveSingular ;
+  :orthography "bocsa" ; 
+  :formOf :bocsa.n .
+
+:bocsaichean.nnp 
+  a :NominativePlural ;
+  :orthography "bocsaichean" ; 
+  :formOf :bocsa.n .    
+  
+:bocsa.box
+  a :Concrete ;
+  :en "box" .    
+
+
+:bodach.n 
+  a :MasculineNoun ;
+  :sense :bodach.old_man .
+
+:bodach.nns 
+  a :NominativeSingular ;
+  :orthography "bodach" ;
+  :formOf :bodach.n .
+  
+:bodaich.ngs 
+  a :GenitiveSingular ;
+  :orthography "bodaich" ;
+  :formOf :bodach.n .
+
+:bodaich.nnp 
+  a :NominativePlural ;
+  :orthography "bodaich" ;
+  :formOf :bodach.n .
+
+:bodach.ngp 
+  a :GenitivePlural ;
+  :orthography "bodach" ;
+  :formOf :bodach.n .
+
+:bodach.old_man
+  a :Concrete ;
+  :en "old man" .
+  
+
+:boireannach.n 
+  a :MasculineNoun ;
+  :sense :boireannach.woman .
+
+:boireannach.nns 
+  a :NominativeSingular ;
+  :orthography "boireannach" ;
+  :formOf :boireannach.n .
+  
+:boireannaich.ngs 
+  a :GenitiveSingular ;
+  :orthography "boireannaich" ;
+  :formOf :boireannach.n .
+
+:boireannaich.nnp 
+  a :NominativePlural ;
+  :orthography "boireannaich" ;
+  :formOf :boireannach.n .
+
+:boireannach.ngp 
+  a :GenitivePlural ;
+  :orthography "boireannach" ;
+  :formOf :boireannach.n .  
+
+:boireannach.woman
+  a: Concrete ;
+  :en "woman" .    # cf. bean
+
+
+:bonaid.n 
+  a :FeminineNoun ;
+  :sense :bonaid.bonnet .
+
+:bonaid.nns 
+  a :NominativeSingular ;
+  :orthography "bonaid" ; 
+  :formOf :bonaid.n .
+
+:bonaide.ngs 
+  a :GenitiveSingular ;
+  :orthography "bonaide" ; 
+  :formOf :bonaid.n .
+
+:bonaidean.nnp 
+  a :NominativePlural ;
+  :orthography "bonaidean" ; 
+  :formOf :bonaid.n .    
+  
+:bonaid.bonnet
+  a :Concrete ;
+  :en "bonnet, cap" ;
+  :senseOf :bonaid.n .    # cf. ad
+
+
+:bonn.n 
+  a :MasculineNoun ;
+  :sense :bonn.coin .
+
+:bonn.nns 
+  a :NominativeSingular ;
+  :orthography "bonn" ;
+  :formOf :bonn.n .
+  
+:buinn.ngs 
+  a :GenitiveSingular ;
+  :orthography "buinn" ;
+  :formOf :bonn.n .
+
+:buinn.nnp 
+  a :NominativePlural ;
+  :orthography "buinn" ;
+  :formOf :bonn.n .
+
+:bonn.nns 
+  a :GenitivePlural ;
+  :orthography "bonn" ;
+  :formOf :bonn.n .  
+
+:bonnan.nnp 
+  a :NominativePlural ;
+  :orthography "bonnan" ;
+  :formOf :bonn.n .
+
+:bonn.coin
+  a :Concrete ;
+  :en "coin" .  
+                     
+
+:botal.n 
+  a :MasculineNoun ;
+  :sense :botal.bottle .
+
+:botal.nns 
+  a :NominativeSingular ;
+  :orthography "botal" ;
+  :formOf :botal.n .
+  
+:botail.ngs 
+  a :GenitiveSingular ;
+  :orthography "botail" ;
+  :formOf :botal.n .
+
+:botail.nnp 
+  a :NominativePlural ;
+  :orthography "botail" ;
+  :formOf :botal.n .
+
+:botal.ngp 
+  a :GenitivePlural ;
+  :orthography "botal" ;
+  :formOf :botal.n .  
+
+:botul.nns 
+  a :NominativeSingular ;
+  :orthography "botul" ;
+  :formOf :botal.n .
+  
+:botuil.ngs 
+  a :GenitiveSingular ;
+  :orthography "botuil" ;
+  :formOf :botal.n .
+
+:botuil.nnp 
+  a :NominativePlural ;
+  :orthography "botuil" ;
+  :formOf :botal.n .
+
+:botul.ngp 
+  a :GenitivePlural ;
+  :orthography "botul" ;
+  :formOf :botal.n .  
+
+:botal.bottle
+  a :Concrete ;
+  :en "bottle" .
+  
+
+:bracaist.n 
+  a :FeminineNoun ;
+  :sense :bracaist.breakfast .
+
+:bracaist.nns 
+  a :NominativeSingular ;
+  :orthography "bracaist" ; 
+  :formOf :bracaist.n .
+
+:bracaiste.ngs 
+  a :GenitiveSingular ;
+  :orthography "bracaiste" ; 
+  :formOf :bracaist.n .
+
+:bracaistean.nnp 
+  a :NominativePlural ;
+  :orthography "bracaistean" ; 
+  :formOf :bracaist.n .    
+  
+:bracaist.breakfast
+  a :Abstract ;
+  :en "breakfast" ;
+  :senseOf :bracaist.n .      
+
+
+:bradan.n 
+  a :MasculineNoun ;
+  :sense :bradan.salmon .
+
+:bradan.nns 
+  a :NominativeSingular ;
+  :orthography "bradan" ;
+  :formOf :bradan.n .
+  
+:bradain.ngs 
+  a :GenitiveSingular ;
+  :orthography "bradain" ;
+  :formOf :bradan.n .
+
+:bradain.nnp 
+  a :NominativePlural ;
+  :orthography "bradain" ;
+  :formOf :bradan.n .
+
+:bradan.ngp 
+  a :GenitivePlural ;
+  :orthography "bradan" ;
+  :formOf :bradan.n .  
+
+:bradan.salmon
+  a :Concrete ;
+  :en "salmon" .  
+
+
+:bratach.n 
+  a :FeminineNoun ;
+  :sense :bratach.banner .
+
+:bratach.nns 
+  a :NominativeSingular ;
+  :orthography "bratach" ; 
+  :formOf :bratach.n .
+
+:brataiche.ngs 
+  a :GenitiveSingular ;
+  :orthography "brataiche" ; 
+  :formOf :bratach.n .
+
+:brataichean.nnp 
+  a :NominativePlural ;
+  :orthography "brataichean" ; 
+  :formOf :bratach.n .    
+  
+:bratach.banner
+  a :Concrete ;
+  :en "banner" .      
+
+
+:bràthair.n 
+  a :MasculineNoun ;
+  :sense :bràthair.brother .
+
+:bràthair.1 
+  a :NominativeSingular ;
+  :orthography "bràthair" ; 
+  :formOf :bràthair.n .
+
+:bràthar.1 
+  a :GenitiveSingular ;
+  :orthography "bràthar" ; 
+  :formOf :bràthair.n .
+
+:bràithrean.1 
+  a :NominativePlural ;
+  :orthography "bràithrean" ; 
+  :formOf :bràthair.n .    
+  
+:bràthair.brother
+  a :Abstract ;
+  :en "brother" .      
+
+
+:breac.n 
+  a :MasculineNoun ;
+  :sense :breac.trout .
+
+:breac.nns 
+  a :NominativeSingular ;
+  :orthography "breac" ;
+  :formOf :breac.n .
+  
+:bric.ngs 
+  a :GenitiveSingular ;
+  :orthography "bric" ;
+  :formOf :breac.n .
+
+:bric.nnp 
+  a :NominativePlural ;
+  :orthography "bric" ;
+  :formOf :breac.n .
+
+:breac.ngp 
+  a :GenitivePlural ;
+  :orthography "breac" ;
+  :formOf :breac.n .  
+
+:breac.trout
+  a :Concrete ;
+  :en "trout" .   # cf. iasg  
+
+
+:breug.n 
+  a :FeminineNoun ;
+  :sense :breug.lie .
+
+:breug.nns 
+  a :NominativeSingular ;
+  :orthography "breug" ; 
+  :formOf :breug.n .
+
+:breige.ngs 
+  a :GenitiveSingular ;
+  :orthography "breige" ; 
+  :formOf :breug.n .
+
+:breugan.nnp 
+  a :NominativePlural ;
+  :orthography "breugan" ; 
+  :formOf :breug.n .    
+  
+:breug.lie
+  a :Abstract ;
+  :en "lie" .      
+
+
+:brìgh.n 
+  a :FeminineNoun ;
+  :sense :brìgh.essence ;
+
+:brìgh.1 
+  a :NominativeSingular ;
+  :orthography "brìgh" ; 
+  :formOf :brìgh.n .
+
+:brìghe.1 
+  a :GenitiveSingular ;
+  :orthography "brìghe" ; 
+  :formOf :brìgh.n .
+  
+:brìgh.essence
+  a :Abstract ;
+  :en "essence, substance, meaning" .      
+  
+
+:briogais.n 
+  a :FeminineNoun ;
+  :sense :briogais.trousers .
+
+:briogais.nns 
+  a :NominativeSingular ;
+  :orthography "briogais" ; 
+  :formOf :briogais.n .
+
+:briogaise.ngs 
+  a :GenitiveSingular ;
+  :orthography "briogaise" ; 
+  :formOf :briogais.n .
+
+:briogaisean.nnp 
+  a :NominativePlural ;
+  :orthography "briogaisean" ; 
+  :formOf :briogais.n .    
+  
+:briogais.trousers
+  a :Concrete ;
+  :en "trousers" .      
+
+
+:brioscaid.n 
+  a :FeminineNoun ;
+  :sense :brioscaid.biscuit .
+
+:brioscaid.nns 
+  a :NominativeSingular ;
+  :orthography "brioscaid" ; 
+  :formOf :brioscaid.n .
+
+:brioscaide.ngs 
+  a :GenitiveSingular ;
+  :orthography "brioscaide" ; 
+  :formOf :brioscaid.n .
+
+:brioscaidean.nnp 
+  a :NominativePlural ;
+  :orthography "brioscaidean" ; 
+  :formOf :brioscaid.n .    
+  
+:brioscaid.biscuit
+  a :Concrete ;
+  :en "biscuit" . 
+  
+
+:bròg.n 
+  a :FeminineNoun ;
+  :sense :bròg.shoe .
+
+:bròg.nns 
+  a :NominativeSingular ;
+  :orthography "bròg" ; 
+  :formOf :bròg.n .
+
+:bròige.ngs 
+  a :GenitiveSingular ;
+  :orthography "bròige" ; 
+  :formOf :bròg.n .
+
+:brògan.nnp 
+  a :NominativePlural ;
+  :orthography "brògan" ; 
+  :formOf :bròg.n .    
+  
+:bròg.shoe
+  a :Concrete ;
+  :en "shoe" .     # cf. cas
+
+
+:brot.n 
+  a :MasculineNoun ;
+  :sense :brot.soup .
+
+:brot.nns 
+  a :NominativeSingular ;
+  :orthography "brot" ; 
+  :formOf :brot.n .
+
+:brota.ngs 
+  a :GenitiveSingular ;
+  :orthography "brota" ; 
+  :formOf :brot.n .
+  
+:brot.soup
+  a :Concrete ;
+  :en "soup, broth" . 
+
+
+:bruach.n 
+  a :FeminineNoun ;
+  :sense :bruach.bank .
+
+:bruach.nns 
+  a :NominativeSingular ;
+  :orthography "bruach" ; 
+  :formOf :bruach.n .
+
+:bruaiche.ngs 
+  a :GenitiveSingular ;
+  :orthography "bruaiche" ; 
+  :formOf :bruach.n .
+
+:bruachan.nnp 
+  a :NominativePlural ;
+  :orthography "bruachan" ; 
+  :formOf :bruach.n .    
+  
+:bruach.bank
+  a :Concrete ;
+  :en "bank" . 
+
+
+:bruthach.n 
+  a :FeminineNoun ;
+  :sense :bruthach.slope .
+
+:bruthach.nns 
+  a :NominativeSingular ;
+  :orthography "bruthach" ; 
+  :formOf :bruthach.n .
+
+:bruthaiche.ngs 
+  a :GenitiveSingular ;
+  :orthography "bruthaiche" ; 
+  :formOf :bruthach.n .
+
+:bruthachan.nnp 
+  a :NominativePlural ;
+  :orthography "bruthachan" ; 
+  :formOf :bruthach.n .    
+  
+:bruthach.slope
+  a :Concrete ;
+  :en "slope" . 
+
+
+:buaile.n 
+  a :FeminineNoun ;
+  :sense :buaile.fold .
+
+:buaile.nns 
+  a :NominativeSingular ;
+  :orthography "buaile" ; 
+  :formOf :buaile.n .
+
+:buaile.ngs 
+  a :GenitiveSingular ;
+  :orthography "buaile" ; 
+  :formOf :buaile.n .
+
+:buailtean.nnp 
+  a :NominativePlural ;
+  :orthography "buailtean" ; 
+  :formOf :buaile.n .    
+  
+:buaile.fold
+  a :Concrete ;
+  :en "fold (for sheep or cattle)" .
+
+
+:bùth.n 
+  a :FeminineNoun ;
+  :sense :bùth.shop .
+
+:bùth.nns 
+  a :NominativeSingular ;
+  :orthography "bùth" ; 
+  :formOf :bùth.n .
+
+:bùtha.ngs 
+  a :GenitiveSingular ;
+  :orthography "bùtha" ; 
+  :formOf :bùth.n .
+
+:bùthan.nnp 
+  a :NominativePlural ;
+  :orthography "bùthan" ; 
+  :formOf :bùth.n .    
+  
+:bùth.shop
+  a :Concrete ;
+  :en "shop" .
+  
+  
+:cabhag.n 
+  a :FeminineNoun ;
+  :sense :cabhag.hurry .
+
+:cabhag.nns 
+  a :NominativeSingular ;
+  :orthography "cabhag" ; 
+  :formOf :cabhag.n .
+
+:cabhaige.ngs 
+  a :GenitiveSingular ;
+  :orthography "cabhaige" ; 
+  :formOf :cabhag.n . 
+  
+:cabhag.hurry
+  a :Abstract ;
+  :en "hurry" .
+
+
+:cabhsair.n 
+  a :MasculineNoun ;
+  :sense :cabhsair.pavement .
+
+:cabhsair.nns 
+  a :NominativeSingular ;
+  :orthography "cabhsair" ; 
+  :formOf :cabhsair.n .
+
+:cabhsair.ngs 
+  a :GenitiveSingular ;
+  :orthography "cabhsair" ; 
+  :formOf :cabhsair.n .
+
+:cabhsairean.nnp 
+  a :NominativePlural ;
+  :orthography "cabhsairean" ; 
+  :formOf :cabhsair.n .    
+  
+:cabhsair.pavement
+  a :Concrete ;
+  :en "pavement" .
+
+
+:cagar.n 
+  a :MasculineNoun ;
+  :sense :cagar.darling .
+
+:cagar.nns 
+  a :NominativeSingular ;
+  :orthography "cagar" ; 
+  :formOf :cagar.n .
+
+:cagair.ngs 
+  a :GenitiveSingular ;
+  :orthography "cagair" ; 
+  :formOf :cagar.n .
+
+:cagairean.nnp 
+  a :NominativePlural ;
+  :orthography "cagairean" ; 
+  :formOf :cagar.n .    
+  
+:cagar.darling
+  a :Abstract ;
+  :en "darling, dear" .
+
+
+:caibidil.n 
+  a :FeminineNoun ;
+  :sense :caibidil.chapter .
+
+:caibidil.nns 
+  a :NominativeSingular ;
+  :orthography "caibidil" ; 
+  :formOf :caibidil.n .
+
+:caibidile.ngs 
+  a :GenitiveSingular ;
+  :orthography "caibidile" ; 
+  :formOf :caibidil.n .
+
+:caibidilean.nnp 
+  a :NominativePlural ;
+  :orthography "caibidilean" ; 
+  :formOf :caibidil.n .    
+  
+:caibideil.chapter
+  a :Abstract ;
+  :en "chapter" .   
+  
+
+:cailc.n 
+  a :FeminineNoun ;
+  :sense :cailc.chalk .
+
+:cailc.nns 
+  a :NominativeSingular ;
+  :orthography "cailc" ; 
+  :formOf :cailc.n .
+
+:cailce.ngs 
+  a :GenitiveSingular ;
+  :orthography "cailce" ; 
+  :formOf :cailc.n .
+
+:cailc.chalk
+  a :Concrete ;
+  :en "chalk" .   
+  
+
+:caileag.n a :FeminineNoun .
+
+:caileag.1 
+  a :NominativeSingular ;
+  :orthography "caileag" ; 
+  :formOf :caileag.n .
+
+:caileige.1 
+  a :GenitiveSingular ;
+  :orthography "caileige" ; 
+  :formOf :caileag.n .
+
+:caileagan.1 
+  a :NominativePlural ;
+  :orthography "caileagan" ; 
+  :formOf :caileag.n .    
+  
+:girl.i
+  a :Concrete ;
+  :en "girl" ;
+  :senseOf :caileag.n .     
+
+
+:cailleach.n a :FeminineNoun .
+
+:cailleach.1 
+  a :NominativeSingular ;
+  :orthography "cailleach" ; 
+  :formOf :cailleach.n .
+
+:cailliche.1 
+  a :GenitiveSingular ;
+  :orthography "cailliche" ; 
+  :formOf :cailleach.n .
+
+:caillichean.1 
+  a :NominativePlural ;
+  :orthography "caillichean" ; 
+  :formOf :cailleach.n .    
+  
+:old_woman.i
+  a :Concrete ;
+  :en "old woman" ;
+  :senseOf :cailleach.n .     
+
+
+:cairteal.n a :MasculineNoun .
+
+:cairteal.1 
+  a :NominativeSingular ;
+  :orthography "cairteal" ; 
+  :formOf :cairteal.n .
+
+:cairteil.1 
+  a :GenitiveSingular ;
+  :orthography "cairteil" ; 
+  :formOf :cairteal.n .
+
+:cairtealan.1 
+  a :NominativePlural ;
+  :orthography "cairtealan" ; 
+  :formOf :cairteal.n .    
+  
+:quarter.i
+  a :Abstract ;
+  :en "quarter" ;
+  :senseOf :cairteal.n .     
+
+
+:càise.n a :MasculineNoun .
+
+:càise.1 
+  a :NominativeSingular ;
+  :orthography "càise" ; 
+  :formOf :càise.n .
+
+:càise.2 
+  a :GenitiveSingular ;
+  :orthography "càise" ; 
+  :formOf :càise.n .  
+  
+:cheese.i
+  a :Concrete ;
+  :en "cheese" ;
+  :senseOf :càise.n .     
+
+
+:caisteal.n a :MasculineNoun .
+
+:caisteal.1 
+  a :NominativeSingular ;
+  :orthography "caisteal" ; 
+  :formOf :caisteal.n .
+
+:caisteil.1 
+  a :GenitiveSingular ;
+  :orthography "caisteil" ; 
+  :formOf :caisteal.n .
+
+:caistealan.1 
+  a :NominativePlural ;
+  :orthography "caistealan" ; 
+  :formOf :caisteal.n .    
+  
+:castle.i
+  a :Concrete ;
+  :en "castle" ;
+  :senseOf :caisteal.n .     
+
+
+:cala.n a :MasculineNoun .
+
+:cala.1 
+  a :NominativeSingular ;
+  :orthography "cala" ; 
+  :formOf :cala.n .
+
+:cala.2 
+  a :GenitiveSingular ;
+  :orthography "cala" ; 
+  :formOf :cala.n .
+
+:calachan.1 
+  a :NominativePlural ;
+  :orthography "calachan" ; 
+  :formOf :cala.n .    
+  
+:calaichean.1 
+  a :NominativePlural ;
+  :orthography "calaichean" ; 
+  :formOf :cala.n .      
+  
+:harbour.i
+  a :Concrete ;
+  :en "harbour" ;
+  :senseOf :cala.n .
+
+
+:calman.n a :MasculineNoun .
+
+:calman.1 
+  a :NominativeSingular ;
+  :orthography "calman" ;
+  :formOf :calman.n .
+  
+:calmain.1 
+  a :GenitiveSingular ;
+  :orthography "calmain" ;
+  :formOf :calman.n .
+
+:calmain.2 
+  a :NominativePlural ;
+  :orthography "calmain" ;
+  :formOf :calman.n .
+
+:calman.2 
+  a :GenitivePlural ;
+  :orthography "calman" ;
+  :formOf :calman.n .  
+
+:dove.i
+  a :Concrete ;
+  :en "dove" ;
+  :senseOf :calman.n .  
+
+
+:calpa.n a :MasculineNoun .
+
+:calpa.1 
+  a :NominativeSingular ;
+  :orthography "calpa" ; 
+  :formOf :calpa.n .
+
+:calpa.2 
+  a :GenitiveSingular ;
+  :orthography "calpa" ; 
+  :formOf :calpa.n . 
+  
+:calpannan.1 
+  a :NominativePlural ;
+  :orthography "calpannan" ; 
+  :formOf :calpa.n .      
+  
+:calf.i
+  a :Concrete ;
+  :en "calf (leg)" ;
+  :senseOf :calpa.n .
+
+
+:caora.n a :FeminineNoun .
+
+:caora.1 
+  a :NominativeSingular ;
+  :orthography "caora" ; 
+  :formOf :caora.n .
+
+:caorach.1 
+  a :GenitiveSingular ;
+  :orthography "caorach" ; 
+  :formOf :caora.n .
+
+:caoraich.1 
+  a :NominativePlural ;
+  :orthography "caoraich" ; 
+  :formOf :caora.n .         
+  
+:sheep.i
+  a :Concrete ;
+  :en "sheep" ;
+  :senseOf :caora.n .
+
+
+:càr.n a :MasculineNoun .
+
+:càr.1 
+  a :NominativeSingular ;
+  :orthography "càr" ; 
+  :formOf :càr.n .
+
+:càir.2 
+  a :GenitiveSingular ;
+  :orthography "càir" ; 
+  :formOf :càr.n . 
+  
+:càraichean.1 
+  a :NominativePlural ;
+  :orthography "càraichean" ; 
+  :formOf :càr.n .      
+  
+:car.i
+  a :Concrete ;
+  :en "car" ;
+  :senseOf :càr.n .
+
+
+:caraid.n a :MasculineNoun .
+
+:caraid.1 
+  a :NominativeSingular ;
+  :orthography "caraid" ; 
+  :formOf :caraid.n .
+
+:caraid.2 
+  a :GenitiveSingular ;
+  :orthography "caraid" ; 
+  :formOf :caraid.n . 
+  
+:càirdean.1 
+  a :NominativePlural ;
+  :orthography "càirdean" ; 
+  :formOf :caraid.n .      
+  
+:friend.i
+  a :Abstract ;
+  :en "friend" ;
+  :senseOf :caraid.n .
+
+
+:càrn.n a :MasculineNoun .
+
+:càrn.1 
+  a :NominativeSingular ;
+  :orthography "càrn" ;
+  :formOf :càrn.n .
+  
+:càirn.1 
+  a :GenitiveSingular ;
+  :orthography "càirn" ;
+  :formOf :càrn.n .
+
+:càirn.2 
+  a :NominativePlural ;
+  :orthography "càirn" ;
+  :formOf :càrn.n .
+
+:càrn.2 
+  a :GenitivePlural ;
+  :orthography "càrn" ;
+  :formOf :càrn.n .  
+
+:cairn.i
+  a :Concrete ;
+  :en "cairn" ;
+  :senseOf :càrn.n .  
+
+
+:cas.n a :FeminineNoun .
+
+:cas.1 
+  a :NominativeSingular ;
+  :orthography "cas" ; 
+  :formOf :cas.n .
+
+:coise.1 
+  a :GenitiveSingular ;
+  :orthography "coise" ; 
+  :formOf :cas.n .
+
+:casan.1 
+  a :NominativePlural ;
+  :orthography "casan" ; 
+  :formOf :cas.n .         
+  
+:foot.i
+  a :Concrete ;
+  :en "foot" ;
+  :senseOf :cas.n .
+
+:leg.i
+  a :Concrete ;
+  :en "leg" ;
+  :senseOf :cas.n .
+  
+:shaft.i
+  a :Concrete ;
+  :en "shaft" ;
+  :senseOf :cas.n .
+  
+    
+:cat.n a :MasculineNoun .
+
+:cat.1 
+  a :NominativeSingular ;
+  :orthography "cat" ;
+  :formOf :cat.n .
+  
+:cait.1 
+  a :GenitiveSingular ;
+  :orthography "cait" ;
+  :formOf :cat.n .
+
+:cait.2 
+  a :NominativePlural ;
+  :orthography "cait" ;
+  :formOf :cat.n .
+
+:cat.2 
+  a :GenitivePlural ;
+  :orthography "cat" ;
+  :formOf :cat.n .  
+
+:cat.i
+  a :Concrete ;
+  :en "cat" ;
+  :senseOf :cat.n .  
+
+
+:cath.n a :MasculineNoun .
+
+:cath.1 
+  a :NominativeSingular ;
+  :orthography "cath" ;
+  :formOf :cath.n .
+  
+:catha.1 
+  a :GenitiveSingular ;
+  :orthography "catha" ;
+  :formOf :cath.n .
+
+:cathan.1 
+  a :NominativePlural ;
+  :orthography "cathan" ;
+  :formOf :cath.n .
+
+:battle.i
+  a :Abstract ;
+  :en "battle" ;
+  :senseOf :cath.n .  
+
+
+:cathair.n a :FeminineNoun .
+
+:cathair.1 
+  a :NominativeSingular ;
+  :orthography "cathair" ;
+  :formOf :cathair.n .
+  
+:cathrach.1 
+  a :GenitiveSingular ;
+  :orthography "cathrach" ;
+  :formOf :cathair.n .
+
+:cathraichean.1 
+  a :NominativePlural ;
+  :orthography "cathraichean" ;
+  :formOf :cathair.n .
+
+:chair.i
+  a :Concrete ;
+  :en "chair" ;
+  :senseOf :cathair.n .   
+
+
+:cead.n a :MasculineNoun .
+
+:cead.1 
+  a :NominativeSingular ;
+  :orthography "cead" ;
+  :formOf :cead.n .
+  
+:cead.2 
+  a :GenitiveSingular ;
+  :orthography "cead" ;
+  :formOf :cead.n .
+
+:interval.i
+  a :Abstract ;
+  :en "interval" ;
+  :senseOf :cead.n .  
+
+:permission.i
+  a :Abstract ;
+  :en "permission" ;
+  :senseOf :cead.n .  
+
+
+:ceann.n a :MasculineNoun .
+
+:ceann.1 
+  a :NominativeSingular ;
+  :orthography "ceann" ;
+  :formOf :ceann.n .
+  
+:cinn.1 
+  a :GenitiveSingular ;
+  :orthography "cinn" ;
+  :formOf :ceann.n .
+
+:cinn.2 
+  a :NominativePlural ;
+  :orthography "cinn" ;
+  :formOf :ceann.n .
+
+:ceann.2 
+  a :GenitivePlural ;
+  :orthography "ceann" ;
+  :formOf :ceann.n .  
+
+:head.i
+  a :Concrete ;
+  :en "head" ;
+  :senseOf :ceann.n .  
+  
+
+:cearc.n a :FeminineNoun .
+
+:cearc.1 
+  a :NominativeSingular ;
+  :orthography "cearc" ;
+  :formOf :cearc.n .
+  
+:circe.1 
+  a :GenitiveSingular ;
+  :orthography "circe" ;
+  :formOf :cearc.n .
+
+:cearcan.1 
+  a :NominativePlural ;
+  :orthography "cearcan" ;
+  :formOf :cearc.n .
+
+:hen.i
+  a :Concrete ;
+  :en "hen" ;
+  :senseOf :cearc.n .  
+
+
+:cèis.n a :FeminineNoun .
+
+:cèis.1 
+  a :NominativeSingular ;
+  :orthography "cèis" ;
+  :formOf :cèis.n .
+  
+:cèise.1 
+  a :GenitiveSingular ;
+  :orthography "cèise" ;
+  :formOf :cèis.n .
+
+:cèisean.1 
+  a :NominativePlural ;
+  :orthography "cèisean" ;
+  :formOf :cèis.n .
+
+:case.i
+  a :Concrete ;
+  :en "case" ;
+  :senseOf :cèis.n .  
+
+:envelope.i
+  a :Concrete ;
+  :en "envelope" ;
+  :senseOf :cèis.n .  
+
+
+:ceist.n a :FeminineNoun .
+
+:ceist.1 
+  a :NominativeSingular ;
+  :orthography "ceist" ;
+  :formOf :ceist.n .
+  
+:ceiste.1 
+  a :GenitiveSingular ;
+  :orthography "ceiste" ;
+  :formOf :ceist.n .
+
+:ceistean.1 
+  a :NominativePlural ;
+  :orthography "ceistean" ;
+  :formOf :ceist.n .
+
+:question.i
+  a :Abstract ;
+  :en "question" ;
+  :senseOf :ceist.n .         
+
+
+:ceòl.n a :MasculineNoun .
+
+:ceòl.1 
+  a :NominativeSingular ;
+  :orthography "ceòl" ;
+  :formOf :ceòl.n .
+  
+:ciùil.1 
+  a :GenitiveSingular ;
+  :orthography "ciùil" ;
+  :formOf :ceòl.n .
+
+:music.i
+  a :Abstract ;
+  :en "music" ;
+  :senseOf :ciùil.n .  
+
+
+:ceum.n a :MasculineNoun .
+
+:ceum.1 
+  a :NominativeSingular ;
+  :orthography "ceum" ;
+  :formOf :ceum.n .
+  
+:ceuma.1 
+  a :GenitiveSingular ;
+  :orthography "ceuma" ;
+  :formOf :ceum.n .
+
+:ceumannan.1 
+  a :NominativePlural ;
+  :orthography "ceumannan" ;
+  :formOf :ceum.n .
+
+:step.i
+  a :Abstract ;
+  :en "step" ;
+  :senseOf :ceum.n .         
+
+
+:cìobair.n a :MasculineNoun .
+
+:cìobair.1 
+  a :NominativeSingular ;
+  :orthography "cìobair" ;
+  :formOf :cìobair.n .
+  
+:cìobair.2 
+  a :GenitiveSingular ;
+  :orthography "cìobair" ;
+  :formOf :cìobair.n .
+
+:cìobairean.1 
+  a :NominativePlural ;
+  :orthography "cìobairean" ;
+  :formOf :cìobair.n .
+
+:shepherd.i
+  a :Concrete ;
+  :en "shepherd" ;
+  :senseOf :cìobair.n .         
+
+
+:cìr.n a :FeminineNoun .
+
+:cìr.1 
+  a :NominativeSingular ;
+  :orthography "cìr" ;
+  :formOf :cìr.n .
+  
+:cìre.1 
+  a :GenitiveSingular ;
+  :orthography "cìre" ;
+  :formOf :cìr.n .
+
+:cìrean.1 
+  a :NominativePlural ;
+  :orthography "cìrean" ;
+  :formOf :cìr.n .
+
+:comb.i
+  a :Concrete ;
+  :en "comb" ;
+  :senseOf :cìr.n .         
+
+
+:ciste.n a :FeminineNoun .
+
+:ciste.1 
+  a :NominativeSingular ;
+  :orthography "ciste" ;
+  :formOf :ciste.n .
+  
+:ciste.2 
+  a :GenitiveSingular ;
+  :orthography "ciste" ;
+  :formOf :ciste.n .
+
+:cistean.1 
+  a :NominativePlural ;
+  :orthography "cistean" ;
+  :formOf :ciste.n .
+
+:chest.i
+  a :Concrete ;
+  :en "chest, box" ;
+  :senseOf :ciste.n .        # cf. 'box' above
+
+
+:clach.n a :FeminineNoun .
+
+:clach.1 
+  a :NominativeSingular ;
+  :orthography "clach" ;
+  :formOf :clach.n .
+  
+:cloiche.1 
+  a :GenitiveSingular ;
+  :orthography "cloiche" ;
+  :formOf :clach.n .
+
+:clachan.1 
+  a :NominativePlural ;
+  :orthography "clachan" ;
+  :formOf :clach.n .
+
+:stone.i
+  a :Concrete ;
+  :en "stone" ;
+  :senseOf :clach.n .         
+
+
+:cladach.n a :MasculineNoun .
+
+:cladach.1 
+  a :NominativeSingular ;
+  :orthography "cladach" ;
+  :formOf :cladach.n .
+  
+:cladaich.1 
+  a :GenitiveSingular ;
+  :orthography "cladaich" ;
+  :formOf :cladach.n .
+
+:cladaichean.1 
+  a :NominativePlural ;
+  :orthography "cladaichean" ;
+  :formOf :cladach.n .
+
+:shore.i
+  a :Concrete ;
+  :en "shore" ;
+  :senseOf :cladach.n .    
+  
+  
+:clag.n a :MasculineNoun .
+
+:clag.1 
+  a :NominativeSingular ;
+  :orthography "clag" ;
+  :formOf :clag.n .
+  
+:cluig.1 
+  a :GenitiveSingular ;
+  :orthography "cluig" ;
+  :formOf :clag.n .
+
+:cluig.2 
+  a :NominativePlural ;
+  :orthography "cluig" ;
+  :formOf :clag.n .
+
+:clag.2 
+  a :GenitivePlural ;
+  :orthography "clag" ;
+  :formOf :clag.n .  
+
+:bell.i
+  a :Concrete ;
+  :en "bell" ;
+  :senseOf :clag.n .  
+    
+  
+:clann.n a :FeminineNoun .
+
+:clann.1 
+  a :NominativeSingular ;
+  :orthography "clann" ;
+  :formOf :clann.n .
+  
+:cloinne.1 
+  a :GenitiveSingular ;
+  :orthography "cloinne" ;
+  :formOf :clann.n .
+
+:children.i
+  a :Concrete ;
+  :en "children" ;
+  :senseOf :clann.n .         
+
+
+:clàrsach.n a :FeminineNoun .
+
+:clàrsach.1 
+  a :NominativeSingular ;
+  :orthography "clàrsach" ;
+  :formOf :clàrsach.n .
+  
+:clàrsaiche.1 
+  a :GenitiveSingular ;
+  :orthography "clàrsaiche" ;
+  :formOf :clàrsach.n .
+
+:clàrsaichean.1 
+  a :NominativePlural ;
+  :orthography "clàrsaichean" ;
+  :formOf :clàrsach.n .
+
+:harp.i
+  a :Concrete ;
+  :en "harp" ;
+  :senseOf :clàrsach.n .        
+
+
+:clas.n a :MasculineNoun .
+
+:clas.1 
+  a :NominativeSingular ;
+  :orthography "clas" ;
+  :formOf :clas.n .
+
+:clasaichean.1 
+  a :NominativePlural ;
+  :orthography "clasaichean" ;
+  :formOf :clas.n .
+
+:clas.i
+  a :Abstract ;
+  :en "class" ;
+  :senseOf :clas.n .    
+  
+  
+:cliabh.n a :MasculineNoun .
+
+:cliabh.1 
+  a :NominativeSingular ;
+  :orthography "cliabh" ;
+  :formOf :cliabh.n .
+  
+:clèibh.1 
+  a :GenitiveSingular ;
+  :orthography "clèibh" ;
+  :formOf :cliabh.n .
+
+:clèibh.2 
+  a :NominativePlural ;
+  :orthography "clèibh" ;
+  :formOf :cliabh.n .
+
+:cliabh.2 
+  a :GenitivePlural ;
+  :orthography "cliabh" ;
+  :formOf :cliabh.n .  
+
+:creel.i
+  a :Concrete ;
+  :en "creel" ;
+  :senseOf :cliabh.n .  
+
+
+:cliathach.n a :FeminineNoun .
+
+:cliathach.1 
+  a :NominativeSingular ;
+  :orthography "cliathach" ;
+  :formOf :cliathach.n .
+  
+:cliathaiche.1 
+  a :GenitiveSingular ;
+  :orthography "cliathaiche" ;
+  :formOf :cliathach.n .
+
+:cliathaichean.1 
+  a :NominativePlural ;
+  :orthography "cliathaichean" ;
+  :formOf :cliathach.n . 
+
+:side.i
+  a :Abstract ;
+  :en "side" ;
+  :senseOf :cliathach.n .                     # cf. taobh    
+  
+  
+:cluas.n a :FeminineNoun .
+
+:cluas.1 
+  a :NominativeSingular ;
+  :orthography "cluas" ;
+  :formOf :cluas.n .
+  
+:cluaise.1 
+  a :GenitiveSingular ;
+  :orthography "cluaise" ;
+  :formOf :cluas.n .
+
+:cluasan.1 
+  a :NominativePlural ;
+  :orthography "cluasan" ;
+  :formOf :cluas.n .
+
+:ear.i
+  a :Concrete ;
+  :en "ear" ;
+  :senseOf :cluas.n .     
+  
+:handle.i
+  a :Concrete ;
+  :en "handle" ;
+  :senseOf :cluas.n .     
+
+
+:cnò.n a :FeminineNoun .
+
+:cnò.1 
+  a :NominativeSingular ;
+  :orthography "cnò" ;
+  :formOf :cnò.n .
+  
+:cnotha.1 
+  a :GenitiveSingular ;
+  :orthography "cnotha" ;
+  :formOf :cnotha.n .
+
+:cnothan.1 
+  a :NominativePlural ;
+  :orthography "cnothan" ;
+  :formOf :cnò.n .
+
+:nut.i
+  a :Concrete ;
+  :en "nut" ;
+  :senseOf :cnò.n .                                                                                                                 
+  
+  
+:cnoc.n a :MasculineNoun .
+
+:cnoc.1 
+  a :NominativeSingular ;
+  :orthography "cnoc" ;
+  :formOf :cnoc.n .
+  
+:cnuic.1 
+  a :GenitiveSingular ;
+  :orthography "cnuic" ;
+  :formOf :cnoc.n .
+
+:cnuic.2 
+  a :NominativePlural ;
+  :orthography "cnuic" ;
+  :formOf :cnoc.n .
+
+:cnoc.2 
+  a :GenitivePlural ;
+  :orthography "cnoc" ;
+  :formOf :cnoc.n .  
+
+:cnocan.2 
+  a :NominativePlural ;
+  :orthography "cnocan" ;
+  :formOf :cnoc.n .
+
+:hill.i
+  a :Concrete ;
+  :en "hill" ;
+  :senseOf :cnoc.n .  # cf. mountain
+  
+
+:coileach.n a :MasculineNoun .
+
+:coileach.1 
+  a :NominativeSingular ;
+  :orthography "coileach" ;
+  :formOf :coileach.n .
+  
+:coilich.1 
+  a :GenitiveSingular ;
+  :orthography "coilich" ;
+  :formOf :coileach.n .
+
+:coilich.2 
+  a :NominativePlural ;
+  :orthography "coilich" ;
+  :formOf :coileach.n .
+
+:coileach.2 
+  a :GenitivePlural ;
+  :orthography "coileach" ;
+  :formOf :coileach.n .  
+
+:cockerel.i
+  a :Concrete ;
+  :en "cock, cockerel" ;
+  :senseOf :coileach.n .  # cf. hen
+    
+
+:coille.n a :FeminineNoun .
+
+:coille.1 
+  a :NominativeSingular ;
+  :orthography "coille" ;
+  :formOf :coille.n .
+  
+:coille.2 
+  a :GenitiveSingular ;
+  :orthography "coille" ;
+  :formOf :coille.n .
+
+:coilltean.1 
+  a :NominativePlural ;
+  :orthography "coilltean" ;
+  :formOf :coille.n .
+
+:wood.i
+  a :Concrete ;
+  :en "wood, forest" ;
+  :senseOf :coille.n .     # cf, craobh                                                                                                            
+
+
+:coineanach.n a :MasculineNoun .
+
+:coineanach.1 
+  a :NominativeSingular ;
+  :orthography "coineanach" ;
+  :formOf :coineanach.n .
+  
+:coineanaich.1 
+  a :GenitiveSingular ;
+  :orthography "coineanaich" ;
+  :formOf :coineanach.n .
+
+:coineanaich.2 
+  a :NominativePlural ;
+  :orthography "coineanaich" ;
+  :formOf :coineanach.n .
+
+:coineanach.2 
+  a :GenitivePlural ;
+  :orthography "coineanach" ;
+  :formOf :coineanach.n .  
+
+:rabbit.i
+  a :Concrete ;
+  :en "rabbit" ;
+  :senseOf :coineanach.n .
+
+
+:còir.n a :FeminineNoun .
+
+:còir.1 
+  a :NominativeSingular ;
+  :orthography "còir" ;
+  :formOf :còir.n .
+  
+:còrach.1 
+  a :GenitiveSingular ;
+  :orthography "còrach" ;
+  :formOf :còir.n .
+
+:còraichean.2 
+  a :NominativePlural ;
+  :orthography "còraichean" ;
+  :formOf :còir.n .
+
+:right.i
+  a :Abstract ;
+  :en "right" ;
+  :senseOf :còir.n . 
+
+:justice.i
+  a :Abstract ;
+  :en "justice" ;
+  :senseOf :còir.n .     
+
+
+:coire.n a :MasculineNoun .
+
+:coire.1 
+  a :NominativeSingular ;
+  :orthography "coire" ;
+  :formOf :coire.n .
+  
+:coire.2 
+  a :GenitiveSingular ;
+  :orthography "coire" ;
+  :formOf :coire.n .
+
+:coireachan.1 
+  a :NominativePlural ;
+  :orthography "coireachan" ;
+  :formOf :coire.n .
+
+:kettle.i
+  a :Concrete ;
+  :en "kettle" ;
+  :senseOf :coire.n .
+
+:corry.i
+  a :Concrete ;
+  :en "corry" ;
+  :senseOf :coire.n .
+  
+
+:comain.n a :FeminineNoun .
+
+:comain.1 
+  a :NominativeSingular ;
+  :orthography "comain" ;
+  :formOf :comain.n .
+  
+:comaine.1 
+  a :GenitiveSingular ;
+  :orthography "comaine" ;
+  :formOf :comain.n .
+
+:comainean.2 
+  a :NominativePlural ;
+  :orthography "comainean" ;
+  :formOf :comain.n .
+
+:obligation.i
+  a :Abstract ;
+  :en "obligation, favour" ;
+  :senseOf :comain.n . 
+
+       
+:comhairle.n a :FeminineNoun .
+
+:comhairle.1 
+  a :NominativeSingular ;
+  :orthography "comhairle" ;
+  :formOf :comhairle.n .
+  
+:comhairle.2 
+  a :GenitiveSingular ;
+  :orthography "comhairle" ;
+  :formOf :comhairle.n .
+
+:comhairlean.2 
+  a :NominativePlural ;
+  :orthography "comhairlean" ;
+  :formOf :comhairle.n .
+
+:advice.i
+  a :Abstract ;
+  :en "advice" ;
+  :senseOf :comhairle.n .     
+
+
+:connrag.n a :FeminineNoun .
+
+:connrag.1 
+  a :NominativeSingular ;
+  :orthography "connrag" ;
+  :formOf :connrag.n .
+  
+:connraige.2 
+  a :GenitiveSingular ;
+  :orthography "connraige" ;
+  :formOf :connrag.n .
+
+:connragan.2 
+  a :NominativePlural ;
+  :orthography "connragan" ;
+  :formOf :connrag.n .
+
+:consonant.i
+  a :Abstract ;
+  :en "consonant" ;
+  :senseOf :connrag.n .     
+
+
+:còta.n a :MasculineNoun .
+
+:còta.1 
+  a :NominativeSingular ;
+  :orthography "còta" ;
+  :formOf :còta.n .
+  
+:còta.2 
+  a :GenitiveSingular ;
+  :orthography "còta" ;
+  :formOf :còta.n .
+
+:còtaichean.1 
+  a :NominativePlural ;
+  :orthography "còtaichean" ;
+  :formOf :còta.n .
+
+:coat.i
+  a :Concrete ;
+  :en "coat" ;
+  :senseOf :còta.n .  
+  
+  
+:crann.n a :MasculineNoun .
+
+:crann.1 
+  a :NominativeSingular ;
+  :orthography "crann" ;
+  :formOf :crann.n .
+  
+:crainn.1 
+  a :GenitiveSingular ;
+  :orthography "crainn" ;
+  :formOf :crann.n .
+
+:crainn.2 
+  a :NominativePlural ;
+  :orthography "crainn" ;
+  :formOf :crann.n .
+
+:crann.2 
+  a :GenitivePlural ;
+  :orthography "crann" ;
+  :formOf :crann.n .  
+
+:croinn.1 
+  a :GenitiveSingular ;
+  :orthography "croinn" ;
+  :formOf :crann.n .
+
+:croinn.2 
+  a :NominativePlural ;
+  :orthography "croinn" ;
+  :formOf :crann.n .
+
+:mast.i
+  a :Concrete ;
+  :en "mast" ;
+  :senseOf :crann.n .
+
+
+:craobh.n 
+  a :FeminineNoun ;
+  :sense :craobh.tree .
+
+:craobh.nns 
+  a :NominativeSingular ;
+  :orthography "craobh" ; 
+  :formOf :craobh.n .
+
+:craoibhe.ngs 
+  a :GenitiveSingular ; 
+  :orthography "craoibhe" ; 
+  :formOf :craobh.n .
+
+:craobhan.nnp 
+  a :NominativePlural ; 
+  :orthography "craobhan" ; 
+  :formOf :craobh.n .
+  
+:craobhan.ngp 
+  a :GenitivePlural ;
+  :orthography "craobhan" ;
+  :formOf :craobh.n .
+
+:craobh.tree 
+  a :Concrete ;
+  :en "tree" .
+  
+
+:creig.n a :FeminineNoun .
+
+:creag.1 
+  a :NominativeSingular ;
+  :orthography "creag" ;
+  :formOf :creag.n .
+  
+:creige.2 
+  a :GenitiveSingular ;
+  :orthography "creige" ;
+  :formOf :creag.n .
+
+:creagan.2 
+  a :NominativePlural ;
+  :orthography "creagan" ;
+  :formOf :creag.n .
+
+:rock.i
+  a :Concrete ;
+  :en "rock" ;
+  :senseOf :creag.n .     
+
+
+:cridhe.n a :MasculineNoun .
+
+:cridhe.1 
+  a :NominativeSingular ;
+  :orthography "cridhe" ;
+  :formOf :cridhe.n .
+  
+:cridhe.2 
+  a :GenitiveSingular ;
+  :orthography "cridhe" ;
+  :formOf :cridhe.n .
+
+:cridheachan.1 
+  a :NominativePlural ;
+  :orthography "cridheachan" ;
+  :formOf :cridhe.n .
+
+:heart.i
+  a :Concrete ;
+  :en "heart" ;
+  :senseOf :cridhe.n .    
+  
+
+:crìoch.n a :FeminineNoun .
+
+:crìoch.1 
+  a :NominativeSingular ;
+  :orthography "crìoch" ;
+  :formOf :crìoch.n .
+  
+:crìche.1 
+  a :GenitiveSingular ;
+  :orthography "crìche" ;
+  :formOf :crìoch.n .
+
+:crìochan.1 
+  a :NominativePlural ;
+  :orthography "crìochan" ;
+  :formOf :crìoch.n .
+
+:boundary.i
+  a :Abstract ;
+  :en "boundary, end" ;
+  :senseOf :crìoch.n .    
+    
+
+:crò.n a :MasculineNoun .
+
+:crò.1 
+  a :NominativeSingular ;
+  :orthography "crò" ;
+  :formOf :crò.n .
+  
+:crò.2 
+  a :GenitiveSingular ;
+  :orthography "crò" ;
+  :formOf :crò.n .
+
+:cròtha.1 
+  a :GenitiveSingular ;
+  :orthography "cròtha" ;
+  :formOf :crò.n .
+
+:cròithean.1 
+  a :NominativePlural ;
+  :orthography "cròithean" ;
+  :formOf :crò.n .
+
+:fold.i
+  a :Concrete ;
+  :en "fold" ;
+  :senseOf :crò.n .    
+  
+:pen.i
+  a :Concrete ;
+  :en "pen" ;
+  :senseOf :crò.n .  
+  
+:eye.i
+  a :Abstract ;
+  :en "eye (of needle)" ;
+  :senseOf :crò.n .    
+
+
+:crodh.n a :MasculineNoun .
+
+:crodh.1 
+  a :NominativeSingular ;
+  :orthography "crodh" ;
+  :formOf :crodh.n .
+  
+:cruidh.1 
+  a :GenitiveSingular ;
+  :orthography "cruidh" ;
+  :formOf :crodh.n .
+
+:cattle.i
+  a :Concrete ;
+  :en "cattle" ;
+  :senseOf :crodh.n .    # cf. bò    
+
+
+:croic.n a :FeminineNoun .
+
+:croic.1 
+  a :NominativeSingular ;
+  :orthography "croic" ;
+  :formOf :croic.n .
+  
+:croice.1 
+  a :GenitiveSingular ;
+  :orthography "croice" ;
+  :formOf :croic.n .
+
+:croicean.1 
+  a :NominativePlural ;
+  :orthography "croicean" ;
+  :formOf :croic.n .
+
+:antlers.i
+  a :Concrete ;
+  :en "antlers" ;
+  :senseOf :croic.n .    # cf. fiadh
+
+
+:cruach.n a :FeminineNoun .
+
+:cruach.1 
+  a :NominativeSingular ;
+  :orthography "cruach" ;
+  :formOf :cruach.n .
+  
+:cruaiche.1 
+  a :GenitiveSingular ;
+  :orthography "cruaiche" ;
+  :formOf :cruach.n .
+
+:cruachan.1 
+  a :NominativePlural ;
+  :orthography "cruachan" ;
+  :formOf :cruach.n .
+
+:stack.i
+  a :Concrete ;
+  :en "stack" ;
+  :senseOf :cruach.n .
+
+
+:cù.n a :MasculineNoun .
+
+:cù.1 
+  a :NominativeSingular ;
+  :orthography "cù" ;
+  :formOf :cù.n .
+  
+:coin.1 
+  a :GenitiveSingular ;
+  :orthography "coin" ;
+  :formOf :cù.n .
+
+:coin.2 
+  a :NominativePlural ;
+  :orthography "coin" ;
+  :formOf :cù.n .
+
+:con.2 
+  a :GenitivePlural ;
+  :orthography "con" ;
+  :formOf :cù.n .  
+
+:dog.i
+  a :Concrete ;
+  :en "dog" ;
+  :senseOf :cù.n .      
+  
+
+:cuan.n a :MasculineNoun .
+
+:cuan.1 
+  a :NominativeSingular ;
+  :orthography "cuan" ;
+  :formOf :cuan.n .
+  
+:cuain.1 
+  a :GenitiveSingular ;
+  :orthography "cuain" ;
+  :formOf :cuan.n .
+
+:cuantan.1 
+  a :NominativePlural ;
+  :orthography "cuantan" ;
+  :formOf :cuan.n .
+
+:ocean.i
+  a :Concrete ;
+  :en "ocean" ;
+  :senseOf :cuan.n .      
+  
+
+:cùil.n a :FeminineNoun .
+
+:cùil.1 
+  a :NominativeSingular ;
+  :orthography "cùil" ;
+  :formOf :cùil.n .
+
+:cùiltean.1 
+  a :NominativePlural ;
+  :orthography "cùiltean" ;
+  :formOf :cùil.n .
+
+:corner.i
+  a :Abstract ;
+  :en "corner, nook" ;
+  :senseOf :cùil.n .        
+
+
+:cuileag.n a :FeminineNoun .
+
+:cuileag.1 
+  a :NominativeSingular ;
+  :orthography "cuileag" ;
+  :formOf :cuileag.n .
+  
+:cuileige.1 
+  a :GenitiveSingular ;
+  :orthography "cuileige" ;
+  :formOf :cuileag.n .
+
+:cuileagan.1 
+  a :NominativePlural ;
+  :orthography "cuileagan" ;
+  :formOf :cuileag.n .
+
+:fly.i
+  a :Concrete ;
+  :en "fly" ;
+  :senseOf :cuileag.n .      
+
+
+:cùis.n a :FeminineNoun .
+
+:cùis.1 
+  a :NominativeSingular ;
+  :orthography "cùis" ;
+  :formOf :cùis.n .
+  
+:cùise.1 
+  a :GenitiveSingular ;
+  :orthography "cùise" ;
+  :formOf :cùis.n .
+
+:cùisean.1 
+  a :NominativePlural ;
+  :orthography "cùisean" ;
+  :formOf :cùis.n .
+
+:business.i
+  a :Abstract ;
+  :en "business, affair" ;
+  :senseOf :cùis.n .      
+
+
+:cùl.n a :MasculineNoun .
+
+:cùl.1 
+  a :NominativeSingular ;
+  :orthography "cùl" ;
+  :formOf :cùl.n .
+  
+:cùil.1 
+  a :GenitiveSingular ;
+  :orthography "cùil" ;
+  :formOf :cùl.n .
+
+:cùiltean.1 
+  a :NominativePlural ;
+  :orthography "cùiltean" ;
+  :formOf :cùl.n .
+
+:rear.i
+  a :Abstract ;
+  :en "back, rear" ;
+  :senseOf :cùl.n .     
+
+
+:cuman.n a :MasculineNoun .
+
+:cuman.1 
+  a :NominativeSingular ;
+  :orthography "cuman" ;
+  :formOf :cuman.n .
+  
+:cumain.1 
+  a :GenitiveSingular ;
+  :orthography "cumain" ;
+  :formOf :cuman.n .
+
+:cumain.2 
+  a :NominativePlural ;
+  :orthography "cumain" ;
+  :formOf :cuman.n .
+
+:cuman.2 
+  a :GenitivePlural ;
+  :orthography "cuman" ;
+  :formOf :cuman.n .  
+
+:bucket.i
+  a :Concrete ;
+  :en "bucket, pail" ;
+  :senseOf :cuman.n .      
+
+
+:cumhachd.n a :MasculineNoun .
+
+:cumhachd.1 
+  a :NominativeSingular ;
+  :orthography "cumhachd" ;
+  :formOf :cumhachd.n .
+  
+:cumhachd.2 
+  a :GenitiveSingular ;
+  :orthography "cumhachd" ;
+  :formOf :cumhachd.n .
+
+:cumhachdan.1 
+  a :NominativePlural ;
+  :orthography "cumhachdan" ;
+  :formOf :cumhachd.n .
+
+:power.i
+  a :Abstract ;
+  :en "power" ;
+  :senseOf :cumhachd.n .      
+
+
+:cunnart.n a :MasculineNoun .
+
+:cunnart.1 
+  a :NominativeSingular ;
+  :orthography "cunnart" ;
+  :formOf :cunnart.n .
+  
+:cunnairt.1 
+  a :GenitiveSingular ;
+  :orthography "cunnairt" ;
+  :formOf :cunnart.n .
+
+:cunnartan.1 
+  a :NominativePlural ;
+  :orthography "cunnartan" ;
+  :formOf :cunnart.n .
+
+:danger.i
+  a :Abstract ;
+  :en "danger" ;
+  :senseOf :cunnart.n .      
+
+
+:cupa.n a :MasculineNoun .
+
+:cupa.1 
+  a :NominativeSingular ;
+  :orthography "cupa" ;
+  :formOf :cupa.n .
+  
+:cupa.2 
+  a :GenitiveSingular ;
+  :orthography "cupa" ;
+  :formOf :cupa.n .
+
+:cupannan.1 
+  a :NominativePlural ;
+  :orthography "cupannan" ;
+  :formOf :cupa.n .
+
+:cupaichean.1 
+  a :NominativePlural ;
+  :orthography "cupaichean" ;
+  :formOf :cupa.n .
+
+:cup.i
+  a :Concrete ;
+  :en "cup" ;
+  :senseOf :cupa.n .      
+  
+  
+
+    

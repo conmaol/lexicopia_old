@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bouzouki" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bouzouki" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bouzouki</orth>
     </form>
     <trans>bouzouki</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>bouzouki - bouzouki poss cbouzoukis - bouzoukiathan pl</note>
-  </ainmear_fireann>
+  </lexeme>

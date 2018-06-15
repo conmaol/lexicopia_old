@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="mìleamh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="mìleamh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>mìleamh</orth>
     </form>
     <trans>thousandth</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>thousandth - mìleimh poss cthousandths - mìleamhan pl</note>
-  </ainmear_fireann>
+  </lexeme>

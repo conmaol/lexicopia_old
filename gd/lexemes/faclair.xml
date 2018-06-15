@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="faclair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="faclair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>faclair</orth>
     </form>
     <trans>dictionary</trans>
     <note>Listed in An Seotal: General.</note>
     <note>dictionary - faclair poss cdictionaries - faclairean pl</note>
-  </ainmear_fireann>
+  </lexeme>

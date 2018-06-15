@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Kione_ny_h-Ayrey" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Kione_ny_h-Ayrey" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Kione ny h-Ayrey</orth>
     </form>
     <trans>Point of Ayre</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Point of Ayre - Kione ny h-Ayrey poss c</note>
-  </ainmear_fireann>
+  </lexeme>

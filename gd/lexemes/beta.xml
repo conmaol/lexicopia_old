@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="beta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="beta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>beta</orth>
     </form>
     <trans>beta</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>beta - beta poss cbetas - betathan pl</note>
-  </ainmear_boireann>
+  </lexeme>

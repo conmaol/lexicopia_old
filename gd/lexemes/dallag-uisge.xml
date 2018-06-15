@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="dallag-uisge" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dallag-uisge" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dallag-uisge</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>Latin: (Neomys fodiens)</note>
     <note>Info: The Gaelic name means 'the small blind water one'.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/dallag uisge.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

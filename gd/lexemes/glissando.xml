@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="glissando" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="glissando" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>glissando</orth>
     </form>
     <trans>glissando</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>glissando - glissando poss cglissandos - glissandothan pl</note>
-  </ainmear_fireann>
+  </lexeme>

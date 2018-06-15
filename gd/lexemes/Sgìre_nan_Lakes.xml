@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Sgìre_nan_Lakes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Sgìre_nan_Lakes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="sgìre"/>
   <form>
     <orth>Sgìre nan Lakes</orth>
@@ -8,4 +8,4 @@
   <trans index="no">the Lake District</trans>
   <trans index="only">Lake District</trans>
   <note>Listed in An Seotal: Geography.</note>
-</ainmear_fireann>
+</lexeme>

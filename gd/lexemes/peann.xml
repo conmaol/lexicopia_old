@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="peann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="peann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>peann</orth>
     </form>
@@ -9,4 +9,4 @@
     </form>
     <trans>pen</trans>
     <note>Listed in An Seotal: Art.</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="miotas-eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="miotas-eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>miotas-eòlas</orth>
     </form>
     <trans>mythology</trans>
     <note>Listed in An Seotal: General.</note>
     <note>mythology - miotas-eòlais poss c</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Monadh_Bhlackdown" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Monadh_Bhlackdown" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Monadh Bhlackdown</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans index="only">Blackdown Hills</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Blackdown Hills - Monadh Bhlackdown poss c</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="corcan_coille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="corcan_coille" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="corcan"/>
   <part ref="coille"/>
   <form>
@@ -11,4 +11,4 @@
   <trans index="only">finch</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
   <note>Listed in CM.</note>
-</ainmear_fireann>
+</lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="priontadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="priontadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>priontadh</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>printing - priontaidh poss c</note>
     <note>Listed in An Seotal: Computing.</note>
     <note>printing - priontaidh poss c</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="truaghan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="truaghan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>truaghan</orth>
     </form>
     <trans>loser</trans>
     <note>Listed in An Seotal: Personal and Social Education.</note>
     <note>loser - truaghain poss closers - truaghain pllosers - truaghanan pl</note>
-  </ainmear_fireann>
+  </lexeme>

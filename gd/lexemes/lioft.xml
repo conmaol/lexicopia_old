@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="lioft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lioft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>lioft</orth>
     </form>
@@ -11,4 +11,4 @@
     <trans>elevator</trans>
     <note>Listed in Colin Mark's (2004) Gaelic-English dictionary.</note>
     <note>anns an lioft = in the lift</note>
-  </ainmear_fireann>
+  </lexeme>

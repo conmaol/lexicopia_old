@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gnàthas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gnàthas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gnàth(a)s</orth>
     </form>
@@ -14,4 +14,4 @@
     <note>Listed in An Seotal: General.</note>
     <note>norm - gnàthais poss cnorms - gnàthasan pl</note>
     <note>practice - gnàthais poss cpractices - gnàthasan pl</note>
-  </ainmear_fireann>
+  </lexeme>

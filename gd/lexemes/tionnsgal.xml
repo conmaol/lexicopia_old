@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tionnsgal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tionnsgal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tionnsgal</orth>
     </form>
     <trans>invention</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>invention - tionnsgail poss cinventions - tionnsgalan pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="bean-woman" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bean-woman" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>bean</orth>
   </form>
@@ -8,4 +8,4 @@
   <trans>female</trans>
   <trans>matron</trans>
   <trans>wife</trans>
-</ainmear_boireann>
+</lexeme>

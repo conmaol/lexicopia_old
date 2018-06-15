@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="deas-thònadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="deas-thònadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>deas-thònadh</orth>
     </form>
     <trans>intonation</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>intonation - deas-thònaidh poss cintonations - deas-thònaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

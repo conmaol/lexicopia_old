@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eun_gnee_Falco" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eun_gnee_Falco" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eun gnè Falco</orth>
     </form>
     <trans>bird of the Falco genus</trans>
     <trans>falcon</trans>
     <trans>Falco spp.</trans>
-  </ainmear_fireann>
+  </lexeme>

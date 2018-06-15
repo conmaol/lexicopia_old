@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="dos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dos</orth>
     </form>
     <trans>drone</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>drone - dois poss cdrone - duis poss cdrones - duis pldrones - dosan pldrones - dois pl</note>
-  </ainmear_fireann>
+  </lexeme>

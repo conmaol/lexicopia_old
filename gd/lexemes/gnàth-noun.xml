@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gnàth-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gnàth-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="gnàth-adjective"/>
   <form>
     <orth>gnàth</orth>
@@ -9,4 +9,4 @@
   <trans>practice</trans>
   <trans>usage</trans>
   <trans>convention</trans>
-</ainmear_fireann>
+</lexeme>

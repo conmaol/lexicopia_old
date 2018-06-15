@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="gobhar-fhiadhaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gobhar-fhiadhaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gobhar-fhiadhaich</orth>
     </form>
     <trans>antelope</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>antelope - gobhair-fhiadhaich scantelopes - goibhrean-fiadhaich iom</note>
-  </ainmear_boireann>
+  </lexeme>

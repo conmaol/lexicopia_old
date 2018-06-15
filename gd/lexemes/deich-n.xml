@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="deich-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="deich-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>deich</orth>
     </form>
     <trans>ten</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>ten - deich poss c ten - deichean pl</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="farspag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="farspag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>farspag</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Latin: (Larus marinus)</note>
     <note>Info: Originates in Norse svart-bakr.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/faoileag mhor.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

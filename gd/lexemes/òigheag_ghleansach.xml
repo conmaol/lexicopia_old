@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="òigheag_ghleansach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="òigheag_ghleansach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>òigheag ghleansach</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Latin: Calopteryx splendens</note>
     <note>Info: The Gaelic name means 'the shiny small young girl'. </note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/oigheag ghleansach.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

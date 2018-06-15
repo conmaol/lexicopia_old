@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="achd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="achd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>achd</orth>
     </form>
     <trans>act</trans>
     <note>Listed in Colin Mark's (2004) Gaelic-English dictionary.</note>
     <note>achd ghairmeil = declaration, Achd Ghairmeil Obar Bhrothaig = the Declaration of Arbroath, achd pàrlamaid = act of parliament.</note>
-  </ainmear_boireann>
+  </lexeme>

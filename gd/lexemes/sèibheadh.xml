@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sèibheadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sèibheadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sèibheadh</orth>
     </form>
     <trans>shaving</trans>
     <note>Listed in An Seotal: Personal and Social Education.</note>
     <note>shaving - sèibhidh poss cshavings - sèibhidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

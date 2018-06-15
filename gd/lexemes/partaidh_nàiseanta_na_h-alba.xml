@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="partaidh_nàiseanta_na_h-alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="partaidh_nàiseanta_na_h-alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Partaidh Nàiseanta na h-Alba</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans index="only">Scottish National Party</trans>
     <note>Listed in An Seotal: General.</note>
     <note>Listed in TYGD.</note>
-  </ainmear_fireann>
+  </lexeme>

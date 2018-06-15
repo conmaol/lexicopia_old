@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bossa_nova" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bossa_nova" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bossa nova</orth>
     </form>
     <trans>bossa nova</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>bossa nova - bossa nova poss cbossa nova - bossa novathan pl</note>
-  </ainmear_fireann>
+  </lexeme>

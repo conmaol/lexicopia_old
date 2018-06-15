@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="feannag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="feannag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>feannag</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>Corvus corone</trans>
     <trans index="only">crow</trans>
     <note>Listed in CM, as 'crow'.</note>
-  </ainmear_boireann>
+  </lexeme>

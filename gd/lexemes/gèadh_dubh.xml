@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gèadh_dubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gèadh_dubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="gèadh"/>
   <part ref="dubh"/>
   <form>
@@ -12,4 +12,4 @@
   <note>Info: The Gaelic name means 'the black goose'. </note>
   <note>Audio: http://www.snh.org.uk/gaidhlig/audio/gèadh dhubh.mp3</note>
   <note>Listed in CM as 'solan goose'.</note>
-</ainmear_fireann>
+</lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="aloidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="aloidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>aloidh</orth>
     </form>
     <trans>alloy</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>alloy - aloidh(e) sc alloys - aloidhean iom</note>
-  </ainmear_boireann>
+  </lexeme>

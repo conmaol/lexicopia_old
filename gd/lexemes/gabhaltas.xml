@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gabhaltas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gabhaltas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="gabhail"/>
   <form>
     <orth>gabhaltas</orth>
@@ -10,5 +10,5 @@
   </form>
   <trans>tenancy</trans>
   <trans>tenure</trans>
-</ainmear_fireann>
+</lexeme>
 

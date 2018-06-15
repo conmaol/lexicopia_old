@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ìomhaigheachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ìomhaigheachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ìomhaigheachd</orth>
     </form>
     <trans>imaging</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>imaging - ìomhaigheachd poss c</note>
-  </ainmear_boireann>
+  </lexeme>

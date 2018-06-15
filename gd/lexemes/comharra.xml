@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="comharra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="comharra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>comharra</orth>
     </form>
     <trans>symbol</trans>
     <note>Listed in An Seotal: General.</note>
     <note>symbol - comharra poss csymbols - comharran pl</note>
-  </ainmear_fireann>
+  </lexeme>

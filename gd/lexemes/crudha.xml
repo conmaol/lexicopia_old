@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="crudha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="crudha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>crudha</orth>
   </form>
@@ -13,5 +13,5 @@
   <trans>horseshoe</trans>
   <trans index="only">shoe</trans>
   <note>Listed in Colin Mark’s dictionary.</note>
-</ainmear_fireann>
+</lexeme>
 

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="car" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="car" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>car</orth>
     </form>
     <trans>rotation</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>rotation - cuir scrotations - caran iom</note>
-  </ainmear_fireann>
+  </lexeme>

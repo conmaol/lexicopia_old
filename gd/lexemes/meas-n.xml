@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="meas-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="meas-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>meas</orth>
     </form>
     <trans>fruit</trans>
     <note>Listed in An Seotal: General.</note>
     <note>fruit - measa poss cfruits - measan pl</note>
-  </ainmear_fireann>
+  </lexeme>

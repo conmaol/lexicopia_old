@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="lirigeachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lirigeachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="lirigeach"/>
   <form>
     <orth>lirigeachd</orth>
@@ -10,4 +10,4 @@
   </form>
   <trans>lyricism</trans>
   <note>Listed in An Seotal: Music.</note>
-</ainmear_boireann>
+</lexeme>

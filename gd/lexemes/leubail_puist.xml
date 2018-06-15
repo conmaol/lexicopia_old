@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leubail_puist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leubail_puist" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>leubail puist</orth>
     </form>
     <trans>shipping label</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>shipping label - leubail puist poss cshipping labels - leubailean puist pl</note>
-  </ainmear_fireann>
+  </lexeme>

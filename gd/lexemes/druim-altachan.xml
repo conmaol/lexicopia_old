@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="druim-altachan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="druim-altachan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>druim-altachan</orth>
     </form>
     <trans>vertebrate</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>vertebrate - druim-altachain scvertebrates - druim-altachain iom</note>
-  </ainmear_fireann>
+  </lexeme>

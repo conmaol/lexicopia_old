@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eisir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eisir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eisir</orth>
     </form>
     <trans>oyster</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>oyster - eisir scoysters - eisirean iom</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leth-dhùnadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leth-dhùnadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>leth-dhùnadh</orth>
     </form>
     <trans>half-close</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>half-close - leth-dhùnaidh poss chalf-closes - leth-dhùnaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

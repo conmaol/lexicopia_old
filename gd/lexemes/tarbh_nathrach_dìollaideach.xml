@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tarbh_nathrach_dìollaideach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tarbh_nathrach_dìollaideach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="tarbh_nathrach"/>
   <part ref="dìollaideach"/>
   <form>
@@ -13,4 +13,4 @@
   <trans>Hemianax ephippiger</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
   <note>Audio: http://www.snh.org.uk/gaidhlig/audio/tarbh nathrach diollaideach.mp3</note>
-</ainmear_fireann>
+</lexeme>

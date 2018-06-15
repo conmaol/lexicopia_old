@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="rianaire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="rianaire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>rianaire</orth>
     </form>
     <trans>administrator</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>administrator - rianaire poss c administrators - rianairean pl</note>
-  </ainmear_fireann>
+  </lexeme>

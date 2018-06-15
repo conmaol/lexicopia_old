@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="stòl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="stòl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>stòl</orth>
   </form>
@@ -11,6 +11,6 @@
   <sense ref="church clothing"/>
   <trans>stole</trans>
   <note>Listed in DASG Fieldwork Archive as 'stole' (clerical garb).</note>
-</ainmear_fireann>
+</lexeme>
 
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="loidhne-àirde" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="loidhne-àirde" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>loidhne-àirde</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>height line</trans>
     <note>Listed in An Seotal: Maths, Technology.</note>
     <note>contour - loidhne-àirde poss ccontours - loidhnichean-àirde pl</note>
-  </ainmear_boireann>
+  </lexeme>

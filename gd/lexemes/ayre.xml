@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ayre" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ayre" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ayre</orth>
     </form>
     <trans>ayre</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>ayre - ayre poss cayres - ayreathan pl</note>
-  </ainmear_fireann>
+  </lexeme>

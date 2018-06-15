@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="dearc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dearc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dearc</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>currant</trans>
     <trans>grape</trans>
     <note> MM:121 - 'dearc, dearcag (n.f.) [a berry, a grape], (O.Ir. derc, O.Celt. derko-s)'. </note>
-  </ainmear_boireann>
+  </lexeme>

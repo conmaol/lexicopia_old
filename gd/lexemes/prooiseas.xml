@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="prooiseas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="prooiseas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>pròiseas</orth>
     </form>
     <trans>process</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>process - pròiseas poss cprocesses - pròiseasan pl</note>
-  </ainmear_fireann>
+  </lexeme>

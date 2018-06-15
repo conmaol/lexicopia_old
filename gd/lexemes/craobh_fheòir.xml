@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="craobh_fheòir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="craobh_fheòir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="craobh"/>
   <part ref="feur"/>
   <form>
@@ -10,4 +10,4 @@
   <trans>lancewood</trans>
   <trans>Pseudopanax crassifolius</trans>
   <note>Mac-Thalla VIII (1899) No. 13 100/4: "Thugadh dha bata craobh fheoir (grass tree) New Zealand air a dheanamh sgiamhach le or, le deadh ruin a chomuinn".</note>
-</ainmear_boireann>
+</lexeme>

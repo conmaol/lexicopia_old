@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="co-eòlaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="co-eòlaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>co-eòlaiche</orth>
     </form>
     <trans>fellow</trans>
     <note>Listed in An Seotal: General.</note>
     <note>fellow - co-eòlaiche poss cfellows - co-eòlaichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

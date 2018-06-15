@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="mapadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="mapadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>mapadh</orth>
     </form>
     <trans>mapping</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>mapping - mapaidh poss cmappings - mapaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

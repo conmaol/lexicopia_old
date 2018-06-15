@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gluten" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gluten" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gluten</orth>
     </form>
     <trans>gluten</trans>
     <note>Listed in An Seotal: Home economics.</note>
     <note>gluten - gluten poss cglutens - glutenan pl</note>
-  </ainmear_fireann>
+  </lexeme>

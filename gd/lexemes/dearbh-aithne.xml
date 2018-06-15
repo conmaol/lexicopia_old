@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="dearbh-aithne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dearbh-aithne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dearbh-aithne</orth>
     </form>
     <trans>identity</trans>
     <note>Listed in An Seotal: General.</note>
     <note>identity - dearbh-aithne poss c</note>
-  </ainmear_boireann>
+  </lexeme>

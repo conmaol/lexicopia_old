@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="co-labhairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="co-labhairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>co-labhairt</orth>
     </form>
     <trans>conference</trans>
     <note>Listed in An Seotal: General.</note>
     <note>conference - co-labhairt poss cconferences - co-labhairtean pl</note>
-  </ainmear_boireann>
+  </lexeme>

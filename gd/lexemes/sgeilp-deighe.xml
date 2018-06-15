@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="sgeilp-deighe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sgeilp-deighe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sgeilp-deighe</orth>
     </form>
     <trans>ice-shelf</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>ice-shelf - sgeilpe-deighe poss cice-shelves - sgeilpichean-deighe pl</note>
-  </ainmear_boireann>
+  </lexeme>

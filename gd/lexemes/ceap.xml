@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ceap" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ceap" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ceap</orth>
     </form>
     <trans>fret</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>fret - ceapa poss cfret - ceapan pl</note>
-  </ainmear_fireann>
+  </lexeme>

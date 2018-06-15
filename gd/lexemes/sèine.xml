@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="sèine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sèine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sèine</orth>
     </form>
     <trans>chain</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>chain - sèine poss cchains - sèinichean pl</note>
-  </ainmear_boireann>
+  </lexeme>

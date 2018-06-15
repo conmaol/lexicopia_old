@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="facal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="facal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>facal</orth>
     </form>
     <trans>word</trans>
     <note>Listed in An Seotal: Language.</note>
     <note>word - facail poss cwords - facail plwords - faclan pl</note>
-  </ainmear_fireann>
+  </lexeme>

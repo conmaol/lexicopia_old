@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tiomnadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tiomnadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tiomnadh</orth>
     </form>
     <trans>testament</trans>
     <note>Listed in An Seotal: Religious and Moral.</note>
     <note>testament - tiomnaidh sctestaments - tiomnaidhean iom</note>
-  </ainmear_fireann>
+  </lexeme>

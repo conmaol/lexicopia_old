@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Albàinianais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Albàinianais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Albàinianais</orth>
     </form>
     <trans>Albanian</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Albanian - Albàinianais poss c</note>
-  </ainmear_boireann>
+  </lexeme>

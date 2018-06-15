@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Comhairliche_na_Tèarainteachd_Nàiseanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Comhairliche_na_Tèarainteachd_Nàiseanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="comhairliche"/>
   <part ref="tèarainteachd_nàiseanta"/>
   <form>
@@ -8,4 +8,4 @@
   </form>
   <trans index="no">the National Security Advisor</trans>
   <trans index="only">National Security Advisor</trans>
-</ainmear_fireann>
+</lexeme>

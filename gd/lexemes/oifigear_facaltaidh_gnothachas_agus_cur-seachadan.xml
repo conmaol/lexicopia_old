@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="oifigear_facaltaidh_gnothachas_agus_cur-seachadan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="oifigear_facaltaidh_gnothachas_agus_cur-seachadan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="oifigear_facaltaidh"/>
   <form>
     <orth>Oifigear Facaltaidh Gnothachas agus Cur-seachadan</orth>
   </form>
   <trans>Faculty Officer: Business and Leisure</trans>
   <note>Listed in An Seotal: Business Studies.</note>
-</ainmear_fireann>
+</lexeme>

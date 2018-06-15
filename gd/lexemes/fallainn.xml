@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="fallainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fallainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>fallainn</orth>
   </form>
@@ -31,4 +31,4 @@
   <trans>robe</trans>
   <note>Listed in An Seotal: Science, as 'mantle'.</note>
   <note>Listed in Colin Mark’s Dictionary.</note>
-</ainmear_boireann>
+</lexeme>

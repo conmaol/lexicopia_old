@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="gràbhalachd_loidhne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gràbhalachd_loidhne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gràbhalachd loidhne</orth>
     </form>
     <trans>line engraving</trans>
     <note>Listed in An Seotal: Art.</note>
-  </ainmear_boireann>
+  </lexeme>

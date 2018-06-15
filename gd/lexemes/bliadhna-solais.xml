@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="bliadhna-solais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bliadhna-solais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bliadhna-solais</orth>
     </form>
     <trans>light year</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>light year - bliadhna-solais sclight years - bliadhnaichean-solais iom</note>
-  </ainmear_boireann>
+  </lexeme>

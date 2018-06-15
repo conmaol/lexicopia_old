@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="rùilear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="rùilear" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>rùilear</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>ruler - rùileir poss crulers - rùilearan pl</note>
     <note>Listed in An Seotal: Technology, as 'rule'.</note>
     <note>rule - rùileir poss crules - rùilearan pl</note>
-  </ainmear_fireann>
+  </lexeme>

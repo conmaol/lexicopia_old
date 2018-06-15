@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="anainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="anainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>anainn</orth>
     </form>
     <trans>eaves</trans>
     <note>Listed in An Seotal: Technology.</note>
     <note>eaves - anainn(e) poss ceaves - anainnean pl</note>
-  </ainmear_boireann>
+  </lexeme>

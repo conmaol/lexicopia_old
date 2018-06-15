@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gailearaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gailearaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>gailearaidh</orth>
   </form>
@@ -10,4 +10,4 @@
   <trans>gallery</trans>
   <note>Listed in An Seotal: General.</note>
   <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
-</ainmear_fireann>
+</lexeme>

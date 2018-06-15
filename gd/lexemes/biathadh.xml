@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="biathadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="biathadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>biathadh</orth>
     </form>
     <trans>feed</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>feed - biathaidh poss cfeeds - biathaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

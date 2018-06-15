@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="beairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="beairt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>beairt</orth>
     </form>
@@ -10,4 +10,4 @@
     <trans>hand-loom</trans>
     <trans>proposal</trans>
     <trans>loom</trans>
-  </ainmear_boireann>
+  </lexeme>

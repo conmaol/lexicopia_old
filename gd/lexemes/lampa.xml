@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="lampa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lampa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>lampa</orth>
     </form>
@@ -10,4 +10,4 @@
     <trans>lamp</trans>
     <note>For Borgstrøm 1937: 158, this noun is of uncertain gender.</note>
     <note>Listed in An Seotal: Science, with meaning 'lamp'.</note>
-  </ainmear_boireann>
+  </lexeme>

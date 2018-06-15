@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="manaidsear_ghoireasan_eileagtronaigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="manaidsear_ghoireasan_eileagtronaigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>manaidsear ghoireasan eileagtronaigeach</orth>
     </form>
     <trans>electronic resources manager</trans>
     <note>Listed in An Seotal: General.</note>
-  </ainmear_fireann>
+  </lexeme>

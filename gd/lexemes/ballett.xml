@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ballett" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ballett" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ballett</orth>
     </form>
     <trans>ballett</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>ballett - ballett poss cballetts - ballettean pl</note>
-  </ainmear_boireann>
+  </lexeme>

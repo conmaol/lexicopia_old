@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gaiseadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gaiseadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gaiseadh</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: General.</note>
     <note>blight - gaisidh poss c</note>
     <note>disease - gaisidh poss cdiseases - gaisidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

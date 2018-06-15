@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="iar-bhreith" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="iar-bhreith" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>iar-bhreith</orth>
     </form>
     <trans>afterbirth</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>afterbirth - iar-bhreith scafterbirths - iar-bhreithean iom</note>
-  </ainmear_boireann>
+  </lexeme>

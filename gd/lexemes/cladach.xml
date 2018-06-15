@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cladach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cladach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cladach</orth>
     </form>
@@ -15,4 +15,4 @@
     <trans>stony beach</trans>
     <note>Listed in An Seotal: Science, with meaning 'seashore', 'shore'.</note>
     <note>Listed in Scottish Natural Heritage's Faclan Nàdair, as 'shore', 'stony beach'.</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ròn_feusagach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ròn_feusagach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="ròn"/>
   <part ref="feusagach"/>
   <form>
@@ -12,4 +12,4 @@
   <trans>bearded seal</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
   <note>Latin: (Erignathus barbatus)</note>
-</ainmear_boireann>
+</lexeme>

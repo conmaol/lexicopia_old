@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="am_brag_mòr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="am_brag_mòr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Am Brag Mòr</orth>
     </form>
     <trans>The Big Bang</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>The Big Bang - a' Bhraig Mhòir sc</note>
-  </ainmear_fireann>
+  </lexeme>

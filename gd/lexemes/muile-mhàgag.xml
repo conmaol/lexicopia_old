@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="muile-mhàgag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="muile-mhàgag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>muile-mhàgag</orth>
     </form>
     <trans>toad</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>toad - muile-mhàgaig sctoads - muile-mhàgagan iom</note>
-  </ainmear_boireann>
+  </lexeme>

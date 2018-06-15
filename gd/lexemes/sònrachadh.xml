@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sònrachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sònrachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sònrachadh</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: Computing.</note>
     <note>highlight - sònrachaidh poss chighlights - sònrachaidhean pl</note>
     <note>highlighting - sònrachaidh poss chighlighting - sònrachaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

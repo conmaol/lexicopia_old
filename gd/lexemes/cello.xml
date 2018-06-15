@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cello" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cello" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cello</orth>
     </form>
     <trans>cello</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>cello - cello poss ccellos - cellothan pl</note>
-  </ainmear_boireann>
+  </lexeme>

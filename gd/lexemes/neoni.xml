@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="neoni" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="neoni" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>neoni</orth>
     </form>
     <trans>zero</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>zero - neoni poss czeros - neonithean pl</note>
-  </ainmear_fireann>
+  </lexeme>

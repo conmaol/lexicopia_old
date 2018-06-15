@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="feadag_bhuidhe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="feadag_bhuidhe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>feadag bhuidhe</orth>
     </form>
     <trans>golden plover</trans>
     <trans>Pluvialis apricaria</trans>
     <note>Listed in AFB.</note>
-  </ainmear_boireann>
+  </lexeme>

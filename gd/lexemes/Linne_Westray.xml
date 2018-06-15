@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Linne_Westray" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Linne_Westray" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Linne Westray</orth>
     </form>
     <trans>Westray Firth</trans>
     <note>Listed in An Seotal: Geography.</note>
-  </ainmear_boireann>
+  </lexeme>

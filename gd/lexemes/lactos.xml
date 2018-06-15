@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="lactos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lactos" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>lactos</orth>
     </form>
     <trans>lactose</trans>
     <note>Listed in An Seotal: Home economics.</note>
     <note>lactose - lactos poss c</note>
-  </ainmear_fireann>
+  </lexeme>

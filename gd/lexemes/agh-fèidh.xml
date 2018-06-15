@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="agh-fèidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="agh-fèidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>agh-fèidh</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Latin: Cervus elaphus</note>
     <note>Info: eilid used after first year</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/agh feidh.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

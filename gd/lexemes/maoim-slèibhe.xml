@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="maoim-slèibhe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="maoim-slèibhe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>maoim-slèibhe</orth>
     </form>
     <trans>landslide</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Plural: maoimean-slèibhe</note>
-  </ainmear_boireann>
+  </lexeme>

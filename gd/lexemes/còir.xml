@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="còir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="còir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>còir</orth>
     </form>
     <trans>right</trans>
     <note>Listed in An Seotal: Modern Studies</note>
     <note>right - còire scrights - còraichean iom</note>
-  </ainmear_boireann>
+  </lexeme>

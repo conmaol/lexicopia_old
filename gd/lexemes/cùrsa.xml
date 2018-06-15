@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cùrsa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cùrsa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cùrsa</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: Maths.</note>
     <note>bearing - cùrsa poss cbearings - cùrsaichean pl</note>
     <note>direction - cùrsa poss cdirections - cùrsaichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

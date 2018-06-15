@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="conaltradh_eileagtronaigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="conaltradh_eileagtronaigeach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>conaltradh eileagtronaigeach</orth>
     </form>
     <trans>electronic communication</trans>
     <note>Listed in An Seotal: Science.</note>
-  </ainmear_fireann>
+  </lexeme>

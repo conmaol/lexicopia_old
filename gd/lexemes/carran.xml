@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="carran" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="carran" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>carran</orth>
     </form>
     <trans>shrimp</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>shrimp - carrain scshrimps - carrain iom</note>
-  </ainmear_fireann>
+  </lexeme>

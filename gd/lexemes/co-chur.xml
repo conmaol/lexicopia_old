@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="co-chur" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="co-chur" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>co-chur</orth>
     </form>
     <trans>application</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>application - co-chur poss capplications - co-churan pl</note>
-  </ainmear_fireann>
+  </lexeme>

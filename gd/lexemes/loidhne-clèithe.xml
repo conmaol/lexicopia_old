@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="loidhne-clèithe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="loidhne-clèithe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>loidhne-clèithe</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: Maths, as 'grid line'.</note>
     <note>Listed in An Seotal: Music, as 'line of staff'.</note>
     <note>line of staff - loidhne-clèithe poss clines of staff - loidhnichean-clèithe pl</note>
-  </ainmear_boireann>
+  </lexeme>

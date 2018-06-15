@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="àrd-thalamh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="àrd-thalamh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>àrd-thalamh</orth>
   </form>
@@ -9,4 +9,4 @@
   </form>
   <trans>highlands</trans>
   <note>Listed in An Seotal: Geography.</note>
-</ainmear_fireann>
+</lexeme>

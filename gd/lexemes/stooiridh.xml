@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="stooiridh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="stooiridh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>stòiridh</orth>
     </form>
     <trans>story</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>story - stòiridh poss cstories - stòiridhean pl</note>
-  </ainmear_boireann>
+  </lexeme>

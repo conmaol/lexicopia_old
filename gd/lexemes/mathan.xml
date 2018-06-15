@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="mathan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="mathan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>mathan</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/mathan.mp3</note>
     <note>Listed in An Seotal: Science.</note>
     <note>bear - mathain sc bears - mathanan iom</note>
-  </ainmear_fireann>
+  </lexeme>

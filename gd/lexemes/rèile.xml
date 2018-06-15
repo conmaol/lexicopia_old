@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="rèile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="rèile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>rèile</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: General.</note>
     <note>railroad - rèile poss crailroads - rèilichean pl</note>
     <note>railway - rèile poss crailways - rèilichean pl</note>
-  </ainmear_boireann>
+  </lexeme>

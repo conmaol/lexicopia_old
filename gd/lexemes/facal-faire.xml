@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="facal-faire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="facal-faire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>facal-faire</orth>
     </form>
@@ -8,4 +8,4 @@
     <note>Listed in An Seotal: Language.</note>
     <note>Listed in An Seotal: Computing.</note>
     <note>password - facail-faire poss cpasswords - facail-faire pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gnìomh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gnìomh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gnìomh</orth>
     </form>
@@ -22,4 +22,4 @@
     <trans>turn</trans>
     <note>Listed in An Seotal: General, as 'act', activity.</note>
     <note>Listed in An Seotal: Computing, as 'action'.</note>
-  </ainmear_fireann>
+  </lexeme>

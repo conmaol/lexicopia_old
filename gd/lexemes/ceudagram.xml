@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ceudagram" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ceudagram" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ceudagram</orth>
     </form>
     <trans>centigram</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>centigram - ceudagram poss ccentigrams - ceudagraman pl</note>
-  </ainmear_fireann>
+  </lexeme>

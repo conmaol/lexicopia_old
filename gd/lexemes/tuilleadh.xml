@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tuilleadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tuilleadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tuilleadh</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>additional quantity</trans>
     <trans>additional number</trans>
     <note>Listed in An Seotal: Computing.</note>
-  </ainmear_fireann>
+  </lexeme>

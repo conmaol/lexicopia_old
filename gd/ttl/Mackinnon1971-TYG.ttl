@@ -1,0 +1,965 @@
+@prefix : <http://faclair.ac.uk/> .
+
+# The Gaelic-English vocabulary from Roderick Mackinnon's (1971) ‘Teach Yourself Gaelic’, pp. 280–302.
+
+:abhainn.n 
+  :en "river" ;
+  :hasForm :abhainn.n.nfs , :aibhne.n.gfs , :aibhnichean.n.np .
+
+:acair.n 
+  :en "anchor" ;
+  :hasForm :acair.n.nfs , :acrach.n.gfs , :acraichean.n.np .
+
+:acarsaid.n 
+  :en "anchorage" , "harbour" ;
+  :hasForm :acarsaid.n.nfs , :acarsaid.n.gfs , :acarsaidean.n.np .
+
+:achadh.n 
+  :en "field" ;
+  :hasForm :achadh.n.nms , :achaidh.n.gms , :achaidhean.n.np .
+  
+:acras.n 
+  :en "hunger" ;
+  :hasForm :acras.n.nms , :acrais.n.gms .
+
+:ad.n 
+  :en "hat" ;
+  :hasForm :ad.n.nfs , :aide.n.gfs , :adaichean.n.np .
+
+:adhar.n 
+  :en "sky" ;
+  :hasForm :adhar.n.nms , :adhar.n.gms .
+
+:adharc.n 
+  :en "horn" ;
+  :hasForm :adharc.n.nfs , :adhairce.n.gfs , :adhaircean.n.np . 
+
+:aghaidh.n 
+  :en "face" ;
+  :hasForm :aghaidh.n.nfs , :aghaidhe.n.gfs , :aghaidhean.n.np .
+
+:aibidil.n 
+  :en "alphabet" ;
+  :hasForm :aibidil.n.nfs , :aibidile.n.gfs , :aibidilean.n.np .
+
+:ailm.n 
+  :en "helm" .
+  :hasForm :ailm.n.nfs , :ailme.n.gfs , :ailmean.n.np .
+  
+:aimsir.n
+  :en "weather" ;
+  :hasForm :aimsir.n.nfs , :aimsire.n.gfs .
+
+:ainm.n 
+  :en "name" ;
+  :hasForm :ainm.n.nms , :ainme.n.gms , :ainmean.n.np .
+
+:airgead.n 
+  :en "money" , "silver" ;
+  :hasForm :airgead.n.nms , :airgid.n.gms .
+
+:àite.n
+  :en "place" ;
+  :hasForm :àite.n.nms , :àite.n.gms , :àitean.n.np , :àiteachan.n.np .
+  
+:aithne.n
+  :en "knowledge", "acquaintance" ;
+  :hasForm :aithne.n.nfs , :aithne.n.gfs .  
+
+:allt.n
+  :en "burn" , "stream" ;
+  :hasForm :allt.n.nms , :uillt.n.gms , :uillt.n.np .
+
+:àm.n 
+  :en "time" ;
+  :hasForm :àm.n.nms , :ama.n.gms , :amannan.n.np .
+
+:anail.n 
+  :en "breath" , "rest" ;
+  :hasForm :anail.n.nfs , :analach.n.gfs , :anailean.n.np .
+
+:aodann.n 
+  :en "face" ;
+  :hasForm :aodann.n.nms , :aodainn.n.gms , :aodainnean.n.np .
+
+:aois.n
+  :en "age" ;
+  :hasForm :aois.n.nfs , :aoise.n.gfs , :aoisean.n.np .
+
+:aran.n 
+  :en "bread" ;
+  :hasForm :aran.n.nms , :arain.n.gms .
+
+:arbhar.n 
+  :en "corn" ;
+  :hasForm :arbhar.n.nms , :arbhair.n.gms .
+
+:argamaid.n 
+  :en "argument" ;
+  :hasForm :argumaid.n.nfs , :argumaide.n.gfs , :argumaidean.n.np .
+
+:arm.n 
+  :en "army" ;
+  :hasForm :arm.n.nms , :airm.n.gms , :airm.n.np .
+
+:astar.n 
+  :en "distance" , "speed" ;
+  :hasForm :astar.n.nms , :astair.n.gms , :astaran.n.np .
+
+:athair.n 
+  :en "father" ;
+  :hasForm :athair.n.nms , :athar.n.gms , :athraichean.n.np .
+
+
+# B
+
+:bàgh.n 
+  :en "bay" ;
+  :hasForm :bàgh.n.nms , :bàigh.n.gms , :bàghan.n.np .
+  
+:baile.n 
+  :en "town" ;
+  :hasForm :baile.n.nms , :baile.n.gms , :bailtean.n.np .
+
+:bainne.n 
+  :en "milk" ;
+  :hasForm :bainne.n.nms , :bainne.n.gms .
+
+:balach.n 
+  :en "boy" ;
+  :hasForm :balach.n.nms , :balaich.n.gms , :balaich.n.np .
+
+:balla.n 
+  :en "wall" ;
+  :hasForm :balla.n.nms , :balla.n.gms , :ballachan.n.np .
+
+:banais.n 
+  :en "wedding" ;
+  :hasForm :banais.n.nfs , :bainnse.n.gfs , :bainnsean.n.np .
+
+:banarach.n 
+  :en "milkmaid" ;
+  :hasForm :banarach.n.nfs , :banaraiche.n.gfs , :banaraichean.n.np .
+
+:bann.n 
+  :en "hinge" ;
+  :hasForm :bann.n.nms , :banna.n.gms , :bannan.n.np , :banntan.n.np .
+
+:barail.n 
+  :en "opinion" ;
+  :hasForm :barail.nfs , :baralach.n.gfs , :baralaichean.n.np , :barailean.n.np .
+
+:bàrd.n 
+  :en "poet" ;
+  :hasForm :bàrd.n.nms , :bàird.n.gms , :bàird.n.np .
+
+:bàrr.n 
+  :en "top" , "crest" ;
+  :hasForm :bàrr.n.nms , :barra.n.gms , :barran.n.np .
+
+:barrall.n 
+  :en "shoe-lace" ;
+  :hasForm :barrall.nfs , :barraill.n.gfs , :barraillean.n.np .
+
+:bas.n 
+  :en "palm (of hand)" ;
+  :hasForm :bas.n.nfs , :boise.n.gfs , :basan.n.np .
+  
+:bascaid.n 
+  :en "basket" ;
+  :hasForm :bascaid.n.nfs , :bascaide.n.gfs , :bascaidean.n.np .
+    
+:bàta.n 
+  :en "boat" ;
+  :hasForm :bàta.n.nms , :bàta.n.gms , :bàtaichean.n.np .
+  
+:bata.n 
+  :en "walking-stick" ;
+  :hasForm :bata.n.nms , :bata.n.gms , :bataichean.n.np .
+
+:bàthach.n 
+  :en "byre" ;
+  :hasForm :bàthach.n.nfs , :bàthcha.n.ngs , :bàthchannan.n.np , :bàthaichean.n.np .
+
+:beachd.n 
+  :en "opinion" ;
+  :hasForm :beachd.n.nms , :beachd.n.gms , :beachdan.n.np .
+
+:bean.n 
+  :en "woman" ;
+  :hasForm :bean.n.nfs , :mnatha.n.gfs , :mnathan.n.np .
+
+:beannachd.n 
+  :en "blessing" ;
+  :hasForm :beannachd.n.nfs , :beannachd.n.gfs , :beannachdan.n.np .
+     
+:beartas.n 
+  :en "wealth" ;
+  :hasForm :beartas.n.nms , :beartais.n.gms .
+  
+:beinn.n 
+  :en "mountain" ;
+  :hasForm :beinn.n.nfs , :beinne.n.gfs , :beanntan.n.np .
+  
+:beul.n 
+  :en "mouth" ;
+  :hasForm :beul.n.nms , :beòil.n.gms , :beòil.n.np .
+
+:beum.n 
+  :en "blow" ;
+  :hasForm :beum.n.nms , :beuma.n.gms , :beumannan.n.np .
+
+:biadh.n 
+  :en "food" ;
+  :hasForm :biadh.n.nms , :bìdh.n.gms .
+
+:bìoball.n 
+  :en "bible" ;
+  :hasForm :bìobull.n.nms , :bìobuill.n.gms , :bìobuill.n.np .
+
+:blas.n 
+  :en "taste" ;
+  :hasForm :blas.n.nms , :blais.n.gms .
+
+:bliadhna.n 
+  :en "year" ;
+  :hasForm :bliadhna.n.nfs , :bliadhna.n.gfs , :bliadhnachan.n.np .
+
+:bò.n 
+  :en "cow" ;
+  :hasForm :bó.n.nfs , :bà.n.gfs , :bà.n.np .
+
+:bocsa.n 
+  :en "box" ;
+  :hasForm :bocsa.n.nms , :bocsa.n.gms , :bocsaichean.n.np .
+
+:bodach.n 
+  :en "old man" ;
+  :hasForm :bodach.n.nms , :bodaich.n.gms , :bodaich.n.np . 
+
+:boireannach.n 
+  :en "woman" ;
+  :hasForm :boireannach.n.nms , :boireannaich.n.gms , :boireannaich.n.np .
+
+:bonaid.n 
+  :en "bonnet", "cap" ;
+  :hasForm :bonaid.n.nfs , :bonaide.n.gfs , :bonaidean.n.np .
+
+:bonn.n 
+  :en "coin" ;
+  :hasForm :bonn.n.nms , :buinn.n.gms , :buinn.n.np , :bonnan.n.np .
+
+:bòrd.n
+  :en "table" ;
+  :hasForm :bòrd.n.nms , :bùird.n.gms , :bùird.n.np .
+
+:botal.n 
+  :en "bottle" ;
+  :hasForm :botul.n.nms , :botuil.n.gms , :botuil.n.np .
+
+:bracaist.n 
+  :en "breakfast" ;
+  :hasForm :bracaist.n.nfs , :bracaiste.n.gfs , :bracaistean.n.np .
+
+:bradan.n 
+  :en "salmon" ;
+  :hasForm :bradan.n.nms , :bradain.n.gms , :bradain.n.np .
+
+:bratach.n 
+  :en "banner" ;
+  :hasForm :bratach.n.nfs , :brataiche.n.gfs , :brataichean.n.np .
+
+:bràthair.n 
+  :en "brother" ;
+  :hasForm :bràthair.n.nms , :bràthar.n.gms , bràithrean.n.np .
+
+:breac.n 
+  :en "trout" ;
+  :hasForm :breac.n.nms , :bric.n.gms , :bric.n.np .
+
+:breug.n 
+  :en "lie" ;
+  :hasForm :breug.n.nfs , :breige.n.gfs , :breugan.n.np .
+
+:brìgh.n 
+  :en "essence" , "substance" , "meaning" ;
+  :hasForm :brìgh.n.nfs , :brìghe.n.gfs .
+
+:briogais.n 
+  :en "trousers" ;
+  :hasForm :briogais.n.nfs , :briogaise.n.gfs , :briogaisean.n.np .
+
+:brioscaid.n 
+  :en "biscuit" ;
+  :hasForm :brioscaid.n.nfs , :brioscaide.n.gfs , :brioscaidean.n.np .
+
+:bròg.n 
+  :en "shoe" ;
+  :hasForm :bròg.n.nfs , :bròige.n.gfs , :brògan.n.np .
+
+:brot.n 
+  :en "broth", "soup" ;
+  :hasForm :brot.n.nms , :brota.n.np .
+
+:bruach.n 
+  :en "bank" ;
+  :hasForm :bruach.n.nfs , :bruaiche.n.gfs , :bruachan.n.np .
+
+:bruthach.n 
+  :en "slope" ;
+  :hasForm :bruthach.n.nfs , :bruthaiche.n.gfs , :bruthachan.n.np .
+
+:buaile.n 
+  :en "fold (for sheep or cattle)" ;
+  :hasForm :buaile.n.nfs , :buaile.n.gfs , :buailtean.n.np .
+
+:bùth.n 
+  :en "shop" ;
+  :hasForm :bùth.n.nfs , :bùtha.n.gfs , :bùthan.n.np .
+
+  
+# C  
+  
+:cabhag.n 
+  :en "hurry" ;
+  :hasForm :cabhag.n.nfs , :cabhaige.n.gfs .
+
+:cabhsair.n 
+  :en "pavement" ;
+  :hasForm :cabhsair.n.nms , :cabhsair.n.gms , :cabhsairean.n.np .
+
+:cagar.n 
+  :en "darling" , "dear" ;
+  :hasForm :cagar.n.nms , :cagair.n.gms , :cagairean.n.np .
+
+:caibidil.n 
+  :en "chapter" ;
+  :hasForm :caibidil.n.nfs , :caibidile.n.gfs , :caibidilean.n.np .
+  
+:cailc.n 
+  :en "chalk" ;
+  :hasForm :cailc.n.nfs , :cailce.n.gfs .
+  
+:caileag.n 
+  :en "girl" ;
+  :hasForm :caileag.n.nfs , :caileige.n.gfs , :caileagan.n.np .
+
+:cailleach.n 
+  :en "old woman" ;
+  :hasForm :cailleach.n.nfs , :cailliche.n.gfs , :cailleachan.n.np .
+
+:cairteal.n 
+  :en "quarter" ;
+  :hasForm :cairteal.n.nms , :cairteil.n.gms , :cairtealan.n.np .
+ 
+:càise.n 
+  :en "cheese" ;
+  :hasForm :càise.n.nms , :càise.n.gms .
+
+:caisteal.n 
+  :en "castle" ;
+  :hasForm :caisteal.n.nms , :caisteil.n.gms , :caistealan.n.np .
+
+:cala.n 
+  :en "harbour" ;
+  :hasForm :cala.n.nms , :cala.n.gms , :calachan.n.np , :calaichean.n.np .
+
+:calman.n 
+  :en "dove" ;
+  :hasForm :calman.n.nms , :calmain.n.gms , :calmain.n.np .
+
+:calpa.n 
+  :en "calf (leg)" ;
+  :hasForm :calpa.n.nms , :calpa.n.gms , :calpannan.n.np .
+
+:caora.n 
+  :en "sheep" ;
+  :hasForm :caora.n.nfs , :caorach.n.gfs , :caoraich.n.np .
+
+:càr.n 
+  :en "car" ;
+  :hasForm :càr.n.nms , :càir.n.gms , :càraichean.n.np .
+
+:caraid.n 
+  :en "friend" ;
+  :hasForm :caraid.n.nms , :caraid.n.gms , :càirdean.n.np .
+
+:càrn.n 
+  :en "cairn" ;
+  :hasForm :càrn.n.nms , :cùirn.n.gms , cùirn.n.np .
+
+:cas.n 
+  :en "foot" , "leg" , "shaft" ;
+  :hasForm :cas.n.nfs , :coise.n.gfs , :casan.n.np .
+    
+:cat.n 
+  :en "cat" ;
+  :hasForm :cat.n.nms , :cait.n.gms , :cait.n.np .
+
+:cath.n 
+  :en "battle" ;
+  :hasForm :cath.n.nms , :catha.n.gms , :cathan.n.np .
+
+:cathair.n 
+  :en "chair" ;
+  :hasForm :cathair.n.nfs , :cathrach.n.gfs , :cathraichean.n.np .
+
+:cead.n 
+  :en "interval" , "permission" ;
+  :hasForm :cead.n.nms , :cead.n.gms .
+
+:ceann.n 
+  :en "head" ;
+  :hasForm :ceann.n.nms , :cinn.n.gms , :cinn.n.np .
+
+:ceannaiche.n 
+  :en "merchant" ;
+  :hasForm :ceannaiche.n.nms , :ceannaiche.n.gms , :ceannaichean.n.np .
+
+:cearc.n 
+  :en "hen" ;
+  :hasForm :cearc.n.nfs , :circe.n.gfs , :cearcan.n.np .
+
+:ceartas.n 
+  :en "hen" ;
+  :hasForm :ceartas.n.nms , :ceartais.n.gms .
+
+:cèis.n 
+  :en "case" , "envelope" ;
+  :hasForm :céis.n.nfs , :céise.n.gfs , :céisean.n.np .
+
+:ceist.n 
+  :en "question" ;
+  :hasForm :ceist.n.nfs , :ceiste.n.gfs , :ceistean.n.np .
+ 
+:ceòl.n 
+  :en "music" ;
+  :hasForm :ceòl.n.nms , :ciùil.gms ;
+
+:ceum.n 
+  :en "step" ;
+  :hasForm :ceum.n.nms , :ceuma.n.gms , :ceumannan.n.np .
+
+:cìobair.n 
+  :en "shepherd" ;
+  :hasForm :cìobair.n.nms , :cìobair.n.gms , :cìobairean.n.np .
+
+:cìr.n 
+  :en "comb" ;
+  :hasForm :cìr.n.nfs , :cìre.n.gfs , :cìrean.n.np .
+
+:cìrean.n 
+  :en "cock’s comb" ;
+  :hasForm :cìrean.n.nms , :cìrein.n.gms , :cìrein.n.np .
+
+:ciste.n 
+  :en "chest", "box" ;
+  :hasForm :ciste.n.nfs , :ciste.n.gfs , :cisteachan.n.np .
+
+:clach.n 
+  :en "stone" ;
+  :hasForm :clach.n.nfs , :cloiche.n.gfs , :clachan.n.np .
+
+:clachair.n 
+  :en "mason" ;
+  :hasForm :clachair.n.nms , :clachair.n.gms , :clachairean.n.np .
+
+:clachan.n 
+  :en "village" ;
+  :hasForm :clachan.n.nms , :clachain.n.gms , :clachain.n.np .
+
+:cladach.n 
+  :en "shore" ;
+  :hasForm :cladach.n.nms , :cladaich.n.gms , :cladaichean.n.np .
+  
+:clag.n 
+  :en "bell" ;
+  :hasForm :clag.n.nms , :cluig.n.gms , :cluig.n.np .
+  
+:clann.n 
+  :en "children" ;
+  :hasForm :clann.n.nfs , :cloinne.n.gfs .
+
+:clàrsach.n 
+  :en "harp" ;
+  :hasForm :clàrsach.n.nfs , :clàrsaiche.n.gfs , :clàrsaichean.n.np .
+
+:clas.n 
+  :en "class" ;
+  :hasForm :clas.n.nms , :clas.n.gms , :clasaichean.n.np .
+  
+:cliabh.n 
+  :en "creel" ;
+  :hasForm :cliabh.n.nms , :cléibh.n.gms , :cléibh.n.np .
+
+:cliathach.n 
+  :en "side" ;
+  :hasForm :cliathach.n.nfs , :cliathaiche.n.gfs , :cliathaichean.n.np .
+  
+:cluas.n 
+  :en "ear" , "handle" ;
+  :hasForm :cluas.n.nfs , :cluaise.n.gfs , :cluasan.n.np .
+
+:cnò.n 
+  :en "nut" ;
+  :hasForm :cnò.n.nfs , :cnotha.n.gfs , :cnothan.n.np .
+                                                                                                     
+:cnoc.n 
+  :en "hill" ;
+  :hasForm :cnoc.n.nms , :cnuic.n.gms , :cnuic.n.np , :cnocan.n.np .
+
+:coibhneas.n 
+  :en "kindness" ;
+  :hasForm :coibhneas.n.nms , :coibhneis.n.gms .
+
+:coileach.n 
+  :en "cock" , "cockerel" ;
+  :hasForm :coileach.n.nms , :coilich.n.gms , :coilich.n.np .
+
+:coille.n 
+  :en "wood" ;
+  :hasForm :coille.n.nfs , :coille.n.gfs , :coilltean.n.np .
+
+:coineanach.n 
+  :en "rabbit" ;
+  :hasForm :coineanach.n.nms , :coineanaich.n.gms , :coineanaich.n.np .
+
+:coinneamh.n 
+  :en "meeting" ;
+  :hasForm :coinneamh.n.nfs , :coinneimhe.n.gfs , :coinneamhan.n.np .
+
+:còir.n 
+  :en "right" , "justice" ;
+  :hasForm :còir.n.nfs , :còrach.n.gfs , :còraichean.n.np .
+
+:coire.n 
+  :en "kettle" , "corry" ;
+  :hasForm :coire.n.nms , :coire.n.gms , :coireachan.n.np .
+
+:coltas.n 
+  :en "appearance" , "look" ;
+  :hasForm :coltas.n.nms , :coltais.n.gms .
+
+:comain.n 
+  :en "obligation" , "favour" ;
+  :hasForm :comain.n.nfs , :comaine.n.gfs , :comainean.n.np .
+       
+:comhairle.n 
+  :en "advice" ;
+  :hasForm :comhairle.n.nfs , :comhairle.n.gfs , :comhairlean.n.np .
+
+:còmhradh.n 
+  :en "conversation" ;
+  :hasForm :còmhradh.n.nms , :còmhraidh.n.gms , :còmhraidhean.n.np .
+
+:connrag.n 
+  :en "consonant" ;
+  :hasForm :connrag.n.nfs , :connraige.n.gfs , :connragan.n.np .
+
+:còta.n 
+  :en "coat" ;
+  :hasForm :còta.n.nms , :còta.n.gms , :còtaichean.n.np .
+   
+:crann.n 
+  a :MasculineNoun ;
+  :en "mast" .
+
+:crann.nns 
+  a :NominativeSingular ;
+  :orthography "crann" ;
+  :formOf :crann.n .
+  
+:crainn.ngs 
+  a :GenitiveSingular ;
+  :orthography "crainn" ;
+  :formOf :crann.n . 
+
+:croinn.ngs 
+  a :GenitiveSingular ;
+  :orthography "croinn" ;
+  :formOf :crann.n .
+
+:croinn.nnp 
+  a :NominativePlural ;
+  :orthography "croinn" ;
+  :formOf :crann.n .
+
+
+:craobh.n 
+  a :FeminineNoun ;
+  :en "tree" .
+
+:craobh.nns 
+  a :NominativeSingular ;
+  :orthography "craobh" ; 
+  :formOf :craobh.n .
+
+:craoibhe.ngs 
+  a :GenitiveSingular ; 
+  :orthography "craoibhe" ; 
+  :formOf :craobh.n .
+
+:craobhan.nnp 
+  a :NominativePlural ; 
+  :orthography "craobhan" ; 
+  :formOf :craobh.n .
+
+
+:creag.n 
+  a :FeminineNoun ;
+  :en "rock" .
+
+:creag.nns 
+  a :NominativeSingular ;
+  :orthography "creag" ;
+  :formOf :creag.n .
+  
+:creige.ngs 
+  a :GenitiveSingular ;
+  :orthography "creige" ;
+  :formOf :creag.n .
+
+:creagan.nnp 
+  a :NominativePlural ;
+  :orthography "creagan" ;
+  :formOf :creag.n .   
+
+
+:creideamh.n 
+  a :MasculineNoun ;
+  :en "faith" , "belief" .
+
+:creideamh.nns 
+  a :NominativeSingular ;
+  :orthography "creideamh" ;
+  :formOf :creideamh.n .
+  
+:creideimh.ngs 
+  a :GenitiveSingular ;
+  :orthography "creideimh" ;
+  :formOf :creideamh.n .
+  
+
+:cridhe.n 
+  a :MasculineNoun ;
+  :en "heart" .
+
+:cridhe.nns 
+  a :NominativeSingular ;
+  :orthography "cridhe" ;
+  :formOf :cridhe.n .
+
+:cridhe.ngs 
+  a :GenitiveSingular ;
+  :orthography "cridhe" ;
+  :formOf :cridhe.n .
+
+:cridheachan.nnp 
+  a :NominativePlural ;
+  :orthography "cridheachan" ;
+  :formOf :cridhe.n .  
+  
+
+:crìoch.n 
+  a :FeminineNoun ;
+  :en "boundary" , "end" .
+
+:crìoch.nns 
+  a :NominativeSingular ;
+  :orthography "crìoch" ;
+  :formOf :crìoch.n .
+  
+:crìche.ngs 
+  a :GenitiveSingular ;
+  :orthography "crìche" ;
+  :formOf :crìoch.n .
+
+:crìochan.nnp 
+  a :NominativePlural ;
+  :orthography "crìochan" ;
+  :formOf :crìoch.n .  
+    
+
+:crò.n 
+  a :MasculineNoun ;
+  :en "fold" , "pen" , "eye (of needle)" .
+
+:crò.nns 
+  a :NominativeSingular ;
+  :orthography "crò" ;
+  :formOf :crò.n .
+  
+:crò.ngs 
+  a :GenitiveSingular ;
+  :orthography "crò" ;
+  :formOf :crò.n .
+
+:cròtha.ngs 
+  a :GenitiveSingular ;
+  :orthography "cròtha" ;
+  :formOf :crò.n .
+
+:cròithean.nnp 
+  a :NominativePlural ;
+  :orthography "cròithean" ;
+  :formOf :crò.n .
+
+
+:crodh.n 
+  a :MasculineNoun ;
+  :en "cattle" .
+
+:crodh.nns 
+  a :NominativeSingular ;
+  :orthography "crodh" ;
+  :formOf :crodh.n .
+  
+:cruidh.ngs 
+  a :GenitiveSingular ;
+  :orthography "cruidh" ;
+  :formOf :crodh.n .
+
+
+:croic.n 
+  a :FeminineNoun ;
+  :en "antlers" .
+
+:croic.nns 
+  a :NominativeSingular ;
+  :orthography "croic" ;
+  :formOf :croic.n .
+  
+:croice.ngs 
+  a :GenitiveSingular ;
+  :orthography "croice" ;
+  :formOf :croic.n .
+
+:croicean.nnp 
+  a :NominativePlural ;
+  :orthography "croicean" ;
+  :formOf :croic.n .
+
+
+:cruach.n 
+  a :FeminineNoun ;
+  :en "stack" .
+
+:cruach.nns 
+  a :NominativeSingular ;
+  :orthography "cruach" ;
+  :formOf :cruach.n .
+  
+:cruaiche.ngs 
+  a :GenitiveSingular ;
+  :orthography "cruaiche" ;
+  :formOf :cruach.n .
+
+:cruachan.nnp 
+  a :NominativePlural ;
+  :orthography "cruachan" ;
+  :formOf :cruach.n .
+
+
+:cù.n 
+  a :MasculineNoun ;
+  :en "dog" .
+
+:cù.nns 
+  a :NominativeSingular ;
+  :orthography "cù" ;
+  :formOf :cù.n .
+  
+:coin.ngs 
+  a :GenitiveSingular ;
+  :orthography "coin" ;
+  :formOf :cù.n .
+
+:coin.nnp 
+  a :NominativePlural ;
+  :orthography "coin" ;
+  :formOf :cù.n .  
+  
+
+:cuan.n 
+  a :MasculineNoun ;
+  :en "ocean" .
+
+:cuan.nns 
+  a :NominativeSingular ;
+  :orthography "cuan" ;
+  :formOf :cuan.n .
+  
+:cuain.ngs 
+  a :GenitiveSingular ;
+  :orthography "cuain" ;
+  :formOf :cuan.n .
+
+:cuantan.nnp 
+  a :NominativePlural ;
+  :orthography "cuantan" ;
+  :formOf :cuan.n .  
+  
+
+:cùil.n 
+  a :FeminineNoun ;
+  :en "corner" , "nook" .
+
+:cùil.nns 
+  a :NominativeSingular ;
+  :orthography "cùil" ;
+  :formOf :cùil.n .
+
+:cùil.ngs 
+  a :GenitiveSingular ;
+  :orthography "cùil" ;
+  :formOf :cùil.n .
+
+:cùiltean.nnp 
+  a :NominativePlural ;
+  :orthography "cùiltean" ;
+  :formOf :cùil.n .      
+
+
+:cuileag.n 
+  a :FeminineNoun ;
+  :en "fly" .
+
+:cuileag.nns 
+  a :NominativeSingular ;
+  :orthography "cuileag" ;
+  :formOf :cuileag.n .
+  
+:cuileige.ngs 
+  a :GenitiveSingular ;
+  :orthography "cuileige" ;
+  :formOf :cuileag.n .
+
+:cuileagan.nnp 
+  a :NominativePlural ;
+  :orthography "cuileagan" ;
+  :formOf :cuileag.n .   
+
+
+:cùis.n 
+  a :FeminineNoun ;
+  :en "business" , "affair" .
+
+:cùis.nns 
+  a :NominativeSingular ;
+  :orthography "cùis" ;
+  :formOf :cùis.n .
+  
+:cùise.ngs 
+  a :GenitiveSingular ;
+  :orthography "cùise" ;
+  :formOf :cùis.n .
+
+:cùisean.nnp 
+  a :NominativePlural ;
+  :orthography "cùisean" ;
+  :formOf :cùis.n .
+
+
+:cùl.n 
+  a :MasculineNoun ;
+  :en "back (side)" , "rear" .
+
+:cùl.nns 
+  a :NominativeSingular ;
+  :orthography "cùl" ;
+  :formOf :cùl.n .
+  
+:cùil.ngs 
+  a :GenitiveSingular ;
+  :orthography "cùil" ;
+  :formOf :cùl.n .
+
+:cùiltean.nnp 
+  a :NominativePlural ;
+  :orthography "cùiltean" ;
+  :formOf :cùl.n .  
+
+
+:cuman.n 
+  a :MasculineNoun ;
+  :en "bucket" , "pail" , "milking-pail" .
+
+:cuman.nns 
+  a :NominativeSingular ;
+  :orthography "cuman" ;
+  :formOf :cuman.n .
+  
+:cumain.ngs 
+  a :GenitiveSingular ;
+  :orthography "cumain" ;
+  :formOf :cuman.n .
+
+:cumain.nnp 
+  a :NominativePlural ;
+  :orthography "cumain" ;
+  :formOf :cuman.n .  
+
+
+:cumhachd.n 
+  a :MasculineNoun ;
+  :en "power" .
+
+:cumhachd.nns 
+  a :NominativeSingular ;
+  :orthography "cumhachd" ;
+  :formOf :cumhachd.n .
+  
+:cumhachdan.nnp 
+  a :NominativePlural ;
+  :orthography "cumhachdan" ;
+  :formOf :cumhachd.n .
+
+
+:cunnart.n 
+  a :MasculineNoun ;
+  :en "danger" .
+
+:cunnart.nns 
+  a :NominativeSingular ;
+  :orthography "cunnart" ;
+  :formOf :cunnart.n .
+  
+:cunnairt.ngs 
+  a :GenitiveSingular ;
+  :orthography "cunnairt" ;
+  :formOf :cunnart.n .
+
+:cunnartan.nnp 
+  a :NominativePlural ;
+  :orthography "cunnartan" ;
+  :formOf :cunnart.n .   
+
+
+:cupa.n 
+  a :MasculineNoun ;
+  :en "cup" .
+
+:cupa.nns 
+  a :NominativeSingular ;
+  :orthography "cupa" ;
+  :formOf :cupa.n .
+  
+:cupa.ngs 
+  a :GenitiveSingular ;
+  :orthography "cupa" ;
+  :formOf :cupa.n .
+
+:cupannan.nnp 
+  a :NominativePlural ;
+  :orthography "cupannan" ;
+  :formOf :cupa.n .
+
+:cupaichean.nnp 
+  a :NominativePlural ;
+  :orthography "cupaichean" ;
+  :formOf :cupa.n .
+ 
+  
+  
+
+    

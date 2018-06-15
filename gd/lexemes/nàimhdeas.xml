@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="nàimhdeas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="nàimhdeas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="nàmhaid"/>
   <form>
     <orth>nàimhdeas</orth>
@@ -8,4 +8,4 @@
   <trans>enmity</trans>
   <trans>hostility</trans>
   <note>Listed in TYGD.</note>
-</ainmear_fireann>
+</lexeme>

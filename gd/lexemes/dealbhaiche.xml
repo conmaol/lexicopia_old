@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="dealbhaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dealbhaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dealbhaiche</orth>
     </form>
     <trans>designer</trans>
     <note>Listed in An Seotal: General.</note>
     <note>designer - dealbhaiche poss cdesigners - dealbhaichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="faileas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="faileas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>faileas</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>shadow - faileis poss cshadows - faileasan pl</note>
     <note>Listed in An Seotal: Maths, as 'reflection'.</note>
     <note>reflection - faileis poss creflections - faileasan pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ugh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ugh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ugh</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>ovum</trans>
     <note>Listed in An Seotal: Science, with meanings 'egg', 'ovum'.</note>
     <note>Listed in CM.</note>
-  </ainmear_fireann>
+  </lexeme>

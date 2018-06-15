@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sanas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sanas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sanas</orth>
     </form>
     <trans>advert</trans>
     <note>Listed in An Seotal: General.</note>
     <note>advert - sanais poss cadverts - sanasan pl</note>
-  </ainmear_fireann>
+  </lexeme>

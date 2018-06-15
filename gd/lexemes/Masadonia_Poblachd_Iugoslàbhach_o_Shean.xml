@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Masadonia_Poblachd_Iugoslàbhach_o_Shean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Masadonia_Poblachd_Iugoslàbhach_o_Shean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Masadonia, Poblachd Iugoslàbhach o Shean</orth>
     </form>
     <trans>Macedonia, Former Yugoslav Republic of</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Macedonia, Former Yugoslav Republic of - Mhasadonia, Poblachd Iugoslàbhach o Shean poss c</note>
-  </ainmear_fireann>
+  </lexeme>

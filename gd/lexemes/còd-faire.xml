@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="còd-faire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="còd-faire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>còd-faire</orth>
     </form>
     <trans>passcode</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>passcode - còd-faire poss cpasscodes - còdaichean-faire pl</note>
-  </ainmear_fireann>
+  </lexeme>

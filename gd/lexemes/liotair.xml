@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="liotair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="liotair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>liotair</orth>
     </form>
@@ -12,4 +12,4 @@
     <note>Listed in Boyd Robertson &amp; Ian MacDonald's (2004) 'Teach Yourself' dictionary.</note>
     <note>Listed in An Seotal: Maths.</note>
     <note>litre - liotair poss clitres - liotairean pl</note>
-  </ainmear_fireann>
+  </lexeme>

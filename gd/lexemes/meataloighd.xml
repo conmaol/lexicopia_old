@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="meataloighd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="meataloighd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>meataloighd</orth>
     </form>
     <trans>metalloid</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>metalloid - meataloighd scmetalloids - meataloighdean iom</note>
-  </ainmear_boireann>
+  </lexeme>

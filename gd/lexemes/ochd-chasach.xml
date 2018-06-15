@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ochd-chasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ochd-chasach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ochd-chasach</orth>
     </form>
     <trans>octopus</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>octopus - ochd-chasaich scoctopuses - ochd-chasaich iom</note>
-  </ainmear_fireann>
+  </lexeme>

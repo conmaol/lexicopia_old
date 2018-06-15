@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="rubha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="rubha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>rubha</orth>
     </form>
@@ -14,4 +14,4 @@
     <note>peninsula - rubha poss cpeninsulas - rubhaichean pl</note>
     <note>point - rubha poss cpoints - rubhaichean pl</note>
     <note>promontory - rubha poss cpromontories - rubhaichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

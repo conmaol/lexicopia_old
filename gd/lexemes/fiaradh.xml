@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="fiaradh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fiaradh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fiaradh</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>tilt - fiaraidh sctilts - fiaraidhean iom</note>
     <note>Listed in An Seotal: Music, as 'distortion'.</note>
     <note>distortion - fiaraidh poss cdistortions - fiaraidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="darach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="darach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>darach</orth>
     </form>
@@ -12,4 +12,4 @@
     <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Info: Older name 'dair' is letter 'd' in Gaelic alphabet.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/darach.mp3</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="trèanadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="trèanadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>trèanadh</orth>
     </form>
     <trans>training</trans>
     <note>Listed in An Seotal: General.</note>
     <note>training - trèanaidh poss c</note>
-  </ainmear_fireann>
+  </lexeme>

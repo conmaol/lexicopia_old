@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gobhar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gobhar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gobhar</orth>
     </form>
     <trans>goat</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>goat - gobhair sc goat - goibhre sc goats - gobhair iom goats - goibhrean iom</note>
-  </ainmear_fireann>
+  </lexeme>

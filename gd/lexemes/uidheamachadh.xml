@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="uidheamachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="uidheamachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>uidheamachadh</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>preparation</trans>
     <trans>qualification</trans>
     <note>Listed in CM.</note>
-  </ainmear_fireann>
+  </lexeme>

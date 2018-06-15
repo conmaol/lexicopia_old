@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ball-sneachda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ball-sneachda" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ball-sneachda</orth>
     </form>
     <trans>snowball</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>snowball - buill-sneachda scsnowballs - buill-sneachda iom</note>
-  </ainmear_fireann>
+  </lexeme>

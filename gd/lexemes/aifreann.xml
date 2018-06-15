@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="aifreann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="aifreann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>aifreann</orth>
   </form>
@@ -23,4 +23,4 @@
   <trans>mass</trans>
   <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary, as either gender.</note>
   <note>Listed in Colin Mark’s Dictionary, as either gender, but notes it is feminine in Roman Catholic areas.</note>
-</ainmear_boireann>
+</lexeme>

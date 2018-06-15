@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ainm-sgrìobhte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ainm-sgrìobhte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ainm-sgrìobhte</orth>
     </form>
     <trans>signature</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>signature - ainm-sgrìobhte poss csignatures - ainmean-sgrìobhte pl</note>
-  </ainmear_fireann>
+  </lexeme>

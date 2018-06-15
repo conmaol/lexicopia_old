@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ceannard_leasachaidh_Eòrpaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ceannard_leasachaidh_Eòrpaich" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="ceannard_leasachaidh"/>
   <part ref="leasachadh_Eòrpach"/>
   <form>
@@ -8,4 +8,4 @@
   </form>
   <trans>head of European development</trans>
   <note>Listed in An Seotal: Modern Studies, as: ceannard leasachadh Eòrpach</note>
-</ainmear_fireann>
+</lexeme>

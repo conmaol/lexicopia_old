@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cloitheag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cloitheag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cloitheag</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Plural: cloitheig </note>
     <note>Latin: Tabanidae (Family) spp.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cloitheag.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

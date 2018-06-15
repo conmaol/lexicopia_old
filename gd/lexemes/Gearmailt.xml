@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Gearmailt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Gearmailt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>Gearmailt</orth>
   </form>
@@ -10,4 +10,4 @@
   <trans>Germany</trans>
   <note>Listed in An Seotal: Geography.</note>
   <note>Used with definite article: a’ Ghearmailt, na Gearmailte.</note>
-</ainmear_boireann>
+</lexeme>

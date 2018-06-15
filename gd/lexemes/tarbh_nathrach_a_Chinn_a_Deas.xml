@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tarbh_nathrach_a_Chinn_a_Deas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tarbh_nathrach_a_Chinn_a_Deas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="tarbh_nathrach"/>
   <form>
     <orth>tarbh nathrach a' Chinn a Deas</orth>
@@ -9,4 +9,4 @@
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
   <note>Latin: Aeshna cyanea</note>
   <note>Audio: http://www.snh.org.uk/gaidhlig/audio/tarbh natharach a chinne deas.mp3</note>
-</ainmear_fireann>
+</lexeme>

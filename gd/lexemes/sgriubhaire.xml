@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sgriubhaire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sgriubhaire" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sgriubhaire</orth>
     </form>
     <trans>screwdriver</trans>
     <note>Listed in An Seotal: Technology.</note>
     <note>screwdriver - sgriubhaire poss cscrewdrivers - sgriubhairean pl</note>
-  </ainmear_fireann>
+  </lexeme>

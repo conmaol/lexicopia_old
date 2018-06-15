@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="An_Dùbhlachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="An_Dùbhlachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>An Dùbhlachd</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Synonyms: Dùdlachd f</note>
     <note>Info: Means 'depths of winter'. </note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/an dublachd.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

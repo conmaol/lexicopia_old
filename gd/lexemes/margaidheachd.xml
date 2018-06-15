@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="margaidheachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="margaidheachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>margaidheachd</orth>
     </form>
     <trans>marketing</trans>
     <note>Listed in An Seotal: General.</note>
     <note>marketing - margaidheachd poss c</note>
-  </ainmear_boireann>
+  </lexeme>

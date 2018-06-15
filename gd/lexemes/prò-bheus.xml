@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="prò-bheus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="prò-bheus" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>prò-bheus</orth>
     </form>
     <trans>double bass</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>double bass - prò-bheus poss cdouble basses - prò-bheusan pl</note>
-  </ainmear_fireann>
+  </lexeme>

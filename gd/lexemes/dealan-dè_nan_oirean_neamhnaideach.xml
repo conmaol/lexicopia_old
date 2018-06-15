@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="dealan-dè_nan_oirean_neamhnaideach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dealan-dè_nan_oirean_neamhnaideach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dealan-dè nan oirean neamhnaideach</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Latin: Boloria euphrosyne</note>
     <note>Info: Plural of dealan-dè can be dealanan-dè or dealain-dè.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/dealan dè nan oirean neamhnaideach.mp3</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="aidhonospeur" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="aidhonospeur" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>aidhonospeur</orth>
     </form>
     <trans>ionosphere</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>ionosphere - aidhonospeura sc</note>
-  </ainmear_fireann>
+  </lexeme>

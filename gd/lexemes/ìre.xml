@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ìre" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ìre" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ìre</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>stage - ìre poss cstages - ìrean pl</note>
     <note>Listed in An Seotal: Maths, as 'rate'.</note>
     <note>rate - ìre poss c rates - ìrean pl</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="seillean_mòr_an_earbaill_dheirg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="seillean_mòr_an_earbaill_dheirg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="seillean_mòr"/>
   <part ref="earball"/>
   <part ref="dearg"/>
@@ -13,4 +13,4 @@
   <trans>red-tailed bumblebee</trans>
   <trans>Bombus lapidarius</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-</ainmear_fireann>
+</lexeme>

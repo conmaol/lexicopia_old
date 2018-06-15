@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="bùth_obrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bùth_obrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bùth obrach</orth>
     </form>
     <trans>workshop</trans>
     <note>Listed in An Seotal: General.</note>
     <note>workshop - bùth-obrach poss c workshops - bùthan-obrach plworkshops - bùithtean-obrach plworkshops - bùithean-obrach pl</note>
-  </ainmear_boireann>
+  </lexeme>

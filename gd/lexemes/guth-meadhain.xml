@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="guth-meadhain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="guth-meadhain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>guth-meadhain</orth>
     </form>
     <trans>middle register</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>middle register - guth-meadhain poss cmiddle registers - guthan-meadhain pl</note>
-  </ainmear_fireann>
+  </lexeme>

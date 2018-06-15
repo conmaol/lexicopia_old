@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cosgais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cosgais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cosgais</orth>
     </form>
     <trans>cost</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>cost - cosgais(e) poss ccosts - cosgaisean pl</note>
-  </ainmear_boireann>
+  </lexeme>

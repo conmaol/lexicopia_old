@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cogadh_catharra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cogadh_catharra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cogadh catharra</orth>
     </form>
     <trans>civil war</trans>
     <note>Listed in An Seotal: Modern Studies</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="rinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="rinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>rinn</orth>
   </form>
@@ -15,4 +15,4 @@
   <trans>nib</trans>
   <note>Listed in Colin Mark’s dictionary.</note>
   <note>Denotes the sharp point of a ‘dubhan’ (fish hook).</note>
-</ainmear_boireann>
+</lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="gealag_bhuidhe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gealag_bhuidhe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gealag bhuidhe</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Info: The Gaelic name means 'yellow bunting'.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/gealag bhuidhe.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

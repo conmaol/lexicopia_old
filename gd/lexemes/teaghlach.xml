@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="teaghlach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="teaghlach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>teaghlach</orth>
     </form>
@@ -13,4 +13,4 @@
     <trans>family</trans>
     <trans>household</trans>
     <note>Listed in An Seotal: General, as 'family'.</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tampon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tampon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tampon</orth>
     </form>
     <trans>tampon</trans>
     <note>Listed in An Seotal: Personal and Social Education.</note>
     <note>tampon - tampon poss ctampons - tamponan pl</note>
-  </ainmear_fireann>
+  </lexeme>

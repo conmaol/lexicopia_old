@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="planctan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="planctan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>planctan</orth>
     </form>
     <trans>plankton</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>plankton - planctain scplanktons - planctanan iomplanktons - planctain iom</note>
-  </ainmear_fireann>
+  </lexeme>

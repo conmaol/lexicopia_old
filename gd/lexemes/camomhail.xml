@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="camomhail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="camomhail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>camomhail</orth>
     </form>
     <trans>camomile</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>camomile - camomhail sc</note>
-  </ainmear_fireann>
+  </lexeme>

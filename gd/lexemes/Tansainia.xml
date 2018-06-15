@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Tansainia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Tansainia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Tansainia</orth>
     </form>
     <trans>Tanzania</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Tansainia - Thansainia poss c</note>
-  </ainmear_fireann>
+  </lexeme>

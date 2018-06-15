@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ciùb-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ciùb-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ciùb</orth>
     </form>
     <trans>cube</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>cube - ciùb poss ccubes - ciùban pl</note>
-  </ainmear_fireann>
+  </lexeme>

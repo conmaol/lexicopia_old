@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cèile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cèile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cèile</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>fellow</trans>
     <trans>match</trans>
     <trans>another</trans>
-  </ainmear_boireann>
+  </lexeme>

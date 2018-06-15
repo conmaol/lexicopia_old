@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eòlas_cùram_meidigeach_seann_dhaoine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eòlas_cùram_meidigeach_seann_dhaoine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eòlas cùram meidigeach seann dhaoine</orth>
     </form>
     <trans>geriatrics</trans>
     <note>Listed in An Seotal: Science.</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="fo-phlanaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fo-phlanaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fo-phlanaid</orth>
     </form>
     <trans>dwarf planet</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>dwarf planet - fo-phlanaid(e) scdwarf planets - fo-phlanaidean iom</note>
-  </ainmear_fireann>
+  </lexeme>

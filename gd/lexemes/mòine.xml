@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="mòine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="mòine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>mòine</orth>
   </form>
   <trans>peat</trans>
   <note>Listed in CM.</note>
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
-</ainmear_boireann>
+</lexeme>

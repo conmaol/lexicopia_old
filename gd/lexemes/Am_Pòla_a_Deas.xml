@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Am_Pòla_a_Deas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Am_Pòla_a_Deas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Am Pòla a Deas</orth>
     </form>
     <trans>South Pole</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>South Pole - a' Phòla a Deas sc</note>
-  </ainmear_fireann>
+  </lexeme>

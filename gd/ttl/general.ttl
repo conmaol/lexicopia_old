@@ -1,0 +1,3666 @@
+@prefix : <http://faclair.ac.uk/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+
+# 
+
+:abhainn.n 
+  a :Noun ;
+  rdfs:label "abhainn" .
+
+:abhainn.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ;
+  :orthography "abhainn" ; 
+  :formOf :abhainn.n .
+
+:aibhne.n.gfs  
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ;
+  :orthography "aibhne" ; 
+  :formOf :abhainn.n .
+
+:abhainn.n.dfs 
+  :case :Dative ;
+  :number :Singular ;
+  :gender :Feminine ;
+  :orthography "abhainn" ; 
+  :formOf :abhainn.n .
+
+:abhainn.n.nfd 
+  :case :Nominative ;
+  :number :Dual ;
+  :gender :Feminine ;
+  :orthography "abhainn" ; 
+  :formOf :abhainn.n .
+
+:aibhne.n.gfd  
+  :case :Genitive ;
+  :number :Dual ;
+  :gender :Feminine ;
+  :orthography "aibhne" ; 
+  :formOf :abhainn.n .
+
+:abhainn.n.dfd 
+  :case :Dative ;
+  :number :Dual ;
+  :gender :Feminine ;
+  :orthography "abhainn" ; 
+  :formOf :abhainn.n .
+
+:aibhnichean.n.np  
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "aibhnichean" ; 
+  :formOf :aibhne.n .
+
+:aibhnichean.n.dp  
+  :case :Dative ;
+  :number :Plural ;
+  :orthography "aibhnichean" ; 
+  :formOf :aibhne.n .
+  
+:aibhnichean.n.gp  
+  :case :Genitive ;
+  :number :Plural ;
+  :orthography "aibhnichean" ; 
+  :formOf :aibhne.n .
+
+
+:acair.n 
+  a :Noun ;
+  rdfs:label "acair" .
+
+:acair.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ;
+  :orthography "acair" ; 
+  :formOf :acair.n .
+
+:acrach.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "acrach" ; 
+  :formOf :acair.n .
+
+:acraichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "acraichean" ; 
+  :formOf :acair.n .
+  
+
+:acarsaid.n 
+  a :Noun ;
+  rdfs:label "acarsaid" .
+
+:acarsaid.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ;
+  :orthography "acarsaid" ; 
+  :formOf :acarsaid.n .
+
+:acarsaid.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ;
+  :orthography "acarsaid" ; 
+  :formOf :acarsaid.n .
+
+:acarsaidean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "acarsaidean" ; 
+  :formOf :acarsaid.n .  
+  
+
+:achadh.n 
+  a :Noun ;
+  rdfs:label "achadh" .
+
+:achadh.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ;
+  :orthography "achadh" ; 
+  :formOf :achadh.n .
+
+:achaidh.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ;
+  :orthography "achaidh" ; 
+  :formOf :achadh.n .
+
+:achaidhean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "achaidhean" ; 
+  :formOf :achadh.n .
+
+  
+:acras.n 
+  a :Noun ;
+  rdfs:label "acras" .
+
+:acras.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ;
+  :orthography "acras" ; 
+  :formOf :acras.n .
+
+:acrais.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ;
+  :orthography "acrais" ; 
+  :formOf :acras.n .  
+
+
+:ad.n 
+  a :Noun ;
+  rdfs:label "ad" .
+
+:ad.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ;
+  :orthography "ad" ; 
+  :formOf :ad.n .
+
+:aide.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ;
+  :orthography "aide" ; 
+  :formOf :ad.n .
+
+:adaichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "adaichean" ; 
+  :formOf :ad.n .
+
+
+:adhar.n 
+  a :Noun ;
+  rdfs:label "adhar" .
+
+:adhar.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ;
+  :orthography "adhar" ; 
+  :formOf :adhar.n .
+
+:adhair.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "adhair" ; 
+  :formOf :adhar.n .  
+
+
+:adharc.n 
+  a :Noun ;
+  rdfs:label "adharc" .
+
+:adharc.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "adharc" ; 
+  :formOf :adharc.n .
+
+:adhairce.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "adhairce" ; 
+  :formOf :adharc.n .
+
+:adhaircean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "adhaircean" ; 
+  :formOf :adharc.n .
+  
+
+:aghaidh.n 
+  a :Noun ;
+  rdfs:label "aghaidh" .
+
+:aghaidh.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "aghaidh" ; 
+  :formOf :aghaidh.n .
+
+:aghaidhe.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "aghaidhe" ; 
+  :formOf :aghaidh.n .
+
+:aghaidhean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "aghaidhean" ; 
+  :formOf :aghaidh.n .
+
+
+:aibidil.n 
+  a :Noun ;
+  rdfs:label "aibidil" .
+
+:aibidil.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "aibidil" ; 
+  :formOf :aibidil.n .
+
+:aibidile.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "aibidile" ; 
+  :formOf :aibidil.n .
+
+:aibidilean.n.np 
+  :case :Nominative ;
+  :number :Plural ; 
+  :orthography "aibidilean" ; 
+  :formOf :aibidil.n .
+
+
+:ailm.n 
+  a :Noun ;
+  rdfs:label "ailm" .
+
+:ailm.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "ailm" ; 
+  :formOf :ailm.n .
+
+:ailme.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "ailme" ; 
+  :formOf :ailm.n .
+
+:ailmean.n.np 
+  :case :Nominative ;
+  :number :Plural ;  
+  :orthography "ailmean" ; 
+  :formOf :ailm.n .
+  
+
+:aimsir.n 
+  a :Noun ;
+  rdfs:label "aimsir" .
+
+:aimsir.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "aimsir" ; 
+  :formOf :aimsir.n .
+
+:aimsire.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "aimsire" ; 
+  :formOf :aimsir.n .
+
+
+:ainm.n 
+  a :Noun ;
+  rdfs:label "ainm" .
+
+:ainm.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "ainm" ; 
+  :formOf :ainm.n .
+
+:ainme.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "ainme" ; 
+  :formOf :ainm.n .
+
+:ainmean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "ainmean" ; 
+  :formOf :ainm.n .
+  
+
+:airgead.n 
+  a :Noun ;
+  rdfs:label "airgead" .
+
+:airgead.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "airgead" ; 
+  :formOf :airgead.n .
+
+:airgid.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "airgid" ; 
+  :formOf :airgead.n .
+
+
+:àite.n 
+  a :Noun ;
+  rdfs:label "àite" .
+
+:àite.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "àite" ; 
+  :formOf :àite.n .
+
+:àite.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "àite" ; 
+  :formOf :àite.n .
+
+:àitean.n.np 
+  :case :Nominative ;
+  :number :Plural ; 
+  :orthography "àitean" ; 
+  :formOf :àite.n .
+
+:àiteachan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "àiteachan" ; 
+  :formOf :àite.n .
+    
+  
+:aithne.n 
+  a :Noun ;
+  rdfs:label "aithne" .
+
+:aithne.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "aithne" ; 
+  :formOf :aithne.n .  
+
+:aithne.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "aithne" ; 
+  :formOf :aithne.n .  
+  
+
+:allt.n 
+  a :Noun ;
+  rdfs:label "allt" .
+
+:allt.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "allt" ; 
+  :formOf :allt.n .
+
+:uillt.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "uillt" ; 
+  :formOf :allt.n .
+
+:uillt.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "uillt" ; 
+  :formOf :allt.n .
+
+
+:àm.n 
+  a :Noun ;
+  rdfs:label "àm" .
+
+:àm.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "àm" ; 
+  :formOf :àm.n .
+
+:ama.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "ama" ; 
+  :formOf :àm.n .
+
+:amannan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "amannan" ; 
+  :formOf :àm.n .
+
+
+:anail.n 
+  a :Noun ;
+  rdfs:label "anail" .
+
+:anail.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "anail" ; 
+  :formOf :anail.n .
+
+:analach.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "analach" ; 
+  :formOf :anail.n .
+
+:anailean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "anailean" ; 
+  :formOf :anail.n .
+  
+
+:aodann.n 
+  a :Noun ;
+  rdfs:label "aodann" .
+
+:aodann.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "aodann" ; 
+  :formOf :aodann.n .
+
+:aodainn.n.gms
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "aodainn" ; 
+  :formOf :aodann.n .
+
+:aodainnean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "aodainnean" ; 
+  :formOf :aodann.n .
+
+
+:aois.n 
+  a :Noun ;
+  rdfs:label "aois" .
+
+:aois.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "aois" ; 
+  :formOf :aois.n .
+
+:aoise.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "aoise" ; 
+  :formOf :aoise.n .
+
+:aoisean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "aoisean" ; 
+  :formOf :aois.n .
+
+
+:aran.n 
+  a :Noun ;
+  rdfs:label "aran" .
+
+:aran.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "aran" ; 
+  :formOf :aran.n .
+
+:arain.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "arain" ; 
+  :formOf :aran.n .
+  
+
+:arbhar.n 
+  a :Noun ;
+  rdfs:label "arbhar" .
+
+:arbhar.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "arbhar" ; 
+  :formOf :arbhar.n .
+
+:arbhair.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "arbhair" ; 
+  :formOf :arbhar.n .
+
+
+:argamaid.n 
+  a :Noun ;
+  rdfs:label "argamaid" .
+
+:argumaid.n.nfs
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "argumaid" ;
+  :formOf :argamaid.n .
+
+:argumaide.n.gfs
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "argumaide" ;
+  :formOf :argamaid.n .
+  
+:argumaidean.n.np
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "argumaidean" ;
+  :formOf :argamaid.n .
+    
+
+:arm.n 
+  a :Noun ;
+  rdfs:label "arm" .
+
+:arm.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "arm" ; 
+  :formOf :arm.n .
+
+:airm.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "airm" ; 
+  :formOf :arm.n .
+
+:airm.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "airm" ; 
+  :formOf :arm.n .
+
+
+:astar.n 
+  a :Noun ;
+  rdfs:label "astar" .
+
+:astar.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "astar" ; 
+  :formOf :astar.n .
+
+:astair.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "astair" ; 
+  :formOf :astar.n .
+
+:astaran.n.np 
+  :case :Nominative ;
+  :number :Plural ; 
+  :orthography "astaran" ; 
+  :formOf :astar.n . 
+
+
+:athair.n 
+  a :Noun ;
+  rdfs:label "athair" .
+
+:athair.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "athair" ; 
+  :formOf :athair.n .
+
+:athar.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "athar" ; 
+  :formOf :athar.n .
+
+:athraichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "athraichean" ; 
+  :formOf :athair.n . 
+
+
+# B
+
+:bàgh.n 
+  a :Noun ;
+  rdfs:label "bàgh" .
+
+:bàgh.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bàgh" ; 
+  :formOf :bàgh.n .
+
+:bàigh.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bàigh" ; 
+  :formOf :bàgh.n .
+
+:bàghan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bàghan" ; 
+  :formOf :bàgh.n .  
+      
+
+:baile.n 
+  a :Noun ;
+  rdfs:label "baile" .
+
+:baile.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "baile" ; 
+  :formOf :baile.n .
+
+:baile.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "baile" ; 
+  :formOf :baile.n .
+
+:bailtean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bailtean" ; 
+  :formOf :baile.n .    
+  
+
+:bainne.n 
+  a :Noun ;
+  rdfs:label "bainne" .
+
+:bainne.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bainne" ; 
+  :formOf :bainne.n .
+
+:bainne.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bainne" ; 
+  :formOf :bainne.n . 
+
+
+:balach.n 
+  a :Noun ;
+  rdfs:label "balach" .
+
+:balach.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "balach" ; 
+  :formOf :balach.n .
+
+:balaich.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "balaich" ; 
+  :formOf :balach.n .
+
+:balaich.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "balaich" ; 
+  :formOf :balach.n .
+
+
+:balla.n 
+  a :Noun ;
+  rdfs:label "balla" .
+
+:balla.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "balla" ; 
+  :formOf :balla.n .
+
+:balla.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "balla" ; 
+  :formOf :balla.n .
+
+:ballachan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "ballachan" ; 
+  :formOf :balla.n .
+
+
+:banais.n 
+  a :Noun ;
+  rdfs:label "banais" .
+
+:banais.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "banais" ; 
+  :formOf :banais.n .
+
+:bainnse.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bainnse" ; 
+  :formOf :banais.n .
+
+:bainnsean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bainnsean" ; 
+  :formOf :banais.n .
+
+
+:banarach.n 
+  a :Noun ;
+  rdfs:label "banarach" .
+
+:banarach.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "banarach" ; 
+  :formOf :banarach.n .
+
+:banaraiche.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "banaraiche" ; 
+  :formOf :banarach.n .
+
+:banaraichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "banaraichean" ; 
+  :formOf :banarach.n .
+
+
+:bann.n 
+  a :Noun ;
+  rdfs:label "bann" .
+
+:bann.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bann" ; 
+  :formOf :bann.n .
+
+:banna.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "banna" ; 
+  :formOf :bann.n .
+
+:bannan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bannan" ; 
+  :formOf :bann.n .
+
+:banntan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "banntan" ; 
+  :formOf :bann.n .
+
+
+:barail.n 
+  a :Noun ;
+  rdfs:label "barail" .
+
+:barail.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "barail" ; 
+  :formOf :barail.n .
+
+:baralach.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "baralach" ; 
+  :formOf :barail.n .
+
+:baralaichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "baralaichean" ; 
+  :formOf :barail.n .
+
+:barailean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "barailean" ; 
+  :formOf :barail.n .   
+
+
+:bàrd.n 
+  a :Noun ;
+  rdfs:label "bàrd" .
+
+:bàrd.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bàrd" ; 
+  :formOf :bàrd.n .
+
+:bàird.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bàird" ; 
+  :formOf :bàrd.n .
+
+:bàird.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bàird" ; 
+  :formOf :bàrd.n .
+
+
+:bàrr.n 
+  a :Noun ;
+  rdfs:label "bàrr" .
+
+:bàrr.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bàrr" ; 
+  :formOf :bàrr.n .
+
+:barra.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "barra" ; 
+  :formOf :bàrr.n .
+
+:barran.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "barran" ; 
+  :formOf :bàrr.n .
+
+
+:barrall.n 
+  a :Noun ;
+  rdfs:label "barrall" .
+
+:barrall.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "barrall" ; 
+  :formOf :barrall.n .
+
+:barraill.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "barraill" ; 
+  :formOf :barrall.n .
+
+:barraillean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "barraillean" ; 
+  :formOf :barrall.n .
+
+
+:bas.n 
+  a :Noun ;
+  rdfs:label "bas" .
+
+:bas.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bas" ; 
+  :formOf :bas.n .
+
+:boise.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "boise" ; 
+  :formOf :bas.n .
+
+:basan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "basan" ; 
+  :formOf :bas.n .
+  
+  
+:bascaid.n 
+  a :Noun ;
+  rdfs:label "bascaid" .
+
+:bascaid.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bascaid" ; 
+  :formOf :bascaid.n .
+
+:bascaide.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bascaide" ; 
+  :formOf :bascaid.n .
+
+:bascaidean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bascaidean" ; 
+  :formOf :bascaid.n .
+
+    
+:bàta.n 
+  a :Noun ;
+  rdfs:label "bàta" .
+
+:bàta.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bàta" ; 
+  :formOf :bàta.n .
+
+:bàta.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bàta" ; 
+  :formOf :bàta.n .
+
+:bàtaichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bàtaichean" ; 
+  :formOf :bàta.n .     
+
+  
+:bata.n 
+  a :Noun ;
+  rdfs:label "bata" .
+
+:bata.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bata" ; 
+  :formOf :bata.n .
+
+:bata.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bata" ; 
+  :formOf :bata.n .
+
+:bataichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bataichean" ; 
+  :formOf :bata.n .     
+
+
+:bàthach.n 
+  a :Noun ;
+  rdfs:label "bàthach" .
+
+:bàthach.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bàthach" ; 
+  :formOf :bàthach.n .
+
+:bàthcha.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bàthach" ; 
+  :formOf :bàthach.n .
+
+:bàthchannan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bàthchannan" ; 
+  :formOf :bàthach.n .
+
+:bàthaichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bàthaichean" ; 
+  :formOf :bàthach.n .
+
+
+:beachd.n 
+  a :Noun ;
+  rdfs:label "beachd" .
+
+:beachd.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "beachd" ; 
+  :formOf :beachd.n .
+
+:beachd.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "beachd" ; 
+  :formOf :beachd.n .
+
+:beachdan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "beachdan" ; 
+  :formOf :beachd.n .
+
+
+:bean.n 
+  a :Noun ;
+  rdfs:label "bean" .
+
+:bean.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bean" ; 
+  :formOf :bean.n .
+
+:mnatha.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "mnatha" ; 
+  :formOf :bean.n .
+
+:mnathan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "mnathan" ; 
+  :formOf :bean.n .   
+
+
+:beannachd.n 
+  a :Noun ;
+  rdfs:label "beannachd" .
+
+:beannachd.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "beannachd" ; 
+  :formOf :beannachd.n .
+
+:beannachd.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "beannachd" ; 
+  :formOf :beannachd.n .
+
+:beannachdan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "beannachdan" ; 
+  :formOf :beannachd.n .         
+
+
+:beartas.n 
+  a :Noun ;
+  rdfs:label "beartas" .
+
+:beartas.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "beartas" ; 
+  :formOf :beartas.n .
+
+:beartais.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "beartais" ; 
+  :formOf :beartas.n .
+
+  
+:beinn.n 
+  a :Noun ;
+  rdfs:label "beinn" .
+
+:beinn.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "beinn" ; 
+  :formOf :beinn.n .
+
+:beinne.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "beinne" ; 
+  :formOf :beinn.n .
+
+:beanntan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "beanntan" ; 
+  :formOf :beinn.n .    
+  
+  
+:beul.n 
+  a :Noun ;
+  rdfs:label "beul" .
+
+:beul.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "beul" ;
+  :formOf :beul.n .
+  
+:beòil.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "beòil" ;
+  :formOf :beul.n .
+
+:beòil.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "beòil" ;
+  :formOf :beul.n .
+
+
+:beum.n 
+  a :Noun ;
+  rdfs:label "beum" .
+
+:beum.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "beum" ; 
+  :formOf :beum.n .
+
+:beuma.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "beuma" ; 
+  :formOf :beum.n .
+
+:beumannan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "beumannan" ; 
+  :formOf :beum.n .    
+
+
+:biadh.n 
+  a :Noun ;
+  rdfs:label "biadh" .
+
+:biadh.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "biadh" ; 
+  :formOf :biadh.n .
+
+:bìdh.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bìdh" ; 
+  :formOf :biadh.n .  
+
+
+:bìoball.n 
+  a :Noun ;
+  rdfs:label "bìoball" .
+
+:bìobull.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bìobull" ;
+  :formOf :bìoball.n .
+  
+:bìobuill.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bìobuill" ;
+  :formOf :bìoball.n .
+
+:bìobuill.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bìobuill" ;
+  :formOf :bìoball.n .
+
+
+:blas.n 
+  a :Noun ;
+  rdfs:label "blas" .
+
+:blas.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "blas" ;
+  :formOf :blas.n .
+  
+:blais.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "blais" ;
+  :formOf :blas.n .  
+  
+
+:bliadhna.n 
+  a :Noun ;
+  rdfs:label "bliadhna" .
+
+:bliadhna.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bliadhna" ; 
+  :formOf :bliadhna.n .
+
+:bliadhna.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bliadhna" ; 
+  :formOf :bliadhna.n .
+
+:bliadhnachan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bliadhnachan" ; 
+  :formOf :bliadhna.n .      
+
+
+:bò.n 
+  a :Noun ;
+  rdfs:label "bò" .
+
+:bó.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bó" ; 
+  :formOf :bò.n .
+
+:bà.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bà" ; 
+  :formOf :bò.n .
+
+:bà.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bà" ; 
+  :formOf :bò.n .    
+
+
+:bocsa.n 
+  a :Noun ;
+  rdfs:label "bocsa" .
+
+:bocsa.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bocsa" ; 
+  :formOf :bocsa.n .
+
+:bocsa.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bocsa" ; 
+  :formOf :bocsa.n .
+
+:bocsaichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bocsaichean" ; 
+  :formOf :bocsa.n .    
+
+
+:bodach.n 
+  a :Noun ;
+  rdfs:label "bodach" .
+
+:bodach.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bodach" ;
+  :formOf :bodach.n .
+  
+:bodaich.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bodaich" ;
+  :formOf :bodach.n .
+
+:bodaich.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bodaich" ;
+  :formOf :bodach.n .
+  
+
+:boireannach.n 
+  a :Noun ;
+  rdfs:label "boireannach" .
+
+:boireannach.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "boireannach" ;
+  :formOf :boireannach.n .
+  
+:boireannaich.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "boireannaich" ;
+  :formOf :boireannach.n .
+
+:boireannaich.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "boireannaich" ;
+  :formOf :boireannach.n .
+
+
+:bonaid.n 
+  a :Noun ;
+  rdfs:label "bonaid" .
+
+:bonaid.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bonaid" ; 
+  :formOf :bonaid.n .
+
+:bonaide.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bonaide" ; 
+  :formOf :bonaid.n .
+
+:bonaidean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bonaidean" ; 
+  :formOf :bonaid.n .    
+
+
+:bonn.n 
+  a :Noun ;
+  rdfs:label "bonn" .
+
+:bonn.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bonn" ;
+  :formOf :bonn.n .
+  
+:buinn.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "buinn" ;
+  :formOf :bonn.n .
+
+:buinn.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "buinn" ;
+  :formOf :bonn.n .
+
+:bonnan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bonnan" ;
+  :formOf :bonn.n . 
+
+
+:bòrd.n 
+  a :Noun ;
+  rdfs:label "bòrd" .
+
+:bòrd.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bòrd" ;
+  :formOf :bòrd.n .
+  
+:bùird.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bùird" ;
+  :formOf :bòrd.n .
+
+:bùird.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bùird" ;
+  :formOf :bòrd.n .
+                     
+
+:botal.n 
+  a :Noun ;
+  rdfs:label "botal" .
+
+:botul.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "botul" ;
+  :formOf :botal.n .
+  
+:botuil.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "botuil" ;
+  :formOf :botal.n .
+
+:botuil.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "botuil" ;
+  :formOf :botal.n . 
+
+
+:bracaist.n 
+  a :Noun ;
+  rdfs:label "bracaist" .
+
+:bracaist.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bracaist" ; 
+  :formOf :bracaist.n .
+
+:bracaiste.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bracaiste" ; 
+  :formOf :bracaist.n .
+
+:bracaistean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bracaistean" ; 
+  :formOf :bracaist.n .          
+
+
+:bradan.n 
+  a :Noun ;
+  rdfs:label "bradan" .
+
+:bradan.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bradan" ;
+  :formOf :bradan.n .
+  
+:bradain.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bradain" ;
+  :formOf :bradan.n .
+
+:bradain.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bradain" ;
+  :formOf :bradan.n .
+
+
+:bratach.n 
+  a :Noun ;
+  rdfs:label "bratach" .
+
+:bratach.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bratach" ; 
+  :formOf :bratach.n .
+
+:brataiche.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "brataiche" ; 
+  :formOf :bratach.n .
+
+:brataichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "brataichean" ; 
+  :formOf :bratach.n .         
+
+
+:bràthair.n 
+  a :Noun ;
+  rdfs:label "bràthair" .
+
+:bràthair.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bràthair" ; 
+  :formOf :bràthair.n .
+
+:bràthar.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bràthar" ; 
+  :formOf :bràthair.n .
+
+:bràithrean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bràithrean" ; 
+  :formOf :bràthair.n .        
+
+
+:breac.n 
+  a :Noun ;
+  rdfs:label "breac" .
+
+:breac.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "breac" ;
+  :formOf :breac.n .
+  
+:bric.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "bric" ;
+  :formOf :breac.n .
+
+:bric.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bric" ;
+  :formOf :breac.n . 
+
+
+:breug.n 
+  a :Noun ;
+  rdfs:label "breug" .
+
+:breug.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "breug" ; 
+  :formOf :breug.n .
+
+:breige.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "breige" ; 
+  :formOf :breug.n .
+
+:breugan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "breugan" ; 
+  :formOf :breug.n .      
+
+
+:brìgh.n 
+  a :Noun ;
+  rdfs:label "brìgh" .
+
+:brìgh.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "brìgh" ; 
+  :formOf :brìgh.n .
+
+:brìghe.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "brìghe" ; 
+  :formOf :brìgh.n .    
+  
+
+:briogais.n 
+  a :Noun ;
+  rdfs:label "briogais" .
+
+:briogais.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "briogais" ; 
+  :formOf :briogais.n .
+
+:briogaise.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "briogaise" ; 
+  :formOf :briogais.n .
+
+:briogaisean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "briogaisean" ; 
+  :formOf :briogais.n .       
+
+
+:brioscaid.n 
+  a :Noun ;
+  rdfs:label "brioscaid" .
+
+:brioscaid.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "brioscaid" ; 
+  :formOf :brioscaid.n .
+
+:brioscaide.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "brioscaide" ; 
+  :formOf :brioscaid.n .
+
+:brioscaidean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "brioscaidean" ; 
+  :formOf :brioscaid.n .    
+  
+
+:bròg.n 
+  a :Noun ;
+  rdfs:label "bròg" .
+
+:bròg.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bròg" ; 
+  :formOf :bròg.n .
+
+:bròige.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bròige" ; 
+  :formOf :bròg.n .
+
+:brògan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "brògan" ; 
+  :formOf :bròg.n .    
+
+
+:brot.n 
+  a :Noun ;
+  rdfs:label "brot" .
+
+:brot.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "brot" ; 
+  :formOf :brot.n .
+
+:brota.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "brota" ; 
+  :formOf :brot.n .
+
+
+:bruach.n 
+  a :Noun ;
+  rdfs:label "bruach" .
+
+:bruach.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bruach" ; 
+  :formOf :bruach.n .
+
+:bruaiche.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bruaiche" ; 
+  :formOf :bruach.n .
+
+:bruachan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bruachan" ; 
+  :formOf :bruach.n .    
+
+
+:bruthach.n 
+  a :Noun ;
+  rdfs:label "bruthach" .
+
+:bruthach.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bruthach" ; 
+  :formOf :bruthach.n .
+
+:bruthaiche.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bruthaiche" ; 
+  :formOf :bruthach.n .
+
+:bruthachan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bruthachan" ; 
+  :formOf :bruthach.n .    
+
+
+:buaile.n 
+  a :Noun ;
+  rdfs:label "buaile" .
+
+:buaile.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "buaile" ; 
+  :formOf :buaile.n .
+
+:buaile.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "buaile" ; 
+  :formOf :buaile.n .
+
+:buailtean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "buailtean" ; 
+  :formOf :buaile.n .    
+
+
+:bùth.n 
+  a :Noun ;
+  rdfs:label "bùth" .
+
+:bùth.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bùth" ; 
+  :formOf :bùth.n .
+
+:bùtha.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "bùtha" ; 
+  :formOf :bùth.n .
+
+:bùthan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "bùthan" ; 
+  :formOf :bùth.n .    
+
+
+#C  
+  
+:cabhag.n 
+  a :Noun ;
+  rdfs:label "cabhag" .
+
+:cabhag.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "cabhag" ; 
+  :formOf :cabhag.n .
+
+:cabhaige.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "cabhaige" ; 
+  :formOf :cabhag.n . 
+
+
+:cabhsair.n 
+  a :Noun ;
+  rdfs:label "cabhsair" .
+
+:cabhsair.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "cabhsair" ; 
+  :formOf :cabhsair.n .
+
+:cabhsair.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "cabhsair" ; 
+  :formOf :cabhsair.n .
+
+:cabhsairean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "cabhsairean" ; 
+  :formOf :cabhsair.n .    
+
+
+:cagar.n 
+  a :Noun ;
+  rdfs:label "cagar" .
+
+:cagar.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "cagar" ; 
+  :formOf :cagar.n .
+
+:cagair.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "cagair" ; 
+  :formOf :cagar.n .
+
+:cagairean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "cagairean" ; 
+  :formOf :cagar.n .    
+
+
+:caibidil.n 
+  a :Noun ;
+  rdfs:label "caibidil" .
+
+:caibidil.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "caibidil" ; 
+  :formOf :caibidil.n .
+
+:caibidile.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "caibidile" ; 
+  :formOf :caibidil.n .
+
+:caibidilean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "caibidilean" ; 
+  :formOf :caibidil.n .    
+  
+
+:cailc.n 
+  a :Noun ;
+  rdfs:label "cailc" .
+
+:cailc.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "cailc" ; 
+  :formOf :cailc.n .
+
+:cailce.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "cailce" ; 
+  :formOf :cailc.n .
+  
+
+:caileag.n 
+  a :Noun ;
+  rdfs:label "caileag" .
+
+:caileag.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "caileag" ; 
+  :formOf :caileag.n .
+
+:caileige.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "caileige" ; 
+  :formOf :caileag.n .
+
+:caileagan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "caileagan" ; 
+  :formOf :caileag.n .     
+
+
+:cailleach.n 
+  a :Noun ;
+  rdfs:label "cailleach" .
+
+:cailleach.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "cailleach" ; 
+  :formOf :cailleach.n .
+
+:cailliche.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "cailliche" ; 
+  :formOf :cailleach.n .
+
+:cailleachan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "calleachan" ; 
+  :formOf :cailleach.n .    
+
+
+:cairteal.n 
+  a :Noun ;
+  rdfs:label "cairteal" .
+
+:cairteal.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "cairteal" ; 
+  :formOf :cairteal.n .
+
+:cairteil.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "cairteil" ; 
+  :formOf :cairteal.n .
+
+:cairtealan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "cairtealan" ; 
+  :formOf :cairteal.n .       
+
+
+:càise.n 
+  a :Noun ;
+  rdfs:label "càise" .
+
+:càise.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "càise" ; 
+  :formOf :càise.n .
+
+:càise.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "càise" ; 
+  :formOf :càise.n .     
+
+
+:caisteal.n 
+  a :Noun ;
+  rdfs:label "caisteal" .
+
+:caisteal.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "caisteal" ; 
+  :formOf :caisteal.n .
+
+:caisteil.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "caisteil" ; 
+  :formOf :caisteal.n .
+
+:caistealan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "caistealan" ; 
+  :formOf :caisteal.n .        
+
+
+:cala.n 
+  a :Noun ;
+  rdfs:label "cala" .
+
+:cala.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "cala" ; 
+  :formOf :cala.n .
+
+:cala.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "cala" ; 
+  :formOf :cala.n .
+
+:calachan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "calachan" ; 
+  :formOf :cala.n .    
+  
+:calaichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "calaichean" ; 
+  :formOf :cala.n .      
+
+
+:calman.n 
+  a :Noun ;
+  rdfs:label "calman" .
+
+:calman.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "calman" ;
+  :formOf :calman.n .
+  
+:calmain.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "calmain" ;
+  :formOf :calman.n .
+
+:calmain.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "calmain" ;
+  :formOf :calman.n .
+  
+
+:calpa.n 
+  a :Noun ;
+  rdfs:label "calpa" .
+
+:calpa.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "calpa" ; 
+  :formOf :calpa.n .
+
+:calpa.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "calpa" ; 
+  :formOf :calpa.n . 
+  
+:calpannan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "calpannan" ; 
+  :formOf :calpa.n .      
+
+
+:caora.n 
+  a :Noun ;
+  rdfs:label "caora" .
+
+:caora.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "caora" ; 
+  :formOf :caora.n .
+
+:caorach.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "caorach" ; 
+  :formOf :caora.n .
+
+:caoraich.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "caoraich" ; 
+  :formOf :caora.n .         
+
+
+:càr.n 
+  a :Noun ;
+  rdfs:label "càr" .
+
+:càr.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "càr" ; 
+  :formOf :càr.n .
+
+:càir.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "càir" ; 
+  :formOf :càr.n . 
+  
+:càraichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "càraichean" ; 
+  :formOf :càr.n .      
+  
+
+:caraid.n 
+  a :Noun ;
+  rdfs:label "caraid" .
+
+:caraid.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "caraid" ; 
+  :formOf :caraid.n .
+  
+:caraid.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "caraid" ; 
+  :formOf :caraid.n .  
+  
+:càirdean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "càirdean" ; 
+  :formOf :caraid.n .      
+
+
+:càrn.n 
+  a :Noun ;
+  rdfs:label "càrn" .
+
+:càrn.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "càrn" ;
+  :formOf :càrn.n .
+  
+:cùirn.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "cùirn" ;
+  :formOf :càrn.n .
+
+:cùirn.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "cùirn" ;
+  :formOf :càrn.n .
+
+
+:cas.n 
+  a :Noun ;
+  rdfs:label "cas" .
+
+:cas.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "cas" ; 
+  :formOf :cas.n .
+
+:coise.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "coise" ; 
+  :formOf :cas.n .
+
+:casan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "casan" ; 
+  :formOf :cas.n .         
+  
+    
+:cat.n 
+  a :Noun ;
+  rdfs:label "cat" .
+
+:cat.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "cat" ;
+  :formOf :cat.n .
+  
+:cait.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "cait" ;
+  :formOf :cat.n .
+
+:cait.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "cait" ;
+  :formOf :cat.n .
+
+
+:cath.n 
+  a :Noun ;
+  rdfs:label "cath" .
+
+:cath.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "cath" ;
+  :formOf :cath.n .
+  
+:catha.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "catha" ;
+  :formOf :cath.n .
+
+:cathan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "cathan" ;
+  :formOf :cath.n .
+
+
+:cathair.n 
+  a :Noun ;
+  rdfs:label "cathair" .
+
+:cathair.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "cathair" ;
+  :formOf :cathair.n .
+  
+:cathrach.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "cathrach" ;
+  :formOf :cathair.n .
+
+:cathraichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "cathraichean" ;
+  :formOf :cathair.n .
+
+
+:cead.n 
+  a :Noun ;
+  rdfs:label "cead" .
+
+:cead.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "cead" ;
+  :formOf :cead.n .
+
+:cead.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "cead" ;
+  :formOf :cead.n .
+
+
+:ceann.n 
+  a :Noun ;
+  rdfs:label "ceann" .
+
+:ceann.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "ceann" ;
+  :formOf :ceann.n .
+  
+:cinn.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "cinn" ;
+  :formOf :ceann.n .
+
+:cinn.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "cinn" ;
+  :formOf :ceann.n .
+
+
+:ceannaiche.n 
+  a :Noun ;
+  rdfs:label "ceannaiche" .
+
+:ceannaiche.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "ceannaiche" ;
+  :formOf :ceannaiche.n .
+  
+:ceannaiche.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "ceannaiche" ;
+  :formOf :ceannaiche.n .
+
+:ceannaichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "ceannaichean" ;
+  :formOf :ceannaiche.n .
+  
+
+:cearc.n 
+  a :Noun ;
+  rdfs:label "cearc" .
+
+:cearc.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "cearc" ;
+  :formOf :cearc.n .
+  
+:circe.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "circe" ;
+  :formOf :cearc.n .
+
+:cearcan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "cearcan" ;
+  :formOf :cearc.n . 
+
+
+:ceartas.n 
+  a :Noun ;
+  rdfs:label "ceartas" .
+
+:ceartas.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "ceartas" ;
+  :formOf :ceartas.n .
+  
+:ceartais.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "ceartais" ;
+  :formOf :ceartas.n .
+
+
+:cèis.n 
+  a :Noun ;
+  rdfs:label "cèis" .
+
+:céis.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "céis" ;
+  :formOf :cèis.n .
+  
+:céise.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "céise" ;
+  :formOf :cèis.n .
+
+:céisean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "céisean" ;
+  :formOf :cèis.n .
+
+
+:ceist.n 
+  a :Noun ;
+  rdfs:label "ceist" .
+
+:ceist.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "ceist" ;
+  :formOf :ceist.n .
+  
+:ceiste.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  :orthography "ceiste" ;
+  :formOf :ceist.n .
+
+:ceistean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "ceistean" ;
+  :formOf :ceist.n .      
+
+
+:ceòl.n 
+  a :Noun ;
+  rdfs:label "ceòl" .
+
+:ceòl.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "ceòl" ;
+  :formOf :ceòl.n .
+  
+:ciùil.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "ciùil" ;
+  :formOf :ceòl.n .
+
+
+:ceum.n 
+  a :Noun ;
+  rdfs:label "ceum" .
+
+:ceum.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "ceum" ;
+  :formOf :ceum.n .
+  
+:ceuma.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  :orthography "ceuma" ;
+  :formOf :ceum.n .
+
+:ceumannan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  :orthography "ceumannan" ;
+  :formOf :ceum.n .   
+
+
+
+
+
+
+
+
+
+
+:cìobair.n 
+  a :MasculineNoun ;
+  rdfs:label "cìobair" .
+
+:cìobair.nns 
+  a :NominativeSingular ;
+  :orthography "cìobair" ;
+  :formOf :cìobair.n .
+  
+:cìobair.ngs 
+  a :GenitiveSingular ;
+  :orthography "cìobair" ;
+  :formOf :cìobair.n .
+
+:cìobairean.nnp 
+  a :NominativePlural ;
+  :orthography "cìobairean" ;
+  :formOf :cìobair.n .       
+
+
+:cìr.n 
+  a :FeminineNoun ;
+  rdfs:label "cìr" .
+
+:cìr.nns 
+  a :NominativeSingular ;
+  :orthography "cìr" ;
+  :formOf :cìr.n .
+  
+:cìre.ngs 
+  a :GenitiveSingular ;
+  :orthography "cìre" ;
+  :formOf :cìr.n .
+
+:cìrean.nnp 
+  a :NominativePlural ;
+  :orthography "cìrean" ;
+  :formOf :cìr.n .        
+
+
+:cìrean.n 
+  a :MasculineNoun ;
+  rdfs:label "cìrean" .
+
+:cìrean.nns 
+  a :NominativeSingular ;
+  :orthography "cìrean" ;
+  :formOf :cìrean.n .
+  
+:cìrein.ngs 
+  a :GenitiveSingular ;
+  :orthography "cìrein" ;
+  :formOf :cìrean.n .
+
+:cìrein.nnp 
+  a :NominativePlural ;
+  :orthography "cìrein" ;
+  :formOf :cìrean.n .        
+
+
+:ciste.n 
+  a :FeminineNoun ;
+  rdfs:label "ciste" .
+
+:ciste.nns 
+  a :NominativeSingular ;
+  :orthography "ciste" ;
+  :formOf :ciste.n .
+
+:ciste.ngs 
+  a :GenitiveSingular ;
+  :orthography "ciste" ;
+  :formOf :ciste.n .
+
+:cisteachan.nnp 
+  a :NominativePlural ;
+  :orthography "cisteachan" ;
+  :formOf :ciste.n .
+
+
+:clach.n 
+  a :FeminineNoun ;
+  rdfs:label "clach" .
+
+:clach.nns 
+  a :NominativeSingular ;
+  :orthography "clach" ;
+  :formOf :clach.n .
+  
+:cloiche.ngs 
+  a :GenitiveSingular ;
+  :orthography "cloiche" ;
+  :formOf :clach.n .
+
+:clachan.nnp 
+  a :NominativePlural ;
+  :orthography "clachan" ;
+  :formOf :clach.n .     
+
+
+:clachair.n 
+  a :MasculineNoun ;
+  rdfs:label "clachair" .
+
+:clachair.nns 
+  a :NominativeSingular ;
+  :orthography "clachair" ;
+  :formOf :clachair.n .
+  
+:clachair.ngs 
+  a :GenitiveSingular ;
+  :orthography "clachair" ;
+  :formOf :clachair.n .
+
+:clachairean.nnp 
+  a :NominativePlural ;
+  :orthography "clachairean" ;
+  :formOf :clachair.n .   
+
+
+:clachan.n 
+  a :MasculineNoun ;
+  rdfs:label "clachan" .
+
+:clachan.nns 
+  a :NominativeSingular ;
+  :orthography "clachan" ;
+  :formOf :clachan.n .
+  
+:clachain.ngs 
+  a :GenitiveSingular ;
+  :orthography "clachain" ;
+  :formOf :clachan.n .
+
+:clachain.nnp 
+  a :NominativePlural ;
+  :orthography "clachain" ;
+  :formOf :clachan.n .   
+    
+
+:cladach.n 
+  a :MasculineNoun ;
+  rdfs:label "cladach" .
+
+:cladach.nns 
+  a :NominativeSingular ;
+  :orthography "cladach" ;
+  :formOf :cladach.n .
+  
+:cladaich.ngs 
+  a :GenitiveSingular ;
+  :orthography "cladaich" ;
+  :formOf :cladach.n .
+
+:cladaichean.nnp 
+  a :NominativePlural ;
+  :orthography "cladaichean" ;
+  :formOf :cladach.n . 
+  
+  
+:clag.n 
+  a :MasculineNoun ;
+  rdfs:label "clag" .
+
+:clag.nns 
+  a :NominativeSingular ;
+  :orthography "clag" ;
+  :formOf :clag.n .
+  
+:cluig.ngs 
+  a :GenitiveSingular ;
+  :orthography "cluig" ;
+  :formOf :clag.n .
+
+:cluig.nnp 
+  a :NominativePlural ;
+  :orthography "cluig" ;
+  :formOf :clag.n .
+    
+  
+:clann.n 
+  a :FeminineNoun ;
+  rdfs:label "clann" .
+
+:clann.nns 
+  a :NominativeSingular ;
+  :orthography "clann" ;
+  :formOf :clann.n .
+  
+:cloinne.ngs 
+  a :GenitiveSingular ;
+  :orthography "cloinne" ;
+  :formOf :clann.n .
+
+
+:clàrsach.n 
+  a :FeminineNoun ;
+  rdfs:label "clàrsach" .
+
+:clàrsach.nns 
+  a :NominativeSingular ;
+  :orthography "clàrsach" ;
+  :formOf :clàrsach.n .
+  
+:clàrsaiche.ngs 
+  a :GenitiveSingular ;
+  :orthography "clàrsaiche" ;
+  :formOf :clàrsach.n .
+
+:clàrsaichean.nnp 
+  a :NominativePlural ;
+  :orthography "clàrsaichean" ;
+  :formOf :clàrsach.n .     
+
+
+:clas.n 
+  a :MasculineNoun ;
+  rdfs:label "clas" .
+
+:clas.nns 
+  a :NominativeSingular ;
+  :orthography "clas" ;
+  :formOf :clas.n .
+
+:clas.ngs 
+  a :GenitiveSingular ;
+  :orthography "clas" ;
+  :formOf :clas.n .
+
+:clasaichean.nnp 
+  a :NominativePlural ;
+  :orthography "clasaichean" ;
+  :formOf :clas.n .
+  
+  
+:cliabh.n 
+  a :MasculineNoun ;
+  rdfs:label "cliabh" .
+
+:cliabh.nns 
+  a :NominativeSingular ;
+  :orthography "cliabh" ;
+  :formOf :cliabh.n .
+  
+:cléibh.ngs 
+  a :GenitiveSingular ;
+  :orthography "cléibh" ;
+  :formOf :cliabh.n .
+
+:cléibh.nnp 
+  a :NominativePlural ;
+  :orthography "cléibh" ;
+  :formOf :cliabh.n .
+
+
+:cliathach.n 
+  a :FeminineNoun ;
+  rdfs:label "cliathach" .
+
+:cliathach.nns 
+  a :NominativeSingular ;
+  :orthography "cliathach" ;
+  :formOf :cliathach.n .
+  
+:cliathaiche.ngs 
+  a :GenitiveSingular ;
+  :orthography "cliathaiche" ;
+  :formOf :cliathach.n .
+
+:cliathaichean.nnp 
+  a :NominativePlural ;
+  :orthography "cliathaichean" ;
+  :formOf :cliathach.n .  
+  
+  
+:cluas.n 
+  a :FeminineNoun ;
+  rdfs:label "cluas" .
+
+:cluas.nns 
+  a :NominativeSingular ;
+  :orthography "cluas" ;
+  :formOf :cluas.n .
+  
+:cluaise.ngs 
+  a :GenitiveSingular ;
+  :orthography "cluaise" ;
+  :formOf :cluas.n .
+
+:cluasan.nnp 
+  a :NominativePlural ;
+  :orthography "cluasan" ;
+  :formOf :cluas.n . 
+
+
+:cnò.n 
+  a :FeminineNoun ;
+  rdfs:label "cnò" .
+
+:cnò.nns 
+  a :NominativeSingular ;
+  :orthography "cnò" ;
+  :formOf :cnò.n .
+  
+:cnotha.ngs 
+  a :GenitiveSingular ;
+  :orthography "cnotha" ;
+  :formOf :cnotha.n .
+
+:cnothan.nnp 
+  a :NominativePlural ;
+  :orthography "cnothan" ;
+  :formOf :cnò.n .                                                                                                               
+  
+  
+:cnoc.n 
+  a :MasculineNoun ;
+  rdfs:label "cnoc" .
+
+:cnoc.nns 
+  a :NominativeSingular ;
+  :orthography "cnoc" ;
+  :formOf :cnoc.n .
+  
+:cnuic.ngs 
+  a :GenitiveSingular ;
+  :orthography "cnuic" ;
+  :formOf :cnoc.n .
+
+:cnuic.nnp 
+  a :NominativePlural ;
+  :orthography "cnuic" ;
+  :formOf :cnoc.n .
+
+:cnocan.nnp 
+  a :NominativePlural ;
+  :orthography "cnocan" ;
+  :formOf :cnoc.n .
+
+
+:coibhneas.n 
+  a :MasculineNoun ;
+  rdfs:label "coibhneas" .
+
+:coibhneas.nns 
+  a :NominativeSingular ;
+  :orthography "coibhneas" ;
+  :formOf :coibhneas.n .
+  
+:coibhneis.ngs 
+  a :GenitiveSingular ;
+  :orthography "coibhneis" ;
+  :formOf :coibhneas.n .
+    
+
+:coileach.n 
+  a :MasculineNoun ;
+  rdfs:label "coileach" .
+
+:coileach.nns 
+  a :NominativeSingular ;
+  :orthography "coileach" ;
+  :formOf :coileach.n .
+  
+:coilich.ngs 
+  a :GenitiveSingular ;
+  :orthography "coilich" ;
+  :formOf :coileach.n .
+
+:coilich.nnp 
+  a :NominativePlural ;
+  :orthography "coilich" ;
+  :formOf :coileach.n .
+    
+
+:coille.n 
+  a :FeminineNoun ;
+  rdfs:label "coille" .
+
+:coille.nns 
+  a :NominativeSingular ;
+  :orthography "coille" ;
+  :formOf :coille.n .
+  
+:coille.ngs 
+  a :GenitiveSingular ;
+  :orthography "coille" ;
+  :formOf :coille.n .
+
+:coilltean.nnp 
+  a :NominativePlural ;
+  :orthography "coilltean" ;
+  :formOf :coille.n .                                                                                                         
+
+
+:coineanach.n 
+  a :MasculineNoun ;
+  rdfs:label "coineanach" .
+
+:coineanach.nns 
+  a :NominativeSingular ;
+  :orthography "coineanach" ;
+  :formOf :coineanach.n .
+  
+:coineanaich.ngs 
+  a :GenitiveSingular ;
+  :orthography "coineanaich" ;
+  :formOf :coineanach.n .
+
+:coineanaich.nnp 
+  a :NominativePlural ;
+  :orthography "coineanaich" ;
+  :formOf :coineanach.n .
+
+
+:coinneamh.n 
+  a :FeminineNoun ;
+  rdfs:label "coinneamh" .
+
+:coinneamh.nns 
+  a :NominativeSingular ;
+  :orthography "coinneamh" ;
+  :formOf :coinneamh.n .
+  
+:coinneimhe.ngs 
+  a :GenitiveSingular ;
+  :orthography "coinneimhe" ;
+  :formOf :coinneamh.n .
+
+:coinneamhan.nnp 
+  a :NominativePlural ;
+  :orthography "coinneamhan" ;
+  :formOf :coinneamh.n .
+  
+
+:còir.n 
+  a :FeminineNoun ;
+  rdfs:label "còir" .
+
+:còir.nns 
+  a :NominativeSingular ;
+  :orthography "còir" ;
+  :formOf :còir.n .
+  
+:còrach.ngs 
+  a :GenitiveSingular ;
+  :orthography "còrach" ;
+  :formOf :còir.n .
+
+:còraichean.nnp 
+  a :NominativePlural ;
+  :orthography "còraichean" ;
+  :formOf :còir.n .
+
+
+:coire.n 
+  a :MasculineNoun ;
+  rdfs:label "coire" .
+
+:coire.nns 
+  a :NominativeSingular ;
+  :orthography "coire" ;
+  :formOf :coire.n .
+  
+:coire.ngs 
+  a :GenitiveSingular ;
+  :orthography "coire" ;
+  :formOf :coire.n .
+
+:coireachan.nnp 
+  a :NominativePlural ;
+  :orthography "coireachan" ;
+  :formOf :coire.n .
+
+
+:coltas.n 
+  a :MasculineNoun ;
+  rdfs:label "coltas" .
+
+:coltas.nns 
+  a :NominativeSingular ;
+  :orthography "coltas" ;
+  :formOf :coltas.n .
+  
+:coltais.ngs 
+  a :GenitiveSingular ;
+  :orthography "coltais" ;
+  :formOf :coltas.n .
+    
+
+:comain.n 
+  a :FeminineNoun ;
+  rdfs:label "comain" .
+
+:comain.nns 
+  a :NominativeSingular ;
+  :orthography "comain" ;
+  :formOf :comain.n .
+  
+:comaine.ngs 
+  a :GenitiveSingular ;
+  :orthography "comaine" ;
+  :formOf :comain.n .
+
+:comainean.nnp 
+  a :NominativePlural ;
+  :orthography "comainean" ;
+  :formOf :comain.n .
+
+       
+:comhairle.n 
+  a :FeminineNoun ;
+  rdfs:label "comhairle" .
+
+:comhairle.nns 
+  a :NominativeSingular ;
+  :orthography "comhairle" ;
+  :formOf :comhairle.n .
+  
+:comhairle.ngs 
+  a :GenitiveSingular ;
+  :orthography "comhairle" ;
+  :formOf :comhairle.n .
+
+:comhairlean.nnp 
+  a :NominativePlural ;
+  :orthography "comhairlean" ;
+  :formOf :comhairle.n .
+
+
+:còmhradh.n 
+  a :MasculineNoun ;
+  rdfs:label "còmhradh" .
+
+:còmhradh.nns 
+  a :NominativeSingular ;
+  :orthography "còmhradh" ;
+  :formOf :còmhradh.n .
+  
+:còmhraidh.ngs 
+  a :GenitiveSingular ;
+  :orthography "còmhraidh" ;
+  :formOf :còmhradh.n .
+
+:còmhraidhean.nnp 
+  a :NominativePlural ;
+  :orthography "còmhraidhean" ;
+  :formOf :còmhradh.n .
+
+
+:connrag.n 
+  a :FeminineNoun ;
+  rdfs:label "connrag" .
+
+:connrag.nns 
+  a :NominativeSingular ;
+  :orthography "connrag" ;
+  :formOf :connrag.n .
+  
+:connraige.ngs 
+  a :GenitiveSingular ;
+  :orthography "connraige" ;
+  :formOf :connrag.n .
+
+:connragan.nnp 
+  a :NominativePlural ;
+  :orthography "connragan" ;
+  :formOf :connrag.n .
+
+
+:còta.n 
+  a :MasculineNoun ;
+  rdfs:label "còta" .
+
+:còta.nns 
+  a :NominativeSingular ;
+  :orthography "còta" ;
+  :formOf :còta.n .
+
+:còtaichean.nnp 
+  a :NominativePlural ;
+  :orthography "còtaichean" ;
+  :formOf :còta.n . 
+  
+  
+:crann.n 
+  a :MasculineNoun ;
+  rdfs:label "crann" .
+
+:crann.nns 
+  a :NominativeSingular ;
+  :orthography "crann" ;
+  :formOf :crann.n .
+  
+:crainn.ngs 
+  a :GenitiveSingular ;
+  :orthography "crainn" ;
+  :formOf :crann.n . 
+
+:croinn.ngs 
+  a :GenitiveSingular ;
+  :orthography "croinn" ;
+  :formOf :crann.n .
+
+:croinn.nnp 
+  a :NominativePlural ;
+  :orthography "croinn" ;
+  :formOf :crann.n .
+
+
+:craobh.n 
+  a :FeminineNoun ;
+  rdfs:label "craobh" .
+
+:craobh.nns 
+  a :NominativeSingular ;
+  :orthography "craobh" ; 
+  :formOf :craobh.n .
+
+:craoibhe.ngs 
+  a :GenitiveSingular ; 
+  :orthography "craoibhe" ; 
+  :formOf :craobh.n .
+
+:craobhan.nnp 
+  a :NominativePlural ; 
+  :orthography "craobhan" ; 
+  :formOf :craobh.n .
+
+
+:creag.n 
+  a :FeminineNoun ;
+  rdfs:label "creag" .
+
+:creag.nns 
+  a :NominativeSingular ;
+  :orthography "creag" ;
+  :formOf :creag.n .
+  
+:creige.ngs 
+  a :GenitiveSingular ;
+  :orthography "creige" ;
+  :formOf :creag.n .
+
+:creagan.nnp 
+  a :NominativePlural ;
+  :orthography "creagan" ;
+  :formOf :creag.n .   
+
+
+:creideamh.n 
+  a :MasculineNoun ;
+  rdfs:label "creideamh" .
+
+:creideamh.nns 
+  a :NominativeSingular ;
+  :orthography "creideamh" ;
+  :formOf :creideamh.n .
+  
+:creideimh.ngs 
+  a :GenitiveSingular ;
+  :orthography "creideimh" ;
+  :formOf :creideamh.n .
+  
+
+:cridhe.n 
+  a :MasculineNoun ;
+  rdfs:label "cridhe" .
+
+:cridhe.nns 
+  a :NominativeSingular ;
+  :orthography "cridhe" ;
+  :formOf :cridhe.n .
+
+:cridhe.ngs 
+  a :GenitiveSingular ;
+  :orthography "cridhe" ;
+  :formOf :cridhe.n .
+
+:cridheachan.nnp 
+  a :NominativePlural ;
+  :orthography "cridheachan" ;
+  :formOf :cridhe.n .  
+  
+
+:crìoch.n 
+  a :FeminineNoun ;
+  rdfs:label "crìoch" .
+
+:crìoch.nns 
+  a :NominativeSingular ;
+  :orthography "crìoch" ;
+  :formOf :crìoch.n .
+  
+:crìche.ngs 
+  a :GenitiveSingular ;
+  :orthography "crìche" ;
+  :formOf :crìoch.n .
+
+:crìochan.nnp 
+  a :NominativePlural ;
+  :orthography "crìochan" ;
+  :formOf :crìoch.n .  
+    
+
+:crò.n 
+  a :MasculineNoun ;
+  rdfs:label "crò" .
+
+:crò.nns 
+  a :NominativeSingular ;
+  :orthography "crò" ;
+  :formOf :crò.n .
+  
+:crò.ngs 
+  a :GenitiveSingular ;
+  :orthography "crò" ;
+  :formOf :crò.n .
+
+:cròtha.ngs 
+  a :GenitiveSingular ;
+  :orthography "cròtha" ;
+  :formOf :crò.n .
+
+:cròithean.nnp 
+  a :NominativePlural ;
+  :orthography "cròithean" ;
+  :formOf :crò.n .
+
+
+:crodh.n 
+  a :MasculineNoun ;
+  rdfs:label "crodh" .
+
+:crodh.nns 
+  a :NominativeSingular ;
+  :orthography "crodh" ;
+  :formOf :crodh.n .
+  
+:cruidh.ngs 
+  a :GenitiveSingular ;
+  :orthography "cruidh" ;
+  :formOf :crodh.n .
+
+
+:croic.n 
+  a :FeminineNoun ;
+  rdfs:label "croic" .
+
+:croic.nns 
+  a :NominativeSingular ;
+  :orthography "croic" ;
+  :formOf :croic.n .
+  
+:croice.ngs 
+  a :GenitiveSingular ;
+  :orthography "croice" ;
+  :formOf :croic.n .
+
+:croicean.nnp 
+  a :NominativePlural ;
+  :orthography "croicean" ;
+  :formOf :croic.n .
+
+
+:cruach.n 
+  a :FeminineNoun ;
+  rdfs:label "cruach" .
+
+:cruach.nns 
+  a :NominativeSingular ;
+  :orthography "cruach" ;
+  :formOf :cruach.n .
+  
+:cruaiche.ngs 
+  a :GenitiveSingular ;
+  :orthography "cruaiche" ;
+  :formOf :cruach.n .
+
+:cruachan.nnp 
+  a :NominativePlural ;
+  :orthography "cruachan" ;
+  :formOf :cruach.n .
+
+
+:cù.n 
+  a :MasculineNoun ;
+  rdfs:label "cù" .
+
+:cù.nns 
+  a :NominativeSingular ;
+  :orthography "cù" ;
+  :formOf :cù.n .
+  
+:coin.ngs 
+  a :GenitiveSingular ;
+  :orthography "coin" ;
+  :formOf :cù.n .
+
+:coin.nnp 
+  a :NominativePlural ;
+  :orthography "coin" ;
+  :formOf :cù.n .  
+  
+
+:cuan.n 
+  a :MasculineNoun ;
+  rdfs:label "cuan" .
+
+:cuan.nns 
+  a :NominativeSingular ;
+  :orthography "cuan" ;
+  :formOf :cuan.n .
+  
+:cuain.ngs 
+  a :GenitiveSingular ;
+  :orthography "cuain" ;
+  :formOf :cuan.n .
+
+:cuantan.nnp 
+  a :NominativePlural ;
+  :orthography "cuantan" ;
+  :formOf :cuan.n .  
+  
+
+:cùil.n 
+  a :FeminineNoun ;
+  rdfs:label "cùil" .
+
+:cùil.nns 
+  a :NominativeSingular ;
+  :orthography "cùil" ;
+  :formOf :cùil.n .
+
+:cùil.ngs 
+  a :GenitiveSingular ;
+  :orthography "cùil" ;
+  :formOf :cùil.n .
+
+:cùiltean.nnp 
+  a :NominativePlural ;
+  :orthography "cùiltean" ;
+  :formOf :cùil.n .      
+
+
+:cuileag.n 
+  a :FeminineNoun ;
+  rdfs:label "cuileag" .
+
+:cuileag.nns 
+  a :NominativeSingular ;
+  :orthography "cuileag" ;
+  :formOf :cuileag.n .
+  
+:cuileige.ngs 
+  a :GenitiveSingular ;
+  :orthography "cuileige" ;
+  :formOf :cuileag.n .
+
+:cuileagan.nnp 
+  a :NominativePlural ;
+  :orthography "cuileagan" ;
+  :formOf :cuileag.n .   
+
+
+:cùis.n 
+  a :FeminineNoun ;
+  rdfs:label "cùis" .
+
+:cùis.nns 
+  a :NominativeSingular ;
+  :orthography "cùis" ;
+  :formOf :cùis.n .
+  
+:cùise.ngs 
+  a :GenitiveSingular ;
+  :orthography "cùise" ;
+  :formOf :cùis.n .
+
+:cùisean.nnp 
+  a :NominativePlural ;
+  :orthography "cùisean" ;
+  :formOf :cùis.n .
+
+
+:cùl.n 
+  a :MasculineNoun ;
+  rdfs:label "cùl" .
+
+:cùl.nns 
+  a :NominativeSingular ;
+  :orthography "cùl" ;
+  :formOf :cùl.n .
+  
+:cùil.ngs 
+  a :GenitiveSingular ;
+  :orthography "cùil" ;
+  :formOf :cùl.n .
+
+:cùiltean.nnp 
+  a :NominativePlural ;
+  :orthography "cùiltean" ;
+  :formOf :cùl.n .  
+
+
+:cuman.n 
+  a :MasculineNoun ;
+  rdfs:label "cuman" .
+
+:cuman.nns 
+  a :NominativeSingular ;
+  :orthography "cuman" ;
+  :formOf :cuman.n .
+  
+:cumain.ngs 
+  a :GenitiveSingular ;
+  :orthography "cumain" ;
+  :formOf :cuman.n .
+
+:cumain.nnp 
+  a :NominativePlural ;
+  :orthography "cumain" ;
+  :formOf :cuman.n .  
+
+
+:cumhachd.n 
+  a :MasculineNoun ;
+  rdfs:label "cumhachd" .
+
+:cumhachd.nns 
+  a :NominativeSingular ;
+  :orthography "cumhachd" ;
+  :formOf :cumhachd.n .
+  
+:cumhachdan.nnp 
+  a :NominativePlural ;
+  :orthography "cumhachdan" ;
+  :formOf :cumhachd.n .
+
+
+:cunnart.n 
+  a :MasculineNoun ;
+  rdfs:label "cunnart" .
+
+:cunnart.nns 
+  a :NominativeSingular ;
+  :orthography "cunnart" ;
+  :formOf :cunnart.n .
+  
+:cunnairt.ngs 
+  a :GenitiveSingular ;
+  :orthography "cunnairt" ;
+  :formOf :cunnart.n .
+
+:cunnartan.nnp 
+  a :NominativePlural ;
+  :orthography "cunnartan" ;
+  :formOf :cunnart.n .   
+
+
+:cupa.n 
+  a :MasculineNoun ;
+  rdfs:label "cupa" .
+
+:cupa.nns 
+  a :NominativeSingular ;
+  :orthography "cupa" ;
+  :formOf :cupa.n .
+  
+:cupa.ngs 
+  a :GenitiveSingular ;
+  :orthography "cupa" ;
+  :formOf :cupa.n .
+
+:cupannan.nnp 
+  a :NominativePlural ;
+  :orthography "cupannan" ;
+  :formOf :cupa.n .
+
+:cupaichean.nnp 
+  a :NominativePlural ;
+  :orthography "cupaichean" ;
+  :formOf :cupa.n .
+ 
+  
+  

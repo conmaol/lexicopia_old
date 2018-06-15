@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eoolas-cheallan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eoolas-cheallan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eòlas-cheallan</orth>
     </form>
     <trans>cytology</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>cytology - eòlais-cheallan sc</note>
-  </ainmear_fireann>
+  </lexeme>

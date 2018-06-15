@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="factarachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="factarachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>factar(ach)adh</orth>
     </form>
     <trans>factorisation</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>factorisation - factarachaidh poss cfactorisations - factarachaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

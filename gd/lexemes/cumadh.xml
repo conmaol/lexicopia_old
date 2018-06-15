@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cumadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cumadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cumadh</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>shape - 2D - cumaidh poss cshapes - 2D - cumaidhean pl</note>
     <note>Listed in An Seotal: Music, as 'construction'.</note>
     <note>construction - cumaidh poss cconstructions - cumaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

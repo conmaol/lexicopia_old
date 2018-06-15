@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="lòcas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lòcas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>lòcas</orth>
     </form>
     <trans>locus</trans>
     <note>Listed in Colin Mark's (2004) Gaelic-English dictionary.</note>
-  </ainmear_fireann>
+  </lexeme>

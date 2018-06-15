@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tunna" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tunna" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tunna</orth>
     </form>
     <trans>tonne</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>tonne - tunna poss ctonnes - tunnaichean pltonnes - tunnachan pl</note>
-  </ainmear_fireann>
+  </lexeme>

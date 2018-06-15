@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="fear-tàileisg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fear-tàileisg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fear-tàileisg</orth>
     </form>
     <trans>chessman</trans>
     <note>Listed in An Seotal: History.</note>
     <note>chessman - fir-tàileisg sc chessmen - fir-tàileisg iom</note>
-  </ainmear_fireann>
+  </lexeme>

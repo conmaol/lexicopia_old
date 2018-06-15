@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cliù" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cliù" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>cliù</orth>
   </form>
@@ -17,4 +17,4 @@
   <trans>prestige</trans>
   <trans>renown</trans>
   <trans>repute</trans>
-</ainmear_boireann>
+</lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Caolas_Dhover" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Caolas_Dhover" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Caolas Dhover</orth>
     </form>
     <trans>Strait of Dover</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Strait of Dover - Caolas Dhover poss c</note>
-  </ainmear_fireann>
+  </lexeme>

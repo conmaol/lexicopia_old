@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="colaiste" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="colaiste" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>colaiste</orth>
     </form>
@@ -8,4 +8,4 @@
       <orth>colaistean</orth>
     </form>
     <trans>college</trans>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="seirbheis_chatharra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="seirbheis_chatharra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>seirbheis chatharra</orth>
     </form>
     <trans>civil service</trans>
     <note>Listed in An Seotal: Modern Studies</note>
-  </ainmear_boireann>
+  </lexeme>

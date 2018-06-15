@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="poirdse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="poirdse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>poirdse</orth>
   </form>
@@ -17,4 +17,4 @@
   <trans>porch</trans>
   <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary, as either gender.</note>
   <note>Listed in Colin Mark’s Dictionary, as a masculine noun.</note>
-</ainmear_boireann>
+</lexeme>

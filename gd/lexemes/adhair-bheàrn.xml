@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="adhair-bheàrn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="adhair-bheàrn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>adhair-bheàrn</orth>
     </form>
     <trans>air space</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>air space - adhair-bheàirn scair spaces - adhair-bheàrnan iom</note>
-  </ainmear_boireann>
+  </lexeme>

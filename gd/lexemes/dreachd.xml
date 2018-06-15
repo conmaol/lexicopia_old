@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="dreachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dreachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dreachd</orth>
     </form>
     <trans>draft</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>draft - dreachd poss cdrafts - dreachdan pl</note>
-  </ainmear_boireann>
+  </lexeme>

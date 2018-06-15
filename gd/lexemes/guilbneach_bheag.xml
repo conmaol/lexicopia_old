@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="guilbneach_bheag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="guilbneach_bheag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>guilbneach bheag</orth>
     </form>
     <trans>whimbrel</trans>
     <trans>Numenius phaeopus</trans>
     <note>Listed in CM.</note>
-  </ainmear_boireann>
+  </lexeme>

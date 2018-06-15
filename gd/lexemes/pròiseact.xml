@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="pròiseact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="pròiseact" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>pròiseact</orth>
   </form>
@@ -12,4 +12,4 @@
   </form>
   <trans>project</trans>
   <note>Listed in An Seotal: General.</note>
-</ainmear_fireann>
+</lexeme>

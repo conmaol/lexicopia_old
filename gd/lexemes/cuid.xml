@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cuid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cuid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cuid</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: Maths.</note>
     <note>portion - cuide poss c portions - cuidean pl</note>
     <note>proportion - cuid poss cproportions - cuidean pl</note>
-  </ainmear_boireann>
+  </lexeme>

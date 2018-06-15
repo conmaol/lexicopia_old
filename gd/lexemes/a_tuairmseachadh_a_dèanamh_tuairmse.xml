@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="a_tuairmseachadh_a_dèanamh_tuairmse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="a_tuairmseachadh_a_dèanamh_tuairmse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>a' tuairmseachadh, a' dèanamh tuairmse</orth>
     </form>
     <trans>approximating</trans>
     <note>Listed in An Seotal: Maths.</note>
-  </ainmear_fireann>
+  </lexeme>

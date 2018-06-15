@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="pioramaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="pioramaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>pioramaid</orth>
     </form>
     <trans>pyramid</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>pyramid - pioramaid(e) poss cpyramids - pioramaidean pl</note>
-  </ainmear_boireann>
+  </lexeme>

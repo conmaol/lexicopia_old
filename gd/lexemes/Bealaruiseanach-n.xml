@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Bealaruiseanach-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Bealaruiseanach-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Bealaruiseanach</orth>
     </form>
     <trans>Belarusian</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Belarusian - Bealaruiseanaich poss cBelarusians - Bealaruiseanaich pl</note>
-  </ainmear_fireann>
+  </lexeme>

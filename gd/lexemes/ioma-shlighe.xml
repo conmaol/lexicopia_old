@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ioma-shlighe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ioma-shlighe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ioma-shlighe</orth>
     </form>
     <trans>maze</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>maze - ioma-shlighe poss cmazes - ioma-shlighean pl</note>
-  </ainmear_boireann>
+  </lexeme>

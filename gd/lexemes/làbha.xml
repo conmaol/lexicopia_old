@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="làbha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="làbha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>làbha</orth>
     </form>
     <trans>lava</trans>
     <note>Listed in Colin Mark's (2004) Gaelic-English dictionary.</note>
     <note>Listed in Boyd Robertson &amp; Ian MacDonald's (2004) 'Teach Yourself' dictionary.</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="steàrnag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="steàrnag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>steàrnag</orth>
   </form>
@@ -8,4 +8,4 @@
   <trans>Sternidae spp.</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair, listed as 'arctic tern'.</note>
   <note>Listed in CM as 'arctic tern'.</note>
-</ainmear_boireann>
+</lexeme>

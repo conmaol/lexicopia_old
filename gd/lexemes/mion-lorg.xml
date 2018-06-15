@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="mion-lorg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="mion-lorg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>mion-lorg</orth>
     </form>
     <trans>advanced search</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>advanced search - mion-luirg(e) poss cadvanced searches - mion-lorgan pl</note>
-  </ainmear_boireann>
+  </lexeme>

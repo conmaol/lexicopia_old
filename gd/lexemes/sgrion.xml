@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="sgrion" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sgrion" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sgrion</orth>
     </form>
     <trans>screen</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>screen - sgrion poss cscreens - sgrionaichean pl</note>
-  </ainmear_boireann>
+  </lexeme>

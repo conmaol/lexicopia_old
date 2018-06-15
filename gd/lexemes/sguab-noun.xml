@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="sguab-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sguab-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sguab</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans sources="cmark">brush</trans>
     <trans sources="cmark">broom</trans>
     <trans sources="cmark">mop</trans>
-  </ainmear_boireann>
+  </lexeme>

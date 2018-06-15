@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="An_Caisteal_Nuadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="An_Caisteal_Nuadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>An Caisteal Nuadh</orth>
     </form>
     <trans>Newcastle upon Tyne</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Newcastle upon Tyne - a' Chaisteil Nuaidh poss c</note>
-  </ainmear_fireann>
+  </lexeme>

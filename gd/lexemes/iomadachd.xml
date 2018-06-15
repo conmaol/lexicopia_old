@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="iomadachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="iomadachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>iomadachd</orth>
     </form>
     <trans>diversity</trans>
     <note>Listed in An Seotal: General.</note>
     <note>diversity - iomadachd poss cdiversities - iomadachdan pl</note>
-  </ainmear_boireann>
+  </lexeme>

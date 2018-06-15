@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="goobhlan_dubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="goobhlan_dubh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gòbhlan dubh</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Plurals: gòbhlain-dhubha</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/goblan-dubh.mp3</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="suidse-putaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="suidse-putaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>suidse-putaidh</orth>
     </form>
     <trans>push-switch</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>push-switch - suidse-putaidh scpush-switches - suidsichean-putaidh iom</note>
-  </ainmear_boireann>
+  </lexeme>

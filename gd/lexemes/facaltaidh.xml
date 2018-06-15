@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="facaltaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="facaltaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>facaltaidh</orth>
     </form>
     <trans>faculty</trans>
     <note>Listed in An Seotal: General.</note>
     <note>faculty - facaltaidh poss cfaculties - facaltaidhean pl</note>
-  </ainmear_boireann>
+  </lexeme>

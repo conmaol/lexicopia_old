@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="taistealaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="taistealaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>taistealaiche</orth>
     </form>
@@ -12,4 +12,4 @@
     <trans>lounger</trans>
     <note>Listed in Colin Mark’s dictionary as ‘traveller’, ‘voyager’.</note>
     <note>Listed in Dwelly: Traveller, pedestrian. 2 Pilgrim. 3 Saunterer, lounger.</note>
-  </ainmear_fireann>
+  </lexeme>

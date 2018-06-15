@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="aidhodain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="aidhodain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>aidhodain</orth>
     </form>
     <trans>iodine</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>Atomic symbol: I. Atomic number: 53.</note>
-  </ainmear_fireann>
+  </lexeme>

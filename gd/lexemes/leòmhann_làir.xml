@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="leòmhann_làir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leòmhann_làir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="leòmhann"/>
   <part ref="làr"/>
   <form>
@@ -11,4 +11,4 @@
   </form>
   <trans>chameleon</trans>
   <note>Listed in An Seotal: Science.</note>
-</ainmear_fireann>
+</lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="criopton" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="criopton" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>criopton</orth>
     </form>
     <trans>krypton</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>krypton - crioptoin sc</note>
-  </ainmear_fireann>
+  </lexeme>

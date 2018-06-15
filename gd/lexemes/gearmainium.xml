@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gearmainium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gearmainium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="Gearmailt"/>
   <form>
     <orth>gearmainium</orth>
   </form>
   <trans>germanium</trans>
   <note>Listed in An Seotal: Science.</note>
-</ainmear_fireann>
+</lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eaglais-eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eaglais-eòlas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eaglais-eòlas</orth>
     </form>
     <trans>ecclesiology</trans>
     <note>Listed in An Seotal: Religious and Moral.</note>
     <note>ecclesiology - eaglais-eòlais sc</note>
-  </ainmear_fireann>
+  </lexeme>

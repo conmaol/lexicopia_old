@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cruinneag_dhearg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cruinneag_dhearg" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="cruinneag"/>
   <part ref="dearg"/>
   <form>
@@ -13,4 +13,4 @@
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
   <note>Latin: Pyrrhosoma nymphula</note>
   <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cruinneag dhearg.mp3</note>
-</ainmear_boireann>
+</lexeme>

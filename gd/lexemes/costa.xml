@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="costa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="costa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>costa</orth>
     </form>
     <trans>coast</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>coast - costa poss ccoasts - costaichean pl</note>
-  </ainmear_fireann>
+  </lexeme>

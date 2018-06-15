@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cactas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cactas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cactas</orth>
     </form>
     <trans>cactus</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>cactus - cactas sccacti - cactasan iomcactuses - cactasan iom</note>
-  </ainmear_fireann>
+  </lexeme>

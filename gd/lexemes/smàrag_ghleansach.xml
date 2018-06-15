@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="smàrag_ghleansach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="smàrag_ghleansach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>smàrag ghleansach</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Latin: Somatochlora metallica</note>
     <note>Info: The Gaelic name means 'the shiny emerald'. </note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/smarag ghleansach.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

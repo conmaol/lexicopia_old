@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="sliasaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sliasaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sliasaid</orth>
     </form>
     <trans>thigh</trans>
     <note>Oxford Children's Scottish Gaelic Visual Dictionary, p. 14.</note>
-  </ainmear_boireann>
+  </lexeme>

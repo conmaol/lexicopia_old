@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="isean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="isean" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>isean</orth>
     </form>
     <trans>chicken</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>chicken - isein scchickens - iseanan iom</note>
-  </ainmear_fireann>
+  </lexeme>

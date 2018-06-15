@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="leth-phiuthar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leth-phiuthar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="leth"/>
   <part ref="piuthar"/>
   <form>
@@ -9,4 +9,4 @@
   <trans>stepsister</trans>
   <trans>half sister</trans>
   <note>Oxford Children's Scottish Gaelic Visual Dictionary, p. 11.</note>
-</ainmear_boireann>
+</lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Ùghdarras_nan_Deuchainnean_an_Alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Ùghdarras_nan_Deuchainnean_an_Alba" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Ùghdarras nan Deuchainnean an Alba</orth>
     </form>
     <trans index="only">Scottish Qualifications Authority</trans>
     <trans index="no">the Scottish Qualifications Authority</trans>
     <note>Listed in CM.</note>
-  </ainmear_fireann>
+  </lexeme>

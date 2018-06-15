@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="mèinnir-eòlaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="mèinnir-eòlaiche" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>mèinnir-eòlaiche</orth>
     </form>
     <trans>mineralogist</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>mineralogist - meinnir-eòlaiche scmineralogists - meinnir-eòlaichean iom</note>
-  </ainmear_fireann>
+  </lexeme>

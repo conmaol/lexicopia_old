@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="adhradh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="adhradh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>adhradh</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>devotions</trans>
     <note>Listed in An Seotal: Religious and Moral.</note>
     <note>devotions - adhraidh scdevotions - adhradh iom</note>
-  </ainmear_fireann>
+  </lexeme>

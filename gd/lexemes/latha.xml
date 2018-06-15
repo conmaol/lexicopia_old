@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="latha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="latha" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>latha</orth>
     </form>
@@ -14,4 +14,4 @@
     <trans>date</trans>
     <note>Listed in An Seotal: Science, as 'day'.</note>
     <note>Listed in An Seotal: General, as 'date'.</note>
-  </ainmear_fireann>
+  </lexeme>

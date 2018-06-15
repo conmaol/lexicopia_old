@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eadar-dhealachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eadar-dhealachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eadar-dhealachadh</orth>
     </form>
     <trans>difference</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>difference - eadar-dhealachaidh poss cdifferences - eadar-dhealachaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

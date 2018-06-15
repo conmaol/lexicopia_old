@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="manachainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="manachainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <part ref="manach"/>
     <form>
       <orth>manachainn</orth>
@@ -8,4 +8,4 @@
     <trans>monastery</trans>
     <trans>convent</trans>
     <note>Denotes a building (or complex of buildings) where monks or nuns live and work. cf. Greek 'monastērion' (place for being alone).</note>
-  </ainmear_boireann>
+  </lexeme>

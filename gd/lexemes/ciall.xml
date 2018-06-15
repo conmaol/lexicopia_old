@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ciall" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ciall" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>ciall</orth>
   </form>
@@ -21,4 +21,4 @@
   <trans>taste</trans>
   <trans>understanding</trans>
   <note>Listed in Colin Mark’s dictionary.</note>
-</ainmear_boireann>
+</lexeme>

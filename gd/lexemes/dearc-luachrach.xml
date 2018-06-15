@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="dearc-luachrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dearc-luachrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dearc-luachrach</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Plural: dearcan-luachrach</note>
     <note>Latin: Triturus spp.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/dearc luachrach.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

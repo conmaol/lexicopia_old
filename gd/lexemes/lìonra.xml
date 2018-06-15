@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="lìonra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lìonra" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>lìonra</orth>
     </form>
     <trans>network</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>network - lìonra poss cnetworks - lìonraidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

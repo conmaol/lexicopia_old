@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="eaglais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eaglais" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>eaglais</orth>
   </form>
@@ -16,4 +16,4 @@
   <note>Old Irish: eclais. itself borrowed from Greek 'ἐκκλησία' ('ekklēsia'), 'ἐκκλησίας' (an assembly, a congregation, a church - First Declension Feminine Noun). From ἔκκλητος "summoned", from
     'ἐκκαλέω' (I summon), from 'ἐκ' (out - cognate with 'á', 'eas-') and 'καλέω' (I call - cognate with 'coileach' - rooster).</note>
   <note>Listed in An Seotal: Religious and Moral, as 'church'.</note>
-</ainmear_boireann>
+</lexeme>

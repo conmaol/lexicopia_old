@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ceudameatair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ceudameatair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ceudameatair</orth>
     </form>
     <trans>centimetre</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>centimetre - ceudameatair poss ccentimetres - ceudameatairean pl</note>
-  </ainmear_fireann>
+  </lexeme>

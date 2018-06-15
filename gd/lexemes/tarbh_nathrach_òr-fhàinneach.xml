@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tarbh_nathrach_òr-fhàinneach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tarbh_nathrach_òr-fhàinneach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="tarbh_nathrach"/>
   <part ref="òr-fhàinneach"/>
   <form>
@@ -13,4 +13,4 @@
   <trans>Cordulegaster boltonii</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair, as: tarbh-nathrach òrfhàinneach</note>
   <note>Audio: http://www.snh.org.uk/gaidhlig/audio/tarbh natharach orfhainneach.mp3</note>
-</ainmear_fireann>
+</lexeme>

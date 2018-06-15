@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ruudhan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ruudhan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>rùdhan</orth>
     </form>
     <trans>small stack of peats</trans>
     <note>Listed in CM, cf. rùdh: to stack.</note>
     <note>Listed in Dwelly as an rudhan: ‘the small heap in which peats are built to dry, after being cut for a month, consisting of three peats and one on top’.</note>
-  </ainmear_fireann>
+  </lexeme>

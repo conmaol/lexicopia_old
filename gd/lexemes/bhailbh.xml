@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bhailbh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bhailbh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bhailbh</orth>
     </form>
     <trans>valve</trans>
     <note>Listed in An Seotal: Technology.</note>
     <note>valve - bhailbh poss cvalves - bhailbhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

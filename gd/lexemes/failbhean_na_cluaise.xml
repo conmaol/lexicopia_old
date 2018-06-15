@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="failbhean_na_cluaise" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="failbhean_na_cluaise" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>failbhean na cluaise</orth>
     </form>
     <trans>earlobe</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>earlobe - failbhean na cluaise scearlobes - failbheanan nan cluasan iom</note>
-  </ainmear_fireann>
+  </lexeme>

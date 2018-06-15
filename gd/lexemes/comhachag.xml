@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="comhachag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="comhachag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>comhachag</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: Science, as 'owl'.</note>
     <note>owl - comhachaig sc owls - comhachagan iom</note>
     <note>Listed in CM.</note>
-  </ainmear_boireann>
+  </lexeme>

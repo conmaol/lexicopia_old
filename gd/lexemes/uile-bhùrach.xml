@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="uile-bhùrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="uile-bhùrach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="uile"/>
   <part ref="bùrach"/>
   <form>
@@ -10,5 +10,5 @@
     <orth>uile-bhùraich</orth>
   </form>
   <trans>omnishambles</trans>
-</ainmear_fireann>
+</lexeme>
 

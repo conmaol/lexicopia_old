@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="giotàr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="giotàr" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>giotàr</orth>
     </form>
     <trans>guitar</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>guitar - giotàir poss cguitars - giotàran pl</note>
-  </ainmear_fireann>
+  </lexeme>

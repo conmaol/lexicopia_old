@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="dìollaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dìollaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>dìollaid</orth>
   </form>
@@ -12,5 +12,5 @@
   </form>
   <trans>saddle</trans>
   <note>Listed in Colin Mark’s dictionary.</note>
-</ainmear_boireann>
+</lexeme>
 

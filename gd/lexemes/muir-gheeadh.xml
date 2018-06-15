@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="muir-gheeadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="muir-gheeadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>muir-ghèadh</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>Info: Its Gaelic name means 'the sea goose'.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/muir gheadh.mp3</note>
     <note>Listed in CM.</note>
-  </ainmear_fireann>
+  </lexeme>

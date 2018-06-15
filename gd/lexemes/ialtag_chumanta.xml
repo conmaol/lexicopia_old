@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ialtag_chumanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ialtag_chumanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ialtag chumanta</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Plurals: ialtagan cumanta</note>
     <note>Latin: Pipistrellus spp.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/ialtag oidhche.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

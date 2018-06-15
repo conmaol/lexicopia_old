@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="uinnseann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="uinnseann" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>uinnseann</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Info: Older name 'nuin' stands for letter 'n' in Gaelic alphabet.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/uinnseann.mp3</note>
-  </ainmear_fireann>
+  </lexeme>

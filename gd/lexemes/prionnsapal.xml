@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="prionnsapal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="prionnsapal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>prionnsapal</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: General.</note>
     <note>principal - prionnsapail poss cprincipals - prionnsapail plprincipals - prionnsapalan pl</note>
     <note>principle - prionnsapail poss cprinciples - prionnsapalan pl</note>
-  </ainmear_fireann>
+  </lexeme>

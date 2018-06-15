@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bòrd-ùrlair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bòrd-ùrlair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bòrd-ùrlair</orth>
     </form>
     <trans>floorboard</trans>
     <note>Listed in An Seotal: Technology.</note>
     <note>floorboard - bùird-ùrlair poss cfloorboards - bùird-ùrlair pl</note>
-  </ainmear_fireann>
+  </lexeme>

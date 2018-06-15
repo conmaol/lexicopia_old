@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="nathair-ghlagain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="nathair-ghlagain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>nathair-ghlagain</orth>
     </form>
     <trans>rattlesnake</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>rattlesnake - nathrach-glagain scrattlesnakes - nathraichean-glagain iom</note>
-  </ainmear_boireann>
+  </lexeme>

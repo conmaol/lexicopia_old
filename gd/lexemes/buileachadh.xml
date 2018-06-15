@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="buileachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="buileachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>buileachadh</orth>
     </form>
     <trans>attainment</trans>
     <note>Listed in An Seotal: General.</note>
     <note>attainment - buileachaidh poss cattainments - buileachaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

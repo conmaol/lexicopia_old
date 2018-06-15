@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Iùdhachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Iùdhachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Iùdhachd</orth>
     </form>
     <trans>Judaism</trans>
     <note>Listed in An Seotal: Religious and Moral.</note>
     <note>Judaism - Iùdhachd sc</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="breug-bheachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="breug-bheachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>breug-bheachd</orth>
     </form>
     <trans>fallacy</trans>
     <note>Listed in An Seotal: General.</note>
     <note>fallacy - breug-bheachd poss cfallacies - breug-bheachdan pl</note>
-  </ainmear_boireann>
+  </lexeme>

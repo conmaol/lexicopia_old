@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="teas-dhìon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="teas-dhìon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>teas-dhìon</orth>
     </form>
     <trans>insulation</trans>
     <note>Listed in An Seotal: Technology.</note>
     <note>insulation - teas-dhìon poss c</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="co-là-breith" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="co-là-breith" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>co-là-breith</orth>
     </form>
     <trans>birthday</trans>
     <note>Listed in An Seotal: General.</note>
     <note>birthday - co-là-breith poss cbirthdays - co-làithean-breith plbirthdays - co-lathaichean-breith pl</note>
-  </ainmear_fireann>
+  </lexeme>

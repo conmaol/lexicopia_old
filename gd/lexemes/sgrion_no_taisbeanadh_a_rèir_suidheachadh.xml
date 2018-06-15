@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sgrion_no_taisbeanadh_a_rèir_suidheachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sgrion_no_taisbeanadh_a_rèir_suidheachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sgrion no taisbeanadh (a rèir suidheachadh)</orth>
     </form>
     <trans>display</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>display - sgrion no taisbeanaidh (a rèir suidheachadh) poss cdisplays - sgrionaichean no taisbeanaidhean (a rèir suidheachadh) pl</note>
-  </ainmear_fireann>
+  </lexeme>

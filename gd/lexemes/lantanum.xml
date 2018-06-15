@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="lantanum" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="lantanum" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>lantanum</orth>
     </form>
     <trans>lanthanum</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>lanthanum - lantanum sc</note>
-  </ainmear_fireann>
+  </lexeme>

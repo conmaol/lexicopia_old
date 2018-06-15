@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="inneal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="inneal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>inneal</orth>
     </form>
@@ -14,4 +14,4 @@
     <note>appliance - inneil poss cappliances - innealan pl</note>
     <note>Listed in An Seotal: Computing, as 'tòl'.</note>
     <note>tòl - inneil poss ctòls - innealan pl</note>
-  </ainmear_fireann>
+  </lexeme>

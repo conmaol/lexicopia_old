@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cearcall" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cearcall" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cearcall</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>cycle - cearcaill sccycles - cearcaill iom</note>
     <note>Listed in An Seotal: Maths, as 'circle'.</note>
     <note>circle - cearcaill poss ccircles - cearcallan plcircles - cearcaill pl</note>
-  </ainmear_fireann>
+  </lexeme>

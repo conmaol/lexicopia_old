@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="taghan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="taghan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>taghan</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Plurals: taghain</note>
     <note>Latin: (Martes martes)</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/taghan.mp3</note>
-  </ainmear_fireann>
+  </lexeme>

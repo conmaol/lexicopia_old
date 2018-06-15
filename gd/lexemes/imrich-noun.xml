@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="imrich-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="imrich-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="imrich-verb"/>
   <form>
     <orth>imrich</orth>
@@ -13,4 +13,4 @@
   <note>Listed in An Seotal: Modern Studies, as 'migration'.</note>
   <note>Listed in TYGD.</note>
   <note>Listed in CM.</note>
-</ainmear_boireann>
+</lexeme>

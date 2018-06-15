@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Rùintean-dìomhair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Rùintean-dìomhair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Rùintean-dìomhair</orth>
     </form>
     <trans>Secret Secrets</trans>
     <note>Listed in An Seotal: Personal and Social Education.</note>
-  </ainmear_fireann>
+  </lexeme>

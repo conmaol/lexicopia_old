@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="spàin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="spàin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>spàin</orth>
     </form>
     <trans>spoon</trans>
     <note>Listed in An Seotal: Home economics.</note>
     <note>spoon - spàine poss cspoons - spàinean plspoons - spàintean plspoons - spàineachan pl</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="amadan_bealltainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="amadan_bealltainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>amadan Bealltainn</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Latin: (Numenius phaeopus)</note>
     <note>Dwelly: amadan-Bealltainn sm Whimbrel, May-fowl {numenius phaeopus}. Very numerous in the Western Isles during the first fortnight in May, on their migration north. They are not
       distinguishable from the curlew to the uninitiated, but unlike that bird they will allow strangers to approach to well within gun-shot. Hence their name.</note>
-  </ainmear_fireann>
+  </lexeme>

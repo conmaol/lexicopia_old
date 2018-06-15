@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="allegro" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="allegro" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>allegro</orth>
     </form>
     <trans>allegro</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>allegro - allegro poss c - allegrothan pl</note>
-  </ainmear_fireann>
+  </lexeme>

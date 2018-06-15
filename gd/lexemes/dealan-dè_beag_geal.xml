@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="dealan-dè_beag_geal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dealan-dè_beag_geal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dealan-dè beag geal</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Plural: dealanan-dè bheaga gheala</note>
     <note>Latin: Pieris rapae</note>
     <note>Info: Plural of dealan-dè can be dealanan-dè or dealain-dè. </note>
-  </ainmear_fireann>
+  </lexeme>

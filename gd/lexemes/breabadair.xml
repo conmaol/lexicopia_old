@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="breabadair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="breabadair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>breabadair</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>Latin: Tipulidae spp.</note>
     <note>Info: The Gaelic name 'breabadair' means 'weaver' and fìdhleir na casan fada means fiddler with the long legs. Also traditionally known as Alasdair Mòr nam pollagan (Big Alasdair of the
       ponds) and snàthad an duine mhairbh (dead man's needles).</note>
-  </ainmear_fireann>
+  </lexeme>

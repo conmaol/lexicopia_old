@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Poblachd_nan_Seiceach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Poblachd_nan_Seiceach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="poblachd"/>
   <part ref="Seiceach"/>
   <form>
@@ -9,4 +9,4 @@
   <trans index="only">Czech Republic</trans>
   <trans index="no">the Czech Republic</trans>
   <note>Listed in An Seotal: Geography.</note>
-</ainmear_boireann>
+</lexeme>

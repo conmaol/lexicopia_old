@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Caolas_St_George" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Caolas_St_George" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Caolas St George</orth>
     </form>
     <trans>St George's Channel</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>St George's Channel - Caolas St George poss c</note>
-  </ainmear_fireann>
+  </lexeme>

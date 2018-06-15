@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Fèill_Pàdraig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Fèill_Pàdraig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="fèill"/>
   <form>
     <orth>Fèill Pàdraig</orth>
   </form>
   <trans>Saint Patrick's Day</trans>
-</ainmear_boireann>
+</lexeme>

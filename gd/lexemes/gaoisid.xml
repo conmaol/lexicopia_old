@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="gaoisid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gaoisid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>gaoisid</orth>
   </form>
@@ -14,4 +14,4 @@
   <trans index="only">hair</trans>
   <note>Listed in An Seotal: Personal and Social Education.</note>
   <note>Listed in Colin Mark’s dictionary as ‘animal hair’.</note>
-</ainmear_boireann>
+</lexeme>

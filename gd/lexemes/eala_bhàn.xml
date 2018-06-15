@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="eala_bhàn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eala_bhàn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>eala bhàn</orth>
   </form>
@@ -12,4 +12,4 @@
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
   <note>Info: The name means 'fair swan'.</note>
   <note>Audio: http://www.snh.org.uk/gaidhlig/audio/eala bhan.mp3</note>
-</ainmear_boireann>
+</lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ròbot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ròbot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ròbot</orth>
     </form>
     <trans>robot</trans>
     <note>Listed in An Seotal: General.</note>
     <note>robot - ròbot poss crobot - ròbotan pl</note>
-  </ainmear_fireann>
+  </lexeme>

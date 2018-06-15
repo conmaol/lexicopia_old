@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="reachd-masc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="reachd-masc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>reachd</orth>
     </form>
@@ -18,4 +18,4 @@
     <trans>canon</trans>
     <note>Listed in TYGD.</note>
     <note>Listed in CM.</note>
-  </ainmear_fireann>
+  </lexeme>

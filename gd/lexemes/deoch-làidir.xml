@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="deoch-làidir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="deoch-làidir" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>deoch-làidir</orth>
     </form>
     <trans>alcohol</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>alcohol - deoch-làidir sc</note>
-  </ainmear_boireann>
+  </lexeme>

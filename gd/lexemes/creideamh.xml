@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="creideamh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="creideamh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>creideamh</orth>
     </form>
@@ -9,4 +9,4 @@
     <trans>religious belief</trans>
     <note>Listed in An Seotal: Religious and Moral.</note>
     <note>faith - creideimh sc faiths - creideamhan iom</note>
-  </ainmear_fireann>
+  </lexeme>

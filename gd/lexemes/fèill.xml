@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="fèill" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fèill" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fèill</orth>
     </form>
     <trans>festival</trans>
     <note>Listed in An Seotal: General.</note>
     <note>festival - fèille poss cfestivals - fèilltean pl</note>
-  </ainmear_boireann>
+  </lexeme>

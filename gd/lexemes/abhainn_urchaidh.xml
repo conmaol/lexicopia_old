@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="abhainn_urchaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="abhainn_urchaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Abhainn Urchaidh</orth>
     </form>
     <trans index="no">the River Orchy</trans>
     <trans index="only">River Orchy</trans>
     <note>Listed in An Seotal: Geography.</note>
-  </ainmear_boireann>
+  </lexeme>

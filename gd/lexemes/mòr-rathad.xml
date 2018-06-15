@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="mòr-rathad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="mòr-rathad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>mòr-rathad</orth>
     </form>
     <trans>motorway</trans>
     <note>Listed in An Seotal: General.</note>
     <note>motorway - mòr-rathaid poss cmotorway - mòr-rothaid poss cmotorways - mòr-rathaidean plmotorways - mòr-ròidean pl</note>
-  </ainmear_fireann>
+  </lexeme>

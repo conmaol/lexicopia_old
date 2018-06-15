@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="snìomhan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="snìomhan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>snìomhan</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>Listed in An Seotal: Science.</note>
     <note>helix - snìomhain sc helixes - snìomhain iom</note>
     <note>spiral - snìomhain sc spirals - snìomhain iom</note>
-  </ainmear_fireann>
+  </lexeme>

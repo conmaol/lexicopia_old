@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="hòrmon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="hòrmon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>hòrmon</orth>
     </form>
     <trans>hormone</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>hormone - hòrmoin schormones - hòrmonan iom</note>
-  </ainmear_fireann>
+  </lexeme>

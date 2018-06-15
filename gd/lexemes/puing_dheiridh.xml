@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="puing_dheiridh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="puing_dheiridh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>puing dheiridh</orth>
     </form>
     <trans>end point</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>end point - puinge deiridh poss cend point - puing dheiridh poss cend points - puingean deiridh pl</note>
-  </ainmear_boireann>
+  </lexeme>

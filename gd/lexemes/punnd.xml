@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="punnd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="punnd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>punnd</orth>
     </form>
     <trans>pound</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>pound - puinnd poss cpounds - puinnd pl</note>
-  </ainmear_fireann>
+  </lexeme>

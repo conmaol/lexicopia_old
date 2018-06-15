@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="modh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="modh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>modh</orth>
     </form>
@@ -32,4 +32,4 @@
     <trans>shift</trans>
     <trans>mood</trans>
     <note>Listed in An Seotal: Maths, as 'mode'.</note>
-  </ainmear_fireann>
+  </lexeme>

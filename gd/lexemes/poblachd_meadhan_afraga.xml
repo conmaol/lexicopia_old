@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Poblachd_Meadhan_Afraga" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Poblachd_Meadhan_Afraga" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="poblachd"/>
   <form>
     <orth>Poblachd Meadhan Afraga</orth>
@@ -8,4 +8,4 @@
   <trans>Central African Republic</trans>
   <note>Listed in An Seotal: Geography.</note>
   <note>Central African Republic - Poblachd Meadhan Afraga poss c</note>
-</ainmear_boireann>
+</lexeme>

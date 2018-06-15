@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="fermium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fermium" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fermium</orth>
     </form>
     <trans>fermium</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>fermium - fermium sc</note>
-  </ainmear_fireann>
+  </lexeme>

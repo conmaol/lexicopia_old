@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="uachdar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="uachdar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>uachdar</orth>
     </form>
@@ -19,4 +19,4 @@
     <note>Listed in An Seotal: Maths, as 'surface'.</note>
     <note>Listed in An Seotal: Technology, as 'surface'.</note>
     <note>Listed in CM.</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sinc-zinc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sinc-zinc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sinc</orth>
     </form>
     <trans>zinc</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>zinc - sinc sc</note>
-  </ainmear_fireann>
+  </lexeme>

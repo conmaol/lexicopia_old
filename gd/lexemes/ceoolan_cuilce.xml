@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ceoolan_cuilce" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ceoolan_cuilce" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ceòlan cuilce</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>Acrocephalus scirpaceus</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/ceolan-cuilc.mp3</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="Port_Bhurry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Port_Bhurry" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Port Bhurry</orth>
     </form>
     <trans>Burry Port</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Burry Port - Port Bhurry poss c</note>
-  </ainmear_fireann>
+  </lexeme>

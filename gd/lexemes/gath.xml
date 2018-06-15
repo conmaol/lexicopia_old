@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gath" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gath</orth>
     </form>
@@ -16,4 +16,4 @@
     <note>ray - gath scrays - gathan iom</note>
     <note>Listed in An Seotal: Maths, as 'arrow'.</note>
     <note>arrow - gath poss c arrows - gathan pl</note>
-  </ainmear_fireann>
+  </lexeme>

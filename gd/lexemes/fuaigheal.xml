@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="fuaigheal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fuaigheal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fuaigheal</orth>
     </form>
     <trans>sewing</trans>
     <note>Listed in An Seotal: Home economics.</note>
     <note>sewing - fuaigheil poss c</note>
-  </ainmear_fireann>
+  </lexeme>

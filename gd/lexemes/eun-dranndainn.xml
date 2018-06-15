@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="eun-dranndainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eun-dranndainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eun-dranndainn</orth>
     </form>
     <trans>hummingbird</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>hummingbird - eòin-dranndain schummingbirds - eòin-dranndain iom</note>
-  </ainmear_fireann>
+  </lexeme>

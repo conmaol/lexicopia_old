@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="deichead" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="deichead" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>deichead</orth>
     </form>
     <trans>decimal</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>decimal - deicheid poss cdecimals - deicheadan pl</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="iomall_eitean_na_talmhainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="iomall_eitean_na_talmhainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>iomall eitean na talmhainn</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>outer core of the earth</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>outer core - iomall eitean na talmhainn sc</note>
-  </ainmear_fireann>
+  </lexeme>

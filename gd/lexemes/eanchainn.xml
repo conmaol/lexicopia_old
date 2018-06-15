@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="eanchainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="eanchainn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>eanchainn</orth>
     </form>
     <trans>brain</trans>
     <note>Oxford Children's Scottish Gaelic Visual Dictionary, p. 15.</note>
-  </ainmear_boireann>
+  </lexeme>

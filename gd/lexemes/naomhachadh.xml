@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="naomhachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="naomhachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>naomhachadh</orth>
     </form>
     <trans>sanctifying</trans>
     <trans>sanctification</trans>
     <note>Listed in TYGD.</note>
-  </ainmear_fireann>
+  </lexeme>

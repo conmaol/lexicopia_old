@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="socaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="socaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>socaid</orth>
     </form>
     <trans>socket</trans>
     <note>Listed in An Seotal: Technology.</note>
     <note>socket - socaid(e) poss csockets - socaidean pl</note>
-  </ainmear_boireann>
+  </lexeme>

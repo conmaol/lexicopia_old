@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ceangal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ceangal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ceangal</orth>
     </form>
@@ -14,4 +14,4 @@
     <note>Listed in An Seotal: Computing, as 'connection', 'link'.</note>
     <note>connection - ceangail poss cconnections - ceangalan pl</note>
     <note>link - ceangail poss clinks - ceangalan pl</note>
-  </ainmear_fireann>
+  </lexeme>

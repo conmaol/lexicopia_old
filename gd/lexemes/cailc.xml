@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cailc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cailc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cailc</orth>
     </form>
     <trans>chalk</trans>
     <note>Listed in An Seotal: Art.</note>
     <note>chalk - cailce poss cchalks - cailcean pl</note>
-  </ainmear_boireann>
+  </lexeme>

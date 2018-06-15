@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="co-fhad_nan_tràth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="co-fhad_nan_tràth" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>co-fhad nan tràth</orth>
     </form>
     <trans>equinox</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>equinox - co-fhad nan tràth scequinoxes - co-fhadan nan tràth iom</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="mith-chainnt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="mith-chainnt" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>mith-chainnt</orth>
     </form>
     <trans>slang</trans>
     <note>Listed in An Seotal: Language.</note>
     <note>slang - mith-chainnt poss cslangs - mith-chainntean pl</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="teisteanas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="teisteanas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>teisteanas</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>qualification - teisteanais poss cqualifications - teisteanasan plqualifications - teisteanais pl</note>
     <note>Listed in An Seotal: Computing, as 'certificate'.</note>
     <note>certificate - teisteanais poss ccertificate - teisteanasan pl</note>
-  </ainmear_fireann>
+  </lexeme>

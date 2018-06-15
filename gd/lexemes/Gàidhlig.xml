@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Gàidhlig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Gàidhlig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="Gàidheal"/>
   <form>
     <orth>Gàidhlig</orth>
@@ -9,4 +9,4 @@
   <note>Listed in An Seotal: Language.</note>
   <note>Listed in Robertson &amp; MacDonald’s Gaelic Dictionary.</note>
   <note>Used with definite article: a’ Ghàidhlig, na Gàidhlig.</note>
-</ainmear_boireann>
+</lexeme>

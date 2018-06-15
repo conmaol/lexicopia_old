@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Gambia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Gambia" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>Gambia</orth>
   </form>
@@ -8,4 +8,4 @@
   <trans>the Gambia</trans>
   <note>Listed in An Seotal: Geography.</note>
   <note>Used with definite article: a’ Ghambia, na Gambia.</note>
-</ainmear_boireann>
+</lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Comhairle_na_Tèarainteachd_Nàiseanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Comhairle_na_Tèarainteachd_Nàiseanta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="comhairle"/>
   <part ref="tèarainteachd_nàiseanta"/>
   <form>
@@ -9,4 +9,4 @@
   <trans index="no">the National Security Council</trans>
   <trans index="only">National Security Council</trans>
   <trans>NSC</trans>
-</ainmear_boireann>
+</lexeme>

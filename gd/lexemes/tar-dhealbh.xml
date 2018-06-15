@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="tar-dhealbh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="tar-dhealbh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>tar-dhealbh</orth>
     </form>
     <trans>cross-section</trans>
     <note>Listed in An Seotal: Technology.</note>
     <note>cross-section - tar-dheilbh poss ccross-sections - tar-dhealbhan pl</note>
-  </ainmear_fireann>
+  </lexeme>

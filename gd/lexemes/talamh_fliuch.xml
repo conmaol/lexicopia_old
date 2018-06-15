@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="talamh_fliuch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="talamh_fliuch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>talamh fliuch</orth>
     </form>
     <trans>wetland</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Plural: talamhan fliucha</note>
-  </ainmear_fireann>
+  </lexeme>

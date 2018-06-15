@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="àrainn_phàrantan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="àrainn_phàrantan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>àrainn phàrantan</orth>
     </form>
     <trans>parent zone</trans>
     <note>Listed in An Seotal: General.</note>
-  </ainmear_boireann>
+  </lexeme>

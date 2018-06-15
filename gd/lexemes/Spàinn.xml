@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="Spàinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="Spàinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>Spàinn</orth>
   </form>
@@ -10,4 +10,4 @@
   <trans>Spain</trans>
   <note>Listed in An Seotal: Geography.</note>
   <note>Used with definite article: an Spàinn, na Spàinne.</note>
-</ainmear_boireann>
+</lexeme>

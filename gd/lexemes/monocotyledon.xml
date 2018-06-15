@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="monocotyledon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="monocotyledon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>monocotyledon</orth>
     </form>
     <trans>monocotyledon</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>monocotyledon - monocotyledon scmonocotyledons - monocotyledonan iom</note>
-  </ainmear_fireann>
+  </lexeme>

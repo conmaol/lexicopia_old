@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sealbh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sealbh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sealbh</orth>
     </form>
@@ -15,4 +15,4 @@
     <trans>providence</trans>
     <note>Listed in TYGD.</note>
     <note>Listed in CM.</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ailm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ailm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ailm</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>Ulmus spp.</trans>
     <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Info: The Gaelic alphabet contains 18 letters, each of which was traditionally linked with a tree name. Ailm represents the letter 'a' in the Gaelic alphabet.</note>
-  </ainmear_boireann>
+  </lexeme>

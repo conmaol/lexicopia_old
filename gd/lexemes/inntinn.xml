@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="inntinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="inntinn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>inntinn</orth>
     </form>
@@ -15,4 +15,4 @@
     <trans>frame of mind</trans>
     <trans>spirits</trans>
     <note>Listed in An Seotal: General, as 'minds'.</note>
-  </ainmear_boireann>
+  </lexeme>

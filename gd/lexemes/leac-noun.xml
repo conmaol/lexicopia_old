@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="leac-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="leac-noun" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>leac</orth>
     </form>
@@ -16,4 +16,4 @@
     <trans>tombstone</trans>
     <trans>tile</trans>
     <note>Listed in An Seotal: Maths, as 'tile'.</note>
-  </ainmear_boireann>
+  </lexeme>

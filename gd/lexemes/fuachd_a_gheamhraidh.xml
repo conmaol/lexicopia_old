@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="fuachd_a_gheamhraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fuachd_a_gheamhraidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fuachd a' gheamhraidh</orth>
     </form>
     <trans>cold of winter</trans>
     <note>Listed in An Seotal: General.</note>
-  </ainmear_boireann>
+  </lexeme>

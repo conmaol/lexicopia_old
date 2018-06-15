@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="comharra-tìme" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="comharra-tìme" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>comharra-tìme</orth>
     </form>
     <trans>time signature</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>time signature - comharra-tìme poss ctime signatures - comharran-tìme pl</note>
-  </ainmear_fireann>
+  </lexeme>

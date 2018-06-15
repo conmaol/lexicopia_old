@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="botsuana" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="botsuana" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>Botsuana</orth>
     </form>
     <trans>Botswana</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>Botswana - Bhotsuana poss c</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="canadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="canadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>canadh</orth>
     </form>
     <trans>chant</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>chant - canaidh poss cchants - canaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

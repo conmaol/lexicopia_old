@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="accompagnato" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="accompagnato" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>accompagnato</orth>
     </form>
     <trans>accompagnato</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>accompagnato - accompagnato poss caccompagnatos - accompagnatothan pl</note>
-  </ainmear_boireann>
+  </lexeme>

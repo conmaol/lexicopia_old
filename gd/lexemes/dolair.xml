@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="dolair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dolair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dolair</orth>
     </form>
     <trans>dollar</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>dollar - dolair poss cdollars - dolairean pl</note>
-  </ainmear_fireann>
+  </lexeme>

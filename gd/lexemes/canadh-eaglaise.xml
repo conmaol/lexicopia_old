@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="canadh-eaglaise" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="canadh-eaglaise" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>canadh-eaglaise</orth>
     </form>
     <trans>plainsong</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>plainsong - canadh-eaglaise poss cplainsongs - canaidhean-eaglaise pl</note>
-  </ainmear_fireann>
+  </lexeme>

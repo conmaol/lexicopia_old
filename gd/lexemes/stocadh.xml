@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="stocadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="stocadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>stocadh</orth>
     </form>
     <trans>flourish</trans>
     <note>Listed in An Seotal: Music.</note>
     <note>flourish - stocaidh poss cflourishes - stocaidhean pl</note>
-  </ainmear_fireann>
+  </lexeme>

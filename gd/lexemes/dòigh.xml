@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="dòigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="dòigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>dòigh</orth>
     </form>
@@ -30,4 +30,4 @@
     <trans>technique</trans>
     <trans>vein</trans>
     <note>Listed in An Seotal: General, as 'method', 'technique'.</note>
-  </ainmear_boireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bith-thomad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bith-thomad" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>bith-thomad</orth>
     </form>
     <trans>bio-mass</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>bio-mass - bith-thomaid scbio-masses - bith-thomadan iom</note>
-  </ainmear_fireann>
+  </lexeme>

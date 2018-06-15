@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ìmpidheachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ìmpidheachd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ìmpidheachd</orth>
     </form>
     <trans>persuasion</trans>
     <note>Listed in An Seotal: General.</note>
     <note>persuasion - ìmpidheachd poss c</note>
-  </ainmear_boireann>
+  </lexeme>

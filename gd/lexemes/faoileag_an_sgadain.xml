@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="faoileag_an_sgadain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="faoileag_an_sgadain" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>faoileag an sgadain</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Latin: (Larus argentatus)</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/faoileag an sgadain.mp3, glas fhaoileag.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

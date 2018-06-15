@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="làimhseachadh_eachdraidheil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="làimhseachadh_eachdraidheil" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="làimhseachadh"/>
   <part ref="eachdraidheil"/>
   <form>
@@ -8,4 +8,4 @@
   </form>
   <trans>historical treatment</trans>
   <note>Listed in An Seotal: General.</note>
-</ainmear_fireann>
+</lexeme>

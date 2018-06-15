@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sinc-sink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sinc-sink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sinc</orth>
     </form>
     <trans>sink</trans>
     <note>Listed in An Seotal: Technology.</note>
     <note>sink - since poss csinks - sincean plsinks - sinceachan pl</note>
-  </ainmear_fireann>
+  </lexeme>

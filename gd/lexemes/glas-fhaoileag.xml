@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="glas-fhaoileag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="glas-fhaoileag" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>glas-fhaoileag</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Latin: (Larus argentatus)</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/faoileag an sgadain.mp3, glas fhaoileag.mp3</note>
     <note>Listed in CM.</note>
-  </ainmear_boireann>
+  </lexeme>

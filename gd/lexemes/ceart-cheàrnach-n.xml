@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="ceart-cheàrnach-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ceart-cheàrnach-n" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ceart-cheàrnach</orth>
     </form>
     <trans>rectangle</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>rectangle - ceart-cheàrnaich poss crectangles - ceart-cheàrnachan pl</note>
-  </ainmear_fireann>
+  </lexeme>

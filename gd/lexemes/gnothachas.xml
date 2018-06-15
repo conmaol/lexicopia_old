@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="gnothachas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="gnothachas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>gnothachas</orth>
     </form>
     <trans>business</trans>
     <note>Listed in An Seotal: Business Studies.</note>
     <note>business - gnothachais poss cbusinesses - gnothachasan pl</note>
-  </ainmear_fireann>
+  </lexeme>

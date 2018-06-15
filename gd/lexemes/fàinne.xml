@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="fàinne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fàinne" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>fàinne</orth>
   </form>
   <sense ref="clothing"/>
   <trans>ring</trans>
   <note>For Borgstrøm 1937: 158, this noun is of uncertain gender.</note>
-</ainmear_boireann>
+</lexeme>

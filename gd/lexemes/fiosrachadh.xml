@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="fiosrachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="fiosrachadh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>fiosrachadh</orth>
     </form>
     <trans>information</trans>
     <note>Listed in An Seotal: General.</note>
     <note>information - fiosrachaidh poss c</note>
-  </ainmear_fireann>
+  </lexeme>

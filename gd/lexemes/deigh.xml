@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="deigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="deigh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <form>
     <orth>deigh</orth>
   </form>
@@ -13,4 +13,4 @@
   <trans>ice</trans>
   <note>Listed in An Seotal: Geography.</note>
   <note>Listed in Scottish Natural Heritage's Faclan Nàdair.</note>
-</ainmear_boireann>
+</lexeme>

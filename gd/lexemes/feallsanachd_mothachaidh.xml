@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="feallsanachd_mothachaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="feallsanachd_mothachaidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>feallsanachd mothachaidh</orth>
     </form>
     <trans>sensationalism</trans>
     <note>Listed in An Seotal: General.</note>
-  </ainmear_fireann>
+  </lexeme>

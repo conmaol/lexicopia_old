@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bruu-gheal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bruu-gheal" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>brù-gheal</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>Info: The Gaelic name means 'white belly'.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/bru-geal.mp3</note>
     <note>Listed in CM.</note>
-  </ainmear_fireann>
+  </lexeme>

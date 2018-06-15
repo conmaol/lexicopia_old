@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="bàrr-fhàd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="bàrr-fhàd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="bàrr"/>
   <part ref="fàd"/>
   <form>
@@ -8,4 +8,4 @@
   </form>
   <trans>top tier of sedgy marsh when cutting peats</trans>
   <note>Listed in Dwelly.</note>
-</ainmear_fireann>
+</lexeme>

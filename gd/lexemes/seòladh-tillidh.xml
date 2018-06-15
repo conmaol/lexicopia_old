@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="seòladh-tillidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="seòladh-tillidh" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>seòladh-tillidh</orth>
     </form>
     <trans>return address</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>return address - seòlaidh-thillidh poss creturn addresses - seòlaidhean-tillidh pl</note>
-  </ainmear_fireann>
+  </lexeme>

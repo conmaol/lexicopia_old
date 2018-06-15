@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="cliathan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cliathan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cliathan</orth>
     </form>
     <trans>breastbone</trans>
     <note>Oxford Children's Scottish Gaelic Visual Dictionary, p. 14.</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="sguuman" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="sguuman" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>sgùman</orth>
     </form>
     <trans index="no">lock of hair on the forehead</trans>
     <trans index="only">lock of hair on the forehead</trans>
     <note>Especially of a sheep, as noted in Dwelly.</note>
-  </ainmear_fireann>
+  </lexeme>

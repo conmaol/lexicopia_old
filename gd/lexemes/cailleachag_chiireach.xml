@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="cailleachag_chiireach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="cailleachag_chiireach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>cailleachag chìreach</orth>
     </form>
@@ -9,4 +9,4 @@
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Info: Cailleachag-chìreach means the small old woman with the comb or crest.</note>
     <note>Audio: http://www.snh.org.uk/gaidhlig/audio/cailleachag chireach.mp3</note>
-  </ainmear_boireann>
+  </lexeme>

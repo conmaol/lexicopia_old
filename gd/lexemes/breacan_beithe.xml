@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="breacan_beithe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="breacan_beithe" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>breacan beithe</orth>
     </form>
@@ -11,4 +11,4 @@
     <note>Info: The Gaelic name means 'the bird of the birch tree'.</note>
     <note>Listed in An Seotal: Science.</note>
     <note>chaffinch - breacain-beithe sc chaffinches - breacain-beithe iom</note>
-  </ainmear_fireann>
+  </lexeme>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="ceimig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="ceimig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>ceimig</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>chemical - ceimig sc chemicals - ceimigean iom</note>
     <note>Listed in TYGD.</note>
     <note>Listed in CM, as 'chemical', 'chemistry'.</note>
-  </ainmear_boireann>
+  </lexeme>

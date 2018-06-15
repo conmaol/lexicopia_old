@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="St_Kitts_agus_Nevis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="St_Kitts_agus_Nevis" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>St. Kitts agus Nevis</orth>
     </form>
     <trans>St. Kitts and Nevis</trans>
     <note>Listed in An Seotal: Geography.</note>
     <note>St. Kitts and Nevis - St. Kitts agus Nevis poss c</note>
-  </ainmear_fireann>
+  </lexeme>

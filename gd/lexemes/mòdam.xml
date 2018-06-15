@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="mòdam" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="mòdam" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>mòdam</orth>
     </form>
     <trans>modem</trans>
     <note>Listed in An Seotal: Computing.</note>
     <note>modem - mòdaim poss cmodems - mòdaman pl</note>
-  </ainmear_fireann>
+  </lexeme>

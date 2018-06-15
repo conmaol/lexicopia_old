@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="trìlleachan_glas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="trìlleachan_glas" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="trìlleachan"/>
   <part ref="glas"/>
   <form>
@@ -11,4 +11,4 @@
   <note>From Scottish Natural Heritage's Faclan Nàdair, as 'sandpiper spp.'.</note>
   <note>Plurals: trìlleachain ghlasa</note>
   <note>Latin: (Scolopacidae (Family) spp.)</note>
-</ainmear_fireann>
+</lexeme>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="prothaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="prothaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>prothaid</orth>
     </form>
     <trans>profit</trans>
     <note>Listed in An Seotal: Maths.</note>
     <note>profit - prothaid(e) poss cprofits - prothaidean pl</note>
-  </ainmear_boireann>
+  </lexeme>

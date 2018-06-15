@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="slaighd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="slaighd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>slaighd</orth>
     </form>
     <trans>slide</trans>
     <note>Listed in An Seotal: Science, Computing.</note>
     <note>slide - slaighde scslides - slaighdean iom</note>
-  </ainmear_boireann>
+  </lexeme>

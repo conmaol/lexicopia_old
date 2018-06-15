@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="giomach_Spàinnteach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="giomach_Spàinnteach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="giomach"/>
   <part ref="Spàinnteach"/>
   <form>
@@ -12,4 +12,4 @@
   <trans>crayfish</trans>
   <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
   <note>Latin: Palinurus elephas</note>
-</ainmear_fireann>
+</lexeme>

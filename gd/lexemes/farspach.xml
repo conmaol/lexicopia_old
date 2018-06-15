@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="farspach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="farspach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>farspach</orth>
     </form>
@@ -8,4 +8,4 @@
     <trans>Larus marinus</trans>
     <note>From Scottish Natural Heritage's Faclan Nàdair.</note>
     <note>Latin: (Larus marinus)</note>
-  </ainmear_boireann>
+  </lexeme>

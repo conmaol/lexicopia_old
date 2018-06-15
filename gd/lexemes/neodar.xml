@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_fireann id="neodar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="neodar" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>neodar</orth>
     </form>
     <trans>neutral</trans>
     <note>Listed in An Seotal: Science.</note>
     <note>neutral - neodair scneutrals - neodaran iom</note>
-  </ainmear_fireann>
+  </lexeme>

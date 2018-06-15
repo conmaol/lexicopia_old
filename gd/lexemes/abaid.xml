@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="abaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="abaid" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
   <part ref="aba"/>
   <form>
     <orth>abaid</orth>
@@ -13,4 +13,4 @@
   </form>
   <trans>abbey</trans>
   <trans>priory</trans>
-</ainmear_boireann>
+</lexeme>

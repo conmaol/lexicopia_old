@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<ainmear_boireann id="obair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
+<lexeme id="obair" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../lexeme.xsd">
     <form>
       <orth>obair</orth>
     </form>
@@ -10,4 +10,4 @@
     <note>Listed in An Seotal: General.</note>
     <note>labour - obrach poss clabour - oibre poss clabours - obraichean pllabours - oibrichean pl</note>
     <note>work - obrach poss cwork - oibre poss cworks - obraichean plworks - oibrichean pl</note>
-  </ainmear_boireann>
+  </lexeme>
