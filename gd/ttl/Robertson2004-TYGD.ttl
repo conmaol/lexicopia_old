@@ -1,18 +1,71 @@
 @prefix : <http://faclair.ac.uk/> .
 
-# The Gaelic-English vocabulary from Roderick Mackinnon's (1971) ‘Teach Yourself Gaelic’, pp. 280–302.
+# The Gaelic-English vocabulary from Boyd Robertson and Ian MacDonald's (2004) ‘Teach Yourself Gaelic Dictionary’.
+
+:aba.n
+  :en "abbot" ;
+  :hasForm :aba.n.nms , :aba.n.gms , :abachan.n.np .
+
+:abaid.n
+  :en "abbey" ;
+  :hasForm :abaid.n.nfs , :abaide.n.gfs .
+
+:abairt.n
+  :en "saying" , "expression" , "phrase" ;
+  :hasForm :abairt.n.nfs , :abairte.n.gfs , :abairtean.n.np .
+
+:àbhachd.n
+  :en "fun" , "joking" , "mirth" ;
+  :hasForm :àbhachd.n.nfs , :àbhachd.n.gfs .
+
+:àbhachdas.n
+  :en "fun" , "joking" , "mirth" ;
+  :hasForm :àbhachdas.n.nms , :àbhachdais.n.gms .
+
+:abhag.n
+  :en "small dog" , "tyke" ;
+  :hasForm :abhag.n.nfs , :abhaig.n.gfs , :abhagan.n.np .
 
 :abhainn.n 
   :en "river" ;
-  :hasForm :abhainn.n.nfs , :aibhne.n.gfs , :aibhnichean.n.np .
+  :hasForm :abhainn.n.nfs , :aibhne.n.gfs , :abhainne.n.gfs , :aibhnichean.n.np , :aibhneachan.n.np .
+
+:àbhaist.n
+  :en "norm" , "custom" , "habit" ;
+  :hasForm :àbhaist.n.nfs .
+
+:abharsair.n
+  :en "adversary" ;
+  :hasForm :abharsair.n.nms , :abharsair.n.gms , :abharsairean.n.np .
+
+:ablach.n
+  :en "carcase" , "person affected by illness", "something suffering from wear and tear" ;
+  :hasForm :ablach.n.nms , :ablaich.n.gms , :ablaich.n.np , :ablaichean.n.np .
+
+:abstol.n
+  :en "apostle" ;
+  :hasForm :abstol.n.nms , :abstoil.n.gms , :abstoil.n.np , :abstolan.n.np .
+
+:acadamh.n
+  :en "academy" ;
+  :hasForm :acadamh.n.nms , :acadaimh.n.gms , :acadamhan.n.np .
+
+:acaid.n
+  :en "stabbing pain", "stitch" ;
+  :hasForm :acaid.n.nfs , :acaide.n.gfs , :acaidean.n.np .
 
 :acair.n 
-  :en "anchor" ;
-  :hasForm :acair.n.nfs , :acrach.n.gfs , :acraichean.n.np .
+  :en "anchor" , "acre" ;
+  :hasForm :acair.n.nfs , :acair.n.nms , :acaire.n.nfs , :acaire.n.nms , :acair.n.gfs , :acair.n.gms , :acaire.n.gfs , :acaire.n.gms  , :acraichean.n.np .
 
 :acarsaid.n 
   :en "anchorage" , "harbour" ;
-  :hasForm :acarsaid.n.nfs , :acarsaid.n.gfs , :acarsaidean.n.np .
+  :hasForm :acarsaid.n.nfs , :acarsaid.n.gfs , :acarsaide.n.gfs , :acarsaidean.n.np .
+
+
+
+
+
 
 :achadh.n 
   :en "field" ;
@@ -642,6 +695,3 @@
 
 
   
-  
-
-    
