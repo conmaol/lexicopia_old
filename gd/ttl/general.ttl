@@ -4277,5 +4277,1535 @@
 
 # D
 
+:dad.n 
+  a :Noun ;
+  rdfs:label "dad" .
+
+:dad.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "dad" ;
+  :formOf :dad.n .
   
+
+:dàil.n 
+  a :Noun ;
+  rdfs:label "dàil" .
+
+:dàil.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "dàil" ;
+  :formOf :dàil.n .
+  
+:dàlach.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "dàlach" ;
+  :formOf :dàil.n .
+
+:dàlaichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "dàlaichean" ;
+  :formOf :dàil.n . 
+
+
+:dath.n 
+  a :Noun ;
+  rdfs:label "dath" .
+
+:dath.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "dath" ;
+  :formOf :dath.n .
+  
+:datha.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "datha" ;
+  :formOf :dath.n .
+
+:dathan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "dathan" ;
+  :formOf :dath.n .
+
+
+:dealbh.n 
+  a :Noun ;
+  rdfs:label "dealbh" .
+
+:dealbh.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "dealbh" ;
+  :formOf :dealbh.n .
+  
+:dealbha.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "dealbha" ;
+  :formOf :dealbh.n .
+
+:dealbhan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "dealbhan" ;
+  :formOf :dealbh.n . 
+
+
+:deur.n 
+  a :Noun ;
+  rdfs:label "deur" .
+
+:deur.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "deur" ;
+  :formOf :deur.n .
+  
+:deòir.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "deòir" ;
+  :formOf :deur.n .
+
+:deòir.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "deòir" ;
+  :formOf :deur.n .
+  
+
+:diallaid.n 
+  a :Noun ;
+  rdfs:label "diallaid" .
+
+:diallaid.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "diallaid" ;
+  :formOf :diallaid.n .
+  
+:diallaide.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "diallaide" ;
+  :formOf :diallaid.n .
+
+:diallaidean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "diallaidean" ;
+  :formOf :diallaid.n . 
+
+
+:dinneir.n 
+  a :Noun ;
+  rdfs:label "dinneir" .
+
+:dinneir.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "dinneir" ;
+  :formOf :dinneir.n .
+  
+:dinnearach.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "dinnearach" ;
+  :formOf :dinneir.n .
+
+:dinneirean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "dinneirean" ;
+  :formOf :dinneir.n . 
+
+:dinnearaichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "dinnearaichean" ;
+  :formOf :dinneir.n . 
+
+
+:dòchas.n 
+  a :Noun ;
+  rdfs:label "dòchas" .
+
+:dòchas.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "dòchas" ;
+  :formOf :dòchas.n .
+  
+:dòchais.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "dòchais" ;
+  :formOf :dòchas.n .
+
+:dòchasan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "dòchasan" ;
+  :formOf :dòchas.n .
+
+
+:dòigh.n 
+  a :Noun ;
+  rdfs:label "dòigh" .
+
+:dòigh.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "dòigh" ;
+  :formOf :dòigh.n .
+  
+:dòighe.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "dòighe" ;
+  :formOf :dòigh.n .
+
+:dòighean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "dòighean" ;
+  :formOf :dòigh.n . 
+  
+    
+:doimhneachd.n 
+  a :Noun ;
+  rdfs:label "doimhneachd" .
+
+:doimhneachd.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "doimhneachd" ;
+  :formOf :doimhneachd.n .
+  
+:doimhneachd.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "doimhneachd" ;
+  :formOf :doimhneachd.n .
+
+:doimhneachdan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "doimhneachdan" ;
+  :formOf :doimhneachd.n . 
+        
+
+:dòrn.n 
+  a :Noun ;
+  rdfs:label "dòrn" .
+
+:dòrn.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "dòrn" ;
+  :formOf :dòrn.n .
+  
+:dùirn.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "dùirn" ;
+  :formOf :dòrn.n .
+
+:dùirn.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "dùirn" ;
+  :formOf :dòrn.n .
+
+
+:doras.n 
+  a :Noun ;
+  rdfs:label "doras" .
+
+:dorus.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "dorus" ;
+  :formOf :doras.n .
+  
+:doruis.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "doruis" ;
+  :formOf :doras.n .
+
+:dorsan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "dorsan" ;
+  :formOf :doras.n .
+
+
+:dragh.n 
+  a :Noun ;
+  rdfs:label "dragh" .
+
+:dragh.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "dragh" ;
+  :formOf :dragh.n .
+  
+:dragha.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "dragha" ;
+  :formOf :dragh.n .
+
+
+:driamlach.n 
+  a :Noun ;
+  rdfs:label "driamlach" .
+
+:driamlach.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "driamlach" ;
+  :formOf :driamlach.n .
+  
+:driamlaiche.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "driamlaiche" ;
+  :formOf :driamlach.n .
+
+:driamlaichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "driamlaichean" ;
+  :formOf :driamlach.n .  
+  
+
+:drochaid.n 
+  a :Noun ;
+  rdfs:label "drochaid" .
+
+:drochaid.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "drochaid" ;
+  :formOf :drochaid.n .
+  
+:drochaide.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "drochaide" ;
+  :formOf :drochaid.n .
+
+:drochaidean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "drochaidean" ;
+  :formOf :drochaid.n .    
+
+
+:druim.n 
+  a :Noun ;
+  rdfs:label "druim" .
+
+:druim.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "druim" ;
+  :formOf :druim.n .
+  
+:droma.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "droma" ;
+  :formOf :druim.n .
+
+:dromannan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "dromannan" ;
+  :formOf :druim.n .  
+  
+
+:duais.n 
+  a :Noun ;
+  rdfs:label "duais" .
+
+:duais.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "duais" ;
+  :formOf :duais.n .
+  
+:duaise.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "duaise" ;
+  :formOf :duais.n .
+
+:duaisean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "duaisean" ;
+  :formOf :duais.n .      
+    
+
+:duilleach.n 
+  a :Noun ;
+  rdfs:label "duilleach" .
+
+:duilleach.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "duilleach" ;
+  :formOf :duilleach.n .
+  
+:duillich.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "duillich" ;
+  :formOf :duilleach.n .
+
+
+:duilleag.n 
+  a :Noun ;
+  rdfs:label "duilleag" .
+
+:duilleag.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "duilleag" ;
+  :formOf :duilleag.n .
+  
+:duilleige.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "duilleige" ;
+  :formOf :duilleag.n .
+
+:duilleagan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "duilleagan" ;
+  :formOf :duilleag.n .         
+        
+        
+:duine.n 
+  a :Noun ;
+  rdfs:label "duine" .
+
+:duine.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "duine" ;
+  :formOf :duine.n .
+  
+:duine.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "duine" ;
+  :formOf :duine.n .
+
+:daoine.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "daoine" ;
+  :formOf :duine.n .          
+          
+        
+:dùrachd.n 
+  a :Noun ;
+  rdfs:label "dùrachd" .
+
+:dùrachd.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "dùrachd" ;
+  :formOf :dùrachd.n .
+  
+:dùrachd.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "dùrachd" ;
+  :formOf :dùrachd.n .
+
+
+:dusan.n 
+  a :Noun ;
+  rdfs:label "dusan" .
+
+:dusan.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "dusan" ;
+  :formOf :dusan.n .
+  
+:dusain.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "dusain" ;
+  :formOf :dusan.n .
+
+:dusanan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "dusanan" ;
+  :formOf :dusan.n .                 
+  
+
+:dùthaich.n 
+  a :Noun ;
+  rdfs:label "dùthaich" .
+
+:dùthaich.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "dùthaich" ;
+  :formOf :dùthaich.n .
+  
+:dùthcha.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "dùthcha" ;
+  :formOf :dùthaich.n .
+
+:dùthchannan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "dùthchannan" ;
+  :formOf :dùthaich.n .         
+        
+
+# E
+
+:each.n 
+  a :Noun ;
+  rdfs:label "each" .
+
+:each.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "each" ;
+  :formOf :each.n .
+  
+:eich.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "eich" ;
+  :formOf :each.n .
+
+:eich.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "eich" ;
+  :formOf :each.n .           
+
+
+:eachdraidh.n 
+  a :Noun ;
+  rdfs:label "eachdraidh" .
+
+:eachdraidh.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "eachdraidh" ;
+  :formOf :eachdraidh.n .
+  
+:eachdraidhe.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "eachdraidhe" ;
+  :formOf :eachdraidh.n .
+
+:eachdraidhean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "eachdraidhean" ;
+  :formOf :eachdraidh.n .         
+        
+
+:eagal.n 
+  a :Noun ;
+  rdfs:label "eagal" .
+
+:eagal.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "eagal" ;
+  :formOf :eagal.n .
+  
+:eagail.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "eagail" ;
+  :formOf :eagal.n .
+
+:eagail.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "eagail" ;
+  :formOf :eagal.n .          
+  
+
+:eaglais.n 
+  a :Noun ;
+  rdfs:label "eaglais" .
+
+:eaglais.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "eaglais" ;
+  :formOf :eaglais.n .
+  
+:eaglaise.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "eaglaise" ;
+  :formOf :eaglais.n .
+
+:eaglaisean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "eaglaisean" ;
+  :formOf :eaglais.n .         
+    
+
+:eallach.n 
+  a :Noun ;
+  rdfs:label "eallach" .
+
+:eallach.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "eallach" ;
+  :formOf :eallach.n .
+  
+:eallaich.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "eallaich" ;
+  :formOf :eallach.n .
+
+:eallaichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "eallaichean" ;
+  :formOf :eallach.n .          
+    
+
+:earb.n 
+  a :Noun ;
+  rdfs:label "earb" .
+
+:earb.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "earb" ;
+  :formOf :earb.n .
+  
+:earba.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "earba" ;
+  :formOf :earb.n .
+
+:earban.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "earban" ;
+  :formOf :earb.n .          
+  
+  
+:earball.n 
+  a :Noun ;
+  rdfs:label "earball" .
+
+:earball.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "earball" ;
+  :formOf :earball.n .
+  
+:earbaill.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "earbaill" ;
+  :formOf :earball.n .
+
+:earbaill.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "earbaill" ;
+  :formOf :earball.n .    
+  
+
+:earrach.n 
+  a :Noun ;
+  rdfs:label "earrach" .
+
+:earrach.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "earrach" ;
+  :formOf :earrach.n .
+  
+:earraich.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "earraich" ;
+  :formOf :earrach.n .  
+  
+
+:èideadh.n 
+  a :Noun ;
+  rdfs:label "èideadh" .
+
+:éideadh.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "éideadh" ;
+  :formOf :èideadh.n .
+  
+:éididh.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "éididh" ;
+  :formOf :èideadh.n .
+
+:éididhean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "éididhean" ;
+  :formOf :èideadh.n .    
+
+
+:eilean.n 
+  a :Noun ;
+  rdfs:label "eilean" .
+
+:eilean.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "eilean" ;
+  :formOf :eilean.n .
+  
+:eilein.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "eilein" ;
+  :formOf :eilean.n .
+
+:eileanan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "eileanan" ;
+  :formOf :eilean.n .      
+ 
+
+:eòlas.n 
+  a :Noun ;
+  rdfs:label "eòlas" .
+
+:eòlas.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "eòlas" ;
+  :formOf :eòlas.n .
+  
+:eòlais.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "eòlais" ;
+  :formOf :eòlas.n .
+
+
+:eudail.n 
+  a :Noun ;
+  rdfs:label "eudail" .
+
+:eudail.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "eudail" ;
+  :formOf :eudail.n .
+  
+:eudaile.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "eudaile" ;
+  :formOf :eudail.n .
+
+:eudailean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "eudailean" ;
+  :formOf :eudail.n .      
+   
+  
+:eun.n 
+  a :Noun ;
+  rdfs:label "eun" .
+
+:eun.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "eun" ;
+  :formOf :eun.n .
+  
+:eòin.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "eòin" ;
+  :formOf :eun.n .
+
+:eòin.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "eòin" ;
+  :formOf :eun.n .      
+  
+
+# F
+
+:facal.n 
+  a :Noun ;
+  rdfs:label "facal" .
+
+:facal.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "facal" ;
+  :formOf :facal.n .
+  
+:facail.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "facail" ;
+  :formOf :facal.n .
+
+:faclan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "faclan" ;
+  :formOf :facal.n .      
+  
+
+:fad.n 
+  a :Noun ;
+  rdfs:label "fad" .
+
+:fad.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fad" ;
+  :formOf :fad.n .
+  
+:faid.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "faid" ;
+  :formOf :fad.n .  
+  
+
+:fairge.n 
+  a :Noun ;
+  rdfs:label "fairge" .
+
+:fairge.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "fairge" ;
+  :formOf :fairge.n .
+  
+:fairge.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "fairge" ;
+  :formOf :fairge.n .
+
+:fairgeachan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "fairgeachan" ;
+  :formOf :fairge.n .  
+
+:fairgeannan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "fairgeannan" ;
+  :formOf :fairge.n .           
+
+
+:falt.n 
+  a :Noun ;
+  rdfs:label "falt" .
+
+:falt.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "falt" ;
+  :formOf :falt.n .
+  
+:fuilt.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fuilt" ;
+  :formOf :falt.n .
+
+:fuilt.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "fuilt" ;
+  :formOf :falt.n .    
+  
+
+:fang.n 
+  a :Noun ;
+  rdfs:label "fang" .
+
+:fang.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fang" ;
+  :formOf :fang.n .
+  
+:faing.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "faing" ;
+  :formOf :fang.n .
+
+:fangan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "fangan" ;
+  :formOf :fang.n .     
+
+
+:faoileag.n 
+  a :Noun ;
+  rdfs:label "faoileag" .
+
+:faoileag.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "faoileag" ;
+  :formOf :faoileag.n .
+  
+:faoileige.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "faoileige" ;
+  :formOf :faoileag.n .
+
+:faoileagan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "faoileagan" ;
+  :formOf :faoileag.n .  
+
+
+:farum.n 
+  a :Noun ;
+  rdfs:label "farum" .
+
+:farum.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "farum" ;
+  :formOf :farum.n .
+  
+:faruim.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "faruim" ;
+  :formOf :farum.n .
+    
+  
+:fasgadh.n 
+  a :Noun ;
+  rdfs:label "fasgadh" .
+
+:fasgadh.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fasgadh" ;
+  :formOf :fasgadh.n .
+  
+:fasgaidh.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fasgaidh" ;
+  :formOf :fasgadh.n .  
+
+
+:fear.n 
+  a :Noun ;
+  rdfs:label "fear" .
+
+:fear.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fear" ;
+  :formOf :fear.n .
+  
+:fir.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fir" ;
+  :formOf :fear.n .
+
+:fir.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "fir" ;
+  :formOf :fear.n .     
+
+
+:fearg.n 
+  a :Noun ;
+  rdfs:label "fearg" .
+
+:fearg.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "fearg" ;
+  :formOf :fearg.n .
+  
+:feirge.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "feirge" ;
+  :formOf :fearg.n .
+
+
+:feasgar.n 
+  a :Noun ;
+  rdfs:label "feasgar" .
+
+:feasgar.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "feasgar" ;
+  :formOf :feasgar.n .
+  
+:feasgair.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "feasgair" ;
+  :formOf :feasgar.n .
+
+:feasgraichean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "feasgraichean" ;
+  :formOf :feasgar.n .     
+        
+  
+:fèis.n 
+  a :Noun ;
+  rdfs:label "fèis" .
+
+:féis.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "féis" ;
+  :formOf :fèis.n .
+  
+:féise.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "féise" ;
+  :formOf :fèis.n .
+
+:féisean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "féisean" ;
+  :formOf :fèis.n .  
+  
+
+:feòil.n 
+  a :Noun ;
+  rdfs:label "feòil" .
+
+:feòil.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "feòil" ;
+  :formOf :feòil.n .
+  
+:feòla.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "feòla" ;
+  :formOf :feòil.n .      
+
+
+:feur.n 
+  a :Noun ;
+  rdfs:label "feur" .
+
+:feur.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "feur" ;
+  :formOf :feur.n .
+  
+:feòir.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "feòir" ;
+  :formOf :feur.n .
+
+
+:fiacaill.n 
+  a :Noun ;
+  rdfs:label "fiacaill" .
+
+:fiacaill.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "fiacaill" ;
+  :formOf :fiacaill.n .
+  
+:fiacla.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "fiacla" ;
+  :formOf :fiacaill.n .
+
+:fiaclan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "fiaclan" ;
+  :formOf :fiacaill.n .  
+     
+
+:fiadh.n 
+  a :Noun ;
+  rdfs:label "fiadh" .
+
+:fiadh.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fiadh" ;
+  :formOf :fiadh.n .
+  
+:féidh.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "féidh" ;
+  :formOf :fiadh.n .
+
+:féidh.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "féidh" ;
+  :formOf :fiadh.n .              
+  
+
+:fidheall.n 
+  a :Noun ;
+  rdfs:label "fidheall" .
+
+:fidheall.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "fidheall" ;
+  :formOf :fidheall.n .
+  
+:fìdhle.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "fìdhle" ;
+  :formOf :fidheall.n .
+
+:fìdhlean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "fìdhlean" ;
+  :formOf :fidheall.n .  
+
+
+:fiodh.n 
+  a :Noun ;
+  rdfs:label "fiodh" .
+
+:fiodh.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fiodh" ;
+  :formOf :fiodh.n .
+  
+:fiodha.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fiodha" ;
+  :formOf :fiodh.n .
+
+
+:fìon.n 
+  a :Noun ;
+  rdfs:label "fìon" .
+
+:fìon.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fìon" ;
+  :formOf :fìon.n .
+  
+:fìona.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fìona" ;
+  :formOf :fìon.n .
+
+
+:fios.n 
+  a :Noun ;
+  rdfs:label "fios" .
+
+:fios.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fios" ;
+  :formOf :fios.n .
+  
+:fiosa.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fiosa" ;
+  :formOf :fios.n .
+
+
+:fìrinn.n 
+  a :Noun ;
+  rdfs:label "fìrinn" .
+
+:fìrinn.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "fìrinn" ;
+  :formOf :fìrinn.n .
+  
+:fìrinne.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "fìrinne" ;
+  :formOf :fìrinn.n .
+
+
+:fitheach.n 
+  a :Noun ;
+  rdfs:label "fitheach" .
+
+:fitheach.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fitheach" ;
+  :formOf :fitheach.n .
+  
+:fithich.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fithich" ;
+  :formOf :fitheach.n .
+
+:fithich.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "fithich" ;
+  :formOf :fitheach.n .       
+
+
+:fonn.n 
+  a :Noun ;
+  rdfs:label "fonn" .
+
+:fonn.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fonn" ;
+  :formOf :fonn.n .
+  
+:fuinn.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fuinn" ;
+  :formOf :fonn.n .
+
+:fuinn.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "fuinn" ;
+  :formOf :fonn.n .    
+
+
+:fraoch.n 
+  a :Noun ;
+  rdfs:label "fraoch" .
+
+:fraoch.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fraoch" ;
+  :formOf :fraoch.n .
+  
+:fraoich.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fraoich" ;
+  :formOf :fraoch.n .
+
+
+:fras.n 
+  a :Noun ;
+  rdfs:label "fras" .
+
+:fras.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "fras" ;
+  :formOf :fras.n .
+  
+:froise.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "froise" ;
+  :formOf :fras.n .
+
+:frasan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "frasan" ;
+  :formOf :fras.n .    
+
+
+:freagairt.n 
+  a :Noun ;
+  rdfs:label "freagairt" .
+
+:freagairt.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "freagairt" ;
+  :formOf :freagairt.n .
+  
+:freagairte.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "freagairte" ;
+  :formOf :freagairt.n .
+
+:freagairtean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "freagairtean" ;
+  :formOf :freagairt.n .    
+
+
+:fuachd.n 
+  a :Noun ;
+  rdfs:label "fuachd" .
+
+:fuachd.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fuachd" ;
+  :formOf :fuachd.n .
+  
+:fuachd.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fuachd" ;
+  :formOf :fuachd.n .
+
+
+:fuaim.n 
+  a :Noun ;
+  rdfs:label "fuaim" .
+
+:fuaim.n.nms 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fuaim" ;
+  :formOf :fuaim.n .
+  
+:fuaim.n.gms 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Masculine ; 
+  rdfs:label "fuaim" ;
+  :formOf :fuaim.n .  
+  
+:fuaimean.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "fuaimean" ;
+  :formOf :fuaim.n .     
+  
+  
+:fuaimreag.n 
+  a :Noun ;
+  rdfs:label "fuaimreag" .
+
+:fuaimreag.n.nfs 
+  :case :Nominative ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "fuaimreag" ;
+  :formOf :fuaimreag.n .
+  
+:fuaimreige.n.gfs 
+  :case :Genitive ;
+  :number :Singular ;
+  :gender :Feminine ; 
+  rdfs:label "fuaimreige" ;
+  :formOf :fuaimreag.n .
+
+:fuaimreagan.n.np 
+  :case :Nominative ;
+  :number :Plural ;
+  rdfs:label "fuaimreagan" ;
+  :formOf :fuaimreag.n .    
+  
+
+# G
+
+    
+     
+     
   

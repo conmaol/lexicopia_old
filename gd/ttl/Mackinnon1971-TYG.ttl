@@ -793,6 +793,129 @@
 
 # F    
 
+:facal.n 
+  :en "facal" ;
+  :hasForm :facal.n.nms , :facail.n.gms , :faclan.n.np .    
+  
+:fad.n 
+  :en "length" ;
+  :hasForm :fad.n.nms , :faid.n.gms .          
+
+:fairge.n 
+  :en "sea" , "ocean" ;
+  :hasForm :fairge.n.nfs , :fairge.n.gfs , :fairgeachan.n.np , :fairgeannan.n.np .
+  
+:falt.n 
+  :en "hair" ;
+  :hasForm :falt.n.nms , :fuilt.n.gms , :fuilt.n.np .  
+  
+:fang.n 
+  :en "fank" , "sheepfold" ;
+  :hasForm :fang.n.nms , :faing.n.gms , :fangan.n.np .  
+
+:faoileag.n 
+  :en "seagull" ;
+  :hasForm :faoileag.n.nfs , :faoileige.n.gfs , :faoileagan.n.np .
+  
+:farum.n 
+  :en "noise" , "sound" , "trampling" ;
+  :hasForm :farum.n.nms , :faruim.n.gms .  
+  
+:fasgadh.n 
+  :en "shelter" ;
+  :hasForm :fasgadh.n.nms , :fasgaidh.n.gms . 
+  
+:fear.n 
+  :en "man" , "one" ;
+  :hasForm :fear.n.nms , :fir.n.gms , :fir.n.np .
+  
+:fearg.n 
+  :en "anger" ;
+  :hasForm :fearg.n.nfs , :feirge.n.gfs .        
+  
+:feasgar.n 
+  :en "afternoon" , "evening" ;
+  :hasForm :feasgar.n.nms , :feasgair.n.gms , :feasgraichean.n.np .
+  
+:fèis.n 
+  :en "feast" ;
+  :hasForm :féis.n.nfs , :féise.n.gfs , :féisean.n.np .      
+
+:feòil.n 
+  :en "flesh" ;
+  :hasForm :feòil.n.nfs , :feòla.n.gfs .       
+
+:feur.n 
+  :en "grass" ;
+  :hasForm :feur.n.nms , :feòir.n.gms .
+  
+:fiacaill.n 
+  :en "tooth" ;
+  :hasForm :fiacaill.n.nfs , :fiacla.n.gfs , :fiaclan.n.np .
+
+:fiadh.n 
+  :en "deer" ;
+  :hasForm :fiadh.n.nms , :féidh.n.gms , :féidh.n.np .
+
+:fidheall.n 
+  :en "fiddle" ;
+  :hasForm :fidheall.n.nfs , :fìdhle.n.gfs , :fìdhlean.n.np .
+
+:fiodh.n 
+  :en "wood" ;
+  :hasForm :fiodh.n.nms , :fiodha.n.gms .
+
+:fìon.n 
+  :en "wine" ;
+  :hasForm :fìon.n.nms , :fìona.n.gms .
+
+:fios.n 
+  :en "knowledge" ;
+  :hasForm :fios.n.nms , :fiosa.n.gms .
+
+:fìrinn.n 
+  :en "truth" ;
+  :hasForm :fìrinn.n.nfs , :fìrinne.n.gfs .
+
+:fitheach.n 
+  :en "raven" ;
+  :hasForm :fitheach.n.nms , :fithich.n.gms , :fithich.n.np .
+
+:fonn.n 
+  :en "tune" , "chorus" ;
+  :hasForm :fonn.n.nms , :fuinn.n.gms , :fuinn.n.np .
+
+:fraoch.n 
+  :en "heather" ;
+  :hasForm :fraoch.n.nms , :fraoich.n.gms .  
+
+:fras.n 
+  :en "shower" ;
+  :hasForm :fras.n.nfs , :froise.n.gfs , :frasan.n.np .
+
+:freagairt.n 
+  :en "answer" ;
+  :hasForm :freagairt.n.nfs , :freagairte.n.gfs , :freagairtean.n.np .
+
+:fuachd.n 
+  :en "cold" ;
+  :hasForm :fuachd.n.nms , :fuachd.n.gms .  
+  
+:fuaim.n 
+  :en "sound" , "noise" ;
+  :hasForm :fuaim.n.nms , :fuaim.n.gms , :fuaimean.n.np .
+  
+:fuaimreag.n 
+  :en "vowel" ;
+  :hasForm :fuaimreag.n.nfs , :fuaimreige.n.gfs , :fuaimreagan.n.np .    
+
+
+# G  
+
+  
+  
+
     
-    
+  
+
                      
