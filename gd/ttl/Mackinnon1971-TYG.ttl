@@ -641,7 +641,158 @@
   :hasForm :cupa.n.nms , :cupa.n.gms , :cupannan.n.np , :cupaichean.n.np .
 
 
+# D
+
+:dad.n 
+  :en "anything" ;
+  :hasForm :dad.n.nms .
+
+:dàil.n 
+  :en "delay" ;
+  :hasForm :dàil.n.nfs , :dàlach.n.gfs , :dàlaichean.n.np .
+
+:dath.n 
+  :en "colour" ;
+  :hasForm :dath.n.nms , :datha.n.gms , :dathan.n.np .
+
+:dealbh.n 
+  :en "picture" ;
+  :hasForm :dealbh.n.nfs , :dealbha.n.gfs , :dealbhan.n.np .
   
+:deur.n 
+  :en "tear" , "teardrop" ;
+  :hasForm :deur.n.nms , :deòir.n.gms , :deòir.n.np .
   
+:diallaid.n 
+  :en "saddle" ;
+  :hasForm :diallaid.n.nfs , :diallaide.n.gfs , :diallaidean.n.np .
+  
+:dinneir.n 
+  :en "dinner" ;
+  :hasForm :dinneir.n.nfs , :dinnearach.n.gfs , :dinneirean.n.np , :dinnearaichean.n.np .    
+    
+:dòchas.n 
+  :en "hope" ;
+  :hasForm :dòchas.n.nms , :dòchais.n.gms , :dòchasan.n.np .
+
+:dòigh.n 
+  :en "method" , "way" ;
+  :hasForm :dòigh.n.nfs , :dòighe.n.gfs , :dòighean.n.np .
+
+:doimhneachd.n 
+  :en "depth" ;
+  :hasForm :doimhneachd.n.nfs , :doimhneachd.n.gfs , :doimhneachdan.n.np .
+  
+:dòrn.n 
+  :en "fist" ;
+  :hasForm :dòrn.n.nms , :dùirn.n.gms , :dùirn.n.np .  
+  
+:dorus.n 
+  :en "door" ;
+  :hasForm :dorus.n.nms , :doruis.n.gms , :dorsan.n.np .    
+  
+:dragh.n 
+  :en "trouble" ;
+  :hasForm :dragh.n.nms , :dragha.n.gms .      
+  
+:driamlach.n 
+  :en "fishing-line" ;
+  :hasForm :driamlach.n.nfs , :driamlaiche.n.gfs , :driamlaichean.n.np .
+  
+:drochaid.n 
+  :en "bridge" ;
+  :hasForm :drochaid.n.nfs , :drochaide.n.gfs , :drochaidean.n.np .
+  
+:druim.n 
+  :en "back" ;
+  :hasForm :druim.n.nms , :droma.n.gms , :dromannan.n.np .      
+    
+:duais.n 
+  :en "reward" , "prize" ;
+  :hasForm :duais.n.nfs , :duaise.n.gfs , :duaisean.n.np .  
+  
+:duilleach.n 
+  :en "folliage" ;
+  :hasForm :duilleach.n.nms , :duillich.n.gms .    
+        
+:duilleag.n 
+  :en "leaf" ;
+  :hasForm :duilleag.n.nfs , :duilleige.n.gfs , :duilleagan.n.np .          
+        
+:duine.n 
+  :en "man" , "anyone" ;
+  :hasForm :duine.n.nms , :duine.n.gms , :daoine.n.np .    
+  
+:dùrachd.n 
+  :en "good-will" , "sincerity" ;
+  :hasForm :dùrachd.n.nfs , :dùrachd.n.gfs .   
+  
+:dusan.n 
+  :en "dozen" ;
+  :hasForm :dusain.n.nms , :dusain.n.gms , :dusanan.n.np .  
+
+:dùthaich.n 
+  :en "country" ;
+  :hasForm :dùthaich.n.nfs , :dùthcha.n.gfs , :dùthchannan.n.np .    
+
+ 
+ # E
+ 
+:each.n 
+  :en "horse" ;
+  :hasForm :each.n.nms , :eich.n.gms , :eich.n.np .  
+  
+:eachdraidh.n 
+  :en "history" ;
+  :hasForm :eachdraidh.n.nfs , :eachdraidhe.n.gfs , :eachdraidhean.n.np .
+  
+:eagal.n 
+  :en "fear" ;
+  :hasForm :eagal.n.nms , :eagail.n.gms , :eagail.n.np .    
+  
+:eaglais.n 
+  :en "church" ;
+  :hasForm :eaglais.n.nfs , :eaglaise.n.gfs , :eaglaisean.n.np .
+  
+:eallach.n 
+  :en "burden" , "load" ;
+  :hasForm :eallach.n.nms , :eallaich.n.gms , :eallaichean.n.np .  
+  
+:earb.n 
+  :en "roedeer" ;
+  :hasForm :earb.n.nfs , :earba.n.gfs , :earban.n.np .
+  
+:earball.n 
+  :en "tail" ;
+  :hasForm :earball.n.nms , :earbaill.n.gms , :earbaill.n.np .  
+  
+:earrach.n 
+  :en "spring" ;
+  :hasForm :earrach.n.nms , :earraich.n.gms .  
+  
+:èideadh.n 
+  :en "dress" ;
+  :hasForm :éideadh.n.nms , :éididh.n.gms , :éididhean.n.np .  
+
+:eilean.n 
+  :en "island" ;
+  :hasForm :eilean.n.nms , :eilein.n.gms , :eileanan.n.np . 
+  
+:eòlas.n 
+  :en "knowledge" ;
+  :hasForm :eòlas.n.nms , :eòlais.n.gms .     
+  
+:eudail.n 
+  :en "dear" ;
+  :hasForm :eudail.n.nfs , :eudaile.n.gfs , :eudailean.n.np .
+  
+:eun.n 
+  :en "bird" ;
+  :hasForm :eun.n.nms , :eòin.n.gms , :eòin.n.np .    
+      
+
+# F    
 
     
+    
+                     
